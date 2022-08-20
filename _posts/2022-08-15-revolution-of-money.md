@@ -36,43 +36,34 @@ Bitcoin rise with crypto industry story<br>
 | 17 | [Practical Advice](#practical-advice) |
 | 18 | [Recapitulation](#recapitulation) |
 
-## Introduction [[ToC](#toc)]
-{: #introduction }
--- The following text (small eBook) will discuss money systems of the past, existing ones in present, but also future perspective and possibilities. In a futuristic context, the first word to mention is [**Bitcoin**](https://bitcoin.org/en/){:target="_blank"}, or short **BTC (₿)**. To explain it, there is a phrase saying: *"It's an Answer, and let's see now what the Question is"*. For better understanding we need first to grasp the history of money and current monetary systems.<br>
--- Discussion is lengthy as is the nature of topic, so it's divided into segments for easier understanding.
-Do not be discouraged if material seems foreign. Most people depending on level of familiarity with the subject will need to read it several times, since it is abundant with different information. Also best to spread it across multiple days, sleep over it, after which many questions will pop up. For those you have friends and forums to talk/chat with, as well as blogs, articles to read and YT channels / podcasts for listening. And the more you know the more you want to find out, so-called *'Down the Rabbit Hole'*. What is important to get is the idea and fundamentals, and how to approach it. Not everybody needs to know all technical details in order to use it. But for those how want to know it deeply some estimate is that minimum 100 hours of active learning is needed to dive into this thing. One comedian even said:<br>
-*"It's everything you don't understand about money combined with everything you don't understand about computers".*<br>
-But at the same time as you start to learn it, subsequently you will gain knowledge about economics, computer science, math, philosophy, political science, history, and even physics.<br>
-PS
-Work is still in progress and needs some final touch refactoring, don't mind eventual mistakes.
+## UVOD
+-- U tekstu koji slijedi govori se o novčanim sistemima prošlosti, postojećim u sadašnjosti, ali i budućoj perspektivi i mogućnostima. U futurističkom kontekstu, prva riječ koju treba spomenuti je **[Bitcoin](https://bitcoin-org.translate.goog/en/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp)** (Bitkoin), ili kratko **BTC (₿)**. Da bismo ga objasnili, postoji fraza koja kaže: *To je odgovor, a da vidimo sada šta je pitanje*. Za bolje razumijevanje moramo prvo da shvatimo istoriju novca i trenutne monetarne sisteme.
+<br>
+-- Diskusija je poduža kao i priroda tematike, pa je podijeljena na segmente radi lakšeg razumijevanja.
+Nemojte se obeshrabriti ako vam materijal izgleda stran. Većina ljudi, u zavisnosti od nivoa poznavanja predmeta, moraće da ga pročita nekoliko puta, pošto obiluje različitim informacijama. Takođe je najbolje da ga rasporedite na više dana, prespavate ga, nakon čega će se pojaviti mnoga pitanja. Za njih imate prijatelje i forume za razgovor, kao i blogove, članke i podkastove za čitanje/slušanje. I što više znate, više želite da saznate, takozvano *'Niz Zečju rupu'*. Ono što je važno je shvatiti ideju i koncept i kako mu pristupiti. Ne moraju svi da znaju sve tehničke detalje da bi ga koristili. Ali za one koji želje dublje da se upute u materiju  neka procjena je da je potrebno najmanje 100 sati aktivnog učenja da bi se uronilo u ovu stvar.
 
+## 1. Početak trgovine i novca
+-- Kada su ljudi pre oko 10.000 godina prešli sa lovaca-sakupljača na poljoprivredu i poljoprivredu, to je dovelo do specijalizacije u radu, veće produktivnosti i akumulacije viškova proizvoda. To je omogućilo stvaranje većih naselja, gradova i na kraju država. To je takođe značilo da su ljudi mogli da razmenjuju (barteruju) višak stvari koje su nabavili ili napravili, na primer žitarice ili životinje, ali nije bilo lako odrediti vrednost svake stavke niti je podeliti. Trebao im je sistem koji bi olakšao trgovinu. Zato je novac izmišljen i kako je nastao.<br>
+-- U ranim danima korišćene su različite stvari kao što su školjke posebnog izgleda, jedinstveno kamenje, kasnije metali i metalni novčići. Ako se neko pita zašto su izabrani ovi materijali, najbolje je prvo da definišemo karakteristike novca ([Projekat novca]([http://monei.visualcapitalist.com/infographic-the-properties-of-monei/](https://money-visualcapitalist-com.translate.goog/infographic-the-properties-of-money/?_x_tr_sch=http&_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp))) jer je donekle apstraktni koncept:
+| № | FUNCTION | Opis |
+| - | ------------------ | -------------------------------------------------- |
+| 1 | Medijum razmene | prihvaćen način plaćanja za robu i usluge |
+| 2 | Računska jedinica | mera vrednosti |
+| 3 | Prodavnica vrednosti | zadržati vrednost tokom dužeg vremenskog perioda |
 
-## 1. Beginning of trade and money [[ToC](#toc)]
-{: #beginning-of-trade-and-money }
--- When people switched from hunter-gatherers to agriculture and farming around 10 000 years ago, it led to specialization in work, higher productivity and accumulation of surplus products. This enabled creation of bigger settlements, cities and eventually states. It also meant people could exchange (barter) excess things they got or made, for example grains or animals but it was not easy to determine the value of each item nor to split it. Also bigger groups of people meant you need to trade with stranges and some base for trust was needed ([Dunbar's number](https://www.bbc.com/future/article/20191001-dunbars-number-why-we-can-only-maintain-150-relationships) of 150 in close comunity). They needed a system which would made trade easier. That's why money was invented and how it came into being.<br>
--- In early days different things were used like special looking seashells, rare stones, etc. Interesting story is about [African trade glass beads](https://www.africanodyssey.co.uk/blog/a-brief-history-of-glass-beads-in-africa) ([hyper-inflation misuse for slave trade](https://www.afrikapital.org/p/akori-beads-hyper-inflation-and-ancient)) and another about large stones of [Yap people](https://www.bbc.com/travel/article/20180502-the-tiny-island-with-human-sized-money). Later came metals and metal coins, from bronze, silver or gold. If one is wondering why these materials were chosen it's best first to define features of money ([The money Project](http://money.visualcapitalist.com/infographic-the-properties-of-money/)) since it is an abstract concept:
+Primeri funkcija:<br>
+1-Društvo koristi određenu stavku kao što je biser za trgovinu za drugu robu<br>
+2-Cene stanova u Japanu se mogu uporediti koristeći Jen kao obračunsku jedinicu<br>
+3-Unca zlata mogla je kupiti togu u rimsko doba, ali i danas može kupiti lepo odelo<br>
 
-| № | FUNCTION           | Description                                       |
-| - | ------------------ | ------------------------------------------------- |
-| 1 | Medium of Exchange | accepted method of payment for goods and services |
-| 2 | Unit of Account    | measure of value                                  |
-| 3 | Store of Value     | to hold value for long period of time             |
-{: .table-style}
-
-Examples of Function:<br>
-1-Society uses certain item like pearl to trade for other goods<br>
-2-Housing prices in Japan can be compared using Jen as a unit of account<br>
-3-An ounce of gold could buy toga in Roman times, yet it can still buy a nice suit today<br>
-
-| № | PROPERTIES    | Description                                                      |
-| - | ------------- | ---------------------------------------------------------------- |
-| 1 | Durable       | able to withstand repeated use                                   |
-| 2 | Divisible     | can divide to smaller units                                      |
-| 3 | Portable      | easily carried and transported                                   |
-| 4 | Acceptable    | universally recognizable                                         |
-| 5 | Limited supply| being rare (scarcity) keeps stable value                         |
-| 6 | Uniform       | units capable of mutual substitution, interchangeable (fungible) |
-{: .table-style}
+| № | PROPERTIES     | Opis                                              |
+| - | -------------- | --------------------------------------------------|
+| 1 | Durable        | sposoban da izdrži višekratnu upotrebu            |
+| 2 | Deljivo        | može podeliti na manje jedinice                   |
+| 3 | Portable       | lako se prenosi i transportuje                    |
+| 4 | Prihvatljivo   | univerzalno prepoznatljiv                         |
+| 5 | Ograničena kol.| rijetkost (oskudica) održava vrijednost stabilnom |
+| 6 | Uniforma       | jedinice sposobne za međusobnu zamjenu, zamjenljive [(fungibilno)](https://mises.org/vire/vhi-fungibiliti-important-understanding-monei-and-cripto) |
 
 **Money** is language, a linguistic and social construct, and means of communicating value to each other. It is also collective and somewhat fictional story about value, with consent of majority. So it is not inherently valuable, we (subjectively) decide to give it merit. Human labour is still usually measured by working hours, so Money is also [Time, the most valuable currency](https://drtownsend.com/time-valuable-currency/) (one second lost cannot be bought back).
 
