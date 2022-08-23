@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
-baseurl: '/sr-latn'
+baseurl: '/'
 
 excerpt_separator: <!-- end excerpt -->
 
@@ -31,7 +31,7 @@ description: >-                        # used by seo meta and the atom feed
  Blog about Technology, Finance and Society; Bitcoin & Crypto
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://borisdj.net'
+url: 'https://borisdj.net/sr-latn'
 
 github:
   username: borisdj                     # change to your github username
