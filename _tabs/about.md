@@ -15,3 +15,5 @@ Dizajner Softvera i strastveni Programer<br>
 Blokčejn, Bitkoin, financijski i monetarni sustavi;<br>
 Samoodrživost, elektrifikacija transporta, kolonizacija svemira...<br>
 Inženjerski zadaci i izazovi / prilike.
+
+<img src="https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/photo.jpg" width="400" height="400" />
