@@ -1,8 +1,11 @@
 ---
-title: About
+title: O autoru
 icon: fas fa-info-circle
 order: 4
 ---
+
+autor **Boris Đurđević**<br>
+(vođen radoznalošću)<br>
 
 'Svaki Problem ima neko Rješenje'<br>
 Dizajner Softvera i strastveni Programer<br>
