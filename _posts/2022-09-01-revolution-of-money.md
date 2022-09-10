@@ -8,10 +8,11 @@ image: "/assets/images/evolution-of-money.jpg"
 excerpt: "Bitcoin rise with crypto industry story"
 ---
 
-(*Novac i platni sistem sutra[njice*)<br>
+(*Novac i platni sistem sutrašnjice*)<br>
 Uspon **Bitcoin-a** sa pričom kripto industriji
 
-LANG(jezik) version: [Global](https://infopedia.io/revolution-of-money) (ENG) | Local (SRB/BIH/HRV)
+LANG(jezik):<br>
+[Global](https://infopedia.io/revolution-of-money) (ENG) / Local (SRB/BIH/HRV)
 
 ![/evolution-of-money](https://raw.githubusercontent.com/borisdj/borisdj.github.io/master/assets/images/revolution-of-money/evolution-of-money.jpg)
 
