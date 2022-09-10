@@ -25,8 +25,8 @@ LANG(jezik):<br>
 | TOPIC                                 |
 | ------------------------------------- |
 | [Uvod](#introduction) |
-| [**1. Monetary Chronicles**](#monetary-chronicles) |
-| [1.1 Beginning of Money](#beginning-of-money) |
+| [**1. Monetarne Hronike**](#monetary-chronicles) |
+| [1.1 Početak Novca](#beginning-of-money) |
 | [1.2 Recent History](#recent-history) |
 | [1.3 Modern age](#modern-age) |
 | [1.4 Sum it so far](#sum-it-so-far) |
@@ -56,8 +56,10 @@ LANG(jezik):<br>
 -- Diskusija je poduža kao i priroda tematike, pa je podijeljena na segmente radi lakšeg razumijevanja.
 Nemojte se obeshrabriti ako vam materijal izgleda stran. Većina ljudi, u zavisnosti od nivoa poznavanja predmeta, moraće da ga pročita nekoliko puta, pošto obiluje različitim informacijama. Takođe je najbolje da ga rasporedite na više dana, prespavate ga, nakon čega će se pojaviti mnoga pitanja. Za njih imate prijatelje i forume za razgovor, kao i blogove, članke i podkastove za čitanje/slušanje. I što više znate, više želite da saznate, takozvano *'Niz Zečju rupu'*. Ono što je važno je shvatiti ideju i koncept i kako mu pristupiti. Ne moraju svi da znaju sve tehničke detalje da bi ga koristili. Ali za one koji želje dublje da se upute u materiju  neka procjena je da je potrebno najmanje 100 sati aktivnog učenja da bi se uronilo u ovu stvar.
 
-## 1.1 Početak trgovine i novca [[ToC](#toc)]
-{: #beginning-of-trade-and-money }
+## <ins>1 Monetarne hronike</ins>
+{: #monetary-chronicles }
+### 1.1 Početak novca [[C](#toc)]
+{: #beginning-of-money }
 -- Kada su ljudi pre oko 10.000 godina prešli sa lovaca-sakupljača na poljoprivredu i poljoprivredu, to je dovelo do specijalizacije u radu, veće produktivnosti i akumulacije viškova proizvoda. To je omogućilo stvaranje većih naselja, gradova i na kraju država. To je takođe značilo da su ljudi mogli da razmenjuju (barteruju) višak stvari koje su nabavili ili napravili, na primer žitarice ili životinje, ali nije bilo lako odrediti vrednost svake stavke niti je podeliti. Trebao im je sistem koji bi olakšao trgovinu. Zato je novac izmišljen i kako je nastao.<br>
 -- U ranim danima korišćene su različite stvari kao što su školjke posebnog izgleda, jedinstveno kamenje, kasnije metali i metalni novčići. Ako se neko pita zašto su izabrani ovi materijali, najbolje je prvo da definišemo karakteristike novca ([Projekat novca](https://money-visualcapitalist-com.translate.goog/infographic-the-properties-of-money/?_x_tr_sch=http&_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp)) jer je donekle apstraktni koncept:
 | № | FUNCTION | Opis |
