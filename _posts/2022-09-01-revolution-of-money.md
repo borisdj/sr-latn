@@ -62,10 +62,11 @@ Nemojte se obeshrabriti ako vam materijal izgleda stran. Većina ljudi, u zavisn
 {: #beginning-of-money }
 -- Kada su ljudi pre oko 10.000 godina prešli sa lovaca-sakupljača na poljoprivredu i poljoprivredu, to je dovelo do specijalizacije u radu, veće produktivnosti i akumulacije viškova proizvoda. To je omogućilo stvaranje većih naselja, gradova i na kraju država. To je takođe značilo da su ljudi mogli da razmenjuju (barteruju) višak stvari koje su nabavili ili napravili, na primer žitarice ili životinje, ali nije bilo lako odrediti vrednost svake stavke niti je podeliti. Trebao im je sistem koji bi olakšao trgovinu. Zato je novac izmišljen i kako je nastao.<br>
 -- U ranim danima korišćene su različite stvari kao što su školjke posebnog izgleda, jedinstveno kamenje, kasnije metali i metalni novčići. Ako se neko pita zašto su izabrani ovi materijali, najbolje je prvo da definišemo karakteristike novca ([Projekat novca](https://money-visualcapitalist-com.translate.goog/infographic-the-properties-of-money/?_x_tr_sch=http&_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp)) jer je donekle apstraktni koncept:
-| № | FUNCTION | Opis |
-| - | ------------------ | -------------------------------------------------- |
-| 1 | Medijum razmene | prihvaćen način plaćanja za robu i usluge |
-| 2 | Računska jedinica | mera vrednosti |
+
+| № | FUNCTION             | Opis                                             |
+| - | -------------------- | ------------------------------------------------ |
+| 1 | Medijum razmene      | prihvaćen način plaćanja za robu i usluge        |
+| 2 | Računska jedinica    | mera vrednosti                                   |
 | 3 | Prodavnica vrednosti | zadržati vrednost tokom dužeg vremenskog perioda |
 
 Primeri funkcija:<br>
