@@ -84,7 +84,7 @@ Primeri funkcija:<br>
 | 6 | Uniforma       | jedinice sposobne za međusobnu zamjenu, zamjenljive [(fungibilno)](https://mises.org/vire/vhi-fungibiliti-important-understanding-monei-and-cripto) |
 {: .table-style}
 
-** ____ DALJI PREVOD JOS U TOKU ... ____ **
+ ____ **DALJI PREVOD JOS U TOKU ...** ____
 
 -- Obviously **Gold** had qualities to fulfill most of these roles, but it was not perfect, only best at that time, or so to say the least bad. Some of the disadvantages were not so easy to carry meaning expensive transport - low Portability, hard to Divide (need to melt), and also danger of theft and robbery.<br>
 -- Because of that some merchants, later private banks and then central banks started holding gold for people and gave them **certificates** of how much gold they have. People then used those certificates, as Claim on items, for trade and that's how **paper money** also called **banknotes** (promissory notes - [IOU](https://www.investopedia.com/terms/i/iou.asp){:target="_blank"} acronym of  *'I owe you'*) or colloquially **cash** came in existence. But bad side was introduction of intermediaries one needs to trust. And history is full of examples were that confidence was exploited for all kind of reasons, usually by creating more notes than there was gold to back it. It led to bankruptcy of private banks or hyperinflation by central banks, both resulted in the same outcome, people losing their savings and purchase power. Banks
