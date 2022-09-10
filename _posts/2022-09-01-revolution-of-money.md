@@ -1,5 +1,5 @@
 ---
-title: "(r)Evolution of Money"
+title: "(r)Evolucija Novca"
 date: 2022-09-01T00:00:00-00:00
 categories: [fintech]
 tags: [finance, crypto]
