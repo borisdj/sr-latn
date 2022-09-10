@@ -10,11 +10,11 @@ layout:
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
-  home: Home
-  categories: Categories
-  tags: Tags
-  archives: Archives
-  about: About
+  home: Početna
+  categories: Kategorije
+  tags: Tagovi
+  archives: Arhiva
+  about: O autoru
 
 # the text displayed in the search bar & search results
 search:
