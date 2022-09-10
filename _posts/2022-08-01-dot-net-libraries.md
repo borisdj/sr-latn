@@ -1,5 +1,5 @@
 ---
-title: ".Net libraries"
+title: ".Net biblioteke"
 date: 2022-08-01T00:00:00-00:00
 categories: [dev]
 tags: [.net, libs]
@@ -8,7 +8,7 @@ image: "/demo/assets/images/dot-net-libraries.jpg"
 excerpt: "Open source authored .Net libraries"
 ---
 
-**Open source authored .Net libraries:**
+**Otvoreni kod (Open source) kreirane .Net biblioteke:**
 
 | №  | .Net library             | Description                                              |
 | -  | ------------------------ | -------------------------------------------------------- |
