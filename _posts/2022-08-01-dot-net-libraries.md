@@ -12,7 +12,7 @@ excerpt: "Open source authored .Net libraries"
 
 | №  | .Net library             | Description                                              |
 | -  | ------------------------ | -------------------------------------------------------- |
-| 4  | [EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions) | Entity Framework Core Bulk CRUD Ops for 4 mayor SQL DBs |
-| 3  | [FixedWidthParserWriter](https://github.com/borisdj/FixedWidthParserWriter) | Reading & Writing fixed-width/flat data files |
-| 2  | [CsCodeGenerator](https://github.com/borisdj/CsCodeGenerator) | C# code generation based on Classes and elements |
-| 1  | [CsCodeExample](https://github.com/borisdj/CsCodeExample) | Examples of c# code in form of a simple tutorial |
+| 4  | [EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions) | Entity Framework Core Bulk CRUD Ops za 4 glavne SQL baze |
+| 3  | [FixedWidthParserWriter](https://github.com/borisdj/FixedWidthParserWriter) | Čitanje i pisanje datoteka s podacima fiksne širine |
+| 2  | [CsCodeGenerator](https://github.com/borisdj/CsCodeGenerator) | C# generisanje koda bazirano na klasama i elementima |
+| 1  | [CsCodeExample](https://github.com/borisdj/CsCodeExample) | Primjeri c# koda u vidu jednostavnog tutorijala |
