@@ -14,7 +14,7 @@ Uspon **Bitcoin-a** sa pričom kripto industriji
 LANG(jezik):<br>
 [Global](https://infopedia.io/revolution-of-money) (ENG) / Local (SRB/BIH/HRV)
 
-![/evolution-of-money](https://raw.githubusercontent.com/borisdj/borisdj.github.io/master/assets/images/revolution-of-money/evolution-of-money.jpg)
+![evolution-of-money](https://raw.githubusercontent.com/borisdj/borisdj.github.io/master/assets/images/revolution-of-money/evolution-of-money.jpg)
 
 <center>QR Link</center>
 ![QR Link](https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=https://infopedia.io/revolution-of-money/)
