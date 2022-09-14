@@ -9,7 +9,7 @@ autor **Boris Đurđević**<br>
 
 'Svaki Problem ima neko Rješenje'<br>
 Dizajner Softvera i strastveni Programer<br>
-(OpenSource Code -  Otvoreni kod, C#, .Net, EF-Core, Blazor)
+(OpenSource Code -  Otvoreni kod, C#, .Net, EF-Core, Blazor, Google Sheets - tabele)
 
 -- Interesovanja:<br>
 Blokčejn, Bitkoin, financijski i monetarni sustavi;<br>
