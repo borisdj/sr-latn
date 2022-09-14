@@ -12,7 +12,7 @@ excerpt: "Bitcoin rise with crypto industry story"
 Uspon **Bitcoin-a** sa pričom kripto industriji
 
 LANG(jezik):<br>
-[Global](https://infopedia.io/revolution-of-money) (ENG) / Local (SRB/BIH/HRV)
+[Global](https://infopedia.io/revolution-of-money) (ENG) / Local (SR-Latn-BA)
 
 ![evolution-of-money](https://raw.githubusercontent.com/borisdj/borisdj.github.io/master/assets/images/revolution-of-money/evolution-of-money.jpg)
 
