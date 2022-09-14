@@ -11,6 +11,8 @@ excerpt: "Bitcoin rise with crypto industry story"
 (*Novac i platni sistem sutrašnjice*)<br>
 Uspon **Bitcoin-a** sa pričom kripto industriji
 
+Versions: [*Pdf*](https://drive.google.com/file/d/1LBisCmUagkHRkRq3gD-cPm8rPFZlp4HY/view){:target="_blank"}
+
 LANG(jezik):<br>
 [Global](https://infopedia.io/revolution-of-money) (ENG) / Local (SR-Latn-BA)
 
