@@ -1,0 +1,83 @@
+# The layout text of site
+
+# ----- Commons label -----
+
+layout:
+  post: Objava
+  category: Kategorija
+  tag: Tag
+
+# Meni
+tabs:
+  # format: <filename_without_extension>: <value>
+  home: Početna
+  categories: Kategorije
+  tags: Tagovi
+  archives: Arhiva
+  about: O autoru
+  lang: LANG(Global)
+
+# the text displayed in the search bar & search results
+search:
+  hint: pretraži
+  cancel: Otkaži
+  no_results: Nije pronađeno!
+
+panel:
+  lastmod: Nedavno ažurirano
+  trending_tags: Aktuelni tagovi
+  toc: Sadržaj
+
+copyright:
+  # Shown at the bottom of the post
+  license:
+    template: Ovaj post licenciran pod :LICENSE_NAME od strane autora.
+    name: CC BY 4.0
+    link: https://creativecommons.org/licenses/by/4.0/
+
+  # Displayed in the footer
+  brief: Zadržana neka prava.
+  verbose: >-
+    Except where otherwise noted, the blog posts on this site are licensed
+    under the Creative Commons Attribution 4.0 International (CC BY 4.0) License by the author.
+meta: Powered by :PLATFORM sa :THEME theme.
+
+not_found:
+  statment: URL ne postoji
+
+notification:
+  update_found: Dostupna je nova verzija sadržaja.
+  update: Ažuriraj
+
+# ----- Labele povezane sa objavama -----
+
+post:
+  written_by: Od
+  posted: Objavljeno
+  updated: Ažurirano
+  words: riječi
+  pageview_measure: pregleda
+  read_time:
+    unit: min
+    prompt: čitanja
+  relate_posts: Vidi još
+  share: Podijeli
+  button:
+    next: Novije
+    previous: Starije
+    copy_code:
+      succeed: Kopirano!
+    share_link:
+      title: Kopiraj link
+      succeed: Link uspješno kopiran!
+  # pinned prompt of posts list on homepage
+  pin_prompt: Pinovano
+
+# stranice kategorija
+categories:
+  category_measure:
+    singular: kategorija
+    plural: kategorije
+  post_measure:
+    singular: objava
+    plural: objave
