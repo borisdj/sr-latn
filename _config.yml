@@ -25,10 +25,10 @@ timezone: Europe/Vienna
 
 title: Infopedia                       # the main title
 
-tagline: Tech & Fin and Social blog    # it will display as the sub-title
+tagline: Teh & Fin i Društveni blog @borisdj     # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
- Blog o Tehnologijama, Finansijama i Društvu; @borisdj
+ Blog o Tehnologijama, Finansijama i Društvu; Bitcoin & Crypto
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://borisdj.net'
