@@ -15,6 +15,7 @@ tabs:
   tags: Tagovi
   archives: Arhiva
   about: O autoru
+  lang: LANG(Global)
 
 # the text displayed in the search bar & search results
 search:
