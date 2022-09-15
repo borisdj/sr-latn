@@ -20,7 +20,7 @@ LANG(jezik):<br>
 
 <center>QR Link</center>
 ![QR Link](https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=https://infopedia.io/revolution-of-money/)
-</center>
+
 **Sadržaj [C]**
 {: #toc }
 
