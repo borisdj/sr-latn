@@ -21,12 +21,11 @@ LANG(jezik):<br>
 <center>QR Link</center>
 ![QR Link](https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=https://infopedia.io/revolution-of-money/)
 </center>
-**Table Of Contents [C]**
+**Sadržaj [C]**
 {: #toc }
 
-| TOPIC                                 |
-| ------------------------------------- |
 | [Uvod](#introduction) |
+| ------------------------------------- |
 | [**1. Monetarne Hronike**](#monetary-chronicles) |
 | [1.1 Početak Novca](#beginning-of-money) |
 | [1.2 Recent History](#recent-history) |
