@@ -47,7 +47,7 @@ LANG(jezik):<br>
 | [**5. Looking Forward**](#looking-forward) |
 | [5.1 Future Development](#future-development) |
 | [5.2 What lies ahead](#what-lies-ahead) |
-| [5.3 Practical Advice](#practical-advice) |
+| [5.3 Practical Approach](#practical-approach) |
 | [5.4 Recapitulation](#recapitulation) |
 
 ## Uvod [[ToC](#toc)]
