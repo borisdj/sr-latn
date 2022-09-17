@@ -52,41 +52,53 @@ LANG(jezik):<br>
 
 ## Uvod [[ToC](#toc)]
 {: #introduction }
--- U tekstu koji slijedi govori se o novčanim sistemima prošlosti, postojećim u sadašnjosti, ali i budućoj perspektivi i mogućnostima. U futurističkom kontekstu, prva riječ koju treba spomenuti je **[Bitcoin](https://bitcoin-org.translate.goog/en/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp)** (Bitkoin), ili kratko **BTC (₿)**. Da bismo ga objasnili, postoji fraza koja kaže: *To je odgovor, a da vidimo sada šta je pitanje*. Za bolje razumijevanje moramo prvo da shvatimo istoriju novca i trenutne monetarne sisteme.
-<br>
+-- U tekstu koji slijedi govori se o novčanim sistemima prošlosti, postojećim u sadašnjosti, ali i budućoj perspektivi i mogućnostima. U futurističkom kontekstu, prva riječ koju treba spomenuti je **[Bitcoin](https://bitcoin-org.translate.goog/en/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp)** (Bitkoin), ili kratko **BTC (₿)**. Da bismo ga objasnili, postoji fraza koja kaže: *To je odgovor, a da vidimo sada šta je pitanje*. Za bolje razumijevanje moramo prvo da shvatimo istoriju novca i trenutne monetarne sisteme.<br>
 -- Diskusija je poduža kao i priroda tematike, pa je podijeljena na segmente radi lakšeg razumijevanja.
-Nemojte se obeshrabriti ako vam materijal izgleda stran. Većina ljudi, u zavisnosti od nivoa poznavanja predmeta, moraće da ga pročita nekoliko puta, pošto obiluje različitim informacijama. Takođe je najbolje da ga rasporedite na više dana, prespavate ga, nakon čega će se pojaviti mnoga pitanja. Za njih imate prijatelje i forume za razgovor, kao i blogove, članke i podkastove za čitanje/slušanje. I što više znate, više želite da saznate, takozvano *'Niz Zečju rupu'*. Ono što je važno je shvatiti ideju i koncept i kako mu pristupiti. Ne moraju svi da znaju sve tehničke detalje da bi ga koristili. Ali za one koji želje dublje da se upute u materiju  neka procjena je da je potrebno najmanje 100 sati aktivnog učenja da bi se uronilo u ovu stvar.
+Nemojte se obeshrabriti ako vam materijal izgleda stran. Većina ljudi, u zavisnosti od nivoa poznavanja materije, trebaće da ga pročita nekoliko puta, pošto obiluje različitim informacijama. Takođe najbolje je da čitanje rasporedite na više dana, prespavate ga, nakon čega će se pojaviti mnoga pitanja. Za njih imate prijatelje i forume za razgovor, kao i blogove, članke i YT kanale / podkaste za slušanje. Takođe možete ostaviti komentar ili pitanje na dnu. I što više znate, više želite da saznate, takozvano *'Pad niz (Bitcoin) Zečju rupu'* (metafora za avanturu u nepoznato iz *Alise u zemlji čuda*). To će vas natjerati na razmišljanje, ali istovremeno i proširiti vaše vidike.<br> 
+-- Ono što je važno je shvatiti ideju i osnove, i kako im pristupiti. Ne moraju svi da znaju sve tehničke detalje da bi ga koristili. Ali za one koji želje dublje da se upute u materiju neka procjena je da je potrebno najmanje [100 sati učenja](https://crypto-telegraphs.com/2022/06/22/100-hours-of-study-needed-to-understand -how-bitcoin-works/){:target="_blank"} ([100 sati učenja](https://hannahdo.medium.com/a-summary-from-my-100-hours-of-learning- about-bitcoin-9d6da7b8feea){:target="_blank"}) da bi se uronilo u ovu stvar. Jedan komičar je čak rekao:<br>
+*"To je sve što ne razumijete o novcu u kombinaciji sa svime što ne razumijete o računarima".*<br>
+Ali kako počnete da učite, posljedično ćete steći znanje o ekonomiji, informatici, matematici, filozofiji, politici, istoriji, pa čak i fizici.<br>
+PS<br>
+Rad je još uvijek u toku i treba nešto konačnog refaktoriranja, nemojte zamjeriti ako naiđete na neke preostale greške.
 
 ## <ins>1 Monetarne hronike</ins>
 {: #monetary-chronicles }
 ### 1.1 Početak novca [[C](#toc)]
 {: #beginning-of-money }
--- Kada su ljudi pre oko 10.000 godina prešli sa lovaca-sakupljača na poljoprivredu i poljoprivredu, to je dovelo do specijalizacije u radu, veće produktivnosti i akumulacije viškova proizvoda. To je omogućilo stvaranje većih naselja, gradova i na kraju država. To je takođe značilo da su ljudi mogli da razmenjuju (barteruju) višak stvari koje su nabavili ili napravili, na primer žitarice ili životinje, ali nije bilo lako odrediti vrednost svake stavke niti je podeliti. Trebao im je sistem koji bi olakšao trgovinu. Zato je novac izmišljen i kako je nastao.<br>
--- U ranim danima korišćene su različite stvari kao što su školjke posebnog izgleda, jedinstveno kamenje, kasnije metali i metalni novčići. Ako se neko pita zašto su izabrani ovi materijali, najbolje je prvo da definišemo karakteristike novca ([Projekat novca](https://money-visualcapitalist-com.translate.goog/infographic-the-properties-of-money/?_x_tr_sch=http&_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp)) jer je donekle apstraktni koncept:
+-- Kada su ljudi prešli sa lovaca-sakupljača na poljoprivredu i stočarstvo prije otprilike 10.000 godina, to je dovelo do specijalizacije u radu, veće produktivnosti i akumulacije viškova proizvoda. Ovo je omogućilo stvaranje većih naselja, gradova i na kraju država. To je takođe značilo da su ljudi mogli razmjenjivati (trampa) višak stvari koje su nabavili ili napravili, na primjer žitarice ili životinje, ali nije bilo lako odrediti vrijednost svakog predmeta niti ga podijeliti. Veće zajednice značile su da morate trgovati sa strancima i bila je potrebna neka osnova za povjerenje ([Dunbarov broj](https://www.bbc.com/future/article/20191001-dunbars-number-why-we-can-only-maintain-150-relationships){:target="_blank"} - može se održavati samo oko 150 bliskih veza). Trebao im je sistem koji bi olakšao trgovinu. Zato je novac izmišljen i kako je nastao.<br>
+-- U ranim danima koristile su se brojne stvari kao što su školjke posebnog izgleda, rijetko kamenje, itd. Postoji zanimljiva priča o [afričkoj trgovini staklenim perlama](https://www.africanodyssey.co.uk/blog/a-brief-history-of-glass-beads-in-africa){:target="_blank"} ([zloupotreba hiperinflacije za trgovinu robljem](https://www.afrikapital.org/p/akori-beads-hyper-inflation-and-ancient){:target="_blank"}) i još jedna o velikom kamenju [Jap naroda](https://www.bbc.com/travel/article/20180502-the-tiny-island-with-human-sized-money){:target="_blank"}. Kamenje je bio primitivni kreditni sistem. Kasnije su došli metali i metalne kovanice, od bronze, srebra ili zlata. Ako se neko pita zašto su ovi materijali odabrani, najbolje je prvo definisati osobine novca ([Projekat novca](http://money.visualcapitalist.com/infographic-the-properties-of-money/){:target= "_blank"}) pošto je apstraktan koncept:
 
-| № | FUNCTION             | Opis                                             |
+| № | FUNKCIJA             | Opis                                             |
 | - | -------------------- | ------------------------------------------------ |
-| 1 | Medijum razmene      | prihvaćen način plaćanja za robu i usluge        |
-| 2 | Računska jedinica    | mera vrednosti                                   |
+| 1 | Sredstvo razmene     | prihvaćeni način plaćanja za robu i usluge       |
+| 2 | Obračunska jedinica  | mjera vrijednosti                                |
 | 3 | Prodavnica vrednosti | zadržati vrednost tokom dužeg vremenskog perioda |
 
-Primeri funkcija:<br>
-1-Društvo koristi određenu stavku kao što je biser za trgovinu za drugu robu<br>
-2-Cene stanova u Japanu se mogu uporediti koristeći Jen kao obračunsku jedinicu<br>
-3-Unca zlata mogla je kupiti togu u rimsko doba, ali i danas može kupiti lepo odelo<br>
+Primjeri funkcija:<br>
+1-Društvo koristi određenue predmete kao što je biser za razmjenu za drugu robu<br>
+2-Cijene stanova u Japanu se mogu porediti koristeći Jen kao obračunsku jedinicu<br>
+3-Unca zlata mogla je kupiti togu u rimsko doba, ali i danas može kupiti lijepo odijelo<br>
 
-| № | PROPERTIES     | Opis                                              |
-| - | -------------- | --------------------------------------------------|
-| 1 | Durable        | sposoban da izdrži višekratnu upotrebu            |
-| 2 | Deljivo        | može podeliti na manje jedinice                   |
-| 3 | Portable       | lako se prenosi i transportuje                    |
-| 4 | Prihvatljivo   | univerzalno prepoznatljiv                         |
+| № | KARAKTERISTIKE | Opis                                               |
+| - | -------------- | ---------------------------------------------------|
+| 1 | Izdržljiv      | sposoban da izdrži višekratnu upotrebu             |
+| 2 | Djeljiv        | može podeliti na manje jedinice                    |
+| 3 | Prijenosan     | lako se prenosi i transportuje                     |
+| 4 | Prihvatljiv    | univerzalno prepoznatljiv                          |
+| 5 | Ograničena kol.| rijetkost (oskudica) održava stabilnu vrijednost   |
+| 6 | Uniforman      | jedinice sposobne za međusobnu zamjenu (zamjenjiv) |
+
+| № | KARAKTERISTIKE | Opis |
+| - | -------------- | -------------------------------------------------- --------------|
+| 1 | Izdržljiv | sposoban da izdrži višekratnu upotrebu |
+| 2 | Deljivo | može podijeliti na manje jedinice |
+| 3 | Prijenosni | lako se prenosi i transportuje |
+| 4 | Prihvatljivo | univerzalno prepoznatljiv |
 | 5 | Ograničena kol.| rijetkost (oskudica) održava vrijednost stabilnom |
-| 6 | Uniforma       | jedinice sposobne za međusobnu zamjenu, zamjenljive [(fungibilno)](https://mises.org/vire/vhi-fungibiliti-important-understanding-monei-and-cripto) |
-{: .table-style}
+| 6 | Uniforma | jedinice sposobne za međusobnu zamjenu, zamjenljive(fungibilno) |
 
  ____ **DALJI PREVOD JOS U TOKU ...** ____
-
+ 
 -- Obviously **Gold** had qualities to fulfill most of these roles, but it is not perfect, only best at that time, or so to say the least bad. Some of the disadvantages were: not so easy to carry - expensive transport (low Portability), hard to Divide (need to melt), and danger of theft and robbery.<br>
 -- Because of that some merchants, later private banks and then central banks started holding gold for people and gave them **certificates** of how much gold they have. People then used those certificates, as Claim on items, for trade and that's how **paper money** also called **banknotes** (promissory notes - [IOU](https://www.investopedia.com/terms/i/iou.asp){:target="_blank"} acronym of  *'I owe you'*) or colloquially **cash** came in existence. But bad side was introduction of intermediaries one needs to trust. And history is full of examples were that confidence was exploited for all kind of reasons, usually by creating more notes than there was gold to back it. It led to bankruptcy of private banks or hyperinflation by central banks, both resulted in the same outcome, people losing their savings and purchase power. Banks
 can be with Full reserves or with Fractional reserves. One of the first central banks was [Bank of Amsterdam](https://en.wikipedia.org/wiki/Bank_of_Amsterdam){:target="_blank"} (*'Amsterdamsche Wisselbank'*) that was established back in 1609. Eventually most countries seized full monetary control and further development of money came to a halt.<br>
@@ -95,7 +107,7 @@ can be with Full reserves or with Fractional reserves. One of the first central 
 -- According to [Information Theory of Money](https://medium.com/the-bitcoin-times/information-theory-of-money-36247aebdfe1){:target="_blank"} prices and the market are intricately intertwined. Prices reflect information while Money is the measuring stick, and Information is Decentralized. So centralized systems have an unsolvable data problem because of lack of all the necessary knowledge entire time, which results in huge capital misallocation.
 
 [YT - Finance: The History of Money](https://www.youtube.com/watch?v=YCN2aTlocOw){:target="_blank"}
-
+ 
 ### 1.2 Recent History [[C](#toc)]
 {: #recent-history }
 -- Until 19th century Silver coins were mostly utilized for local Currency, while Gold was used only for high value or international transactions. Definition of **Currency**: Measure in a specific time and place, medium of exchange and legal tender (must be accepted for deferred payment of debt) with strong network effect. Around 1870 switch to Gold was made because silver became abundant, and when it's not Rare it cannot be good money. That's how the so-called ***'Gold Standard'*** was created in which paper notes were backed by physical gold. That was one of most stable and [prosperous periods](https://www.forbes.com/sites/nathanlewis/2013/01/03/the-1870-1914-gold-standard-the-most-perfect-one-ever-created/?sh=1d83ebc64a6a){:target="_blank"}.<br>
