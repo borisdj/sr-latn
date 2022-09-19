@@ -30,7 +30,7 @@ LANG(jezik):<br>
 | [1.1 Početak Novca](#beginning-of-money) |
 | [1.2 Skorija istorija](#recent-history) |
 | [1.3 Moderno doba](#modern-age) |
-| [1.4 Dosadašnji zaključak](#sum-it-so-far) |
+| [1.4 Dosadašnji sažetak](#sum-it-so-far) |
 | [**2. Bitcoin objašnjenje**](#bitcoin-explanation) |
 | [2.1 Kako je sve počelo](#how-it-all-started) |
 | [2.2 Tehnička pozadina](#technical-background) |
@@ -99,12 +99,11 @@ Primjeri funkcija:<br>
 
  ____ **DALJI PREVOD JOS U TOKU ...** ____
  
--- Obviously **Gold** had qualities to fulfill most of these roles, but it is not perfect, only best at that time, or so to say the least bad. Some of the disadvantages were: not so easy to carry - expensive transport (low Portability), hard to Divide (need to melt), and danger of theft and robbery.<br>
--- Because of that some merchants, later private banks and then central banks started holding gold for people and gave them **certificates** of how much gold they have. People then used those certificates, as Claim on items, for trade and that's how **paper money** also called **banknotes** (promissory notes - [IOU](https://www.investopedia.com/terms/i/iou.asp){:target="_blank"} acronym of  *'I owe you'*) or colloquially **cash** came in existence. But bad side was introduction of intermediaries one needs to trust. And history is full of examples were that confidence was exploited for all kind of reasons, usually by creating more notes than there was gold to back it. It led to bankruptcy of private banks or hyperinflation by central banks, both resulted in the same outcome, people losing their savings and purchase power. Banks
-can be with Full reserves or with Fractional reserves. One of the first central banks was [Bank of Amsterdam](https://en.wikipedia.org/wiki/Bank_of_Amsterdam){:target="_blank"} (*'Amsterdamsche Wisselbank'*) that was established back in 1609. Eventually most countries seized full monetary control and further development of money came to a halt.<br>
+-- Očigledno **Zlato** je imalo kvalitete da ispuni većinu ovih uloga, ali nije savršeno, samo najbolje u tom trenutku, ili takoreći najmanje loše. Neki od nedostataka su bili: nije lako za nošenje - skup transport (niska prenosivost), teško se dijeli (potrebno istopiti) i opasnost od krađe i pljačke.<br>
+-- Zbog toga su neki trgovci, kasnije privatne banke pa centralne banke počele držati zlato za ljude a davali im **sertifikate** koliko zlata imaju. Ljudi su tada koristili te potvrde, kao Potraživanje za robu, za trgovinu i tako je nastao **papirni novac** odnosno **novčanice** (mjenice - [IOU](https://www.investopedia.com/terms/i/iou.asp){:target="_blank"} akronim od *'I owe you (Dugujem ti)'*) ili kolokvijalno **gotovina**. Ali loša strana je bila uvođenje posrednika kojima vjerovati. A istorija je puna primjera gdje je to povjerenje iskorišćavano iz raznih razloga, obično stvaranjem više novčanica / banknota nego što je bilo zlata za pokriće. To je dovodilo do bankrota privatnih banaka ili hiperinflacije od strane centralnih banaka, što je u oba slučaja rezultiralo istim ishodom, ljudi su izgubili svoju štednju i kupovnu moć. Banke mogu biti sa punim rezervama ili sa frakcionim rezervama. Jedna od prvih centralnih banaka bila je [Bank of Amsterdam](https://en.wikipedia.org/wiki/Bank_of_Amsterdam){:target="_blank"} (*'Amsterdamsche Wisselbank'*) koja je osnovana davne 1609. godine. Na kraju je većina zemalja preuzela potpunu monetarnu kontrolu i dalji razvoj novca je zaustavljen.<br>
 
--- **Money** is language, a linguistic and social construct, used as means of communicating value to each other. It is also collective and somewhat fictional narrative about value, with consent of majority. So, it is not inherently valuable, we (subjectively) decide to give it merit. Human labor is still typically measured by working hours, so Money is also [Time, the most valuable currency](https://drtownsend.com/time-valuable-currency/){:target="_blank"} (one second lost cannot be bought back).<br>
--- According to [Information Theory of Money](https://medium.com/the-bitcoin-times/information-theory-of-money-36247aebdfe1){:target="_blank"} prices and the market are intricately intertwined. Prices reflect information while Money is the measuring stick, and Information is Decentralized. So centralized systems have an unsolvable data problem because of lack of all the necessary knowledge entire time, which results in huge capital misallocation.
+-- **Novac** je jezik, lingvistički i društveni konstrukt, koji se koristi kao sredstvo komunikaciju vrijednosti jedni drugima. To je također kolektivna i donekle izmišljena priča o vrijednosti, uz saglasnost većine. Dakle, nije inherentno vrijedan, mi (subjektivno) odlučujemo da mu damo zasluge. Ljudski rad se još uvijek obično mjeri radnim vremenom, tako da je novac također [Vrijeme, najvrednija valuta](https://drtownsend.com/time-valuable-currency/){:target="_blank"} (jedna izgubljena sekunda ne može se otkupiti).<br>
+-- Prema [Informacionoj teoriji novca](https://medium.com/the-bitcoin-times/information-theory-of-money-36247aebdfe1){:target="_blank"} cijene i tržište su zamršeno isprepleteni. Cijene odražavaju informacije, dok je novac mjerni štap, a informacije su decentralizovane. Dakle, centralizovani sistemi imaju nerješiv problem podataka zbog nedostatka svih potrebnih znanja cijelo vrijeme, što za rezultat ima ogromnu pogrešnu alokaciju kapitala.
 
 [YT - Finance: The History of Money](https://www.youtube.com/watch?v=YCN2aTlocOw){:target="_blank"}
  
@@ -159,7 +158,7 @@ Evidently institutional trust (legacy system) is no longer working, because it w
 | 4 | Licensed      | Accountable   |
 | 5 | Top-down      | Bottom-up     |
 
-### 1.4 Dosadašnji zaključak [[C](#toc)]
+### 1.4 Dosadašnji sažetak [[C](#toc)]
 {: #sum-it-so-far }
 -- Countries have the complete control of money and can inflate it for various reasons with several economic tools. That power is then often misused by political elites and corporations while chasing profits (somewhat greedy), that results in high inflation or in some cases even hyperinflation. This sort of inflation's Moral Hazard is practically an additional hidden ([regressive](https://www.lemonde.fr/en/economy/article/2022/06/27/inflation-is-the-most-regressive-tax-of-all_5988059_19.html){:target="_blank"}) Tax on population that [nobody voted for](https://www.johnlocke.org/inflation-is-a-tax-nobody-voted-for/){:target="_blank"}. One could argue it's theft in a sense or financial robbery. It is slowly siphoning wealth from the average person to the politically well-connected. And while prices of all goods just increase, salaries do not always grow to keep up, instead workers have to explicitly asks it from employers. So small wage raise does not mean more purchase power, it's just to keep up with inflation.<br>
 (*"Inflation is the one form of taxation that can be imposed without legislation"* - M. Friedman)<br>
