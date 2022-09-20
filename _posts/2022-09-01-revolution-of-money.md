@@ -68,11 +68,11 @@ Rad je još uvijek u toku i treba nešto konačnog refaktoriranja, nemojte zamje
 -- Kada su ljudi prešli sa lovaca-sakupljača na poljoprivredu i stočarstvo prije otprilike 10.000 godina, to je dovelo do specijalizacije u radu, veće produktivnosti i akumulacije viškova proizvoda. Ovo je omogućilo stvaranje većih naselja, gradova i na kraju država. To je takođe značilo da su ljudi mogli razmjenjivati (trampa) višak stvari koje su nabavili ili napravili, na primjer žitarice ili životinje, ali nije bilo lako odrediti vrijednost svakog predmeta niti ga podijeliti. Kredit je vjerovatno bio najstarije sredstvo trgovine, a trampa se razvila kasnije. Veće zajednice značile su da morate trgovati sa strancima i bila je potrebna neka osnova za povjerenje ([Dunbarov broj](https://www.bbc.com/future/article/20191001-dunbars-number-why-we-can-only-maintain-150-relationships){:target="_blank"} - može se održavati samo oko 150 bliskih veza). Trebao im je sistem koji bi olakšao trgovinu. Zato je novac izmišljen i kako je nastao.<br>
 -- U ranim danima koristile su se brojne stvari kao što su školjke posebnog izgleda, rijetko kamenje, itd. Postoji zanimljiva priča o [afričkoj trgovini staklenim perlama](https://www.africanodyssey.co.uk/blog/a-brief-history-of-glass-beads-in-africa){:target="_blank"} ([zloupotreba hiperinflacije za trgovinu robljem](https://www.afrikapital.org/p/akori-beads-hyper-inflation-and-ancient){:target="_blank"}) i još jedna o velikom kamenju [Jap naroda](https://www.bbc.com/travel/article/20180502-the-tiny-island-with-human-sized-money){:target="_blank"}. Kamenje je bio primitivni kreditni sistem. Kasnije su došli metali i metalne kovanice, od bronze, srebra ili zlata. Ako se neko pita zašto su ovi materijali odabrani, najbolje je prvo definisati osobine novca ([Projekat novca](http://money.visualcapitalist.com/infographic-the-properties-of-money/){:target= "_blank"}) pošto je apstraktan koncept:
 
-| № | FUNKCIJA             | Opis                                             |
-| - | -------------------- | ------------------------------------------------ |
-| 1 | Sredstvo razmene     | prihvaćeni način plaćanja za robu i usluge       |
-| 2 | Obračunska jedinica  | mjera vrijednosti                                |
-| 3 | Prodavnica vrednosti | zadržati vrednost tokom dužeg vremenskog perioda |
+| № | FUNKCIJA          | Opis                                             |
+| - | ----------------- | ------------------------------------------------ |
+| 1 | Sredstvo razjmene | prihvaćeni način plaćanja za robu i usluge       |
+| 2 | Jedinica obračuna | mjera vrijednosti                                |
+| 3 | Čuvar vrednosti   | zadržati vrednost tokom dužeg vremenskog perioda |
 
 Primjeri funkcija:<br>
 1-Društvo koristi određenue predmete kao što je biser za razmjenu za drugu robu<br>
@@ -87,15 +87,6 @@ Primjeri funkcija:<br>
 | 4 | Prihvatljiv    | univerzalno prepoznatljiv                          |
 | 5 | Ograničena kol.| rijetkost (oskudica) održava stabilnu vrijednost   |
 | 6 | Uniforman      | jedinice sposobne za međusobnu zamjenu (zamjenjiv) |
-
-| № | KARAKTERISTIKE | Opis |
-| - | -------------- | -------------------------------------------------- --------------|
-| 1 | Izdržljiv | sposoban da izdrži višekratnu upotrebu |
-| 2 | Deljivo | može podijeliti na manje jedinice |
-| 3 | Prijenosni | lako se prenosi i transportuje |
-| 4 | Prihvatljivo | univerzalno prepoznatljiv |
-| 5 | Ograničena kol.| rijetkost (oskudica) održava vrijednost stabilnom |
-| 6 | Uniforma | jedinice sposobne za međusobnu zamjenu, zamjenljive(fungibilno) |
  
 -- Očigledno **Zlato** je imalo kvalitete da ispuni većinu ovih uloga, ali nije savršeno, samo najbolje u tom trenutku, ili takoreći najmanje loše. Neki od nedostataka su bili: nije lako za nošenje - skup transport (niska prenosivost), teško se dijeli (potrebno istopiti) i opasnost od krađe i pljačke.<br>
 -- Zbog toga su neki trgovci, kasnije privatne banke pa centralne banke počele držati zlato za ljude a davali im **sertifikate** koliko zlata imaju. Ljudi su tada koristili te potvrde, kao Potraživanje za robu, za trgovinu i tako je nastao **papirni novac** odnosno **novčanice** (mjenice - [IOU](https://www.investopedia.com/terms/i/iou.asp){:target="_blank"} akronim od *'I owe you (Dugujem ti)'*) ili kolokvijalno **gotovina**. Ali loša strana je bila uvođenje posrednika kojima vjerovati. A istorija je puna primjera gdje je to povjerenje iskorišćavano iz raznih razloga, obično stvaranjem više novčanica / banknota nego što je bilo zlata za pokriće. To je dovodilo do bankrota privatnih banaka ili hiperinflacije od strane centralnih banaka, što je u oba slučaja rezultiralo istim ishodom, ljudi su izgubili svoju štednju i kupovnu moć. Banke mogu biti sa punim rezervama ili sa frakcionim rezervama. Jedna od prvih centralnih banaka bila je [Bank of Amsterdam](https://en.wikipedia.org/wiki/Bank_of_Amsterdam){:target="_blank"} (*'Amsterdamsche Wisselbank'*) koja je osnovana davne 1609. godine. Na kraju je većina zemalja preuzela potpunu monetarnu kontrolu i dalji razvoj novca je zaustavljen.<br>
