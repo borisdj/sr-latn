@@ -21,6 +21,8 @@ LANG(jezik):<br>
 <center>QR Link</center>
 ![QR Link](https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=https://infopedia.io/revolution-of-money/)
 
+Like: X <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRylKpaTqDluVsX1bgonHR74mApXbnrr7bCr6_z-UaH4fDlD3i6v51tITUbCbbRHl-MfvdS9VNUtDQU/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
 **Sadržaj [C]**
 {: #toc }
 
