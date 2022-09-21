@@ -21,4 +21,6 @@ Click if you [**LIKEd**](https://script.google.com/macros/s/AKfycbzZHMD7Y8gp04hS
 Likes counter: {% raw %} <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRylKpaTqDluVsX1bgonHR74mApXbnrr7bCr6_z-UaH4fDlD3i6v51tITUbCbbRHl-MfvdS9VNUtDQU/pubhtml?gid=0&amp;single=true&amp;range=A1:A1&amp;widget=false&amp;headers=false&amp;chrome=false" width="60" height="30" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 {% endraw %} ([counter list](https://docs.google.com/spreadsheets/d/e/2PACX-1vRylKpaTqDluVsX1bgonHR74mApXbnrr7bCr6_z-UaH4fDlD3i6v51tITUbCbbRHl-MfvdS9VNUtDQU/pubhtml?gid=0) updated every 5 min)
 
-<a href="[http://example.com/](https://script.google.com/macros/s/AKfycbzZHMD7Y8gp04hSipbZqj0K8ThiV7fxHf0jZboXcfvU1saESYdk5PjyN6XNwMMCj8uv/exec)" onclick="return confirm('Please click on OK to continue.');">click me</a>
+<a href="https://script.google.com/macros/s/AKfycbzZHMD7Y8gp04hSipbZqj0K8ThiV7fxHf0jZboXcfvU1saESYdk5PjyN6XNwMMCj8uv/exec" onclick="return confirm('Please click on OK to continue.');">click me</a>
+
+<BUTTON TYPE="button" ONCLICK="alert('Hello there!')">Click me!</BUTTON>
