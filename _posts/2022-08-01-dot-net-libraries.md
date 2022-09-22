@@ -19,7 +19,7 @@ excerpt: "Open source authored .Net libraries"
 
 {% raw %}
 <p>
-Click <a id="imageLike" href="#" onclick="var http = new XMLHttpRequest(); 
+Tap <a id="imageLike" href="#" onclick="var http = new XMLHttpRequest(); 
 http.open('GET','https://script.google.com/macros/s/AKfycbzZHMD7Y8gp04hSipbZqj0K8ThiV7fxHf0jZboXcfvU1saESYdk5PjyN6XNwMMCj8uv/exec',/*async*/true); 
 http.send(null); http.abort();
 alert('Like saved!');
