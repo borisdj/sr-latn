@@ -25,7 +25,8 @@ http.send(null); http.abort();
 alert('Like saved!');
 document.getElementById('countPlus').innerHTML='+1'; document.getElementById('imageLike').onclick=false;">
 <img alt="Like" src="https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/applause.png"></a>
-if like the text.
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRylKpaTqDluVsX1bgonHR74mApXbnrr7bCr6_z-UaH4fDlD3i6v51tITUbCbbRHl-MfvdS9VNUtDQU/pubhtml?gid=0&amp;single=true&amp;range=A1:B1&amp;widget=false&amp;headers=false&amp;chrome=false" width="135" height="30" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> <ins id="countPlus">_</ins>
+if like the text
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRylKpaTqDluVsX1bgonHR74mApXbnrr7bCr6_z-UaH4fDlD3i6v51tITUbCbbRHl-MfvdS9VNUtDQU/pubhtml?gid=0&amp;single=true&amp;range=A1:B1&amp;widget=false&amp;headers=false&amp;chrome=false" width="135" height="30" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<ins id="countPlus">_</ins>
 </p>
 {% endraw %}
