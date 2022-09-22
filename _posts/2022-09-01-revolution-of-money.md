@@ -33,7 +33,7 @@ document.getElementById('countPlus').innerHTML='+1'; document.getElementById('bu
 document.getElementById('buttonLike').style.backgroundImage='url(https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/applauseGrey.png)';
 alert('Like saved, thx!');">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</BUTTON>
 if like the text
-<iframe src="https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/applause.png" width="135" height="30" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> <ins id="countPlus">_</ins>
+<iframe src="https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/applause.png" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> <ins id="countPlus">_</ins>
 </p>
 {% endraw %}
 
