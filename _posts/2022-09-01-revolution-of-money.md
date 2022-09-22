@@ -26,11 +26,7 @@ LANG(jezik):<br>
 <p>
 Tap <BUTTON id="buttonLike" TYPE="button" 
 style="border:none; background:url('https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/applause.png')no-repeat" 
-ONCLICK="var http = new XMLHttpRequest();  http.open('GET','https://script.google.com/macros/s/AKfycbzZHMD7Y8gp04hSipbZqj0K8ThiV7fxHf0jZboXcfvU1saESYdk5PjyN6XNwMMCj8uv/exec',/*async*/true); 
-http.send(null); http.abort(); 
-document.getElementById('countPlus').innerHTML='+1'; document.getElementById('buttonLike').disabled=true; 
-document.getElementById('buttonLike').style.backgroundImage='url(https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/applauseGrey.png)';
-alert('Like saved, thx!');">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</BUTTON>
+ONCLICK=false;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</BUTTON>
 if like the text
 <ins id="countPlus">_</ins>
 </p>
