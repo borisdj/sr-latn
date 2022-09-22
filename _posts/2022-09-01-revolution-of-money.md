@@ -22,15 +22,7 @@ LANG(jezik):<br>
 
 **Sadržaj [C]**
 {: #toc }
-{% raw %}
-<p>
-Tap <BUTTON id="buttonLike" TYPE="button" 
-style="border:none; background:url('https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/applause.png')no-repeat" 
-ONCLICK=false;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</BUTTON>
-if like the text
-<ins id="countPlus">_</ins>
-</p>
-{% endraw %}
+
 | [Uvod](#introduction) |
 | ------------------------------------- |
 | [**1. Monetarne Hronike**](#monetary-chronicles) |
