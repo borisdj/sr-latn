@@ -25,7 +25,7 @@ Click if <BUTTON id="buttonLike" TYPE="button" ONCLICK="var http = new XMLHttpRe
 {% endraw %}
 
 {% raw %}
-<a href="#" onclick="someFunction(); return false;"><img alt="Like" src="https://img.icons8.com/ios/72/add-link.png"></a>
+Click <a href="#" onclick="alert('Test'); return false;"><img alt="Like" src="https://img.icons8.com/ios/72/add-link.png" width="32" height="32"></a>
 {% endraw %}
 
 {% raw %}
