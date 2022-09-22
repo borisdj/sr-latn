@@ -20,6 +20,7 @@ excerpt: "Open source authored .Net libraries"
 {% raw %}
 Click if you <BUTTON id="buttonLike" TYPE="button" ONCLICK="var http = new XMLHttpRequest(); http.open('GET','https://script.google.com/macros/s/AKfycbzZHMD7Y8gp04hSipbZqj0K8ThiV7fxHf0jZboXcfvU1saESYdk5PjyN6XNwMMCj8uv/exec',/*async*/true); http.send(null); http.abort(); alert('Like saved!'); document.getElementById('countPlus').innerHTML='+1'; document.getElementById('buttonLike').disabled=true;">**LIKE**</BUTTON> the text.
 {% endraw %}
+{% raw %}
 <table>
 <tr>
 <th>
