@@ -23,7 +23,6 @@ LANG(jezik):<br>
 
 **Sadržaj [C]**
 {: #toc }
-
 {% raw %}
 <p>
 Tap <BUTTON id="buttonLike" TYPE="button" 
@@ -31,11 +30,10 @@ style="border:none; background:url('https://raw.githubusercontent.com/borisdj/bo
 ONCLICK="var http = new XMLHttpRequest();  http.open('GET','https://script.google.com/macros/s/AKfycbzZHMD7Y8gp04hSipbZqj0K8ThiV7fxHf0jZboXcfvU1saESYdk5PjyN6XNwMMCj8uv/exec',/*async*/true); 
 http.send(null); http.abort(); alert('Like saved!'); 
 document.getElementById('countPlus').innerHTML='+1'; document.getElementById('buttonLike').disabled=true;">
-<b>LIKE</b></BUTTON>if like the text
+</BUTTON>if like the text
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRylKpaTqDluVsX1bgonHR74mApXbnrr7bCr6_z-UaH4fDlD3i6v51tITUbCbbRHl-MfvdS9VNUtDQU/pubhtml?gid=0&amp;single=true&amp;range=A1:B1&amp;widget=false&amp;headers=false&amp;chrome=false" width="135" height="30" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> <ins id="countPlus">_</ins>
 </p>
 {% endraw %}
-
 | [Uvod](#introduction) |
 | ------------------------------------- |
 | [**1. Monetarne Hronike**](#monetary-chronicles) |
