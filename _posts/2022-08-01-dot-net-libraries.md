@@ -25,11 +25,11 @@ Click if <BUTTON id="buttonLike" TYPE="button" ONCLICK="var http = new XMLHttpRe
 {% endraw %}
 
 {% raw %}
-Click <a href="#" onclick="alert('Test'); return false;"><img alt="Like" src="https://img.icons8.com/ios/72/add-link.png" width="32" height="32"></a>
+Click <a id="buttonLike3" href="#" onclick="var http = new XMLHttpRequest(); http.open('GET','https://script.google.com/macros/s/AKfycbzZHMD7Y8gp04hSipbZqj0K8ThiV7fxHf0jZboXcfvU1saESYdk5PjyN6XNwMMCj8uv/exec',/*async*/true); http.send(null); http.abort(); alert('Like saved!'); document.getElementById('countPlus').innerHTML='+1'; document.getElementById('buttonLike3').disabled=true;"><img alt="Like" src="https://img.icons8.com/ios/72/add-link.png" width="32" height="32"></a>
 {% endraw %}
 
 {% raw %}
-<a href="javascript:someFunction()">LINK</a>
+Click <a href="#" onclick="alert('Test');"><img alt="Like" src="https://img.icons8.com/ios/72/add-link.png" width="32" height="32"></a>
 {% endraw %}
 
 {% raw %}
