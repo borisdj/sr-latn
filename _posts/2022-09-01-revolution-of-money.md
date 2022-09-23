@@ -21,7 +21,19 @@ LANG(jezik):<br>
 ![QR Link](https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=https://infopedia.io/revolution-of-money/)
 
 **Sadržaj [C]**
-
+{% raw %}
+<p>
+Klik <BUTTON id="buttonLike" TYPE="button" 
+style="border:none; background:url('https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/applause.png')no-repeat" 
+ONCLICK="var http = new XMLHttpRequest();  http.open('GET','https://script.google.com/macros/s/AKfycbzZHMD7Y8gp04hSipbZqj0K8ThiV7fxHf0jZboXcfvU1saESYdk5PjyN6XNwMMCj8uv/exec',/*async*/true); 
+http.send(null); http.abort(); 
+document.getElementById('countPlus').innerHTML='+1'; document.getElementById('buttonLike').disabled=true; 
+document.getElementById('buttonLike').style.backgroundImage='url(https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/applauseGrey.png)';
+alert('Like saved, thx!');">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</BUTTON>
+ako vam se sviđa
+|[Likes counter:](https://docs.google.com/spreadsheets/d/e/2PACX-1vRylKpaTqDluVsX1bgonHR74mApXbnrr7bCr6_z-UaH4fDlD3i6v51tITUbCbbRHl-MfvdS9VNUtDQU/pubhtml?gid=0)| 11| <ins id="countPlus">_</ins>
+</p>
+{% endraw %}
 | [Uvod](#introduction) |
 | ------------------------------------- |
 | [**1. Monetarne Hronike**](#monetary-chronicles) |
