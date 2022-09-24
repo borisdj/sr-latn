@@ -24,7 +24,7 @@ LANG(jezik):<br>
 {% raw %}
 <script>
   document.addEventListener("DOMContentLoaded", function() {
-    var counterUrl = 'https://script.google.com/macros/s/AKfycbwlgQoGDx4wE-U2_3Ni1igWcd2UuPoUhcpaeJO6dvpynWCsMVlxSiTHsUSkodTJOMWwtA/exec'
+    var counterUrl = 'https://script.google.com/macros/s/AKfycbwlgQoGDx4wE-U2_3Ni1igWcd2UuPoUhcpaeJO6dvpynWCsMVlxSiTHsUSkodTJOMWwtA/exec';
     fetch(counterUrl').then(res => res.json()).then(out => document.getElementById('counterCell').innerHTML=out);
   });
 </script>
@@ -37,7 +37,7 @@ document.getElementById('countPlus').innerHTML='+1'; document.getElementById('bu
 document.getElementById('buttonLike').style.backgroundImage='url(https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/applauseGrey.png)';
 alert('Like saved, thx!');">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</BUTTON>
 ako vam se sviđa
-|<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRylKpaTqDluVsX1bgonHR74mApXbnrr7bCr6_z-UaH4fDlD3i6v51tITUbCbbRHl-MfvdS9VNUtDQU/pubhtml?gid=0">Likes counter:</a>| <b id="counterCell">11</b>|<ins id="countPlus">_</ins>
+|<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRylKpaTqDluVsX1bgonHR74mApXbnrr7bCr6_z-UaH4fDlD3i6v51tITUbCbbRHl-MfvdS9VNUtDQU/pubhtml?gid=0">Likes counter:</a>| <b id="counterCell">N</b>|<ins id="countPlus">_</ins>
 </p>
 {% endraw %}
 | [Uvod](#introduction) |
