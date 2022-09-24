@@ -5,11 +5,11 @@ categories: [fintech]
 tags: [finance, crypto]
 classes: wide
 image: "/assets/images/evolution-of-money.jpg"
-excerpt: "Bitcoin rise with crypto industry story"
+excerpt: "Uspon Bitcoin-a sa pričom o kripto industriji"
 ---
 
 (*Novac i platni sistem sutrašnjice*)<br>
-Uspon **Bitcoin-a** sa pričom kripto industriji
+Uspon **Bitcoin-a** sa pričom o kripto industriji
 
 Verzije: [*Pdf*](https://drive.google.com/file/d/1LBisCmUagkHRkRq3gD-cPm8rPFZlp4HY/view){:target="_blank"}<br>
 LANG(jezik):<br>
