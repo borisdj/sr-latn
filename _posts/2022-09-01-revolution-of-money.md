@@ -665,20 +665,20 @@ They are bias towards gains but still have [Loss Aversion](https://www.apa.org/s
 (I pohvale i kritike su dobrodošle)<br>
 [**Vidi sve komentare**](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYCQRmyTGP2q3GphttZcEae9GlXohAqYy77GIdvVsh5deOfzo-M8J_S_gworsgvkH2klOfLmBoHzQO/pubhtml){:target="_blank"}<br>
 
--- Stay tuned for next month post about Lightning Network.<br>
-With it there will be a **Quiz** with Questions. For those who get all the correct answers, reward will be certain amount of sats via lightning invoice.
+-- Ostanite sa nama za objavu o *Lightning Network* sljedećeg mjeseca.<br>
+Uz to će biti i **Kviz** sa pitanjima. Za one koji daju sve tačne odgovore, nagrada će biti određena količina satoshi-ja putem *lightning* mreže.
 
  DODATAK<br>
 **Odricanje odgovornosti**:<br>
--The opinions expressed in this publication belong to the author alone.<br>
--It does not constitute professional financial advice, it's more like an investigative report.<br>
--Please DYOR (Do Your Own Research / due diligence) thoroughly before making any financial decisions and proceed with caution.<br>
-**Otkrivanje**: Author owns some bitcoins.
+-Mišljenja iznesena u ovoj publikaciji pripadaju isključivo autoru.<br>
+-To ne predstavlja profesionalni finansijski savjet, više je kao istražni izvještaj.<br>
+-Molimo uradite vlastito temeljno istraživanje uz dužnu pažnju (*due diligence*) prije donošenja bilo kakve finansijske odluke i nastavite s oprezom.<br>
+**Otkrivanje**: Autor posjeduje nešto bitkoina.
 
 **Reference** (izvor podatka ili dodatne info)<br>
+-- Povezane su direktno u tekstu<br>
+([**Lista svih web stranica**](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMRkOg14mu8C1lofdZiV2Kvr6OWpi6spO5M8i7Km54-hgZnaYyhHuUK67F6pB4o3f3Mo0sBG_Kuts3/pubhtml?gid=0&single=true){:target="_blank"})<br>
 -- Da izložimo često referencirane web stranice:<br>
-([**List of all URL-s**](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMRkOg14mu8C1lofdZiV2Kvr6OWpi6spO5M8i7Km54-hgZnaYyhHuUK67F6pB4o3f3Mo0sBG_Kuts3/pubhtml?gid=0&single=true){:target="_blank"})<br>
--- To expose some of mostly referenced web pages:<br>
 [bitcoin.org](https://bitcoin.org/en){:target="_blank"}<br>
 [coinmarketcap.com](https://coinmarketcap.com){:target="_blank"}<br>
 [coingecko.com](https://www.coingecko.com/){:target="_blank"}<br>
