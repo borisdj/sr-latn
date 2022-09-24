@@ -15,7 +15,7 @@ Verzije: [*Pdf*](https://drive.google.com/file/d/1LBisCmUagkHRkRq3gD-cPm8rPFZlp4
 LANG(jezik):<br>
 [Globalni](https://infopedia.io/revolution-of-money) (en-us) / Lokalni (sr-latn-ba)
 
-![evolution-of-money](https://raw.githubusercontent.com/borisdj/borisdj.github.io/master/assets/images/revolution-of-money/evolution-of-money.jpg)
+![evolution-of-money](https://raw.githubusercontent.com/borisdj/sr-latn/main/assets/images/revolution-of-money/evolution-of-money.jpg)
 
 <center>QR Link</center>
 ![QR Link](https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=https://infopedia.io/revolution-of-money/)
