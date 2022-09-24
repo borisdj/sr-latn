@@ -36,7 +36,7 @@ ONCLICK="fetch(counterUrl + 'post');
 document.getElementById('counterCell').innerHTML=likesCounter+1; document.getElementById('buttonLike').disabled=true; 
 document.getElementById('buttonLike').style.backgroundImage='url(https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/applauseGrey.png)';
 alert('Lajk:) dodan, Hvala!');">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</BUTTON>
-ako vam se sviđa
+ako vam se sviđa tekst
 [<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRylKpaTqDluVsX1bgonHR74mApXbnrr7bCr6_z-UaH4fDlD3i6v51tITUbCbbRHl-MfvdS9VNUtDQU/pubhtml?gid=0" target="_blank">brojač:</a> <b id="counterCell">N</b>]
 </p>
 {% endraw %}
