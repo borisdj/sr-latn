@@ -86,7 +86,7 @@ Rad je još uvijek u toku i treba nešto konačnog refaktoriranja, nemojte zamje
 
 | № | FUNKCIJA          | Opis                                             |
 | - | ----------------- | ------------------------------------------------ |
-| 1 | Sredstvo razjmene | prihvaćeni način plaćanja za robu i usluge       |
+| 1 | Sredstvo razmjene | prihvaćeni način plaćanja za robu i usluge       |
 | 2 | Jedinica obračuna | mjera vrijednosti                                |
 | 3 | Čuvar vrednosti   | zadržati vrednost tokom dužeg vremenskog perioda |
 
