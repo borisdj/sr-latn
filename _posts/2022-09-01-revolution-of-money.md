@@ -660,9 +660,9 @@ They are bias towards gains but still have [Loss Aversion](https://www.apa.org/s
 -- Hyperinflation and [currency collapses](https://ginifoundation.org/kb/fiat-currency-graveyard-a-history-of-monetary-folly/){:target="_blank"} are not exceptionally rare events. In fact, the average lifespan of a fiat currency is only about 35 years, which means these events happen much more frequently than many people realize. When viewed from civilization perspective we want store to last minimum our lifetime, better even longer for inheritance. Also, many of societal problems arise from money, so fixing the money could improve the world, in part at least (meme: ***Bitcoin Fixes this!***). Money should be a **Fiduciary** system - legally and ethically bound to act in clients/users' best interest and ahead of their own, duty to preserve good faith and trust.<br>
 -- As a Conclusion hope that this comprehensive review can arouse your curiosity and elevate critical thinking. And watch out from being stuck in echo chamber, always seek more opinions.<br>
 
--- Leave a **Comment** (literary criticism) and give your 2 cents (personal opinion) or to say here 2 satoshies.<br>
+-- Ostavite **Komentar** (stručnu recenziju) i dajte svoje lično mišljenje.<br>
 [**Forma za komentare**](https://docs.google.com/forms/d/e/1FAIpQLSfX6OicCuvvcd8ewY0_qqKlOzegljSMmSVX_KfGwtP89EF3AQ/viewform){:target="_blank"}<br>
-(Both compliments and critics are welcomed)<br>
+(I pohvale i kritike su dobrodošle)<br>
 [**Vidi sve komentare**](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYCQRmyTGP2q3GphttZcEae9GlXohAqYy77GIdvVsh5deOfzo-M8J_S_gworsgvkH2klOfLmBoHzQO/pubhtml){:target="_blank"}<br>
 
 -- Stay tuned for next month post about Lightning Network.<br>
@@ -675,8 +675,8 @@ With it there will be a **Quiz** with Questions. For those who get all the corre
 -Please DYOR (Do Your Own Research / due diligence) thoroughly before making any financial decisions and proceed with caution.<br>
 **Otkrivanje**: Author owns some bitcoins.
 
-**Reference** (data source or additional info)<br>
--- They are linked directly in text<br>
+**Reference** (izvor podatka ili dodatne info)<br>
+-- Da izložimo često referencirane web stranice:<br>
 ([**List of all URL-s**](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMRkOg14mu8C1lofdZiV2Kvr6OWpi6spO5M8i7Km54-hgZnaYyhHuUK67F6pB4o3f3Mo0sBG_Kuts3/pubhtml?gid=0&single=true){:target="_blank"})<br>
 -- To expose some of mostly referenced web pages:<br>
 [bitcoin.org](https://bitcoin.org/en){:target="_blank"}<br>
