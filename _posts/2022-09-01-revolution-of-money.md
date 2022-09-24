@@ -24,20 +24,20 @@ LANG(jezik):<br>
 {% raw %}
 <script>
   var likesCounter = 0;
-  var counterUrl = 'https://script.google.com/macros/s/AKfycbwlgQoGDx4wE-U2_3Ni1igWcd2UuPoUhcpaeJO6dvpynWCsMVlxSiTHsUSkodTJOMWwtA/exec?type=';
+  var counterUrl = 'https://script.google.com/macros/s/AKfycbwlgQoGDx4wE-U2_3Ni1igWcd2UuPoUhcpaeJO6dvpynWCsMVlxSiTHsUSkodTJOMWwtA/exec?type=get';
   document.addEventListener("DOMContentLoaded", function() {
-    fetch(counterUrl + 'get').then(res => res.json()).then(out => document.getElementById('counterCell').innerHTML=likesCounter=out);
+    fetch(counterUrl).then(res => res.json()).then(out => document.getElementById('counterCell').innerHTML=likesCounter=out);
   });
 </script>
 <p>
 Klik <BUTTON id="buttonLike" TYPE="button" 
 style="border:none; background:url('https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/applause.png')no-repeat" 
-ONCLICK="var http = new XMLHttpRequest();  http.open('GET', counterUrl+'get',/*async*/true); http.send(null); http.abort(); 
+ONCLICK="var http = new XMLHttpRequest(); http.open('GET', 'https://script.google.com/macros/s/AKfycbwlgQoGDx4wE-U2_3Ni1igWcd2UuPoUhcpaeJO6dvpynWCsMVlxSiTHsUSkodTJOMWwtA/exec?type=post',/*async*/true); http.send(null); http.abort(); 
 document.getElementById('counterCell').innerHTML=likesCounter+1; document.getElementById('buttonLike').disabled=true; 
 document.getElementById('buttonLike').style.backgroundImage='url(https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/applauseGrey.png)';
 alert('Like saved, thx!');">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</BUTTON>
 ako vam se sviđa
-[<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRylKpaTqDluVsX1bgonHR74mApXbnrr7bCr6_z-UaH4fDlD3i6v51tITUbCbbRHl-MfvdS9VNUtDQU/pubhtml?gid=0">counter:</a>| <b id="counterCell">N</b>]
+[<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRylKpaTqDluVsX1bgonHR74mApXbnrr7bCr6_z-UaH4fDlD3i6v51tITUbCbbRHl-MfvdS9VNUtDQU/pubhtml?gid=0">Likes counter:</a>| <b id="counterCell">N</b>]
 </p>
 {% endraw %}
 | [Uvod](#introduction) |
