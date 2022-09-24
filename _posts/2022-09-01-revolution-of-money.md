@@ -75,7 +75,7 @@ Nemojte se obeshrabriti ako vam materijal izgleda stran. Većina ljudi, u zavisn
 *"To je sve što ne razumijete o novcu u kombinaciji sa svime što ne razumijete o računarima".*<br>
 Ali kako počnete da učite, posljedično ćete steći znanje o ekonomiji, informatici, matematici, filozofiji, politici, istoriji, pa čak i fizici.<br>
 PS<br>
-Rad je još uvijek u toku i treba nešto konačnog refaktoriranja, nemojte zamjeriti ako naiđete na neke preostale greške.
+Rad je još uvijek u toku i treba nešto konačnog refaktorisanja, nemojte zamjeriti ako naiđete na neke preostale greške.
 
 ## <ins>1 Monetarne hronike</ins>
 {: #monetary-chronicles }
