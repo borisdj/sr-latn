@@ -1,11 +1,3 @@
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    var counterUrl = 'https://script.google.com/macros/s/AKfycbwlgQoGDx4wE-U2_3Ni1igWcd2UuPoUhcpaeJO6dvpynWCsMVlxSiTHsUSkodTJOMWwtA/exec'
-    fetch(counterUrl').then(res => res.json()).then(out => document.getElementById('counterCell').innerHTML=out);
-  
-});
-</script>
-
 ---
 title: "(r)Evolucija Novca"
 date: 2022-09-01T00:00:00-00:00
@@ -30,6 +22,12 @@ LANG(jezik):<br>
 
 **Sadržaj [C]**
 {% raw %}
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var counterUrl = 'https://script.google.com/macros/s/AKfycbwlgQoGDx4wE-U2_3Ni1igWcd2UuPoUhcpaeJO6dvpynWCsMVlxSiTHsUSkodTJOMWwtA/exec'
+    fetch(counterUrl').then(res => res.json()).then(out => document.getElementById('counterCell').innerHTML=out);
+  });
+</script>
 <p>
 Klik <BUTTON id="buttonLike" TYPE="button" 
 style="border:none; background:url('https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/applause.png')no-repeat" 
