@@ -176,14 +176,14 @@ Ko to razumije, zarađuje, ko ne, plaća je."*, koja se često pripisuje Albertu
 
  ____ **DALJI PREVOD JOS U TOKU ...** ____
  
--- Another issue is the censorship that governments and banks can enforce. We could observe this happened in some Autocratic or Authoritarian countries for opposition but also in democratic ones. For example [Canadian truckers](https://www.nasdaq.com/articles/frozen-bitcoin-tied-to-canadian-protests-lands-at-coinbase-crypto.com){:target="_blank"} whose bank accounts were frozen for protesting against pandemic lockdown, a 'PC' (Political Correct) way to silence the opposition. **Cryptocurrency** solves this one as well since it can work without intermediary (trustless) and does not require a trusted party (***Money should Not be weaponized, ever!***). Additionally, it allows seamless transactions across borders. With Liberal world view and partly [Libertarian philosophy](https://www.coindesk.com/tech/2021/02/04/crypto-is-the-libertarian-cheat-code-in-the-final-battle-over-state-coercion/){:target="_blank"} (eliminate state coercion) part of its mission is **separation of money and state**. We shall never have decent money before we take monopoly of it away from government (make government smaller and people bigger).<br>
--- Fiat enabled countries to wage war until they run out of all citizens wealth. Prior to paper currencies, governments would soon run out of fighting capability because population would rebel against tax for unpopular wars. There are those who hold opinion that reasons “a small war in Central Europe” in 1914 was able to explode into “the first global war in human history” were monetary rather than geopolitical ([From Fiat to Crypto](https://link.springer.com/chapter/10.1007/978-3-030-71400-0_1){:target="_blank"}).<br>
--- All in all management of Money and Interventions by the state in most cases was done the wrong way.<br>
-Even those with good intentions often had bad results:<br>
-&nbsp;-Attempt to do good, imperfectly, and often creates more damage than good in pursuit of it<br>
-&nbsp;&nbsp;(*"The Government solution to a problem is usually as bad as the problem"* - M. Friedman)<br>
-&nbsp;-When pay for it with inflation it unintentionally collapses the currency<br>
-&nbsp;-Mismeasure the extent of monetary policy while underestimate the cost<br>
+-- Drugo pitanje je cenzura koju vlade i banke mogu sprovesti. To se moglo primijetiti u nekim autokratskim ili autoritarnim zemljama za opoziciju, ali i u demokratskim. Na primjer [kanadske kamiondžije](https://www.nasdaq.com/articles/frozen-bitcoin-tied-to-canadian-protests-lands-at-coinbase-crypto.com){:target="_blank"} čiji bankovni računi su zamrznuti zbog protesta protiv pandemije, (politički korektan) način da se ućutka opozicija. **Kriptovaluta** rješava i ovo jer može raditi bez posrednika (bez povjerenja) i ne zahtijeva stranu od povjerenja (***Novac ne treba da se naoruža, nikada!***). Pored toga, omogućava besprijekorne transakcije preko granica. Sa liberalnim pogledom na svijet i djelimično [libertarijanskom filozofijom](https://www.coindesk.com/tech/2021/02/04/crypto-is-the-libertarian-cheat-code-in-the-final-battle-over-state-coercion/){:target="_blank"} (eliminisati državnu prinudu) dio njegove misije je **razdvajanje novca i države**. Nikada nećemo imati pristojan novac prije nego što vladi oduzmemo monopol (učiniti vladu manjom, a ljude većima).<br>
+-- Fiat je omogućio državama da vode rat sve dok im ne ponestane svo bogatstvo građana. Prije papirnih valuta, vlade bi ubrzo ostale bez borbenih kapaciteta jer bi se stanovništvo pobunilo protiv poreza zbog nepopularnih ratova. Ima onih koji smatraju da su razlozi zbog kojih je "mali rat u srednjoj Evropi" 1914. eksplodirao u "prvi globalni rat u ljudskoj istoriji" bili monetarni, a ne geopolitički ([Od fiat-a do kripta](https://link.springer.com/chapter/10.1007/978-3-030-71400-0_1){:target="_blank"}).<br>
+-- Sve u svemu, upravljanje novcem i intervencije od strane države u većini slučajeva su urađene na pogrešan način.<br>
+Čak i oni s dobrim namjerama često su imali loše rezultate:<br>
+&nbsp;-Pokušaju da se učini dobro, nesavršeno i često stvore više štete nego koristi<br>
+&nbsp;&nbsp;(*"Vladno rješenje problema obično je jednako loše kao i problem"* - M. Friedman)<br>
+&nbsp;-Kada je plaćano inflacijom, nenamjerno uruši valutu<br>
+&nbsp;-Pogrešno odmjere obim monetarne politike dok podcjene troškove<br>
 
 ## <ins>2. Bitcoin objašnjenje</ins>
 {: #bitcoin-explanation }
