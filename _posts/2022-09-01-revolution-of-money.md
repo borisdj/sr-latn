@@ -129,42 +129,42 @@ Opet, tokom Drugog svjetskog rata novac je prekomjerno štampan i zlatni standar
 &nbsp;**1.** Nedavni događaj koji je izazvao preštampavanje bila je [<ins>Ekonomska kriza 2008.</ins>](https://www.thebalancemoney.com/2008-financial-crisis-3305679#toc-how-it-could-happen-again){:target="_blank"} koju su djelimično [kreirale banke](https://www.thebalancemoney.com/what-caused-2008-global-financial-crisis-3306176){:target="_blank"} dajići previše rizičnih kredita za nekretnine pokrivene samo hipotekama. A kada se sve srušilo, vlada je samo doštampala još novca da to pokrije. Izgovor je bio da bi puštanje svih tih banaka u propast urušilo cijelu ekonomiju i SADa i ostatka svijeta. Ali ipak su svi ljudi platili za loše ponašanje banke, dok su menadžeri tih banaka u isto vrijeme dobili [ogromne bonuse](https://www.nytimes.com/2009/07/31/business/31pay.html){:target="_blank"}. Korupcija na Wall Streetu je razotkrivena sa Plaćanje za tok naloga ([*Payment for Order Flow*](https://a16z.com/2021/02/17/payment-for-order-flow/){:target="_blank"}) ispod pulta i [šortanjem](https://www.investopedia.com/terms/s/shortselling.asp){:target="_blank"} u sivoj zoni - [*Short and Distort*](https://www.investopedia.com/articles/analyst/030102.asp){:target="_blank"} (Hedž fondovi [pod istragom](https://news.bloomberglaw.com/securities-law/hedge-funds-ensnared-in-expansive-doj-probe-into-short-selling){:target="_blank"}).<br>
 Postoje zanimljivi filmovi o ovoj temi i vezi sa *Wall Street*-om kao što su: *Opklada vijeka* ([*The Big Short*](https://www.imdb.com/title/tt1596363/){:target="_blank"}) i *Poziv za marginu* ([*Margin Call*] (https://www.imdb.com/title/tt1615147/){:target="_blank"}). Oni objašnjavaju derivate kao što su [**CDO**](https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/collateralized-debt-obligation-cdo/){:target="_blank"} (*Collateralized Debt Obligation* - Obveza sa zalogom duga) i [sintetičke](https://www.investopedia.com/terms/s/syntheticcdo.asp){:target="_blank"} vrste, složeno strukturiran finansijski proizvod, sa obveznicama drugorazrednih hipoteka (rizični stambeni krediti dati pojedincima sa lošom ili nikakvom kreditnom istorijom) koji su korišćeni za klađenje.<br>
 &nbsp;**2.** Drugi još veći primjer bila je <ins>Pandemija Covid-19</ins> tokom 2020/2021. godine koja je rezultirala štampanjem novog dodatnog [40% ukupnog novca](https://techstartups.com/2021/05/22/40-us-dollars-existence-printed-last-12-months-america-repeating-mistake-1921-weimar-germany/){:target="_blank"} koji postoji. Kao rezultat toga, sada se suočavamo s prijetnjom [Stagflacije](https://www.cnbc.com/2022/06/21/what-stagflation-is-and-how-to-prepare-for-it.html){: target="_blank"}, stopa inflacije raste, a ekonomski rast i zaposlenost opadaju.<br>
+ 
+-- U suštini postoje 2 vrste novca: zasnovanog na robi i zasnovanog na kreditu. **Fiducijarni medij** je novac koji izdaje treće lice, na primjer neka banka, i to je oblik kredita.<br>
+-- Gotovo sav novac danas je [FIAT](https://www.britannica.com/topic/fiat-money){:target="_blank"}, proglašen vladinom uredbom i nije podržan fizičkom robom. Određuje ga autoritet, stvoren da bude zakonsko sredstvo plaćanja (sa njim se plaćaju porezi kao vrsta duga), a nameće se silom (Politika -> Policija). Zasnovano na **Povjerenju** koje je često izdano i podržano samo obećanjem, ponekad se naziva Fiat prevara. Fiat je vještački novac iz 'čekovne knjige' koji takođe ograničava stvarnu proizvodnju ([Ekonomija bez radosti](https://underconsumed.medium.com/the-joyless-economy-1976-tibor-scitovsky-17da683764ee){:target="_blank"} ).<br>
+-- Neki smatraju da je štampanje novca ([*'fiat rudarenje'*](https://bitcoininfoqus.com/fiat-mining/){:target="_blank"}) [**UBI**](https: //en.wikipedia.org/wiki/Universal_basic_income){:target="_blank"} (*Univerzalni osnovni prihod*) ali za bogate. Pošto je novi novac rutinski prvo dostupan ljudima bliskim onima na vlasti ([Cantillon efekat](https://whatismoney.info/cantillon-effect-bitcoin/){:target="_blank"}) i onima koji ga već imaju jer mogu uzeti velike kredite i posjedovati imovinu osim gotovine koja je više otporna na inflaciju.<br>
+-- Način na koji zemlja može dobiti više novca za budžetsku potrošnju je da Trezor izdaje obveznice, a **Centralna banka** (*CB*) štampa tu količinu novca i kupuje te obveznice. U američkom slučaju to je [**FED**](https://www.federalreserve.gov/aboutthefed/structure-federal-reserve-system.htm){:target="_blank"} (*Sistem federalnih rezervi* - [istorija](https://www.federalreserveeducation.org/about-the-fed/archive-history/){:target="_blank"}), čije [osnivanje](https://www.stlouisfed.org /open-vault/2020/july/how-hamilton-laid-foundation-for-federal-reserve){:target="_blank"} je postavio [Alexandar Hamilton](https://www.history.com/topics/american-revolution/alexander-hamilton){:target="_blank"}. Danas većina novca nije u obliku papirne gotovine već je digitalni. Stvaranje novog novca je jednostavno upisivanje cifara na računarima banaka koje se čuvaju u bazi podataka.<br>
+ 
+-- Takođe, monetarni alati i sistemi su veoma složeni. Neki tvrde da je namjerno kako bi ga zamaglili i učinili manje transparentnim i nejasnim da bi što manje ljudi prigovoralo na sam sistemu. Jedan od mehanizama za štampanje je Kvantitativno popuštanje ([**QE-Quantitative Easing**](https://www.forbes.com/advisor/investing/quantitative-easing-qe/){:target="_blank"}), gdje banke imaju pravo na izdavanje kredita, odnosno štampanje novca, na osnovu depozita koje imaju, u omjeru 1:10 ili čak i više (Bankarstvo s frakcionim rezervama - [Fractional Reserve Banking](https://www.investopedia.com/terms/f/fractionalreservebanking.asp){:target="_blank"}). Suprotna politika poznata je kao **Kvantitativno zatezanje**. Dok Fiat sistem CB-a stvara masivne produžene kredite sa užasnim posljedicama, Fractional Banking je različit i nije nužno loš. Definišimo i termin 'bazna tačka' (*base point*) koja iznosi 1/100 dio procenta ili 0,01 %, koji se često koristi kada se navode kamatne stope CBa.<br>
+-- Nije samo centralna banka ta koja štampa novac već i komercijalne širom sveta. Uvedimo sada pojam 'eurodolara' ([**Eurodollar**](https://www.investopedia.com/terms/e/eurodollar.asp){:target="_blank"}) - depozit u dolarima u stranim bankama ili filijalama američkih banaka izvan SAD (uglavnom u Evropi). Zaslužuju pažnju jer ne podiježu propisima niti obaveznim rezervama. U tom smislu, teško je čak i tačno znati ukupnu količinu novca koja postoji ([sav novac svijeta](https://www.visualcapitalist.com/all-of-the-worlds-money-i-tržišta-u-jednom-vizualizacija-2020/){:target="_blank"}).<br>
+-- Osim toga, postoje različiti slojevi novca:<br>
+-M1 = osnovni novac (gotovina u opticaju, tekući i štedni računi, čekovi)<br>
+-M2 = M1 + fondovi tržišta novca<br>
+-M3 = M2 + ostali finansijski instrumenti<br>
+
+**Povjerenje**<br>
+je pouzdan odnos s nepoznatim, društveno ljepak koje premošćuje jaz:<br>
+`Poznato` <---> POVJERENJE <---> `Nepoznato`<br>
+To je valuta interakcija.<br>
+Način da se izgradi više povjerenja je da budete transparentniji i s vremenom postanete vjerodostojni (imati reputacijski kapital).<br>
+U posljednje vrijeme mogli smo primijetiti [kršenje povjerenja](https://www.youtube.com/watch?v=GqGksNRYu8s){:target="_blank"} u mnogim oblastima kao što su:<br>
+&nbsp;1. [Hakovanje telefona News International](https://en.wikipedia.org/wiki/News_International_phone_hacking_scandal){:target="_blank"}<br>
+&nbsp;2. [Globalna finansijska kriza dovela do zatvaranja samo jednog bankara](https://features.marketplace.org/why-no-ceo-went-jail-after-financial-crisis/){:target="_blank"}<br>
+&nbsp;3. [Skandal s emisijom Volkswagen-a](https://hbr.org/2015/09/what-vw-didnt-understand-about-trust){:target="_blank"}<br>
+&nbsp;4. [Panamski dokumenti koji pokazuju kako moćni političari iskorištavaju offshore poreski režim](https://www.dw.com/en/panama-papers-reveal-how-the-rich-hide-money-offshore/a-19161658){:target= "_blank"<br>
+&nbsp;5. [Corona Covid-19 pandemija: vakcina i pravila o zaključavanju](https://gh.bmj.com/content/7/5/e008684){:target="_blank"}<br>
+Očigledno institucionalno povjerenje (naslijeđeni sistem) više ne funkcioniše, jer nije dizajniran za digitalno doba.<br>
+
+| N | INSTITUCIONALAN | DISTRIBUIRAN    |
+| - | --------------- | --------------- |
+| 1 | Neprovidan      | Transparentan   |
+| 2 | Zatvoren        | Uključiv        |
+| 3 | Centralizovan   | Decentralizovan |
+| 4 | Licenciran      | Odgovoran       |
+| 5 | Od vrha nadole  | Od dna ka gore  |
 
  ____ **DALJI PREVOD JOS U TOKU ...** ____
  
--- In essence there are 2 types of money commodity-based money and credit based money. **Fiduciary Media** is money issued by third party, for example by some Bank, and it's a form of credit.<br>
--- Almost all money today is [FIAT](https://www.britannica.com/topic/fiat-money){:target="_blank"}, declared by a government decree and not supported by physical commodity. It is determined by authority, made to be legal-tender (taxes as type of debt are paid with it), and imposed by force (Political -> Policy -> Police). Based on **Trust** that is often betrayed and backed only by promise it is sometimes referred as Fiat Fraud. Fiat is artificial 'checkbook' money that also constraints real production ([Joyless economy](https://underconsumed.medium.com/the-joyless-economy-1976-tibor-scitovsky-17da683764ee){:target="_blank"}).<br>
--- Some consider Money printing ([*'fiat mining'*](https://bitcoinfoqus.com/fiat-mining/){:target="_blank"}) to be [**UBI**](https://en.wikipedia.org/wiki/Universal_basic_income){:target="_blank"} (*Universal Basic Income*) but for the rich. Since new money is routinely first available for people close to those in power ([Cantillon effect](https://whatismoney.info/cantillon-effect-bitcoin/){:target="_blank"}) and to ones that already have it as they can take big credits and own assets other than cash that are more inflation proof.<br>
--- The way a country can get more money for budget spending is that the Treasury issues Bonds and the **Central Bank** (*CB*), in the US case the [**FED**](https://www.federalreserve.gov/aboutthefed/structure-federal-reserve-system.htm){:target="_blank"} (*Federal Reserve System* - [history](https://www.federalreserveeducation.org/about-the-fed/history/){:target="_blank"}), prints that amount of money and buys those bonds. Since today most money is not in the form of paper cash but is digital, creating new money is simply typing digits on the computers of banks that are saved to a database.<br>
-
--- Also monetary tools and systems are made very complex. Some would argue deliberately in order to obfuscate it and make it less transparent and more obscure so that fewer people would object to the system itself. One of the printing mechanisms is [**QE-Quantitative Easing**](https://www.forbes.com/advisor/investing/quantitative-easing-qe/){:target="_blank"}, where banks have the right to issue credits, meaning to print money as already explained, based on deposits they have, in ratio 1:10 or even more ([Fractional Reserve Banking](https://www.investopedia.com/terms/f/fractionalreservebanking.asp){:target="_blank"}). Opposite policy is known as **Quantitative Tightening**. Let's also define term *base point* that is 1/100 part of percent or 0.01 %, which is often used when stating CB interest rates.<br>
--- It is not just central bank that prints money but also commercial ones all around the world. Let's now introduce the notion of [**Eurodollar**](https://www.investopedia.com/terms/e/eurodollar.asp){:target="_blank"} - dollar deposits at foreign banks or American banks branches outside of US (mostly in Europe). They deserve notice because they are not subject to regulation nor reserve requirements. In this regard it is hard to even know exactly the total supply of money in existence ([all-of-the-worlds-money](https://www.visualcapitalist.com/all-of-the-worlds-money-and-markets-in-one-visualization-2020/){:target="_blank"}).<br>
--- In addition, there are different layers of money:<br>
--M1 = base money (currency in circulation, checking and savings accounts, checks)<br>
--M2 = M1 + money market funds<br>
--M3 = M2 +  other financial instruments<br>
-
-**Povjerenje**<br>
-is a confident relationship with the unknown, a social glue that bridges the gap:<br>
-`Known` <---> TRUST <---> `Unknow`<br>
-It's a currency of interactions.<br>
-The way to build more trust is to be more transparent and in time you become trustworthy (have reputation capital).<br>
-Lately we could observe [breach of trust](https://www.youtube.com/watch?v=GqGksNRYu8s){:target="_blank"} in many areas like:<br>
-&nbsp;1. [News International phone hacking](https://en.wikipedia.org/wiki/News_International_phone_hacking_scandal){:target="_blank"}<br>
-&nbsp;2. [Global Financial Crisis resulted with only 1 banker jailed](https://features.marketplace.org/why-no-ceo-went-jail-after-financial-crisis/){:target="_blank"}<br>
-&nbsp;3. [Volkswagen emissions scandal](https://hbr.org/2015/09/what-vw-didnt-understand-about-trust){:target="_blank"}<br>
-&nbsp;4. [Panama papers showing powerful politicians exploiting offshore tax regime](https://www.dw.com/en/panama-papers-reveal-how-the-rich-hide-money-offshore/a-19161658){:target="_blank"}<br>
-&nbsp;5. [Corona Covid-19 Pandemic vaccine and lockdown policy](https://gh.bmj.com/content/7/5/e008684){:target="_blank"}<br>
-Evidently institutional trust (legacy system) is no longer working, because it was not designed for digital age.<br>
-
-| N | INSTITUTIONAL | DISTRIBUTED   |
-| - | ------------- | ------------- |
-| 1 | Opaque        | Transparent   |
-| 2 | Closed        | Inclusive     |
-| 3 | Centralized   | Decentralized |
-| 4 | Licensed      | Accountable   |
-| 5 | Top-down      | Bottom-up     |
-
 ### 1.4 Dosadašnji sažetak [[C](#toc)]
 {: #sum-it-so-far }
 -- Countries have the complete control of money and can inflate it for various reasons with several economic tools. That power is then often misused by political elites and corporations while chasing profits (somewhat greedy), that results in high inflation or in some cases even hyperinflation. This sort of inflation's Moral Hazard is practically an additional hidden ([regressive](https://www.lemonde.fr/en/economy/article/2022/06/27/inflation-is-the-most-regressive-tax-of-all_5988059_19.html){:target="_blank"}) Tax on population that [nobody voted for](https://www.johnlocke.org/inflation-is-a-tax-nobody-voted-for/){:target="_blank"}. One could argue it's theft in a sense or financial robbery. It is slowly siphoning wealth from the average person to the politically well-connected. And while prices of all goods just increase, salaries do not always grow to keep up, instead workers have to explicitly asks it from employers. So small wage raise does not mean more purchase power, it's just to keep up with inflation.<br>
