@@ -221,27 +221,27 @@ U narednim godinama nekoliko osoba je pogrešno sumnjičeno ili su lažno tvrdil
 [Istorija Sajferpanka](https://www.coindesk.com/markets/2016/04/09/bitcoin-and-the-rise-of-the-cypherpunks/)<br>
 ![cypherpunks](https://raw.githubusercontent.com/borisdj/borisdj.github.io/master/assets/images/revolution-of-money/cypherpunks.jpg)
 
-____ **DALJI PREVOD JOS U TOKU ...** ____
-
 ### 2.2 Prošireni opis [[C](#toc)]
 {: #technical-background }
--- From an engineering aspect Bitcoin protocol is a masterpiece software. We could see that the compelling idea has been circulating for some time and several components of it already existed. But nevertheless, integrating it all into a functional unit was done ingeniously. Hats down to Satoshi whoever he / she or they be, for the first full implementation of the idea, while being a truly visionary. Also, the timing was just right. Firstly, the internet and cryptography were sufficiently developed. Secondly the political and economic situation was fertile as well, inspiration came from revolt. Also, to define a word **Bit** (binary digit) - the smallest unit of data that a computer can process and store, whose value can be 0 or 1. <br>
--- Let's jump to the point:<br>
-Bitcoin has a **Ledger** of transactions, which is a list stored in a database that is not centralized in one server but distributed on multiple computers called **Nodes** around the world. Ledger essentially enables reliable spreadsheet with Balances. It's like immutable record that can't be counterfeited. New transactions, up to 2000 of them, are on average every 10 minutes grouped into a **Block** 1 MB in size that is added to the ledger. Each block is connected to previous ones by hash code that is not easy to find. That's why this structure is called **Blockchain**, multiple blocks connected in a line, and it's what underpins the system. It can be used for [solving other problems](https://101blockchains.com/problems-blockchain-solve/){:target="_blank"} as well.<br>
+-- Sa inženjerskog aspekta, Bitcoin protokol je softversko remek djelo. Mogli smo vidjeti da je ubjedljiva ideja kružila već neko vrijeme i da nekoliko komponenti je već postojalo. Ali ipak, integrisanje svega u funkcionalnu cjelinu je urađeno genijalno. Kapa dole Satošiju, ko god on/ona ili oni bili, za prvu potpunu implementaciju ideje, kao istinskom vizionaru. Takođe, tajming je bio odgovarajući. Prvo, internet i kriptografija su bili dovoljno razvijeni. Drugo, i politička i ekonomska situacija je bila plodna, inspiracija je došla iz revolta. Također, da definišemo riječ **Bit** (binarna cifra) - najmanja jedinica podataka koju računar može obraditi i pohraniti, čija vrijednost može biti 0 ili 1.<br>
+-- Pređimo na stvar:<br>
+Bitkoin ima **Dnevnik** transakcija, što je lista uskladištena u bazi podataka koja nije centralizovana na jednom serveru, već se distribuira na više računara pod nazivom **Čvorovi** širom svijeta. Dnevnik knjiga u suštini omogućava pouzdanu tabelu sa bilansima. To je kao nepromjenjiva ploča koja se ne može falsifikovati. Nove transakcije, do 2000 njih, se u prosjeku svakih 10 minuta grupišu u **Blok** veličine 1 MB koji se dodaje u knjigu. Svaki blok je povezan sa prethodnim pomoću heš koda koji nije lako pronaći. Zato se ova struktura naziva **Blokčejn**, više blokova povezanih u lanac/liniju, i to je ono što podupire sistem. Može se koristiti i za [rješavanje drugih problema](https://101blockchains.com/problems-blockchain-solve/){:target="_blank"}.<br>
 ![Blockchain](https://raw.githubusercontent.com/borisdj/borisdj.github.io/master/assets/images/revolution-of-money/blockchain.jpg)
 
-| PROPERTIES   | of BLOCKCHAIN (type of DLT - Distributed Ledger Technology)               |
-| ------------ | ------------------------------------------------------------------------- |
-| Programmable | i.e. Smart Contracts                                                      |
-| Secure       | all records are individually encrypted                                    |
-| Anonymous    | the identity of participants is unknown, either fully or pseudo hidden    |
-| Unanimous    | most of network participants agree to the validity of each of the records |
-| Distributed  | all participants have a copy of the ledger for complete transparency      |
-| Immutable    | any validated records are irreversible and cannot be changed              |
-| Time-stamped | a transaction timestamp is recorded on a block                            |
+| OSOBINE        | BLOCKCHAIN-a (tip DLT - Tehnologija Distribuiranog Dnevnika)   |
+| -------------- | -------------------------------------------------------------- |
+| Programabilno  | npr. Pametni ugovori                                           |
+| Sigurno        | svi zapisi su pojedinačno šifrovani                            |
+| Anonimono      | identitet učesnika je nepoznat, ili potpuno ili pseudo skriven |
+| Jednoglasno    | većina učesnika mreže slaže se sa validnošću svakog od zapisa  |
+| Distribuirano  | svi učesnici imaju kopiju knjige za potpunu transparentnost    |
+| Nepromjenljivo | svi potvrđeni zapisi su nepovratni i ne mogu se mijenjati      |
+| Vremenski žig  | vremenska oznaka transakcije je zabilježena u bloku           |
 
-From functional viewpoint is can be defined as the Great Chain of being sure about things.
-3 pillars of blockchain technology are: Decentralization, Transparency (Auditability), Immutability.
+Sa funkcionalnog stanovišta može se definisati kao Veliki lanac sigurnosti o stvarima.
+3 stuba *Blockchain* tehnologije su: decentralizacija, transparentnost (auditabilnost), nepromjenjivost.
+
+____ **DALJI PREVOD JOS U TOKU ...** ____
 
 -- [**Hash**](https://en.wikipedia.org/wiki/Hash_function){:target="_blank"} is a cryptographic function that converts longer text into a relatively unique code of fixed length, but reverse cannot be done in any practical time. This characteristic is used to do the so-called **Mining**, virtual one of course, a term taken from the gold industry. That work consists of trying an enormous number of combinations to find one where hash begins with several [leading zeros](https://www.investopedia.com/tech/how-does-bitcoin-mining-work/#toc-the-mining-process){:target="_blank"} (000...). Some like to draw analogy with [Sudoku puzzle](https://steemit.com/bitcoin/@abhi3700/crypto-thoughts-ct-5-bitcoin-mining-analogy-sudoku-puzzle){:target="_blank"}. All miners are competing to find it and when one does then a new block is finished, synced across the network, and he also gets the reward of a certain amount of newly created coins.<br>
 --In the long term based on statistics, every miner should get approximately equal sum, while on the other side they have spent electric power. Based on the number of participants, the algorithm adjusts the difficulty level to keep it always around 10 minutes. It's done in a way that when there are more miners leading to more hash power difficulty increases which makes it harder to find a solution. This process is called **PoW *(Proof of Work)***, the term is self-explanatory, that consists of defined rules. The [**Nakamoto Consensus**](https://medium.com/nakamo-to/nakamoto-consensus-21cd304f96ff){:target="_blank"} is a set of rules that verifies the authenticity of a blockchain network. It is using a combination of the proof-of-work [consensus algorithm](https://coinmarketcap.com/alexandria/article/what-is-the-nakamoto-consensus){:target="_blank"} (consensus rules) on a [**BFT**](https://www.geeksforgeeks.org/practical-byzantine-fault-tolerancepbft){:target="_blank"} peer-to-peer network (BFT - *Byzantine Fault Tolerance* that solves *Byzantine Generals Problem* a situation in which majority of actors must agree on a coordinated strategy).<br>
