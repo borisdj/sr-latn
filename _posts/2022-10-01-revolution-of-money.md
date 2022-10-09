@@ -42,12 +42,12 @@ ako vam se sviđa tekst
 {% endraw %}
 | [Uvod](#introduction) |
 | ------------------------------------- |
-| [**1. Monetarne Hronike**](#monetary-chronicles) |
-| [1.1 Početak Novca](#beginning-of-money) |
+| [**1. Monetarne hronike**](#monetary-chronicles) |
+| [1.1 Početak novca](#beginning-of-money) |
 | [1.2 Skorija istorija](#recent-history) |
 | [1.3 Moderno doba](#modern-age) |
 | [1.4 Dosadašnji sažetak](#sum-it-so-far) |
-| [**2. Bitcoin objašnjenje**](#bitcoin-explanation) |
+| [**2. Bitkoin objašnjenje**](#bitcoin-explanation) |
 | [2.1 Kako je sve počelo](#how-it-all-started) |
 | [2.2 Tehnička pozadina](#technical-background) |
 | [2.3 Prošireni opis](#extended-description) |
@@ -60,7 +60,7 @@ ako vam se sviđa tekst
 | [4.1 Ekonomski uticaj](#economic-impact) |
 | [4.2 Političke implikacije](#political-implications) |
 | [4.3 Socijalna komponenta](#social-component) |
-| [**5. Gledajući naprijed**](#looking-forward) |
+| [**5. Pogled u budućnosti**](#looking-forward) |
 | [5.1 Budući razvoj](#future-development) |
 | [5.2 Šta dalje](#what-lies-ahead) |
 | [5.3 Praktični pristup](#practical-approach) |
@@ -68,7 +68,7 @@ ako vam se sviđa tekst
 
 ## Uvod [[ToC](#toc)]
 {: #introduction }
--- U tekstu koji slijedi govori se o novčanim sistemima prošlosti, postojećim u sadašnjosti, ali i budućoj perspektivi i mogućnostima. U futurističkom kontekstu, prva riječ koju treba spomenuti je **[Bitcoin](https://bitcoin.org/sr/)** (Bitkoin), ili kratko **BTC (₿)**. Da bismo ga objasnili, postoji fraza koja kaže: *To je odgovor, a da vidimo sada šta je pitanje*. Za bolje razumijevanje moramo prvo da shvatimo istoriju novca i trenutne monetarne sisteme.<br>
+-- U tekstu koji slijedi govori se o novčanim sistemima prošlosti, postojećim u sadašnjosti, ali i budućoj perspektivi i mogućnostima. U futurističkom kontekstu, prva riječ koju treba spomenuti je [***Bitcoin***](https://bitcoin.org/sr/) (Bitkoin), ili kratko **BTC (₿)**. Da bismo ga objasnili, postoji fraza koja kaže: *To je odgovor, a da vidimo sada šta je pitanje*. Za bolje razumijevanje moramo prvo da shvatimo istoriju novca i trenutne monetarne sisteme.<br>
 -- Diskusija je poduža kao i priroda tematike, pa je podijeljena na segmente radi lakšeg razumijevanja.
 Nemojte se obeshrabriti ako vam materijal izgleda stran. Većina ljudi, u zavisnosti od nivoa poznavanja materije, trebaće da ga pročita nekoliko puta, pošto obiluje različitim informacijama. Takođe najbolje je da čitanje rasporedite na više dana, prespavate ga, nakon čega će se pojaviti mnoga pitanja. Za njih imate prijatelje i forume za razgovor, kao i blogove, članke i YT kanale / podkaste za slušanje. Takođe možete ostaviti komentar ili pitanje na dnu. I što više znate, više želite da saznate, takozvano *'Pad niz (Bitcoin) Zečju rupu'* (metafora za avanturu u nepoznato iz *Alise u zemlji čuda*). To će vas natjerati na razmišljanje, ali istovremeno i proširiti vaše vidike.<br> 
 -- Ono što je važno je shvatiti ideju i osnove, i kako im pristupiti. Ne moraju svi da znaju sve tehničke detalje da bi ga koristili. Ali za one koji želje dublje da se upute u materiju neka procjena je da je potrebno najmanje [100 sati učenja](https://crypto--telegraphs-com.translate.goog/2022/06/22/100-hours-of-study-needed-to-understand-how-bitcoin-works/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} ([100 sati analize](https://hannahdo.medium.com/a-summary-from-my-100-hours-of-learning-about-bitcoin-9d6da7b8feea){:target="_blank"}) da bi se uronilo u ovu stvar. Jedan komičar je čak rekao:<br>
@@ -81,7 +81,7 @@ Rad je još uvijek u toku i treba nešto konačnog refaktorisanja, nemojte zamje
 {: #monetary-chronicles }
 ### 1.1 Početak novca [[C](#toc)]
 {: #beginning-of-money }
--- Kada su ljudi prešli sa lovaca-sakupljača na poljoprivredu i stočarstvo prije otprilike 10.000 godina, to je dovelo do specijalizacije u radu, veće produktivnosti i akumulacije viškova proizvoda. Ovo je omogućilo stvaranje većih naselja, gradova i na kraju država. To je takođe značilo da su ljudi mogli razmjenjivati (trampa) višak stvari koje su nabavili ili napravili, na primjer žitarice ili životinje, ali nije bilo lako odrediti vrijednost svakog predmeta niti ga podijeliti. Kredit je vjerovatno bio najstarije sredstvo trgovine, a trampa se razvila kasnije. Veće zajednice značile su da morate trgovati sa strancima i bila je potrebna neka osnova za povjerenje ([Dunbarov broj](https://sr.wikipedia.org/sr-el/%D0%94%D0%B0%D0%BD%D0%B1%D0%B0%D1%80%D0%BE%D0%B2_%D0%B1%D1%80%D0%BE%D1%98){:target="_blank"} - može se održavati samo oko 150 bliskih veza). Trebao im je sistem koji bi olakšao trgovinu. Zato je novac izmišljen i kako je nastao.<br>
+-- Kada su ljudi prešli sa lovaca-sakupljača na poljoprivredu i stočarstvo prije otprilike 10.000 godina, to je dovelo do specijalizacije u radu, veće produktivnosti i akumulacije viška proizvoda. Ovo je omogućilo stvaranje većih naselja, gradova i na kraju država. To je takođe značilo da su ljudi mogli razmjenjivati (trampa) višak stvari koje su nabavili ili napravili, na primjer žitarice ili životinje, ali nije bilo lako odrediti vrijednost svakog predmeta niti ga podijeliti. Kredit je vjerovatno bio najstarije sredstvo trgovine, a trampa se razvila kasnije. Veće zajednice značile su da morate trgovati sa strancima i bila je potrebna neka osnova za povjerenje ([Dunbarov broj](https://sr.wikipedia.org/sr-el/%D0%94%D0%B0%D0%BD%D0%B1%D0%B0%D1%80%D0%BE%D0%B2_%D0%B1%D1%80%D0%BE%D1%98){:target="_blank"} - može se održavati samo oko 150 bliskih veza). Trebao im je sistem koji bi olakšao trgovinu. Zato je novac izmišljen i kako je nastao.<br>
 -- U ranim danima koristile su se brojne stvari kao što su školjke posebnog izgleda, rijetko kamenje, itd. Postoji zanimljiva priča o [afričkoj trgovini staklenim perlama](https://www-africanodyssey-co-uk.translate.goog/blog/a-brief-history-of-glass-beads-in-africa?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} ([zloupotreba hiperinflacije za trgovinu robljem](https://www-afrikapital-org.translate.goog/p/akori-beads-hyper-inflation-and-ancient?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}) i još jedna o velikom kamenju [Jap naroda](https://www-npr-org.translate.goog/sections/money/2011/02/15/131934618/the-island-of-stone-money?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=sr&_x_tr_pto=wapp){:target="_blank"}. Kamenje je bio primitivni kreditni sistem. Kasnije su došli metali i metalne kovanice, od bronze, srebra ili zlata. Ako se neko pita zašto su ovi materijali odabrani, najbolje je prvo definisati osobine novca ([Projekat novca](https://money-visualcapitalist-com.translate.goog/infographic-the-properties-of-money/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target= "_blank"}) pošto je apstraktan koncept:
 
 | № | FUNKCIJA          | Opis                                               |
@@ -107,7 +107,7 @@ Primjeri funkcija:<br>
 -- Očigledno **Zlato** je imalo kvalitete da ispuni većinu ovih uloga, ali nije savršeno, samo najbolje u tom trenutku, ili takoreći najmanje loše. Neki od nedostataka su bili: nije lako za nošenje - skup transport (niska prenosivost), teško se dijeli (potrebno istopiti) i opasnost od krađe i pljačke.<br>
 -- Zbog toga su neki trgovci, kasnije privatne banke pa centralne banke počele držati zlato za ljude a davali im **sertifikate** koliko zlata imaju. Ljudi su tada koristili te potvrde, kao Potraživanje za robu, za trgovinu i tako je nastao **papirni novac** odnosno **novčanice** (mjenice - [IOU](https://www-investopedia-com.translate.goog/terms/i/iou.asp?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} akronim od *'I owe you (Dugujem ti)'*) ili kolokvijalno **gotovina**. Ali loša strana je bila uvođenje posrednika kojima vjerovati. A istorija je puna primjera gdje je to povjerenje iskorišćavano iz raznih razloga, obično stvaranjem više novčanica / banknota nego što je bilo zlata za pokriće. To je dovodilo do bankrota privatnih banaka ili hiperinflacije od strane centralnih banaka, što je u oba slučaja rezultiralo istim ishodom, ljudi su izgubili svoju štednju i kupovnu moć. Banke mogu biti sa punim rezervama ili sa frakcionim rezervama. Jedna od prvih centralnih banaka bila je [Banka Amsterdama](https://en-wikipedia-org.translate.goog/wiki/Bank_of_Amsterdam?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} (*'Amsterdamsche Wisselbank'*) koja je osnovana davne 1609. godine. Na kraju je većina zemalja preuzela potpunu monetarnu kontrolu i dalji razvoj novca je zaustavljen.<br>
 
--- **Novac** je jezik, lingvistički i društveni konstrukt, koji se koristi kao sredstvo komunikaciju vrijednosti jedni drugima. To je također kolektivna i donekle izmišljena priča o vrijednosti, uz saglasnost većine. Dakle, nije inherentno vrijedan, mi (subjektivno) odlučujemo da mu damo zasluge. Ljudski rad se još uvijek obično mjeri radnim vremenom, tako da je novac također [Vrijeme, najvrjednija valuta](https://drtownsend-com.translate.goog/time-valuable-currency/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} (jedna izgubljena sekunda ne može se otkupiti).<br>
+-- **Novac** je jezik, lingvistički i društveni konstrukt, koji se koristi kao sredstvo komunikacije vrijednosti među ljudima. To je takođe kolektivna i donekle izmišljena priča o vrijednosti, uz saglasnost većine. Dakle, nije inherentno vrijedan, mi (subjektivno) odlučujemo da mu damo zasluge. Ljudski rad se još uvijek obično mjeri radnim vremenom, tako da je novac takođe [Vrijeme, najvrjednija valuta](https://drtownsend-com.translate.goog/time-valuable-currency/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} (jedna izgubljena sekunda ne može se otkupiti).<br>
 -- Prema [Informacionoj teoriji novca](https://medium.com/the-bitcoin-times/information-theory-of-money-36247aebdfe1){:target="_blank"} cijene i tržište su zamršeno isprepleteni. Cijene odražavaju informacije, dok je novac mjerni štap, a informacije su decentralizovane. Dakle, centralizovani sistemi imaju nerješiv problem podataka zbog nedostatka svih potrebnih znanja cijelo vrijeme, što za rezultat ima ogromnu pogrešnu alokaciju kapitala.
 
 [YT - Finance: The History of Money](https://www.youtube.com/watch?v=YCN2aTlocOw){:target="_blank"}
@@ -143,7 +143,7 @@ Postoje zanimljivi filmovi o ovoj temi i vezi sa *Wall Street*-om kao što su: *
 -M3 = M2 + ostali finansijski instrumenti<br>
 
 **Povjerenje**<br>
-je pouzdan odnos s nepoznatim, društveni ljepak koje premošćuje jaz:<br>
+je pouzdan odnos s nepoznatim, društveni ljepak koji premošćuje jaz:<br>
 `Poznato` <---> POVJERENJE <---> `Nepoznato`<br>
 To je valuta interakcija.<br>
 Način da se izgradi više povjerenja je da budete transparentniji i s vremenom postanete vjerodostojni (imati reputacijski kapital).<br>
@@ -212,7 +212,7 @@ NSA još uvijek ima sisteme poput [PRISM](https://www.theverge.com/2013/7/17/451
 | BTC [logo](https://cointelegraph.com/news/the-btc-origin-story-who-designed-the-bitcoin-logo){:target="_blank"} | 
 ![bitcoin_logo](https://raw.githubusercontent.com/borisdj/borisdj.github.io/master/assets/images/revolution-of-money/bitcoin_logo32.png) |
  
--- Primalac prve BTC transakcije koje je i doprinio mreži bio je kompjuterski naučnik po imenu *Hal Finney*. On je bio američki programer koji je radio za [**PGP**](https://www.openpgp.org){:target="_blank"} (*Pretty Good Privacy*, Prilično Dobra Privatnost) - prva besplatna implementacija enkripcije sa javno-privatnim ključem za (e-mail) komunikaciju. Također je vodio prvi kriptografski baziran anonimni re-mailer i bio je uključen u sajferpank mail listu. Među značajnim kriptografima i programerima čiji je rad citiran u BTC dokumentu bili su *Wei Dai* ([***B-money***](https://www.investopedia.com/terms/b/bmoney.asp){ :target="_blank"}) i britanac *Adam Back* ([***Hashcash***](http://www.hashcash.org/){:target="_blank"}) koji je danas izvršni direktor [**Blockstream**](https://blockstream.com){:target="_blank"}. Sva četvorica su bili dio [Sajferpank](https://nakamoto.com/the-cypherpunks/){:target="_blank"} zajednice i [pokreta](https://www.horizen.io/blockchain-academy/history/the-cypherpunk-movement/){:target="_blank"} i istaknuti članovi mail liste, ali i rani saradnici Bitkoin projekta.<br>
+-- Primalac prve BTC transakcije koje je i doprinio mreži bio je kompjuterski naučnik po imenu *Hal Finney*. On je bio američki programer koji je radio za [**PGP**](https://www.openpgp.org){:target="_blank"} (*Pretty Good Privacy*, Prilično Dobra Privatnost) - prva besplatna implementacija enkripcije sa javno-privatnim ključem za (e-mail) komunikaciju. Takođe je vodio prvi kriptografski baziran anonimni re-mailer i bio je uključen u sajferpank mail listu. Među značajnim kriptografima i programerima čiji je rad citiran u BTC dokumentu bili su *Wei Dai* ([***B-money***](https://www.investopedia.com/terms/b/bmoney.asp){ :target="_blank"}) i britanac *Adam Back* ([***Hashcash***](http://www.hashcash.org/){:target="_blank"}) koji je danas izvršni direktor [**Blockstream**](https://blockstream.com){:target="_blank"}. Sva četvorica su bili dio [Sajferpank](https://nakamoto.com/the-cypherpunks/){:target="_blank"} zajednice i [pokreta](https://www.horizen.io/blockchain-academy/history/the-cypherpunk-movement/){:target="_blank"} i istaknuti članovi mail liste, ali i rani saradnici Bitkoin projekta.<br>
 -- Dakle, Satoši može biti bilo ko od njih ili neko drugi, možda čak i više osoba, mali tim. To bi uvijek mogla [ostati misterija](https://academy.bit2me.com/en/quien-ha-creado-bitcoin/){:target="_blank"} ali na kraju nije ni bitno, važna stvar je rezultat i sama mreža. Početne dorade prve web stranice uradio je [*Martti Malmi*](https://academy.bit2me.com/en/who-is-martti-malmi/){:target="_blank"}, [student iz Finske](https://www.theverge.com/2015/6/10/8751933/the-shy-college-student-who-helped-build-bitcoin-into-a-global){:target="_blank" }.
 U narednim godinama nekoliko osoba je pogrešno sumnjičeno ili su lažno tvrdili da su Satoši.<br>
 -- Kreator BTCa Satoši, krajem 2010. godine, objavio je poslednji post gdje je rekao: *Postoji još posla...*. i od tada nije uspostavio nikakav poznati kontakt. Danas vidimo da se projekat nastavio i postao revolucionarni proizvod na globalnom nivou. U međuvremenu, saradnik *Gavin Andresen* postao je vodeći programer do 2014. godine kada je *Wladimir van der Laan* iz Amsterdama došao na tu poziciju.<br>
@@ -223,7 +223,7 @@ U narednim godinama nekoliko osoba je pogrešno sumnjičeno ili su lažno tvrdil
 
 ### 2.2 Prošireni opis [[C](#toc)]
 {: #technical-background }
--- Sa inženjerskog aspekta, Bitcoin protokol je softversko remek djelo. Mogli smo vidjeti da je ubjedljiva ideja kružila već neko vrijeme i da nekoliko komponenti je već postojalo. Ali ipak, integrisanje svega u funkcionalnu cjelinu je urađeno genijalno. Kapa dole Satošiju, ko god on/ona ili oni bili, za prvu potpunu implementaciju ideje, kao istinskom vizionaru. Takođe, tajming je bio odgovarajući. Prvo, internet i kriptografija su bili dovoljno razvijeni. Drugo, i politička i ekonomska situacija je bila plodna, inspiracija je došla iz revolta. Također, da definišemo riječ **Bit** (binarna cifra) - najmanja jedinica podataka koju računar može obraditi i pohraniti, čija vrijednost može biti 0 ili 1.<br>
+-- Sa inženjerskog aspekta, Bitcoin protokol je softversko remek djelo. Mogli smo vidjeti da je ubjedljiva ideja kružila već neko vrijeme i da nekoliko komponenti je već postojalo. Ali ipak, integrisanje svega u funkcionalnu cjelinu je urađeno genijalno. Kapa dole Satošiju, ko god on/ona ili oni bili, za prvu potpunu implementaciju ideje, kao istinskom vizionaru. Takođe, tajming je bio odgovarajući. Prvo, internet i kriptografija su bili dovoljno razvijeni. Drugo, i politička i ekonomska situacija je bila plodna, inspiracija je došla iz revolta. Takođe, da definišemo riječ **Bit** (binarna cifra) - najmanja jedinica podataka koju računar može obraditi i pohraniti, čija vrijednost može biti 0 ili 1.<br>
 -- Pređimo na stvar:<br>
 Bitkoin ima **Dnevnik** transakcija, što je lista uskladištena u bazi podataka koja nije centralizovana na jednom serveru, već se distribuira na više računara pod nazivom **Čvorovi** širom svijeta. Dnevnik knjiga u suštini omogućava pouzdanu tabelu sa bilansima. To je kao nepromjenjiva ploča koja se ne može falsifikovati. Nove transakcije, do 2000 njih, se u prosjeku svakih 10 minuta grupišu u **Blok** veličine 1 MB koji se dodaje u knjigu. Svaki blok je povezan sa prethodnim pomoću heš koda koji nije lako pronaći. Zato se ova struktura naziva **Blokčejn**, više blokova povezanih u lanac/liniju, i to je ono što podupire sistem. Može se koristiti i za [rješavanje drugih problema](https://101blockchains.com/problems-blockchain-solve/){:target="_blank"}.<br>
 ![Blockchain](https://raw.githubusercontent.com/borisdj/borisdj.github.io/master/assets/images/revolution-of-money/blockchain.jpg)
@@ -246,52 +246,52 @@ Sa funkcionalnog stanovišta može se definisati kao Veliki lanac sigurnosti o s
 -- Još jedna važna stvar koju treba razjasniti je [**PKI**](https://www.keyfactor.com/resources/what-is-pki){:target="_blank"} (*Public Key Infrastructure* - Infrastruktura javnog ključa), koji se ovdje koristi za potpisivanje digitalnih informacija privatnim ključem kako bi drugi mogli da potvrde potpis pomoću javnog ključa, obično upakovanog u **Digitalni certifikat**. Osigurava da niko ne može potrošiti novčiće koji im ne pripadaju ako nemaju šifru zvani privatni ključ. PKI obično koristi [***RSA* algoritam**](https://www.geeksforgeeks.org/rsa-algorithm-cryptography/){:target="_blank"} koji je zasnovan na matematičkoj nemogućnosti faktorizacije velikih brojeva, za efikasno pronalaženje faktora sa prostim brojevima. RSA se može koristiti za digitalno šifrovanje (skriveni podaci) ili za digitalni potpis (osigurava integritet podataka, autentifikaciju i neporicanje). Drugi algoritmi uključuju *SHA-256*, *Diffie-Hellman* i *Eliptička kriva (ECDSA)* ([problem diskretnog logaritma](https://www.researchgate.net/publication/220784858_The_Elliptic_Curve_Discrete_Logarithm_Problem_State_of_the_Art){:target="_blank"}).<br>
 ![PKI](https://raw.githubusercontent.com/borisdj/sr-latn/main/assets/images/revolution-of-money/pki.png)
 
-____ **DALJI PREVOD JOS U TOKU ...** ____
+-- Kombinacija ovih elemenata čini cijeli proces prilično intrigantnim i istovremeno daje nekoliko pozitivnih posljedica:<br>
+&nbsp;1. Sprečava dvostruku potrošnju - Digitalna rijetkost po prvi put<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (original u virtuelnoj stvarnosti koji se ne može kopirati, revolucionarna inovacija)<br>
+&nbsp;2. Garantuje integritet i sigurnost<br>
+&nbsp;3. Daje odgovarajuće ekonomske poticaje ljudima koji koriste i održavaju mrežu<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Pozitivna povratna sprega: viša cijena, više pažnje, veća potražnja)<br>
+-- Takođe ima dobru distribuciju tokom vremena sa opadajućom inflacijom, pošto se nagrada generisana rudarenjem prepolovi svake 4 godine. Maksimalan broj novčića je ograničen na [**21 milion**](https://decrypt.co/34876/why-is-bitcoins-supply-limit-set-to-21-million){:target="_blank "} (gornji limit) koji bi prema procjenama bio dostignut u **2140. godini**. Trenutno, 2022. već je kreirano skoro 19 miliona, oko 90%. Kada se nagrada za nove koine smanji, naknada za transakcije će ostati za rudare. Neki koini u ranom periodu nastajanja su izgubljeni zbog [vlasnika koji su izgubili ključ](https://www.businessinsider.com/james-howells-threw-away-bitcoin-dump-masterplan-get-back-2022-7){: target="_blank"} i takođe sam Satoši je iskopao skoro 1 milion koina koji nikada nisu premješteni sa početne adrese. Jedna procjena je da su vlasnici zagubili skoro 20% svih postojećih tokena, što ih čini još oskudnijim. Neki su se pitali zašto je za maksimalan broj izabran upravo 21 milion. Nominalna količina nije toliko bitna sve dok je definisana i fiksirana. Razlog zato jer je djeljiv, trenutno do 8 decimala, i 1 BTC ima 100 miliona satošija (sats) kao najmanja jedinica.<br>
 
--- Combination of these elements makes entire process quite intriguing and at the same time gives several positive consequences:<br>
-&nbsp;1. Prevents double spending - Digital Scarcity for the first time<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (original in virtual realm that could not be copied, a groundbreaking innovation)<br>
-&nbsp;2. Guaranties integrity and security<br>
-&nbsp;3. Gives proper economic incentives to people using and maintaining the network<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Positive Feedback Loop: higher price, more attention, bigger demand)<br>
--- It also makes good distribution throughout time with descending inflation, since reward generated with mining is halved every 4 years. Maximum number of coins is limited to [**21 million**](https://decrypt.co/34876/why-is-bitcoins-supply-limit-set-to-21-million){:target="_blank"} (hard cap) that would be reached in **year 2140** according to estimates. Currently, in 2022 almost 19 million is already created, about 90 %. When reward of new coins shrinks, transaction fee will remain for the miners. Some coins in early adoption period were lost due to [owners losing key](https://www.businessinsider.com/james-howells-threw-away-bitcoin-dump-masterplan-get-back-2022-7){:target="_blank"} and Satoshi mined almost 1 million coins that were never moved from initial address. One estimate is that owners have misplaced almost 20 % of all existing tokens, which makes it even more scarce. Some have been wondering why specific amount of 21 million exactly was chosen for max number. The nominal quantity is not that important as long as it is defined and fixed. Reason being it is divisible, currently up to 8 decimals, and 1 BTC have 100 million satoshis (sats) as smallest fraction (up to 8 decimal places).<br>
+-- Svi bi trebali biti svjesni da bitkoin nije anoniman, već je *Pseudo-Anoniman*, što znači da je transakcija javna, ali ima samo vlasnički broj. Međutim, ako neko ikada poveže taj broj sa osobom onda se može pratiti. Načini da se izbjegne praćenje su navedeni u odlomcima ispod.<br>
+-- Koini se mogu pohraniti van mreže u digitalnom novčaniku ili na mjenjačnici. Novčanik je aplikacija zaštićena lozinkom na mobilnom uređaju ili računaru, s tajnim kodom za otključavanje koji je sačuvan na drugoj lokaciji u digitalnom obliku ili napisan na papiru. Omogućava potpuni **Sopstveni Nadzor**, u skladu sa izrazom: ***Nisu vaši ključevi, nisu vaši novčići!*** Ne treba bježati od odgovornosti, zato **Preuzmite starateljstvo** nad svojim koinima. Vrijedno pomena su *Cold Storage* (Hladno skladište) kao offline novčanik i [hardverski novčanici](https://www.cryptovantage.com/news/ask-cryptovantage-do-i-really-need-a-hardware-wallet-to-store-bitcoin /){:target="_blank"} za one koji žele [dodatnu sigurnost](https://safehodl.github.io/hardware-wallets/){:target="_blank"} (preporučuje se kada se ima velika vrijednost).<br>
 
--- Everybody should be aware that bitcoin is not anonymous, instead it is *Pseudo-Anonymous*, meaning transaction is public but it only has owner number. However, if someone ever connects that number to a person then it can be tracked. Ways to avoid being tracked are mentioned in paragraphs bellow.<br>
--- Coins can be stored offline in a digital Wallet or on an exchange. Wallet is a password protected application on mobile or computer, with recovery secret code stored at another location in digital manner or written on paper. It enables full **Self Custody**, in accordance with expression: ***Not Your Keys, Not Your Coins!*** One should not be escaping responsibility, so **Take custody** of your coins. Worth noting are Cold storage as an offline wallet and [hardware wallets](https://www.cryptovantage.com/news/ask-cryptovantage-do-i-really-need-a-hardware-wallet-to-store-bitcoin/){:target="_blank"} for those who desire [extra security](https://safehodl.github.io/hardware-wallets/){:target="_blank"} (recommended when having large value).<br>
-
--- Block infos:<br>
+-- Blok informacije:<br>
 [BlockExplorer](https://blockexplorer.com/){:target="_blank"}; | [BlockStream](https://blockstream.info){:target="_blank"};<br>
-BlockChain: [charts](https://blockchain.com/charts){:target="_blank"} & [blocks](https://blockchain.com/btc/blocks){:target="_blank"}; | [balance](https://bitref.com/){:target="_blank"};
+BlockChain: [charts](https://blockchain.com/charts){:target="_blank"} & [blocks](https://blockchain.com/btc/blocks){:target="_blank"}; | [balans](https://bitref.com/){:target="_blank"};
 
 ### 2.3 Prošireni opis [[C](#toc)]
 {: #extended-description }
--- As a new internet protocol [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin){:target="_blank"} enables transfer of value over communication channel. Other earlier application protocols include *https* (web page), *ftp* (file), *smtp* (mail), etc. With latest you can basically send gold coin like mail, any amount of value to anywhere in the world almost instantly. Without anyone being able to stop it or have control, it is **Censorship Resistant** and can't be easily confiscated.<br>
-It is the first case where Greed and Altruistic incentives aligns. You can now make most selfish decision and also contribute to greater equality in the world when compared to the fiat system. As such it is very useful technological innovation that enables distributed consensus but can also be looked at from various angles. When trying to fully understand it one need to grasp its ***multitude of aspects*** (interdisciplinary):<br>
-&nbsp;1. **Economic** (Monetary policy) - predefined and limited quantity (relatively fixed supply)<br>
-&nbsp;2. **Technical** (Networking) - decentralization<br>
-&nbsp;3. **Political** - reducing state monetary control<br>
-&nbsp;4. **Ideological** - core value<br>
-&nbsp;5. **Social**<br>
+-- Kao novi internet protokol [Bitkoin](https://en.wikipedia.org/wiki/Bitcoin){:target="_blank"} omogućava prijenos vrijednosti preko komunikacijskog kanala. Ostali raniji protokoli aplikacija uključuju *https* (web stranice), *ftp* (datoteke), *smtp* (email), itd. Sa najnovijim možete u osnovi slati koin poput e-pošte, bilo koju vrijednost bilo gdje u svijetu skoro odmah. Bez da ga iko može zaustaviti ili imati kontrolu, on je **otporan na cenzuru** i ne može se lako konfiskovati.<br>
+To je prvi slučaj u kojem su se pohlepa i altruistički podsticaji uskladili. Sada možete donijeti najsebičniju odluku i doprinijeti većoj jednakosti u svijetu u poređenju sa fiat sistemom. Kao takva, vrlo je korisna tehnološka inovacija koja omogućava distribuirani konsenzus, ali se takođe može posmatrati iz različitih uglova. Kada se pokušava u potpunosti razumjeti, potrebno je shvatiti ***mnoštvo aspekata*** (interdisciplinarno):<br>
+&nbsp;1. **Ekonomski** (Monetarna politika) - unaprijed definisana i ograničena količina (relativno fiksna ponuda)<br>
+&nbsp;2. **Tehnički** (Umrežavanje) - decentralizacija<br>
+&nbsp;3. **Politički** - smanjenje državne monetarne kontrole<br>
+&nbsp;4. **Ideološki** - osnovne vrijednosti<br>
+&nbsp;5. **Društveni**<br>
 
--- YT videos:<br>
-[What is Bitcoin)](https://www.youtube.com/watch?v=Gc2en3nHxA4&t=34s){:target="_blank"}; | [Explained Simply](https://www.youtube.com/watch?v=41JCpzvnn_0&t=1s){:target="_blank"};<br>
-[How bitcoin work](https://www.youtube.com/watch?v=bBC-nXj3Ng4&t=8s){:target="_blank"}; | [How blockchain work](https://www.youtube.com/watch?v=SSo_EIwHSd4){:target="_blank"};<br>
-TED talks:<br>
--[Blockchain changing money and business](https://www.youtube.com/watch?v=Pl8OlkkwRpc&t=37s){:target="_blank"}<br>
--[Blockchain transform the economy](https://www.youtube.com/watch?v=RplnSVTzvnU&t=1s){:target="_blank"}<br>
--[The future of money](https://www.youtube.com/watch?v=pPgd7Hj3ABQ){:target="_blank"}<br>
+-- YT videi:<br>
+[Šta je Bitcoin)](https://www.youtube.com/watch?v=Gc2en3nHxA4&t=34s){:target="_blank"}; | [Jednostavno objašnjenje](https://www.youtube.com/watch?v=41JCpzvnn_0&t=1s){:target="_blank"};<br>
+[Kako bitkoin radi](https://www.youtube.com/watch?v=bBC-nXj3Ng4&t=8s){:target="_blank"}; | [Kako blokčejn radi](https://www.youtube.com/watch?v=SSo_EIwHSd4){:target="_blank"};<br>
+TED govori:<br>
+-[Blokčejn mijenja novac i poslovanje](https://www.youtube.com/watch?v=Pl8OlkkwRpc&t=37s){:target="_blank"}<br>
+-[Blokčejn transformiše ekonomiju](https://www.youtube.com/watch?v=RplnSVTzvnU&t=1s){:target="_blank"}<br>
+-[Budućnost novca](https://www.youtube.com/watch?v=pPgd7Hj3ABQ){:target="_blank"}<br>
 
-[Bitcoin Governance](https://stanford-jblp.pubpub.org/pub/bitcoin-governance/release/2){:target="_blank"} is similar to 3-pronged (traditional) branches of Government. <br> 
-[The Three Branches of Blockchain Governance](https://medium.com/digitalassetresearch/the-three-branches-of-blockchain-governance-75a29bf98880){:target="_blank"} (*Separation of powers* doctrine)
+[Bikcoin Upravljanje](https://stanford-jblp.pubpub.org/pub/bitcoin-governance/release/2){:target="_blank"} sličan sa 3 (tradicionalna) nivoa raydvajanja vlasti.<br> 
+[3 grane Blokčejn Upravljanja](https://medium.com/digitalassetresearch/the-three-branches-of-blockchain-governance-75a29bf98880){:target="_blank"} (doktrina *podjela vlasti*)
 
-| **GOV**        | **BIT**    | Description               |
-| -------------- | ---------- |-------------------------- |
-| 1. Executive   | Full Nodes | can veto miners           |
-| 2. Judicial    | Miners     | can veto devs             |
-| 3. Legislative | Developers | help others bypass vetoes |
+| **VLAST**      | **BIT**      | Opis                             |
+| -------------- | ------------ |--------------------------------- |
+| 1. Izvršna     | Puni čvorovi | mogu staviti veto na rudare      |
+| 2. Sudska      | Rudari       | može staviti veto na programere  |
+| 3. Zakonodavna | Programeri   | pomozite drugima da zaobiđu veto |
 
-Legislative part also includes business and infrastructure analogous to Parliament (Representatives) while Devs are like Senate. If compared to enterprises best parallels can be drawn with IT (Information Technology) companies.<br>
--- Product is global monetary currency and payment system and at the same time the Coin represents owners or shareholders. On the other side are Developers and Miners, along with Nodes, like very wide Board of Directors, Management and Supervisory.<br>
+Zakonodavni dio takođe uključuje poslovanje i infrastrukturu analogno Parlamentu (zastupnicima), dok su Programeri kao Senat. U poređenju sa preduzećima, najbolje paralele mogu se povući sa IT kompanijama (Informacione tehnologije).<br>
+-- Proizvod je globalna monetarna valuta i sistem plaćanja, a u isto vrijeme koin predstavlja vlasnike ili akcionare. S druge strane su programeri i rudari, zajedno sa čvorovima, poput vrlo širokog odbora direktora, upravnog i nadzornog.<br>
+
+____ **DALJI PREVOD JOS U TOKU ...** ____
 
 **Pravila bitkoina:**<br>
 &nbsp;1. No Confiscation<br>
@@ -581,7 +581,7 @@ Lex Fridman ([Lex Podcast with M.Saylor: the Future of Money](https://www.youtub
 -- Today's Overconsumption Society is not sustainable in the long run. Planet does not have unlimited resources. So, investing in Bitcoin is reducing consumptions of short lifetime consumer goods, that end up in landfills. Society should change its buying habits since planet resources are not unlimited. Also, production should aim for durability, and not have [planned obsolescence](https://durabilitymatters.com/planned-obsolescence/){:target="_blank"}. Issue in not about having growth, it's about efficiency, how to get more for less. This fundamentally changes how our economy functions.
 -- Because of broken monetary system, excess value flows to top. That is one of the reasons there are many billionaires while others have to work 60h a week just to make ends meet. Instead, higher productivity could allow most people to have 30h week (automation could free time for more human creativity).
 
-## <ins>5. Gledajući naprijed</ins>
+## <ins>5. Pogled u budućnosti</ins>
 {: #looking-forward }
 ### 5.1 Budući razvoj [[C](#toc)]
 {: #future-development }
