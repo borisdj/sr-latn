@@ -225,7 +225,7 @@ U narednim godinama nekoliko osoba je pogrešno sumnjičeno ili su lažno tvrdil
 {: #technical-background }
 -- Sa inženjerskog aspekta, Bitcoin protokol je softversko remek djelo. Mogli smo vidjeti da je ubjedljiva ideja kružila već neko vrijeme i da nekoliko komponenti je već postojalo. Ali ipak, integrisanje svega u funkcionalnu cjelinu je urađeno genijalno. Kapa dole Satošiju, ko god on/ona ili oni bili, za prvu potpunu implementaciju ideje, kao istinskom vizionaru. Takođe, tajming je bio odgovarajući. Prvo, internet i kriptografija su bili dovoljno razvijeni. Drugo, i politička i ekonomska situacija je bila plodna, inspiracija je došla iz revolta. Takođe, da definišemo riječ **Bit** (binarna cifra) - najmanja jedinica podataka koju računar može obraditi i pohraniti, čija vrijednost može biti 0 ili 1.<br>
 -- Pređimo na stvar:<br>
-Bitkoin ima **Dnevnik** transakcija, što je lista uskladištena u bazi podataka koja nije centralizovana na jednom serveru, već se distribuira na više računara pod nazivom **Čvorovi** širom svijeta. Dnevnik knjiga u suštini omogućava pouzdanu tabelu sa bilansima. To je kao nepromjenjiva ploča koja se ne može falsifikovati. Nove transakcije, do 2000 njih, se u prosjeku svakih 10 minuta grupišu u **Blok** veličine 1 MB koji se dodaje u knjigu. Svaki blok je povezan sa prethodnim pomoću heš koda koji nije lako pronaći. Zato se ova struktura naziva **Blokčejn**, više blokova povezanih u lanac/liniju, i to je ono što podupire sistem. Može se koristiti i za [rješavanje drugih problema](https://101blockchains.com/problems-blockchain-solve/){:target="_blank"}.<br>
+Bitkoin ima **Dnevnik** transakcija, što je lista uskladištena u bazi podataka koja nije centralizovana na jednom serveru, već se distribuira na više računara pod nazivom **Čvorovi** širom svijeta. Dnevnik knjiga u suštini omogućava pouzdanu tabelu sa bilansima. To je kao nepromjenjiva ploča koja se ne može falsifikovati. Nove transakcije, do 2000 njih, se u prosjeku svakih 10 minuta grupišu u **Blok** veličine 1 MB koji se dodaje u knjigu. Svaki blok je povezan sa prethodnim pomoću heš koda koji nije lako pronaći. Zato se ova struktura naziva **Blokčejn**, više blokova povezanih u niz kao lanac, i to je ono što podupire sistem. Može se koristiti i za [rješavanje drugih problema](https://101blockchains.com/problems-blockchain-solve/){:target="_blank"}.<br>
 ![Blockchain](https://raw.githubusercontent.com/borisdj/borisdj.github.io/master/assets/images/revolution-of-money/blockchain.jpg)
 
 | OSOBINE        | BLOCKCHAIN-a (tip DLT - Tehnologija Distribuiranog Dnevnika)   |
@@ -291,79 +291,79 @@ TED govori:<br>
 Zakonodavni dio takođe uključuje poslovanje i infrastrukturu analogno Parlamentu (zastupnicima), dok su Programeri kao Senat. U poređenju sa preduzećima, najbolje paralele mogu se povući sa IT kompanijama (Informacione tehnologije).<br>
 -- Proizvod je globalna monetarna valuta i sistem plaćanja, a u isto vrijeme koin predstavlja vlasnike ili akcionare. S druge strane su programeri i rudari, zajedno sa čvorovima, poput vrlo širokog odbora direktora, upravnog i nadzornog.<br>
 
-____ **DALJI PREVOD JOS U TOKU ...** ____
-
 **Pravila bitkoina:**<br>
-&nbsp;1. No Confiscation<br>
-&nbsp;2. No Censorship<br>
-&nbsp;3. No Inflation<br>
-&nbsp;4. Anyone can verify rules 1-3<br>
--- These rules are derived from protocol characteristic that make it exist in a **narrow design space**, its tiny niche. Delicate balance means that even a small alteration to one of coded parameters  can break some other important feature significantly. It can be compared to gravitational constant that is limited to narrow band, where even a slight change would destroy entire universe. This explains some critics about development going slowly (base chain must be little conservative). There is not much room for core changes, only fine-tuning improvements and building on top of it. Still there is no reason bitcoin could not adopt any fundamentally better technology improvement that keeps its core values.<br>
--- There have been push to force some risky core changes but those attempts failed - [**Block Size Wars**](https://www.bitrawr.com/bitcoin-block-size-debate-explained){:target="_blank"}. One of proposal was to simply increase the size of Block to 2, 4 or even 8 MB, which was rejected because it does not solve long term scalability for entire world. At the same time, it had bad effects on decentralization because it would drastically increase node memory requirements.
-On the other hand updates that passed like [SegWit](https://www.investopedia.com/terms/s/segwit-segregated-witness.asp#toc-what-is-segregated-witness-segwit){:target="_blank"} (Segregated Witness) and [Taproot](https://cointelegraph.com/bitcoin-for-beginners/a-beginners-guide-to-the-bitcoin-taproot-upgrade){:target="_blank"} (with [Schnorr signature](https://cointelegraph.com/news/unpacking-schnorr-signatures-blockstreams-musig-to-improve-bitcoin-transactions){:target="_blank"}) were more in line with the vision and brought only improvements making it faster, more efficient and private. But they first had to be developed and then 95% of miners (an overwhelming majority) needed to signal support for those to activate it. They are called [BIP](https://cointelegraph.com/explained/what-are-bitcoin-improvement-proposals-bips-and-how-do-they-work){:target="_blank"} ([Bitcoin Improvement Proposal](https://river.com/learn/what-is-a-bitcoin-improvement-proposal-bip/){:target="_blank"}). No central command presents significant logistical challenges, but also that distinguishing feature ensures no central point of failure.<br>
+&nbsp;1. Bez konfiskacije<br>
+&nbsp;2. Bez cenzure<br>
+&nbsp;3. Bez inflacije<br>
+&nbsp;4. Svako može provjeriti pravila 1-3<br>
+-- Ova pravila su izvedena iz karakteristika protokola zbog kojih postoji u **uskom prostoru dizajna strukture**, njegovoj maloj niši. Delikatna ravnoteža znači da čak i mala izmjena jednog od kodiranih parametara može značajno narušiti neke druge važne karakteristike. Može se uporediti sa gravitacionom konstantom koja je ograničena na uski pojas, gde bi čak i mala promena poremetila cio univerzum. Ovo objašnjava neke kritike da razvoj ide sporo (osnovni lanac mora biti malo konzervativan). Nema puno prostora za bazne promjene, samo poboljšanje finog podešavanja i nadogradnja. Ipak, nema razloga da bitkoin ne bi mogao da usvoji bilo koje bolje tehnološko unapređenje koje zadržava njegove osnovne vrijednosti.<br>
+-- Bilo je pokušaja da se nametnu neke rizične suštinske promjene, ali ti pokušaji su propali - [**Velićina Bloka ratovi**](https://www.bitrawr.com/bitcoin-block-size-debate-explained){:target ="_blank"}. Jedan od prijedloga je bio da se jednostavno poveća veličina bloka na 2, 4 ili čak 8 MB, što je odbijeno jer ne rješava dugoročnu skalabilnost za cijeli svijet. U isto vrijeme, imalo bi loše efekte na decentralizaciju jer bi drastično povećalo zahtjeve za memorijom čvorova.
+S druge strane ažuriranja koja su prošla kao što su [SegWit](https://www.investopedia.com/terms/s/segwit-segregated-witness.asp#toc-what-is-segregated-witness-segwit){:target= "_blank"} (*Segregated Witness* - Izdvojeni svjedok) i [Taproot](https://cointelegraph.com/bitcoin-for-beginners/a-beginners-guide-to-the-bitcoin-taproot-upgrade){:target="_blank" } (sa [*Schnorr* potpisom](https://cointelegraph.com/news/unpacking-schnorr-signatures-blockstreams-musig-to-improve-bitcoin-transactions){:target="_blank"}) bili su više u skladu sa viziju i donijeli samo poboljšanja čineći ga bržim, efikasnijim i privatnijim. Ali prvo ih je trebalo razviti, a zatim je 95% rudara (ogromna većina) moralo dati signal za podršku da ga aktiviraju. Zovu se [BIP](https://cointelegraph.com/explained/what-are-bitcoin-improvement-proposals-bips-and-how-do-they-work){:target="_blank"} ([*Bitcoin Improvement Proposal* - Bitcoin Prijedlog za poboljšanje](https://river.com/learn/what-is-a-bitcoin-improvement-proposal-bip/){:target="_blank"}). Nepostojanje centralne komande predstavlja značajne logističke izazove, ali ta prepoznatljiva karakteristika osigurava da nema centralne tačke rizika.<br>
 
--- Bitcoin as a whole represents a [Paradigm shift](https://www.nasdaq.com/articles/bitcoin-is-the-ultimate-paradigm-shift-2021-10-02){:target="_blank"} for [Embodiment of capital](https://www.barrons.com/articles/cryptocurrency-and-the-21st-century-paradigm-shift-51635556355){:target="_blank"} that changed each century:<br>
-&nbsp;18th - farmland (agricultural age)<br>
-&nbsp;19th - factories, machines, bonds (industrial age)<br>
-&nbsp;20th - urban real estate, stocks (information age)<br>
-&nbsp;21th - virtual asset (digital & distributed age)<br>
-&nbsp; - also called [The Exponential Age](https://www.reddit.com/r/Bitcoin/comments/tuoh5f/im_all_in_bitcoin_the_exponential_age/){:target="_blank"}<br>
-&nbsp;&nbsp;&nbsp; (Technology evolving the world at a rate faster than ever before)<br>
-&nbsp; - Simply put, the world is moving at light speed<br>
+-- Bitcoin u cjelini predstavlja [promjenu paradigme](https://www.nasdaq.com/articles/bitcoin-is-the-ultimate-paradigm-shift-2021-10-02){:target="_blank" } za [Otjelovljenje kapitala](https://www.barrons.com/articles/cryptocurrency-and-the-21st-century-paradigm-shift-51635556355){:target="_blank"} koji se mijenjao svakog vijeka:<br>
+&nbsp;18. - obradiva zemljišta (poljoprivredno doba)<br>
+&nbsp;19. - fabrike, mašine, obveznice (industrijsko doba)<br>
+&nbsp;20. - urbane nekretnine, akcije (informaciono doba)<br>
+&nbsp;21. - virtuelna imovina (digitalno i distribuirano doba)<br>
+&nbsp; - također se naziva [Eksponencijalno doba](https://www.reddit.com/r/Bitcoin/comments/tuoh5f/im_all_in_bitcoin_the_exponential_age/){:target="_blank"}<br>
+&nbsp;&nbsp;&nbsp; (Tehnologija se razvija u svijetu brže nego ikada prije)<br>
+&nbsp; - Jednostavno rečeno, svijet se kreće brzinom svjetlosti<br>
 
 **Dodatne neformale definicije:**<br>
-* 1 Hard Asset (Trust-Minimized)
-  - premium Commodity
-  - inalienable digital Property<br>
-* 2 Future-Proof Money (Internet Native)
-  - most ubiquitous and omnipresent Cryptocurrency<br>
-* 3 Distributed universal Ledger
-  - open standard and API (Application Programming Interface)
-  - consensually shared and synchronized database, one source of truth/validation<br>
-* 4 Programmatic monetary policy, programmable money
-  - narrow but powerful AI, financial singularity, unstoppable machine
-* 5 First engineered monetary system in history of human race
-  - monetary Technocracy in the digital age
-  - unique Financial Invention, new phenomenon with special properties
-* 6 [Triple-Entry Accounting](https://medium.com/uclcbt/is-bitcoin-really-triple-entry-accounting-df14e26ae3e7){:target="_blank"} - info stored with many third parties
-  - analogy from [Double bookkeeping](https://en.wikipedia.org/wiki/Double-entry_bookkeeping){:target="_blank"}<br>
-    (2 equal entries on opposite sides: Debit and Credit; accounts [Payable & Receivable](https://www.netsuite.com/portal/resource/articles/accounting/accounts-payable-accounts-receivable.shtml){:target="_blank"})
-* 7 Superior Monetary Network - interoperable protocol to transport value
-  - convenient online payment experience
-  - solves economic calculation problem with continuous and instant market pricing
-* 8 Diversified index of entire world economy
-* 9 Productive brain power of Developers (Open Source project)
-* 10 Peaceful resistance from currency Devaluation / Debasement<br>
-* 11 Modern Declaration of (monetary) Independence / Denationalization
-  - enables Sovereign individual (Self-Sufficient communities)
-  - opt out from corrupt fiat system (Silent Revolution)
-* 12 Financial Freedom technology and tool
-  - stateless and permissionless public money
-  - gives you power over money, and ultimate freedom to live on your own terms
-* 13 New [Social Contract](https://iep.utm.edu/soc-cont/){:target="_blank"} (Novel form of Institution, [BTC-Social-Contract](https://medium.com/s/story/bitcoins-social-contract-1f8b05ee24a9){:target="_blank"})
-  - complex sociotechnical system
-  - decouples need for large institutions from the network
-* 14 Pilot project on how to run society in less centralized way
-* 15 Decentralized monetary system in network Topology but also Philosophy
-  - alternative to hierarchical structure ([Bitcoin killed the King](https://www.nfx.com/post/network-effects-bitcoin){:target="_blank"})
-  - new model with internal checks and balances (wisdom of the crowd)
-* 16 New Global financial system
-  - neutral form of money (not controlled by anyone)
-  - the New Operating System of the Economy
-* 17 Monetary / Economic energy
-  - from [First Principles](https://fs.blog/first-principles/){:target="_blank"} Money is an exchange of energy (Econ 101)
-  - reduction of Entropy ([Bitcoin Information Theory B.I.T.](https://bitcoinmagazine.com/culture/bitcoin-information-theory-bit){:target="_blank"})
-* 18 A Weapon for [Peace, Not war](https://inbitcoinwetrust.substack.com/p/a-weapon-for-peace-not-war-bitcoin){:target="_blank"} (an Exit Strategy for Humans)
-  - [war Deterrent](https://www.trustnodes.com/2021/08/14/bitcoin-is-a-war-deterrent-and-in-the-interest-of-us-national-security-says-space-force-engineer){:target="_blank"} - changes warfare from kinetic to electric energy
-  - future war apparatus goal will be [highest rate of energy-delivery](https://bitcoinmagazine.com/culture/bitcoin-and-teslas-peaceful-energy-vision){:target="_blank"}<br>
-    (Nikola Tesla envisioned peaceful energy)
-* 19 Education vehicle, monetary curiosity
-  - transcends pure money
-* 20 Fintech for poor people (Instrument of economic empowerment)
-  - technology bridge to abundant future
-* 21 [Intellectual experiment](https://www.ccn.com/bitcoins-patient-zero-crypto-is-an-intellectual-experiment-that-may-fail-but-probably-wont/){:target="_blank"} (radical thought) not to have human in charge of money
-  - persuasive idea that rewrites your mind, an inception
-  - people are inspired to contemplate / speak / write about (this blog being proof)
+* 1 čvrsta imovina (minimizovano povjerenje)
+  - premium roba
+  - neotuđiva digitalna svojina<br>
+* 2 Novac za budućnost (internet izvorni)
+  - najzastupljenija i sveprisutna kriptovaluta<br>
+* 3 Distribuiran univerzalni dnevnik
+  - otvoreni standard i API (Aplikacioni Programski Interfejs)
+  - konsenzualno podijeljena i sinhronizovana baza podataka, jedan izvor istine/validacije<br>
+* 4 Programirana monetarna politika, programibilni novac
+  - uska, ali moćna vještačka inteligencija, finansijska singularnost, nezaustavljiva mašina
+* 5 Prvi projektovani monetarni sistem u istoriji ljudske rase
+  - monetarna tehnokratija u digitalnom dobu
+  - jedinstveni finansijski izum, novi fenomen sa posebnim svojstvima
+* 6 [Trojno knjigovodstvo](https://medium.com/uclcbt/is-bitcoin-really-triple-entry-accounting-df14e26ae3e7){:target="_blank"} - informacije pohranjene kod mnogih trećih strana
+    - analogija iz [Dvostruko računovodstvo](https://en.wikipedia.org/wiki/Double-entry_bookkeeping){:target="_blank"}<br>
+    (2 jednaka unosa na suprotnim stranama: Duguje i Potražuje; računi [Obveza i Potraživanja](https://www.netsuite.com/portal/resource/articles/accounting/accounts-payable-accounts-receivable.shtml){:target ="_blank"})
+* 7 Superiorna monetarna mreža - interoperabilni protokol za transportovanje vrijednosti
+  - praktičan način plaćanja putem interneta
+  - rješava problem ekonomske kalkulacije kontinuiranim i trenutnim tržišnim cijenama
+* 8 Diverzifikovani indeks cjelokupne svjetske ekonomije
+* 9 Produktivna moždana snaga programera (projekat otvorenog koda)
+* 10 Mirni otpor devalvaciji valuta (smanjenju vrijednosti)
+* 11 Moderna deklaracija (monetarne) nezavisnosti / Denacionalizacija
+  - omogućava Suverenog pojedinca (samoodržive zajednice)
+  - napustiti korumpirani fiat sistem (tiha revolucija)
+* 12 tehnologija i alat finansijske slobode
+  - javni novac bez države i bez dozvole
+  - daje moć nad novcem i konačnu slobodu da se živi pod sopstvenim uslovima
+* 13 Novi [Društveni ugovor](https://iep.utm.edu/soc-cont/){:target="_blank"} (Novi oblik ustanove, [BTC-Social-Contract](https://medium .com/s/story/bitcoins-social-contract-1f8b05ee24a9){:target="_blank"})
+  - složen sociotehnički sistem
+  - eliminiše potrebu za velikim institucijama
+* 14 Pilot projekat kako voditi društvo na manje centralizovan način
+* 15 Decentralizovani monetarni sistem u mrežnoj topologiji ali i filozofiji
+  - alternativa hijerarhijskoj strukturi ([Bitcoin je ubio kralja](https://www.nfx.com/post/network-effects-bitcoin){:target="_blank"})
+  - novi model sa internim provjerama i ravnotežama (mudrost gomile)
+* 16 Novi globalni finansijski sistem
+  - neutralan oblik novca (koji niko ne kontroliše)
+  - novi operativni sistem privrede
+* 17 Monetarna / Ekonomska energija
+  - iz [Prvi principi](https://fs.blog/first-principles/){:target="_blank"} Novac je razmjena energije (Ekon 101)
+  - smanjenje entropije ([Bitkoin Informaciona Teorija B.I.T.](https://bitcoinmagazine.com/culture/bitcoin-information-theory-bit){:target="_blank"})
+* 18 Oružje za [mir, a ne rat](https://inbitcoinwetrust.substack.com/p/a-weapon-for-peace-not-war-bitcoin){:target="_blank"} (izlazna strategija za ljude)
+  - [ratno odvraćanje](https://www.trustnodes.com/2021/08/14/bitcoin-is-a-war-deterrent-and-in-the-interest-of-us-national-security-says- space-force-engineer){:target="_blank"} - mijenja ratovanje iz kinetičke u električnu energiju
+  - budući cilj ratnog aparata će biti [najveća stopa isporuke energije](https://bitcoinmagazine.com/culture/bitcoin-and-teslas-peaceful-energy-vision){:target="_blank"}<br>
+    (Nikola Tesla je zamislio mirnu energiju)
+* 19 Obrazovno vozilo, novčana radoznalost
+  - prevazilazi čisti novac
+* 20 *Fin-tech* za siromašne (Instrument ekonomskog osnaživanja)
+  - tehnološki most ka bogatijoj budućnosti
+* 21 [Intelektualni eksperiment](https://www.ccn.com/bitcoins-patient-zero-crypto-is-an-intellectual-experiment-that-may-fail-but-probably-wont/){:target= "_blank"} (radikalna misao) da nema čovjek ne bude zadužen za novac
+  - uvjerljiva ideja koja mijenja um
+  - ljudi su inspirisani da razmišljaju/govore/pišu (blog kao dokaz)
+
+____ **DALJI PREVOD JOS U TOKU ...** ____
 
 ## <ins>3. Komparativna prednost</ins>
 {: #comparative-advantage }
