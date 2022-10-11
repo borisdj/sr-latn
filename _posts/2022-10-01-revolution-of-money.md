@@ -310,58 +310,58 @@ S druge strane ažuriranja koja su prošla kao što su [SegWit](https://www.inve
 &nbsp; - Jednostavno rečeno, svijet se kreće brzinom svjetlosti<br>
 
 **Dodatne neformale definicije:**<br>
-* 1 Hard Asset (Trust-Minimized)
-  - premium Commodity
-  - inalienable digital Property<br>
-* 2 Future-Proof Money (Internet Native)
-  - most ubiquitous and omnipresent Cryptocurrency<br>
-* 3 Distributed universal Ledger
-  - open standard and API (Application Programming Interface)
-  - consensually shared and synchronized database, one source of truth/validation<br>
-* 4 Programmatic monetary policy, programmable money
-  - narrow but powerful AI, financial singularity, unstoppable machine
-* 5 First engineered monetary system in history of human race
-  - monetary Technocracy in the digital age
-  - unique Financial Invention, new phenomenon with special properties
-* 6 [Triple-Entry Accounting](https://medium.com/uclcbt/is-bitcoin-really-triple-entry-accounting-df14e26ae3e7){:target="_blank"}   - info stored with many third parties
-  - analogy from [Double bookkeeping](https://en-wikipedia-org.translate.goog/wiki/Double-entry_bookkeeping?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}<br>
-(2 equal entries on opposite sides: Debit and Credit; accounts [Payable & Receivable](https://www-netsuite-com.translate.goog/portal/resource/articles/accounting/accounts-payable-accounts-receivable.shtml?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"})
-* 7 Superior Monetary Network - interoperable protocol to transport value
-  - convenient online payment experience
-  - solves economic calculation problem with continuous and instant market pricing
-* 8 Diversified index of entire world economy
-* 9 Productive brain power of Developers (Open Source project)
-* 10 Peaceful resistance from currency Devaluation / Debasement<br>
-* 11 Modern Declaration of (monetary) Independence / Denationalization
-  - enables Sovereign individual (Self-Sufficient communities)
-  - opt out from corrupt fiat system (Silent Revolution)
-* 12 Financial Freedom technology and tool
-  - stateless and permissionless public money
-  - gives you power over money, and ultimate freedom to live on your own terms
-* 13 New [Social Contract](https://iep-utm-edu.translate.goog/soc-cont/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} (Novel form of Institution, [BTC-Social-Contract](https://medium.com/s/story/bitcoins-social-contract-1f8b05ee24a9){:target="_blank"})
-  - complex sociotechnical system
-  - decouples need for large institutions from the network
-* 14 Pilot project on how to run society in less centralized way
-* 15 Decentralized monetary system in network Topology but also Philosophy
-  - alternative to hierarchical structure ([Bitcoin killed the King](https://www-nfx-com.translate.goog/post/network-effects-bitcoin?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"})
-  - new model with internal checks and balances (wisdom of the crowd)
-* 16 New Global financial system
-  - neutral form of money (not controlled by anyone)
-  - the New Operating System of the Economy
-* 17 Monetary / Economic energy
-  - from [First Principles](https://fs-blog.translate.goog/first-principles/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} Money is an exchange of energy (Econ 101)
-  - reduction of Entropy ([Bitcoin Information Theory B.I.T.](https://bitcoinmagazine-com.translate.goog/culture/bitcoin-information-theory-bit?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"})
-* 18 A Weapon for [Peace, Not war](https://inbitcoinwetrust-substack-com.translate.goog/p/a-weapon-for-peace-not-war-bitcoin?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} (an Exit Strategy for Humans)
-  - [war Deterrent](https://www-trustnodes-com.translate.goog/2021/08/14/bitcoin-is-a-war-deterrent-and-in-the-interest-of-us-national-security-says-space-force-engineer?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} - changes warfare from kinetic to electric energy
-  - future war apparatus goal will be [highest rate of energy-delivery](https://bitcoinmagazine-com.translate.goog/culture/bitcoin-and-teslas-peaceful-energy-vision?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}<br>
-(Nikola Tesla envisioned peaceful energy)
-* 19 Education vehicle, monetary curiosity
-  - transcends pure money
-* 20 Fintech for poor people (Instrument of economic empowerment)
-  - technology bridge to abundant future
-* 21 [Intellectual experiment](https://www-ccn-com.translate.goog/bitcoins-patient-zero-crypto-is-an-intellectual-experiment-that-may-fail-but-probably-wont/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} (radical thought) not to have human in charge of money
-  - persuasive idea that rewrites your mind, an inception
-  - people are inspired to contemplate / speak / write about (this blog being proof)
+* 1 Čvrsta imovina (minimizovano povjerenje)
+  - premium roba
+  - neotuđiva digitalna svojina<br>
+* 2 Novac za budućnost (internet izvorni)
+  - najzastupljenija i sveprisutna kriptovaluta<br>
+* 3 Distribuiran univerzalni dnevnik
+  - otvoreni standard i API (Aplikacioni Programski Interfejs)
+  - konsenzualno podijeljena i sinhronizovana baza podataka, jedan izvor istine/validacije<br>
+* 4 Programirana monetarna politika, programibilni novac
+  - uska, ali moćna vještačka inteligencija, finansijska singularnost, nezaustavljiva mašina
+* 5 Prvi projektovani monetarni sistem u istoriji ljudske rase
+  - monetarna tehnokratija u digitalnom dobu
+  - jedinstveni finansijski izum, novi fenomen sa posebnim svojstvima
+* 6 [Trojno knjigovodstvo](https://medium.com/uclcbt/is-bitcoin-really-triple-entry-accounting-df14e26ae3e7){:target="_blank"} - informacije pohranjene kod mnogih trećih strana
+  - analogija iz [Dvostruko računovodstvo](https://en.wikipedia.org/wiki/Double-entry_bookkeeping){:target="_blank"}<br>
+(2 jednaka unosa na suprotnim stranama: Duguje i Potražuje; računi [Obveza i Potraživanja](https://www.netsuite.com/portal/resource/articles/accounting/accounts-payable-accounts-receivable.shtml){:target ="_blank"})
+* 7 Superiorna monetarna mreža - interoperabilni protokol za transportovanje vrijednosti
+  - praktičan način plaćanja putem interneta
+  - rješava problem ekonomske kalkulacije kontinuiranim i trenutnim tržišnim cijenama
+* 8 Diverzifikovani indeks cjelokupne svjetske ekonomije
+* 9 Produktivna moždana snaga programera (projekat otvorenog koda)
+* 10 Mirni otpor devalvaciji valuta (smanjenju vrijednosti)
+* 11 Moderna deklaracija (monetarne) nezavisnosti / Denacionalizacija
+  - omogućava Suverenog pojedinca (samoodržive zajednice)
+  - napustiti korumpirani fiat sistem (tiha revolucija)
+* 12 tehnologija i alat finansijske slobode
+  - javni novac bez države i bez dozvole
+  - daje moć nad novcem i konačnu slobodu da se živi pod sopstvenim uslovima
+* 13 Novi [Društveni ugovor](https://iep.utm.edu/soc-cont/){:target="_blank"} (Novi oblik ustanove, [BTC-Social-Contract](https://medium .com/s/story/bitcoins-social-contract-1f8b05ee24a9){:target="_blank"})
+  - složen sociotehnički sistem
+  - eliminiše potrebu za velikim institucijama
+* 14 Pilot projekat kako voditi društvo na manje centralizovan način
+* 15 Decentralizovani monetarni sistem u mrežnoj topologiji ali i filozofiji
+  - alternativa hijerarhijskoj strukturi ([Bitcoin je ubio kralja](https://www.nfx.com/post/network-effects-bitcoin){:target="_blank"})
+  - novi model sa internim provjerama i ravnotežama (mudrost gomile)
+* 16 Novi globalni finansijski sistem
+  - neutralan oblik novca (koji niko ne kontroliše)
+  - novi operativni sistem privrede
+* 17 Monetarna / Ekonomska energija
+  - iz [Prvi principi](https://fs.blog/first-principles/){:target="_blank"} Novac je razmjena energije (Ekon 101)
+  - smanjenje entropije ([Bitkoin Informaciona Teorija B.I.T.](https://bitcoinmagazine.com/culture/bitcoin-information-theory-bit){:target="_blank"})
+* 18 Oružje za [mir, a ne rat](https://inbitcoinwetrust.substack.com/p/a-weapon-for-peace-not-war-bitcoin){:target="_blank"} (izlazna strategija za ljude)
+  - [ratno odvraćanje](https://www.trustnodes.com/2021/08/14/bitcoin-is-a-war-deterrent-and-in-the-interest-of-us-national-security-says-space-force-engineer){:target="_blank"} - mijenja ratovanje iz kinetičke u električnu energiju
+  - budući cilj ratnog aparata će biti [najveća stopa isporuke energije](https://bitcoinmagazine.com/culture/bitcoin-and-teslas-peaceful-energy-vision){:target="_blank"}<br>
+(Nikola Tesla je zamislio mirnu energiju)
+* 19 Obrazovno vozilo, novčana radoznalost
+  - prevazilazi čisti novac
+* 20 *Fin-tech* za siromašne (Instrument ekonomskog osnaživanja)
+  - tehnološki most ka bogatijoj budućnosti
+* 21 [Intelektualni eksperiment](https://www.ccn.com/bitcoins-patient-zero-crypto-is-an-intellectual-experiment-that-may-fail-but-probably-wont/){:target= "_blank"} (radikalna misao) da nema čovjek ne bude zadužen za novac
+  - uvjerljiva ideja koja mijenja um
+  - ljudi su inspirisani da razmišljaju/govore/pišu (blog kao dokaz)
 
 ____ **DALJI PREVOD JOS U TOKU ...** ____
 
