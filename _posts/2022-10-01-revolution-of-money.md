@@ -369,57 +369,57 @@ ____ **DALJI PREVOD JOS U TOKU ...** ____
 {: #comparative-advantage }
 ### 3.1 SWOT analysis [[C](#toc)]
 {: #swot-analysis }
-Most **Strengths & Opportunities** it brings are already stated.<br>
-So let's look at certain **Weaknesses & Threat** and their explanations:<br>
+Većina **Snaga i Prilika (*Strengths & Opportunities*)** koje donosi su već navedeno.<br>
+Pogledajmo određene **Slabosti i Prijetnje (*Weaknesses & Threat*)** i njihova objašnjenja:<br>
 
-**Kritike** (neke su neosnovane):
-* 1 The protocol can be copied since it's Open Source
-  - Network effect keeps BTC at top, also mining makes it hard to duplicate all hardware and infrastructure
-  - There are many copies and forks, both Hard and Soft, but they have little or no value and less liquidity
-* 2 Not backed by anything
-  - Backed by Electric Power (Intrinsic value from energy)
-  - Money as abstract concept partly depends on belief<br>
-    (agreement among people who think it's valuable)
-* 3 [Ponzi scheme](https://constantinecannon.com/practice/whistleblower/whistleblower-types/financial-investment-fraud/ponzi-schemes/){:target="_blank"} (another [Tulip Mania](https://www.history.com/news/tulip-mania-financial-crash-holland){:target="_blank"})
-  - Is Anti-Ponzi, no pyramidal structure, and no percentage for 'bringing' others
-  - Everybody freely chooses to join
-  - Does not 'promise' high nor any returns
-  - Had speculative waves but not empty bubble, added value is digital transport of value
-* 4 Used for criminal activities
-  - Very small percentage of transaction are illegal ones
-  - Cash is used for same purposes
-  - It is not job of money to worry how it's being used, it's only a tool<br>
-    (for crimes there is police)
-* 5 Losing keys(password) or being stolen
-  - If want full custody than accept the risk but take all measures of precaution
-  - Otherwise keep backup with reliable third parties, or split keys with multiple subjects ([MultiSig](https://www.coindesk.com/tech/2020/11/10/multisignature-wallets-can-keep-your-coins-safer-if-you-use-them-right/){:target="_blank"})
-  - Similar is needed with keys storage for Inheritance purposes
-  - In the long period people will learn how to keep it safe and will have more options for storage
-  - Just like today they keep cash or have a bank account, usually both
-* 6 Consumes a lot of electricity, too demanding
-  - [Utilizing energy](https://www.coindesk.com/business/2020/05/19/the-last-word-on-bitcoins-energy-consumption/){:target="_blank"} is not a bad thing
-  - Necessary for security and decentralization
-  - Creating (good) money cannot be free
-  - Btc [energy usage isn’t a problem](https://www.lynalden.com/bitcoin-energy/){:target="_blank"} and [Energy Consumption](https://www.youtube.com/watch?v=2T0OUIW89II){:target="_blank"}
-  - Incentive is to use cheapest energy, currently mostly from [renewables](https://wintonark.medium.com/bitcoin-mining-impact-on-renewable-uptake-fc91c5aa9be0){:target="_blank"} ([solar](https://medium.com/blockchain-life-tech/rooftop-solar-and-crypto-mining-could-kick-off-a-green-power-revolution-ad91d523b35b){:target="_blank"})<br>
-    also from remote location otherwise unusable and wasted (Geo-independent)
-  - Can contribute to [stabilizing electric grid](https://www.vaultelectricity.com/how-bitcoin-will-help-stabilize-the-texas-grid-and-lower-electricity-rates/){:target="_blank"} by reducing miners' consumption in peak times
-  - Uses excess energy of current power plants that is otherwise just wasted
-  - Generated heat by the mining rigs could be used for heating of homes
-  - Civilization level of technological advancement is measured by amount of energy able to use<br>
-    ([The Kardashev Scale](https://en.wikipedia.org/wiki/Kardashev_scale){:target="_blank"})
-* 7 Distribution fairness?
-  - In design it is the fairest system possible Satoshi could have come up at that time
-  - Historically [Unprecedented experiment](https://coinmetrics.io/bitcoin-an-unprecedented-experiment-in-fair-distribution/){:target="_blank"} in [Fair Distribution](https://danhedl.medium.com/bitcoins-distribution-was-fair-e2ef7bbbc892){:target="_blank"}
-  - Has fair-minded issuance mechanism, miners have need to redistribute new coins
-  - Incomparably better then centralized ownership
-  - Uneven ownership not because of dishonest or unfair feature but due to risk taken by early adopters<br>
-    Even today, when risk is smaller, many still afraid to buy into. As they say *He Who Dares Wins!*
-  - Had no premining and no initial sale
-  - Market dynamics have gradually evened Bitcoin’s distribution and will continue to do so
-  - Most equitable cryptoasset in existence
-  - Becoming more [Evenly distributed over time](https://blog.bitbeginner.com/p/70b13407-7a78-4e56-acd1-e1365b8adbd9?s=r#footnote-anchor-11){:target="_blank"}
-  - Tends towards Normal (Gaussian) distribution, referred as [Bell Curve](https://www.investopedia.com/terms/b/bell-curve.asp){:target="_blank"} ([The Bitcoin Bell-Curve](https://hassmccook.medium.com/the-bitcoin-bell-curve-a-long-term-solution-to-global-wealth-income-inequality-de995929e267){:target="_blank"})
+**Kritike** (neke su neutemeljene):
+* 1 Protokol se može kopirati pošto je otvorenog koda
+  - Mrežni efekat drži BTC na vrhu, a rudarenje otežava dupliranje hardvera i infrastrukture
+  - Postoji mnogo kopija i verzija, sa većim ili manjim izmjenama, ali imaju malu ili nikakvu vrijednost i manju likvidnost
+* 2 Nije podržano ničime
+  - Podržano električnom energijom (svojstvena vrijednost iz energije)
+  - Novac kao apstraktni pojam djelimično zavisi od vjerovanja<br>
+    (sporazum među ljudima koji misle da je vrijedno)
+* 3 [Ponzi šema](https://constantinecannon.com/practice/whistleblower/whistleblower-types/financial-investment-fraud/ponzi-schemes/){:target="_blank"} (još jedna [tulip manija](https://www.history.com/news/tulip-mania-financial-crash-holland){:target="_blank"})
+  - Da li je Anti-Ponzi, nema piramidalne strukture i nema procenta za 'dovođenje' drugih
+  - Svako slobodno bira da se pridruži
+  - Ne 'obećava' visoko niti ikakvih povrata
+  - Imali spekulativne talase, ali ne i prazan balon, dodata vrednost je digitalni transport vrednosti
+* 4 Koristi se za kriminalne aktivnosti
+  - Vrlo mali procenat transakcija je nelegalnih
+  - Gotovina se koristi u iste svrhe
+  - Nije posao novca brinuti se kako se koristi, to je samo alat<br>
+    (za zločine postoji policija)
+* 5 Gubitak ključeva (lozinke) ili krađa
+  - Ako želite potpuno starateljstvo, prihvatite rizik, ali poduzmite sve mjere opreza
+  - U suprotnom čuvajte sigurnosnu kopiju kod pouzdanih trećih strana ili podijelite ključeve s više subjekata ([MultiSig](https://www.coindesk.com/tech/2020/11/10/multisignature-wallets-can-keep-your-coins- sigurnije-ako ih-koristite-pravo/){:target="_blank"})
+  - Slično je potrebno sa pohranom ključeva za potrebe nasljeđivanja
+  - U dužem periodu ljudi će naučiti kako da ga čuvaju i imaće više mogućnosti za skladištenje
+  - Kao i danas drže gotovinu ili imaju bankovni račun, obično oboje
+* 6 Troši puno električne energije, previše zahtjevno
+  - [Korišćenje energije](https://www.coindesk.com/business/2020/05/19/the-last-word-on-bitcoins-energy-consumption/){:target="_blank"} nije loša stvar
+  - Neophodan za sigurnost i decentralizaciju
+  - Stvaranje (dobrog) novca ne može biti besplatno
+  - Btc [potrošnja energije nije problem](https://www.lynalden.com/bitcoin-energy/){:target="_blank"} i [Potrošnja energije](https://www.youtube.com /watch?v=2T0OUIW89II){:target="_blank"}
+  - Podsticaj je korištenje najjeftinije energije, trenutno uglavnom iz [obnovljivih izvora](https://wintonark.medium.com/bitcoin-mining-impact-on-renewable-uptake-fc91c5aa9be0){:target="_blank"} ([solar ](https://medium.com/blockchain-life-tech/rooftop-solar-and-crypto-mining-could-kick-off-a-green-power-revolution-ad91d523b35b){:target="_blank"} )<br>
+    također sa udaljene lokacije koja je neupotrebljiva zbog velike udaljenosti (geo-neovisno)
+  - Može doprinijeti [stabilizaciji električne mreže](https://www.vaultelectricity.com/how-bitcoin-will-help-stabilize-the-texas-grid-and-lower-electricity-rates/){:target=" _blank"} smanjenjem potrošnje rudara u vršnim trenucima
+  - Koristi višak energije trenutnih elektrana koja se inače samo troši
+  - Toplota proizvedena rudarskim platformama mogla bi se koristiti za grijanje domova
+  - Civilizacijski nivo tehnološkog napretka mjeri se količinom energije koja se može iskoristiti<br>
+    ([Kardashev skala](https://en.wikipedia.org/wiki/Kardashev_scale){:target="_blank"})
+* 7 Pravednost distribucije?
+  - Po dizajnu, to je najpošteniji mogući sistem koji je Satoshi mogao osmisliti u to vrijeme
+  - Istorijski [eksperiment bez presedana](https://coinmetrics.io/bitcoin-an-unprecedented-experiment-in-fair-distribution/){:target="_blank"} u [Poštena distribucija](https://danhedl. medium.com/bitcoins-distribution-was-fair-e2ef7bbbc892){:target="_blank"}
+  - Ima fer mehanizam za izdavanje, rudari moraju redistribuirati nove novčiće
+  - Neuporedivo bolje od centralizovanog vlasništva
+  - Neujednačeno vlasništvo ne zbog nepoštene ili nepoštene karakteristike, već zbog rizika koji su preuzeli raniji korisnici<br>
+    Čak i danas, kada je rizik manji, mnogi se i dalje plaše da kupe. Kao što kažu *pobeđuje onaj ko se usuđuje!*
+  - Nije bilo pripreme i prve prodaje
+  - Tržišna dinamika je postepeno ujednačila distribuciju Bitcoina i nastavit će to činiti
+  - Najpravednije kriptosredstvo koje postoji
+  - Postaje više [Ravnomjerno raspoređeno tokom vremena](https://blog.bitbeginner.com/p/70b13407-7a78-4e56-acd1-e1365b8adbd9?s=r#footnote-anchor-11){:target="_blank"}
+  - Teži normalnoj (Gausovoj) distribuciji, koja se naziva [Bell Curve](https://www.investopedia.com/terms/b/bell-curve.asp){:target="_blank"} ([The Bitcoin Bell- Krivulja](https://hassmccook.medium.com/the-bitcoin-bell-curve-a-long-term-solution-to-global-wealth-income-inequality-de995929e267){:target="_blank"})
 
 **Postojeći problemi sa odgovarajućim rješenjima**
 * 1 Limited capacity - Inefficient, not scalable enough<br>
