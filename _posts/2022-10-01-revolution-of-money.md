@@ -338,7 +338,7 @@ S druge strane ažuriranja koja su prošla kao što su [SegWit](https://www.inve
 * 12 tehnologija i alat finansijske slobode
   - javni novac bez države i bez dozvole
   - daje moć nad novcem i konačnu slobodu da se živi pod sopstvenim uslovima
-* 13 Novi [Društveni ugovor](https://iep-utm-edu.translate.goog/soc-cont/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} (Novi oblik ustanove, [BTC-Social-Contract](https://medium .com/s/story/bitcoins-social-contract-1f8b05ee24a9){:target="_blank"})
+* 13 Novi [Društveni ugovor](https://iep-utm-edu.translate.goog/soc-cont/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} (Novi oblik ustanove, [BTC-Social-Contract](https://medium.com/s/story/bitcoins-social-contract-1f8b05ee24a9){:target="_blank"})
   - složen sociotehnički sistem
   - eliminiše potrebu za velikim institucijama
 * 14 Pilot projekat kako voditi društvo na manje centralizovan način
