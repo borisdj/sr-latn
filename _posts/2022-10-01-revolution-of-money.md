@@ -310,7 +310,7 @@ S druge strane ažuriranja koja su prošla kao što su [SegWit](https://www.inve
 &nbsp; - Jednostavno rečeno, svijet se kreće brzinom svjetlosti<br>
 
 **Dodatne neformale definicije:**<br>
-* 1 Čvrsta imovina (minimizovano povjerenje)
+* 1 čvrsta imovina (minimizovano povjerenje)
   - premium roba
   - neotuđiva digitalna svojina<br>
 * 2 Novac za budućnost (internet izvorni)
@@ -324,8 +324,8 @@ S druge strane ažuriranja koja su prošla kao što su [SegWit](https://www.inve
   - monetarna tehnokratija u digitalnom dobu
   - jedinstveni finansijski izum, novi fenomen sa posebnim svojstvima
 * 6 [Trojno knjigovodstvo](https://medium.com/uclcbt/is-bitcoin-really-triple-entry-accounting-df14e26ae3e7){:target="_blank"} - informacije pohranjene kod mnogih trećih strana
-  - analogija iz [Dvostruko računovodstvo](https://en.wikipedia.org/wiki/Double-entry_bookkeeping){:target="_blank"}<br>
-(2 jednaka unosa na suprotnim stranama: Duguje i Potražuje; računi [Obveza i Potraživanja](https://www.netsuite.com/portal/resource/articles/accounting/accounts-payable-accounts-receivable.shtml){:target ="_blank"})
+  - analogija iz [Dvostruko računovodstvo](https://en-wikipedia-org.translate.goog/wiki/Double-entry_bookkeeping?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}<br>
+(2 jednaka unosa na suprotnim stranama: Duguje i Potražuje; računi [Obveza i Potraživanja](https://www-netsuite-com.translate.goog/portal/resource/articles/accounting/accounts-payable-accounts-receivable.shtml?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target ="_blank"})
 * 7 Superiorna monetarna mreža - interoperabilni protokol za transportovanje vrijednosti
   - praktičan način plaćanja putem interneta
   - rješava problem ekonomske kalkulacije kontinuiranim i trenutnim tržišnim cijenama
@@ -338,28 +338,28 @@ S druge strane ažuriranja koja su prošla kao što su [SegWit](https://www.inve
 * 12 tehnologija i alat finansijske slobode
   - javni novac bez države i bez dozvole
   - daje moć nad novcem i konačnu slobodu da se živi pod sopstvenim uslovima
-* 13 Novi [Društveni ugovor](https://iep.utm.edu/soc-cont/){:target="_blank"} (Novi oblik ustanove, [BTC-Social-Contract](https://medium .com/s/story/bitcoins-social-contract-1f8b05ee24a9){:target="_blank"})
+* 13 Novi [Društveni ugovor](https://iep-utm-edu.translate.goog/soc-cont/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} (Novi oblik ustanove, [BTC-Social-Contract](https://medium .com/s/story/bitcoins-social-contract-1f8b05ee24a9){:target="_blank"})
   - složen sociotehnički sistem
   - eliminiše potrebu za velikim institucijama
 * 14 Pilot projekat kako voditi društvo na manje centralizovan način
 * 15 Decentralizovani monetarni sistem u mrežnoj topologiji ali i filozofiji
-  - alternativa hijerarhijskoj strukturi ([Bitcoin je ubio kralja](https://www.nfx.com/post/network-effects-bitcoin){:target="_blank"})
+  - alternativa hijerarhijskoj strukturi ([Bitcoin je ubio kralja](https://www-nfx-com.translate.goog/post/network-effects-bitcoin?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"})
   - novi model sa internim provjerama i ravnotežama (mudrost gomile)
 * 16 Novi globalni finansijski sistem
   - neutralan oblik novca (koji niko ne kontroliše)
   - novi operativni sistem privrede
 * 17 Monetarna / Ekonomska energija
-  - iz [Prvi principi](https://fs.blog/first-principles/){:target="_blank"} Novac je razmjena energije (Ekon 101)
-  - smanjenje entropije ([Bitkoin Informaciona Teorija B.I.T.](https://bitcoinmagazine.com/culture/bitcoin-information-theory-bit){:target="_blank"})
-* 18 Oružje za [mir, a ne rat](https://inbitcoinwetrust.substack.com/p/a-weapon-for-peace-not-war-bitcoin){:target="_blank"} (izlazna strategija za ljude)
+  - iz [Prvi principi](https://fs-blog.translate.goog/first-principles/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} Novac je razmjena energije (Ekon 101)
+  - smanjenje entropije ([Bitkoin Informaciona Teorija B.I.T.](https://bitcoinmagazine-com.translate.goog/culture/bitcoin-information-theory-bit?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"})
+* 18 Oružje za [mir, a ne rat](https://inbitcoinwetrust-substack-com.translate.goog/p/a-weapon-for-peace-not-war-bitcoin?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} (izlazna strategija za ljude)
   - [ratno odvraćanje](https://www.trustnodes.com/2021/08/14/bitcoin-is-a-war-deterrent-and-in-the-interest-of-us-national-security-says-space-force-engineer){:target="_blank"} - mijenja ratovanje iz kinetičke u električnu energiju
-  - budući cilj ratnog aparata će biti [najveća stopa isporuke energije](https://bitcoinmagazine.com/culture/bitcoin-and-teslas-peaceful-energy-vision){:target="_blank"}<br>
+  - budući cilj ratnog aparata će biti [najveća stopa isporuke energije](https://bitcoinmagazine-com.translate.goog/culture/bitcoin-and-teslas-peaceful-energy-vision?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}<br>
 (Nikola Tesla je zamislio mirnu energiju)
 * 19 Obrazovno vozilo, novčana radoznalost
   - prevazilazi čisti novac
 * 20 *Fin-tech* za siromašne (Instrument ekonomskog osnaživanja)
   - tehnološki most ka bogatijoj budućnosti
-* 21 [Intelektualni eksperiment](https://www.ccn.com/bitcoins-patient-zero-crypto-is-an-intellectual-experiment-that-may-fail-but-probably-wont/){:target= "_blank"} (radikalna misao) da nema čovjek ne bude zadužen za novac
+* 21 [Intelektualni eksperiment](https://www-ccn-com.translate.goog/bitcoins-patient-zero-crypto-is-an-intellectual-experiment-that-may-fail-but-probably-wont/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target= "_blank"} (radikalna misao) da nema čovjek ne bude zadužen za novac
   - uvjerljiva ideja koja mijenja um
   - ljudi su inspirisani da razmišljaju/govore/pišu (blog kao dokaz)
 
