@@ -372,13 +372,13 @@ Pogledajmo određene **Slabosti i Prijetnje (*Weaknesses & Threat*)** i njihova 
 
 **Kritike** (neke su neutemeljene):
 * 1 Protokol se može kopirati pošto je otvorenog koda
-  - Mrežni efekat drži BTC na vrhu, a rudarenje otežava dupliranje hardvera i infrastrukture
-  - Postoji mnogo kopija i verzija, sa većim ili manjim izmjenama, ali imaju malu ili nikakvu vrijednost i manju likvidnost
+- Mrežni efekat drži BTC na vrhu, a rudarenje otežava dupliranje hardvera i infrastrukture
+- Postoji mnogo kopija i verzija, sa većim ili manjim izmjenama, ali imaju malu ili nikakvu vrijednost i manju likvidnost
 * 2 Nije podržano ničim
   - Podržano električnom energijom (svojstvena vrijednost iz energije)
   - Novac kao apstraktni pojam djelimično zavisi od vjerovanja<br>
-    (sporazum među ljudima koji misle da je vrijedno)
-* 3 [Ponzi šema](https://constantinecannon.com/practice/whistleblower/whistleblower-types/financial-investment-fraud/ponzi-schemes/){:target="_blank"} (još jedna [tulip manija](https://www.history.com/news/tulip-mania-financial-crash-holland){:target="_blank"})
+(sporazum među ljudima koji misle da je vrijedno)
+* 3 [Ponzi šema](https://constantinecannon-com.translate.goog/practice/whistleblower/whistleblower-types/financial-investment-fraud/ponzi-schemes/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} (još jedna [tulip manija](https://www-history-com.translate.goog/news/tulip-mania-financial-crash-holland?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"})
   - Zapravo je Anti-Ponzi, nema piramidalne strukture i nema procenta za 'dovođenje' drugih
   - Svako slobodno odlučuje da se pridruži
   - Ne 'obećava' visoke niti bilo kakve povrate
@@ -387,63 +387,63 @@ Pogledajmo određene **Slabosti i Prijetnje (*Weaknesses & Threat*)** i njihova 
   - Vrlo mali procenat transakcija su nelegalne
   - Gotovina se koristi u iste svrhe
   - Nije posao novca brinuti se kako se koristi, to je samo alat<br>
-    (za kriminal postoji policija)
+(za kriminal postoji policija)
 * 5 Gubitak ili krađa ključeva (lozinke)
   - Ako želite potpuno starateljstvo nad novcem, prihvatite rizik, ali preduzmite sve mjere opreza
-  - U suprotnom čuvajte rezervnu kopiju kod pouzdanih trećih strana ili podijelite ključeve s više subjekata ([MultiSig](https://www.coindesk.com/tech/2020/11/10/multisignature-wallets-can-keep-your-coins-safer-if-you-use-them-right/){:target="_blank"})
+  - U suprotnom čuvajte rezervnu kopiju kod pouzdanih trećih strana ili podijelite ključeve s više subjekata ([MultiSig](https://www-coindesk-com.translate.goog/tech/2020/11/10/multisignature-wallets-can-keep-your-coins-safer-if-you-use-them-right/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"})
   - Slično je potrebno za skladištenje ključeva u svrhu nasljeđivanja
   - U dužem periodu ljudi će naučiti kako da ga čuvaju i imaće više mogućnosti za skladištenje
   - Kao što danas drže gotovinu ili imaju bankovni račun, obično oboje
 * 6 Troši puno električne energije, previše zahtjevno
-  - [Korišćenje energije](https://www.coindesk.com/business/2020/05/19/the-last-word-on-bitcoins-energy-consumption/){:target="_blank"} nije loša stvar
+  - [Korišćenje energije](https://www-coindesk-com.translate.goog/business/2020/05/19/the-last-word-on-bitcoins-energy-consumption/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} nije loša stvar
   - Neophodno za sigurnost i decentralizaciju
   - Stvaranje (dobrog) novca ne može biti besplatno
-  - Btc [upotreba energije nije problem](https://www.lynalden.com/bitcoin-energy/){:target="_blank"} i [Potrošnja energije](https://www.youtube.com/watch?v=2T0OUIW89II){:target="_blank"}
+  - Btc [upotreba energije nije problem](https://www-lynalden-com.translate.goog/bitcoin-energy/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} i [Potrošnja energije](https://www.youtube.com/watch?v=2T0OUIW89II){:target="_blank"}
   - Podsticaj je korištenje najjeftinije energije, trenutno uglavnom iz [obnovljivih izvora](https://wintonark.medium.com/bitcoin-mining-impact-on-renewable-uptake-fc91c5aa9be0){:target="_blank"} ([solar](https://medium.com/blockchain-life-tech/rooftop-solar-and-crypto-mining-could-kick-off-a-green-power-revolution-ad91d523b35b){:target="_blank"})<br>
-    takođe sa udaljene lokacije koja je inače neupotrebljiva zbog velike udaljenosti (geo-nezavisno)
-  - Može doprinijeti [stabilizaciji električne mreže](https://www.vaultelectricity.com/how-bitcoin-will-help-stabilize-the-texas-grid-and-lower-electricity-rates/){:target="_blank"} smanjenjem potrošnje rudara u vršnim trenucima najveće potražnje
+takođe sa udaljene lokacije koja je inače neupotrebljiva zbog velike udaljenosti (geo-nezavisno)
+  - Može doprinijeti [stabilizaciji električne mreže](https://www-vaultelectricity-com.translate.goog/how-bitcoin-will-help-stabilize-the-texas-grid-and-lower-electricity-rates/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} smanjenjem potrošnje rudara u vršnim trenucima najveće potražnje
   - Koristi višak energije trenutnih elektrana koja inače biva bačena
   - Toplota proizvedena opremom za rudarenje bi se mogla koristiti za grijanje domova
   - Civilizacijski nivo tehnološkog napretka mjeri se količinom energije koja se može iskoristiti<br>
-    ([Kardašev skala](https://en.wikipedia.org/wiki/Kardashev_scale){:target="_blank"})
+([Kardašev skala](https://sr.wikipedia.org/sr-el/Skala_Karda%C5%A1eva){:target="_blank"})
 * 7 Pravedna distribucija?
   - U samom dizajnu je najpošteniji sistem koji je Satoši mogao osmisliti u to vrijeme
-  - Istorijski [eksperiment bez presedana](https://coinmetrics.io/bitcoin-an-unprecedented-experiment-in-fair-distribution/){:target="_blank"} u [poštenoj distribuciji](https://danhedl.medium.com/bitcoins-distribution-was-fair-e2ef7bbbc892){:target="_blank"}
+  - Istorijski [eksperiment bez presedana](https://coinmetrics-io.translate.goog/bitcoin-an-unprecedented-experiment-in-fair-distribution/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} u [poštenoj distribuciji](https://danhedl.medium.com/bitcoins-distribution-was-fair-e2ef7bbbc892){:target="_blank"}
   - Ima fer mehanizam za kreiranje koina, rudari imaju potrebu da redistribuiraju nove novčiće
   - Neuporedivo bolje od centralizovanog vlasništva
   - Neujednačeno vlasništvo nije zbog nepoštene karakteristike, već zbog rizika koji su preuzeli rani korisnici<br>
-    Čak i danas, kada je rizik manji, mnogi se i dalje plaše da kupe. Kao što kažu *Ko ne riskira taj ne profitira!*
+Čak i danas, kada je rizik manji, mnogi se i dalje plaše da kupe. Kao što kažu *Ko ne riskira taj ne profitira!*
   - Nije bilo pred-rudarenja niti inicijalne ponude za prodaju
   - Tržišna dinamika je postepeno ujednačila distribuciju Bitkoina i nastaviće to činiti
   - Najpravednije kriptosredstvo koje postoji
-  - Postaje više [ravnomjerno raspoređeno tokom vremena](https://blog.bitbeginner.com/p/70b13407-7a78-4e56-acd1-e1365b8adbd9?s=r#footnote-anchor-11){:target="_blank"}
-  - Teži normalnoj (Gausovoj) distribuciji, koja se naziva [*Bell* kriva](https://www.investopedia.com/terms/b/bell-curve.asp){:target="_blank"} ([Bitkoin Bell- Kriva](https://hassmccook.medium.com/the-bitcoin-bell-curve-a-long-term-solution-to-global-wealth-income-inequality-de995929e267){:target="_blank"})
+  - Postaje više [ravnomjerno raspoređeno tokom vremena](https://blog-bitbeginner-com.translate.goog/p/70b13407-7a78-4e56-acd1-e1365b8adbd9?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp?s=r#footnote-anchor-11){:target="_blank"}
+  - Teži normalnoj (Gausovoj) distribuciji, koja se naziva [*Bell* kriva](https://www-investopedia-com.translate.goog/terms/b/bell-curve.asp?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} ([Bitkoin Bell  - Kriva](https://hassmccook.medium.com/the-bitcoin-bell-curve-a-long-term-solution-to-global-wealth-income-inequality-de995929e267){:target="_blank"})
 
 **Postojeći problemi sa odgovarajućim rješenjima**
 * 1 Ograničeni kapacitet - neefikasno, nedovoljno skalabilno<br>
-  (trenutno maksimalno oko 10 transakcija u sekundi što ih čini sporim i skupim)
+(trenutno maksimalno oko 10 transakcija u sekundi što ih čini sporim i skupim)
   - [Blokčein Trilema](https://www.gemini.com/cryptopedia/blockchain-trilemma-decentralization-scalability-definition){:target="_blank"} (otpornost naspram efikasnosti):<br>
-    /__\ 1. Decentralizacija, 2. Sigurnost, 3. Skalabilnost
+/__\ 1. Decentralizacija, 2. Sigurnost, 3. Skalabilnost
   - Slojevita struktura<br>
-    L-1 osnovni sloj optimizuje sigurnost i robusnost, a takođe ga održava decentralizovanim<br>
-    L-2 poboljšava segment skalabilnosti i omogućava brze i jeftine transfere<br>
-    (*Lightning Network*, *Liquid*, bočni lanci, ...)
-* 2 Nije potpuno privatno, samo poluanonimno / [fungibilnost](https://mises.org/wire/why-fungibility-important-understanding-money-and-crypto){:target="_blank"}
+L-1 osnovni sloj optimizuje sigurnost i robusnost, a takođe ga održava decentralizovanim<br>
+L-2 poboljšava segment skalabilnosti i omogućava brze i jeftine transfere<br>
+(*Lightning Network*, *Liquid*, bočni lanci, ...)
+* 2 Nije potpuno privatno, samo poluanonimno / [fungibilnost](https://mises-org.translate.goog/wire/why-fungibility-important-understanding-money-and-crypto?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}
   - Postoje mikseri za postizanje veće privatnosti dok L2 uklanja individualnu potrošnju iz glavne mreže
 
 **Budući potencijalni rizici**
- * 1 Velika nepoznata greška bude pronađena koja obori mrežu
-   - Nije vjerovatno jer se nije pojavio nijedan *bug* već 13 godina, a hakeri su pokušavali da ih pronađu
-   - Izvorni Kod protokola zasnovan na formalnim matematičkim teoremama
- * 2 Potpuni kolaps interneta
-   - Malo vjerovatno s obzirom na njegovu decentralizovanu prirodu i svu redundanciju
-   - Takođe bi slomio trenutni finansijski sistem jer e/mobilno bankarstvo koristi web servise
- * 3 Globalni dugotrajni nestanak struje/zamračenje
-   - Situacija moguća samo sa nekim apokaliptičnim događajem kada novac više ne bi ni bio važan
- * 4 Proboj u kvantnom računarstvu implementacijom [Šorovog algoritma](https://quantum-computing.ibm.com/composer/docs/iqx/guide/shors-algorithm){:target="_blank"} koji bi mogao razbiti asimetričnu kriptografiju
-   - Ne u dogledno vreme, a algoritam je samo teoretski
-   - Može uticati na privatnost svih trenutnih digitalnih sistema
-   - Već postoje ideje za [kvantnu kriptografiju](https://www.techtarget.com/searchsecurity/definition/quantum-cryptography){:target="_blank"} koje bi riješile problem
+* 1 Velika nepoznata greška bude pronađena koja obori mrežu
+  - Nije vjerovatno jer se nije pojavio nijedan *bug* već 13 godina, a hakeri su pokušavali da ih pronađu
+  - Izvorni Kod protokola zasnovan na formalnim matematičkim teoremama
+* 2 Potpuni kolaps interneta
+  - Malo vjerovatno s obzirom na njegovu decentralizovanu prirodu i svu redundanciju
+  - Takođe bi slomio trenutni finansijski sistem jer e/mobilno bankarstvo koristi web servise
+* 3 Globalni dugotrajni nestanak struje/zamračenje
+  - Situacija moguća samo sa nekim apokaliptičnim događajem kada novac više ne bi ni bio važan
+* 4 Proboj u kvantnom računarstvu implementacijom [Šorovog algoritma](https://quantum--computing-ibm-com.translate.goog/composer/docs/iqx/guide/shors-algorithm?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} koji bi mogao razbiti asimetričnu kriptografiju
+  - Ne u dogledno vreme, a algoritam je samo teoretski
+  - Može uticati na privatnost svih trenutnih digitalnih sistema
+  - Već postoje ideje za [kvantnu kriptografiju](https://www-techtarget-com.translate.goog/searchsecurity/definition/quantum-cryptography?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} koje bi riješile problem
 
 Neki kritičari bi osporili Bitkoin zbog njegove neinflatorne prirode, što je tema koja zaslužuje poseban paragraf.<br>
 
