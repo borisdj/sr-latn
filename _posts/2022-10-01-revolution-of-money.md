@@ -305,7 +305,7 @@ S druge strane ažuriranja koja su prošla kao što su [SegWit](https://www.inve
 &nbsp;19. - fabrike, mašine, obveznice (industrijsko doba)<br>
 &nbsp;20. - urbane nekretnine, akcije (informaciono doba)<br>
 &nbsp;21. - virtuelna imovina (digitalno i distribuirano doba)<br>
-&nbsp; - također se naziva [Eksponencijalno doba](https://www.reddit.com/r/Bitcoin/comments/tuoh5f/im_all_in_bitcoin_the_exponential_age/){:target="_blank"}<br>
+&nbsp; - takođe se naziva [Eksponencijalno doba](https://www.reddit.com/r/Bitcoin/comments/tuoh5f/im_all_in_bitcoin_the_exponential_age/){:target="_blank"}<br>
 &nbsp;&nbsp;&nbsp; (Tehnologija se razvija u svijetu brže nego ikada prije)<br>
 &nbsp; - Jednostavno rečeno, svijet se kreće brzinom svjetlosti<br>
 
@@ -447,29 +447,28 @@ Pogledajmo određene **Slabosti i Prijetnje (*Weaknesses & Threat*)** i njihova 
 
 Neki kritičari bi osporili Bitkoin zbog njegove neinflatorne prirode, što je tema koja zaslužuje poseban paragraf.<br>
 
-____ **DALJI PREVOD JOS U TOKU ...** ____
-
 ### 3.2 Deflacija [[C](#toc)]
 {: #deflation }
--- It is a decrease / drop in the general price level of goods and services. It occurs when the inflation rate falls below 0 %.
-Often used in Economic crisis as a scary word related to Recession and Depression, or combined as [Stagflation](https://www.investopedia.com/terms/s/stagflation.asp){:target="_blank"}.<br>
-A Deflationary Spiral is a downward price reaction to an economic crisis leading to lower production, lower wages, decreased demand, and falling prices.<br>
--- But [Deflationary economy](https://www.reddit.com/r/CryptoCurrency/comments/u0efbj/you_wouldnt_spend_a_deflationary_currency_bitcoin/){:target="_blank"} isn’t inherently a recessionary environment at all. In fact, some of the most prosperous times of growth in history were strongly deflationary. As production becomes more efficient it is natural that prices go down. Also, Bitcoin is not formally deflationary, technically it's programmed to be **Disinflationary**, rate of inflation reduces every 4 years. This result in a constant monetary base without changes to the supply.<br>
+-- To je smanjene / pad opšteg nivoa cijena roba i usluga. Nastaje kada stopa inflacije padne ispod 0%.
+Često se koristi u ekonomskoj krizi kao zastrašujuća riječ vezana za recesiju i depresiju.<br>
+Deflaciona spirala je reakcija obaranje cijena na dole kao reakcija na ekonomsku krizu koja dovodi do manje proizvodnje, nižih plata, smanjene potražnje i pada cena.<br>
+-- Ali [deflatorna ekonomija](https://www.reddit.com/r/CryptoCurrency/comments/u0efbj/you_wouldnt_spend_a_deflationary_currency_bitcoin/){:target="_blank"} uopšte nije inherentno recesivno okruženje. U stvari, neki od najprosperitetnijih perioda rasta u istoriji bili su snažno deflacioni. Kako proizvodnja postaje efikasnija, prirodno je da cijene padaju. Takođe, Bitcoin nije formalno deflatoran, tehnički je programiran da bude **Dezinflatoran**, stopa inflacije se smanjuje svake 4 godine. Ovo rezultira konstantnom monetarnom bazom bez promjena ponude.<br>
 
--- In order to be able to spread BTC, in the beginning it had higher inflation which is reducing over time. In the long time when everybody owns and use it price would stabilize, but prior it has to rise a lot while gravitates towards zero-inflation. The problem is we live in a system that is completely opposite and based on debt. This debt must get cheaper over time with inflation, because if the opposite were true, all nations and companies would default. The issue isn’t so much deflation per se, it’s the transition from where we are now, being over leveraged, to a low-inflationary environment.<br>
--- Eventually it could come to equilibrium where the value of entire money supply would match the total Economic Output of world. This allows everybody to have long time horizon and plan on longer period, which is good both for humans and environment. People would buy quality long-lasting stuffs, instead of buying a lot of garbage that would soon be thrown away. Instead of framing things narrowly, it allows to take a broader view and make better decision. Also in this hypothetical world there wouldn't be extravagant hoarding that leads to macroeconomic recession. Instead, people earn in bitcoins but also spend sats according to their needs and plans.<br>
--- When it comes to wages even if they go down a little bit, price of goods would go down even more making person richer. The difference between nominal and real wages is fundamental. There is no point of rising nominal wages, what matters is net of inflation/deflation.<br>
-On the whole **Benefits outweighs the Risks** significantly.<br>
+-- Da bi BTC mogao da se proširi, u početku je imao veću inflaciju koja se vremenom smanjivala. U dugom vremenu kada ga svi budu posjedovali i koristili cijena bi se stabilizovala, ali prethodno mora dosta rasti dok teži ka nultoj inflaciji. Problem je što živimo u sistemu koji je potpuno suprotan i zasnovan na dugovima. Taj dug mora vremenom pojeftiniti sa inflacijom, jer u suprotnom, sve države i kompanije bi bankrotirale. Problem nije deflacija sama po sebi, već tranzicija sa mjesta gdje smo sada, kada imamo preveliku zaduženost, u okruženje niske inflacije.<br>
+-- Na kraju bi moglo doći do ravnoteže u kojoj bi vrijednost cjelokupne novčane mase odgovarala ukupnom ekonomskom proizvodu svijeta. Ovo omogućava svima da imaju dugačak vremenski horizont i planiraju na duži period, što je dobro i za ljude i za životnu sredinu. Ljudi bi kupovali kvalitetne dugotrajne stvari, umjesto da kupuju puno smeća koje brzo bude bačeno. Umjesto uskog posmatranja stvari, omogućava da se zauzme širi pogled i donese bolja odluka. Takođe u ovom hipotetičkom svijetu ne bi bilo ekstravagantnog gomilanja koje vodi u makroekonomsku recesiju. Umjesto toga, ljudi zarađuju u bitkoinima, ali i troše satošije u skladu sa svojim potrebama, planovima i željama.<br>
+-- Kad su plate u pitanju, čak i ako malo padnu, cijena robe bi pala još više, čineći čoveka bogatijim. Razlika između nominalnih i realnih plata je fundamentalna. Nema smisla povećavati samo nominalne plate, bitan je odnos inflacije/deflacije.<br>
+U cjelini **koristi nadmašuju rizike** značajno.<br>
 
--- For example, image a world with independent uninflatable global currency. In last 50 years average Economic Growth has been ~ 2%, while for the next 50 years estimates are it could be around 3%. Let us take 2.5% as middle value, and with fixed supply of money it's value should increase each year by 2.5%. In that environment you would not need to rush and spend money but can take time to think what to buy and where to invest.<br>
--- Regarding credits and loans / borrowing, nominal interest rate would be low but effective one would be nominal + that 2.5%. So, credit for house could have nominal rate of 1.5% (4% effective). While investments in business, bearing more risk, would have higher rate of return or probably some share of company.<br>
-Historic data: US interest rates in the last [200 years](https://advisor.visualcapitalist.com/us-interest-rates/){:target="_blank"} and 30 year mortgage from [1971-2022](https://themortgagereports.com/61853/30-year-mortgage-rates-chart){:target="_blank"}.<br>
--- There is great book *'[**The Price of Tomorrow**](https://tylerahall.com/the-price-of-tomorrow-jeff-booth-summary/){:target="_blank"}: Why Deflation is the Key to an Abundant Future'* by Jeff Boot. He suggests to stop fighting (technology driven) deflation and accept it's potential of abundance. It would be a system where the consumers win in the form of better prices and services.
+-- Na primjer, zamislite svijet sa nezavisnom globalnom valutom koja se ne može preduvati. U posljednjih 50 godina prosječan ekonomski rast je bio ~ 2%, dok se za narednih 50 godina procjenjuje da bi mogao biti do 3%. Uzmimo 2,5% kao srednju vrijednost, pa uz fiksnu ponudu novca, njegova vrijednost bi svake godine trebala rasti za 2,5%. U tom okruženju ne biste morali žuriti i trošiti novac, nego uzeti vremena da razmislite šta kupiti i gdje uložiti.<br>
+-- Što se tiče kredita i zajmova / zaduživanja, nominalna kamatna stopa bi bila niska, ali efektivna bi bila nominalna + tih 2,5%. Dakle, kredit za kuću mogao bi imati nominalnu stopu od 1,5% (efektivna 4%). Dok bi ulaganja u posao, koja nose veći rizik, imala veću stopu prinosa ili vjerovatno neki udio kompanije.<br>
+Istorijski podaci: američke kamatne stope u posljednjih [200 godina](https://advisor.visualcapitalist.com/us-interest-rates/){:target="_blank"} i hipoteka na 30 godina od [1971-2022]( https://themortgagereports.com/61853/30-year-mortgage-rates-chart){:target="_blank"}.<br>
+-- Postoji odlična knjiga *'[**Cijena sutrašnjice**](https://tylerahall.com/the-price-of-tomorrow-jeff-booth-summary/){:target="_blank"} : Zašto je deflacija ključ bogate budućnosti'* od *Jeffa Boot*-a. On predlaže da se prestane boriti protiv deflacije (vođene tehnologijom) i prihvati njen potencijal obilja. To bi bio sistem gdje potrošači pobjeđuju u vidu boljih cijena i usluga.
 
-Bitcoin Monetary Inflation [chart source](https://bashco.github.io/){:target="_blank"}<br>
-(declines geometrically to asymptotic max of 21 mil. - [more precisely](https://academy.bit2me.com/en/cuantos-bitcoins-pueden-haber/){:target="_blank"} 20.999.999,9993)<br>
+Bitkoin monetarna inflacija [izvor grafa](https://bashco.github.io/){:target="_blank"}<br>
+(geometrijski se spušta ka asimptotskom maksimumu od 21 mil. - [tačnije](https://academy.bit2me.com/en/cuantos-bitcoins-pueden-haber/){:target="_blank"} 20.999.999,9993)<br>
 ![Btc Monetary Inflation](https://raw.githubusercontent.com/borisdj/borisdj.github.io/master/assets/images/revolution-of-money/btc-monetary-inflation.png)<br>
 
+____ **DALJI PREVOD JOS U TOKU ...** ____
 
 ### 3.3 Ostale kripto valute [[C](#toc)]
 {: #other-cryptos }
