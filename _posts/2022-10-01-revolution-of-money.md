@@ -576,12 +576,12 @@ Ima onih koji kažu da je [Bitcoin filozofija kao religija](https://theconversat
 -- Zbog narušenog monetarnog sistema, višak vrijednosti teče ka vrhu. To je jedan od razloga zašto ima mnogo milijardera dok drugi moraju da rade 60 sati sedmično samo da bi spojili kraj s krajem. Umjesto toga, veća produktivnost mogla bi većini ljudi omogućiti formalno radno vrijeme od 30 sati sedmično (automatizacija bi mogla osloboditi vrijeme za više ljudske kreativnosti).
 
 -- Navedimo listu upućenih ljudi iz Bitkoin zajednice:<br>
-Bitkoin i makro sistemi:
-&nbsp;- Jeff Booth,
-&nbsp;- Luke Gromen,
-&nbsp;- Lyn Alden,
+Bitkoin i makro sistemi:<br>
+&nbsp;- Jeff Booth,<br>
+&nbsp;- Luke Gromen,<br>
+&nbsp;- Lyn Alden,<br>
 &nbsp;- Nic Carter,<br>
-Tech gurui:
+Tech gurui:<br>
 &nbsp;- Andreas Antonopoulos (advocate and author),<br>
 &nbsp;- Jack Mallers (Strike),<br>
 &nbsp;- Jameson Lopp,<br>
