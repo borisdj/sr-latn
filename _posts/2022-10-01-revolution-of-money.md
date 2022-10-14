@@ -609,17 +609,17 @@ Kripto ekosistem možemo identifikovati kao novi kulturni i ekonomski trend koji
 -- Evolucija interneta vodila je od čistih podataka i komunikacije do društvenih informacija i digitalne vrijednosti. U tom smislu, ovaj sljedeći korak naučne evolucije stoji na ramenima divova.<br>
 -- Iako ima moć da poremeti bankarsku i monetarnu industriju, na njega više možemo gledati kao na transformativnu tehnologiju koja će je poboljšati i povećati. Samo vremenom će otključati svoj puni potencijal. Prvo, to je bila kul tehnološki skok, a kasnije je postalo kao investicija, neka vrsta digitalnog zlata – *Čuvar vrijednosti* i tu smo sada. Kasnije, ako postane univerzalno usvojen, postaće i *Sredstvo razmjene*. To bi vjerovatno dovelo do toga da služi i kao *Jedinica obračuna*. To bi bile [3 faze masovnog usvajanja Bitkoina](https://medium.com/swlh/the-3-phases-of-bitcoin-mass-adoption-dbd50d5eaca5){:target="_blank"}.
 
--- Dugoročno gledano, ideja je da to postane redovan servis svakodnevnog plaćanja, da u potpunosti realizuje funkciju *Sredstva razmjene*. Da bi se to dogodilo potrebna je dobra integracija sa drugim slojem *Lightning* protokola radi skalabilnosti. Kada naraste dovoljno, postat će stabilan što mu omogućava da bude i obračunska jedinica. Ako se to dogodi, tada će vjerovatno postati sredstvo globalne rezerve, **Bitkoin Standard**, hipoteza objašnjena u knjizi [*'The Bitcoin Standard'*](https://www.resistance.money/research/library/to% 20be%20organised%20better/The%20Bitcoin%20Standard.pdf){:target="_blank"} od [*Saifedean Ammous*](https://saifedean.com/){:target="_blank"}.<br >
--- Kako ga ljudi budu usvojili u mnogim zemljama, uslijedit će regulativa koja bi ga smatrala kao stranu valuta, što znači da nema poreza na kapitalnu dobit. Kako ga niko ne kontroliše, lakše je i svim državama, uključujući i svetske velesile, da ga koriste za međunarodni kliring jer neće zavisiti od konkurencije. U tom slučaju njegova vrijednost bi mogla porasti na nekoliko stotina hiljada za nekoliko godina, čak i dostići milion za 10+ godina. Jeff Both to naziva [hiperbitkoinizacija](https://phemex.com/academy/what-is-hyperbitcoinization){:target="_blank"} ili [Hiper-Bitkoinizovan svijet(YT)](https://www.youtube.com/watch?v=5JOkfN9Ll10){:target="_blank"}<br>
+-- Dugoročno gledano, ideja je da to postane redovan servis svakodnevnog plaćanja, da u potpunosti realizuje funkciju *Sredstva razmjene*. Da bi se to dogodilo potrebna je dobra integracija sa drugim slojem *Lightning* protokola radi skalabilnosti. Kada naraste dovoljno, postat će stabilan što mu omogućava da bude i obračunska jedinica. Ako se to dogodi, tada će vjerovatno postati sredstvo globalne rezerve, **Bitkoin Standard**, hipoteza objašnjena u knjizi [*'The Bitcoin Standard'*](https://www.resistance.money/research/library/to% 20be%20organised%20better/The%20Bitcoin%20Standard.pdf){:target="_blank"} od [*Saifedean Ammous*](https://saifedean-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}.<br >
+-- Kako ga ljudi budu usvojili u mnogim zemljama, uslijedit će regulativa koja bi ga smatrala kao stranu valuta, što znači da nema poreza na kapitalnu dobit. Kako ga niko ne kontroliše, lakše je i svim državama, uključujući i svetske velesile, da ga koriste za međunarodni kliring jer neće zavisiti od konkurencije. U tom slučaju njegova vrijednost bi mogla porasti na nekoliko stotina hiljada za nekoliko godina, čak i dostići milion za 10+ godina. Jeff Both to naziva [hiperbitkoinizacija](https://phemex-com.translate.goog/academy/what-is-hyperbitcoinization?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} ili [Hiper-Bitkoinizovan svijet(YT)](https://www.youtube.com/watch?v=5JOkfN9Ll10){:target="_blank"}<br>
 
--- Kako se usvajanje povećava, volatilnost će opadati. Rasprostranjeno prihvatanje kriptovaluta je [podstaknuto od strane milenijalaca](https://nfn8.com/blog/millennials-will-push-widespread-crypto-adoption/){:target="_blank"}, mlađih generacija koje poznaju tehnologiju, a sada stasavaju u odrasle.<br>
-Stopa usvajanja prati [S krivu](https://www.inbitcoinwetrust.net/bitcoin-on-the-same-adoption-s-curve-as-the-internet-some-thoughts-and-figures-8af18f01cceb) {:target="_blank"} i [dobija brzinu](https://phemex.com/blogs/crypto-bitcoin-s-curve-adoption-curve){:target="_blank"} (baš kao što bilo sa internetom):<br>
+-- Kako se usvajanje povećava, volatilnost će opadati. Rasprostranjeno prihvatanje kriptovaluta je [podstaknuto od strane milenijalaca](https://nfn8-com.translate.goog/blog/millennials-will-push-widespread-crypto-adoption/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}, mlađih generacija koje poznaju tehnologiju, a sada stasavaju u odrasle.<br>
+Stopa usvajanja prati [S krivu](https://www.inbitcoinwetrust.net/bitcoin-on-the-same-adoption-s-curve-as-the-internet-some-thoughts-and-figures-8af18f01cceb) {:target="_blank"} i [dobija brzinu](https://phemex-com.translate.goog/blogs/crypto-bitcoin-s-curve-adoption-curve?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} (baš kao što bilo sa internetom):<br>
 ![s-curve](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/revolution-of-money/s-curve.jpg)
 
 ### 5.2 Šta dalje [[C](#toc)]
 {: #what-lies-ahead }
--- Prvo, važno je naučiti što više i imati sveobuhvatno razumijevanje sistema. Pošto sistem nije prisilan već je dobrovoljan za **Priključiti se** (slobodno birate da ga koristite i eventualno učinite svijet boljim) samo učenje o njemu je već doprinos. Zatim slijedi igranje s time i kasnije promovisanje ideje podučavanjem drugih oko sebe (vrlina je učiti ljude). Postoji poznata *mima* (kulturni element koji se brzo širi): [**Laserske oči**](https://www.wealthsimple.com/en-ca/magazine/laser-eyes-crypto){:target="_blank"} - značajan fokus na važne stvari koje mogu napraviti promjenu.<br>
-Drugo odlučite da li ga želite kupite, za sada kao investiciju, a kasnije kao štedni račun. Na ovaj način ćete i sami isprobati i naučiti nekoliko stvari. Instalirajte jedan ili više [preporučenih novčanika](https://academy.aax.com/en/introducing-the-4-best-lightning-network-wallets-for-sending-and-receiving-bitcoin/){:target ="_blank"} (kao što je *Phoenix, Breez, Muun, Blue Wallet*), registrujte se na berzi, prebacite sredstva u svoj novčanik (povucite sa berze).<br>
+-- Prvo, važno je naučiti što više i imati sveobuhvatno razumijevanje sistema. Pošto sistem nije prisilan već je dobrovoljan za **Priključiti se** (slobodno birate da ga koristite i eventualno učinite svijet boljim) samo učenje o njemu je već doprinos. Zatim slijedi igranje s time i kasnije promovisanje ideje podučavanjem drugih oko sebe (vrlina je učiti ljude). Postoji poznata *mima* (kulturni element koji se brzo širi): [**Laserske oči**](https://www-wealthsimple-com.translate.goog/en-ca/magazine/laser-eyes-crypto?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} - značajan fokus na važne stvari koje mogu napraviti promjenu.<br>
+Drugo odlučite da li ga želite kupite, za sada kao investiciju, a kasnije kao štedni račun. Na ovaj način ćete i sami isprobati i naučiti nekoliko stvari. Instalirajte jedan ili više [preporučenih novčanika](https://academy-aax-com.translate.goog/en/introducing-the-4-best-lightning-network-wallets-for-sending-and-receiving-bitcoin/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target ="_blank"} (kao što je *Phoenix, Breez, Muun, Blue Wallet*), registrujte se na berzi, prebacite sredstva u svoj novčanik (povucite sa berze).<br>
 
 -- Kada se većina zemalja pridruži sistemu, čak će se takmičiti ko ima bolje usvajanje. Na kraju će i Centralne banke početi da nabavljaju Bitkoin kao dio svojih rezervi. Kada ga prva velika CB stekne, druge će biti primorani da ga isto uzmu ybog teorije igara. Privatne banke bi takođe posjedovale BTC kao rezervnu aktivu. Kako nastavi da sazrijeva, dobiće širu podršku, integrisati se u stvarni svijet i postati mejnstrim što bi moglo biti od koristi za sve.<br>
 -- Procjenjuje se da trenutno 2022. oko 200 miliona ljudi (4% svjetske populacije) ima neku količinu bitkoina/satošija. Za svaku veliku promjenu potrebno je vrijeme, u ovom slučaju decenije. To nije nešto što se može dogoditi preko noći, jer ljudi to moraju naučiti i prihvatiti. Za većinu ljudi to je bilo izvan njihovog pogleda na svijet (mentalni model).<br>
@@ -627,55 +627,54 @@ Drugo odlučite da li ga želite kupite, za sada kao investiciju, a kasnije kao 
 
 ### 5.3 Praktični pristup [[C](#toc)]
 {: #practical-approach }
--- In broad sense Investment plan includes first to inform yourself, do your homework. Second to decide what amount is at your disposal for investing. Lastly to split it based on your risk appetite among several classes of asset. At an early-stage risk was much higher and in accordance with maxim: *Invest only what you are ready to lose*. Now it is less risky than in the last decade but still it is considered relatively riskier class, mainly because of large up and down swings.<br>
-Only if you become convinced enough into the Bitcoin story is it good idea to invest.<br>
---In practice there are several generally useful strategies (one or more can be used):<br>
-&nbsp;1. Move (reallocate) a part of your portfolio into Btc and keep it long term<br>
-&nbsp; - size of part could range from 5 to 20 % depending on one's net worth and risk appetite
-&nbsp; - don't made a mistake not investing anything in order not to have FOMO (Fear Of Missing Out)<br>
-&nbsp; - decide when to join the train and potentially build generation wealth<br>
-&nbsp;2. Make monthly savings into Bitcoin (for example 3 - 5 % of your salary / income)<br>
-&nbsp; - accumulate slowly with average price ([dollar cost averaging](https://intelligent.schwab.com/article/dollar-cost-averaging){:target="_blank"})<br>
-&nbsp;3. Do not sell in bear market when it falls down<br>
-&nbsp; - hold tight during periods the FUD (Fear, Uncertainty and Doubt)<br>
-&nbsp; - happy HODLing (meme variation of Hold) and keep Stacking Sats<br>
-&nbsp;4. Active (daily) trading would not be advisable since it not productive activity<br>
-&nbsp; - very hard to beat the market, even with technical analysis<br>
+-- U širem smislu investicioni plan uključuje prvo da se informišete, uradite svoj domaći zadatak. Drugo, odlučite koji iznos vam je na raspolaganju za ulaganje. Na kraju ga podijelite na osnovu vašeg apetita za rizikom na nekoliko klasa imovine. U ranoj fazi rizik je bio mnogo veći u skladu sa maksimom: *Investirajte samo ono što ste spremni izgubiti*. Sada je manje rizično nego u prošloj deceniji, ali se i dalje smatra relativno rizičnijom klasom, uglavnom zbog velikih kretanja cijene gore i dole.<br>
+Samo ako budete dovoljno uvjereni u Bitkoin priču, onda je dobra ideja investirati.<br>
+--U praksi postoji nekoliko generalno korisnih strategija (može se koristiti jedna ili više):<br>
+&nbsp;1. Premjestite (preusmjerite) dio svog portfelja u Btc i držite ga dugoročno<br>
+&nbsp; - veličina uloga može se kretati od 5 do 20 % zavisno od neto vrijednosti i sklonosti riziku
+&nbsp; - nemojte pogriješiti da ništa ne uložite kako ne biste imali FOMO (*Fear Of Missing Out* - strah od propuštanja)<br>
+&nbsp; - odlučite kada ćete se pridružiti vozu i potencijalno izgraditi bogatstvo<br>
+&nbsp;2. Napravite mjesečnu štednji u Bitkoin-u (na primjer 3 - 5 % vaše plate/prihoda)<br>
+&nbsp; - akumulirajte polako s prosječnom cijenom ([uprosječavanje kupovine](https://intelligent-schwab-com.translate.goog/article/dollar-cost-averaging?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"})<br>
+&nbsp;3. Nemojte prodavati kada tržište padne<br>
+&nbsp; - čvrsto čuvajte tokom perioda FUD (*Fear, Uncertainty and Doubt* - strah, neizvjesnost i sumnja)<br>
+&nbsp; - sretno HODLovanje(mim varijacija Hold) i nastavite skupljati Satošije<br>
+&nbsp;4. Aktivno (dnevno) trgovanje ne bi bilo preporučljivo jer nije produktivna aktivnost<br>
+&nbsp; - veoma je teško nadmašiti tržište, čak i uz tehničku analizu<br>
 
-Additional ways to contribute:<br>
--Consider starting to accept payments in Bitcoin for the work/service you or your company provide<br>
--You can even give some small discount when someone pays with BTC, it will incentivize others to use it<br>
--In later stage use it for payments wherever possible<br>
--Change mentality from Buying and Selling to Earning/Saving and Spending/Using<br>
+Dodatni načini doprinosa:<br>
+-Razmislite o tome da počnete primati plaćanja u Bitcoin-u za posao/uslugu koju vi ili vaša kompanija pružate<br>
+-Možete čak dati i neki mali popust kada neko plaća BTC-om, to će podstaći druge da ga koriste<br>
+-U kasnijoj fazi koristite ga za plaćanja gdje god je to moguće<br>
+-Promijenite mentalitet s kupovine i prodaje na zaradu/štednju i trošenje/korištenje<br>
 
-Suggestions:<br>
--- Maintain an emergency cash cushion, enough to pay all your bills for one full year. By holding bitcoin and cash you protect yourself both from inflation in the long term and from volatility in the short period.<br>
--- On the other hand, if you have no cash cushion, if you use leverage, if you lend Bitcoin for interest, if you use Bitcoin as loan collateral, if you short Bitcoin, or try to time the market in any way it's gambling. Gambling with any expectation of coming out ahead is foolish. And, as the saying goes: Fools and their money are soon parted. Don't gamble if you want to become wealthy. Instead, become a patient, cold-blooded (fearless) long term holder of Bitcoin.<br>
--- Think in long-term, become wise saver and prudent investor in crypto landscape since this is ultimate savings technology. Treat it like your savings account.<br>
--- Safeguard yourself, especially from YouTube comment section under every crypto related video clip. They are full of so-called trading strategy experts with some fake name and WhatsApp number for contact (#ScamAlert - stay away)
+Prijedlozi:<br>
+-- Održavajte gotovinske rezerve za hitne slučajeve, dovoljno da platite sve svoje račune za jednu punu godinu. Držanjem bitkoina i gotovine štitite se i od inflacije na duži rok i od volatilnosti u kratkom periodu.<br>
+-- S druge strane, ako nemate gotovinsku ušteđevinu, ako koristite finansijsku polugu, ako pozajmljujete Bitkoin za kamatu, ako koristite Bitkoin kao kolateral za zajam, ako šortate Bitkoin, ili pokušavate tempirati tržište na bilo koji način, to je kockanje. Glupo je kockati se sa bilo kakvim očekivanjem da ćete pobijediti. I kako se kaže, budale i njihov novac se brzo rastaju. Ne kockajte se ako želite da postanete bogati. Umjesto toga, postanite strpljivi, hladnokrvni (neustrašivi) dugoročni vlasnik Bitkoina.<br>
+-- Razmišljajte dugoročno, postanite mudar štediša i razborit investitor u kripto prostor jer je ovo ultimativna tehnologija štednje. Tretirajte to kao svoj štedni račun.<br>
+-- Čuvajte se, posebno u odjeljku komentara na YouTube-u ispod svakog video klipa koji se odnosi na kripto. Puni su takozvanih stručnjaka za strategiju trgovanja sa nekim lažnim imenom i *WhatsApp* brojem za kontakt (#Prevara - kloniti se)
 
--- Bitcoin market, by nature, is not highly efficient because not all the stakeholders have same knowledge. It has interesting game theory Information asymmetry.
-New people coming in don't have same information as those who have been here. They play the game of economic coordination differently.  Also [human behavior in finance](https://www.cnr.com/insights/article/white-paper-behavioral-finance-2018.html){:target="_blank"} is often irrational and most people do not evaluate risk correctly.<br>
-As for those interested in tradign betweatn cycles be aware of [80-20 Rule](https://alphachain.co.uk/blog/trading-80-20-using-the-pareto-rule-in-trading){:target="_blank"} ([Pareto principle](https://www.investopedia.com/terms/p/paretoprinciple.asp){:target="_blank"})
-They are bias towards gains but still have [Loss Aversion](https://www.apa.org/science/about/psa/2015/01/gains-losses){:target="_blank"}: 
-*The aggravation in losing money seems greater than the pleasure of gaining the same amount*.
+-- Tržište bitkoina, po prirodi, nije visoko efikasno jer nemaju svi učesnici isto znanje. Ima zanimljivu teoriju igara za informacionu asimetriju.
+Novi ljudi koji dolaze nemaju iste informacije kao oni koji su bili tu ranije. Različito igraju igru ekonomske koordinacije. Takođe [ljudsko ponašanje u finansijama](https://www-cnr-com.translate.goog/insights/article/white-paper-behavioral-finance-2018.html?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} je često iracionalno i većina ljudi ne procijeni rizik ispravno. Oni imaju pristrasnost prema dobicima, ali još uvijek imaju [odbojnost prema gubitku](https://www-apa-org.translate.goog/science/about/psa/2015/01/gains-losses?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}:
+*ljutnja zbog gubitku novca izgleda veća od zadovoljstva kada dobijete isti iznos*.<br>
+Što se tiče onih koji su zainteresirani za trgovanje između ciklusa, imajte na umu [pravilo 80-20](https://alphachain-co-uk.translate.goog/blog/trading-80-20-using-the-pareto-rule-in-trading?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} ([Pareto princip](https://www-investopedia-com.translate.goog/terms/p/paretoprinciple.asp?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"})
 
--- Popular crypto **[Exchanges](https://coinmarketcap.com/rankings/exchanges/){:target="_blank"}** (places to buy Bitcoin):<br>
+-- Popularne **[Berze](https://coinmarketcap-com.translate.goog/rankings/exchanges/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}** kriptovalutna (mjesta za kupovinu Bitkoina):<br>
 *Kraken, Binance, FTX, Coinbase, Bitstamp, Gemini*<br>
--- There are also [decentralized ones](https://koinly.io/blog/top-no-kyc-crypto-exchanges/){:target="_blank"} and in person marketplaces like:<br>
-*Bisq, KuCoin, LocalBicoins, LocalCryptos*
+-- Postoje i [decentralizovana](https://koinly-io.translate.goog/blog/top-no-kyc-crypto-exchanges/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} a i lokalna tržišta kao što su:<br>
+*Bisq, KuCoin, LocalBcoins, LocalCryptos*
 
--- Concerning Bitcoin price prediction there are some interesting graphs, according to which we are currently in a good period to buy in.<br>
-(but don't forget that every assumption about future is a probability bet)<br>
--[Logarithmic price chart](https://www.tradingview.com/chart/BTCUSD/4dR4jhXx-How-I-see-Bitcoin/){:target="_blank"}:<br>
+-- Što se tiče predviđanja cijene bitkoina, postoje zanimljivi grafikoni prema kojima smo trenutno u dobrom periodu za kupovinu.<br>
+(ali nemojte zaboraviti da je svaka pretpostavka o budućnosti opklada vjerovatnoće)<br>
+-[Logaritamski graf cijena](https://www-tradingview-com.translate.goog/chart/BTCUSD/4dR4jhXx-How-I-see-Bitcoin/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}:<br>
 ![price-chart](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/revolution-of-money/log-chart.jpg)
--[Rainbow chart](https://www.blockchaincenter.net/en/bitcoin-rainbow-chart/){:target="_blank"}:<br>
+-[Rainbow chart](https://www-blockchaincenter-net.translate.goog/en/bitcoin-rainbow-chart/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}:<br>
 ![rainbow-chart](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/revolution-of-money/rainbow-chart.jpg)
 
 ### 5.4 Rekapitulacija [[C](#toc)]
 {: #recapitulation }
 -- Novčani sistemi su se mijenjali kroz istoriju i sadašnji ima veliku manu, centralizovan je i ima previše moći na jednom mjestu. To neminovno dovodi do korupcije koja na kraju rezultuje visokom inflacijom, pa možemo reći da je pokvaren. Takođe, kao sistem za koji trebaju dozvole previše je kontrolisan. Razlog zašto je bio tolerisan je jer je bio najbolje što je postojalo u to vrijeme. Ali s novim vremenom dolazi i nova tehnologija koja je omogućila bolje sisteme. Iz perspektive skladištenja vrijednosti, trebalo bi da ima najnižu moguću inflaciju. U tom smislu Bitkoin je jednostavnim riječima bolji novac i sveukupno dobar ako na njega primijenimo moralni i etički okvir.<br>
--- Hiperinflacija i [kolaps valute](https://ginifoundation.org/kb/fiat-currency-graveyard-a-history-of-monetary-folly/){:target="_blank"} nisu izuzetno rijetki događaji. U stvari, prosečan životni vijek Fiat valute je samo oko 35 godina, što znači da se ovi događaji dešavaju dosta češće nego što mnogo ljudi misle. Gledano iz civilizacijske perspektive, želimo da vrijednost traje minimum koliko naš život, a bolje čak i duže za naslijeđe. Također, mnogi društveni problemi proizlaze iz novca, tako da bi popravljanje novca moglo poboljšati svijet, barem dijelom (mim: ***Bitkoin popravlja ovo!***). Novac bi trebao biti **Fiducijarni** sistem - zakonski i etički obavezan da djeluje u najboljem interesu klijenata/korisnika a prije vlastitog, dužnost očuvanja dobre vjere i povjerenja.<br>
+-- Hiperinflacija i [kolaps valute](https://ginifoundation-org.translate.goog/kb/fiat-currency-graveyard-a-history-of-monetary-folly/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} nisu izuzetno rijetki događaji. U stvari, prosečan životni vijek Fiat valute je samo oko 35 godina, što znači da se ovi događaji dešavaju dosta češće nego što mnogo ljudi misle. Gledano iz civilizacijske perspektive, želimo da vrijednost traje minimum koliko naš život, a bolje čak i duže za naslijeđe. Također, mnogi društveni problemi proizlaze iz novca, tako da bi popravljanje novca moglo poboljšati svijet, barem dijelom (mim: ***Bitkoin popravlja ovo!***). Novac bi trebao biti **Fiducijarni** sistem - zakonski i etički obavezan da djeluje u najboljem interesu klijenata/korisnika a prije vlastitog, dužnost očuvanja dobre vjere i povjerenja.<br>
 -- Krajnji cilj bitkoina trebao bi biti da omogućiti svima da manje razmišljamo o novcu, a više o drugim stvarima koje nas zanimaju, kako bismo obogatili ljudsko iskustvo. U suprotnom bi svi morali biti investitori puno radno vrijeme ili špekulanti, ili jednostavno trošiti novac što je brže moguće.<br>
 -- Kao zaključak, nadam se da ovaj sveobuhvatni pregled može pobuditi vašu radoznalost i podići kritičko razmišljanje. I pazite da ne zaglavite u eho komori, uvijek tražite više mišljenja.<br>
 
