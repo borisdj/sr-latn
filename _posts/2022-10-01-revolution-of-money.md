@@ -260,7 +260,7 @@ Sa funkcionalnog stanovišta može se definisati kao Veliki lanac sigurnosti o s
 
 -- Blok informacije:<br>
 [BlockExplorer](https://blockexplorer-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}; | [BlockStream](https://blockstream.info){:target="_blank"};<br>
-BlockChain: [charts](https://blockchain.com/charts){:target="_blank"} & [blocks](https://blockchain.com/btc/blocks){:target="_blank"}; | [balans](https://bitref-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"};
+BlockChain: [grafikoni](https://blockchain.com/charts){:target="_blank"} & [blocks](https://blockchain.com/btc/blocks){:target="_blank"}; | [balans](https://bitref-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"};
 
 ### 2.3 Prošireni opis [[C](#toc)]
 {: #extended-description }
@@ -273,7 +273,7 @@ To je prvi slučaj u kojem su se pohlepa i altruistički podsticaji uskladili. S
 &nbsp;5. **Društveni**<br>
 
 -- YT videi:<br>
-[Šta je Bitcoin)](https://www.youtube.com/watch?v=Gc2en3nHxA4&t=34s){:target="_blank"}; | [Jednostavno objašnjenje](https://www.youtube.com/watch?v=41JCpzvnn_0&t=1s){:target="_blank"};<br>
+[Šta je Bitcoin](https://www.youtube.com/watch?v=Gc2en3nHxA4&t=34s){:target="_blank"}; | [Jednostavno objašnjenje](https://www.youtube.com/watch?v=41JCpzvnn_0&t=1s){:target="_blank"};<br>
 [Kako bitkoin radi](https://www.youtube.com/watch?v=bBC-nXj3Ng4&t=8s){:target="_blank"}; | [Kako blokčejn radi](https://www.youtube.com/watch?v=SSo_EIwHSd4){:target="_blank"};<br>
 TED govori:<br>
 -[Blokčejn mijenja novac i poslovanje](https://www.youtube.com/watch?v=Pl8OlkkwRpc&t=37s){:target="_blank"}<br>
