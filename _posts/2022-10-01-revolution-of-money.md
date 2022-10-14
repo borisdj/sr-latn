@@ -597,8 +597,6 @@ Podkasteri:<br>
 &nbsp;- Anthony Pompliano ([Pomp podkast](https://www.youtube.com/c/AnthonyPompliano){:target="_blank"});<br>
 &nbsp;- Lex Fridman* ([Lex podkast sa M.Saylor-om: Budućnost novca](https://www.youtube.com/watch?v=mC43pZkpTec){:target="_blank"});<br>
 
-____ **DALJI PREVOD JOS U TOKU ...** ____
-
 ## <ins>5. Pogled u budućnosti</ins>
 {: #looking-forward }
 ### 5.1 Budući razvoj [[C](#toc)]
