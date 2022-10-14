@@ -360,7 +360,7 @@ S druge strane ažuriranja koja su prošla kao što su [SegWit](https://www.inve
   - prevazilazi čisti novac
 * 20 *Fin-tech* za siromašne (Instrument ekonomskog osnaživanja)
   - tehnološki most ka bogatijoj budućnosti
-* 21 [Intelektualni eksperiment](https://www-ccn-com.translate.goog/bitcoins-patient-zero-crypto-is-an-intellectual-experiment-that-may-fail-but-probably-wont/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target= "_blank"} (radikalna misao) da nema čovjek ne bude zadužen za novac
+* 21 [Intelektualni eksperiment](https://www-ccn-com.translate.goog/bitcoins-patient-zero-crypto-is-an-intellectual-experiment-that-may-fail-but-probably-wont/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target= "_blank"} (radikalna misao) da čovjek ne bude zadužen za novac
   - uvjerljiva ideja koja mijenja um
   - ljudi su inspirisani da razmišljaju/govore/pišu (blog kao dokaz)
 
