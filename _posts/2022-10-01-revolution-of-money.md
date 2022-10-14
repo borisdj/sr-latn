@@ -575,15 +575,27 @@ Ima onih koji kažu da je [Bitcoin filozofija kao religija](https://theconversat
 -- Današnje društvo prekomjerne potrošnje nije dugoročno održivo. Ulaganje u Bitkoin smanjuje kupovinu potrošne robe kratkog vijeka trajanja, koja završava na deponijama. Društvo bi trebalo promijeniti svoje kupovne navike jer resursi planete nisu neograničeni. Takođe, proizvodnja treba težiti trajnosti, a ne imati [planirano zastarjevanje](https://durabilitymatters-com.translate.goog/planned-obsolescence/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}. Problem nije u rastu, već u efikasnosti, kako dobiti više za manje. Ovo iz temelja mijenja način na koji naša ekonomija funkcioniše.<br>
 -- Zbog narušenog monetarnog sistema, višak vrijednosti teče ka vrhu. To je jedan od razloga zašto ima mnogo milijardera dok drugi moraju da rade 60 sati sedmično samo da bi spojili kraj s krajem. Umjesto toga, veća produktivnost mogla bi većini ljudi omogućiti formalno radno vrijeme od 30 sati sedmično (automatizacija bi mogla osloboditi vrijeme za više ljudske kreativnosti).
 
--- Navedimo listu upućenih ljudi iy Bitkoin zajednice:<br>
--Bitkoin i makro sistemi: Luke Gromen, Lyn Alden, Nic Carter;<br>
--Tech guru: Andreas Antonopoulos (advocate and author), Jameson Lopp, Adam Back, Nick Szabo, Shinobi, Jack Mallers (Strike);<br>
--Investitori:  Michael Saylor(MicroStrategy), Jack Dorsey (Twitter, Block[Square]), Elon Musk (Tesla), Cathie Wood (Ark Invest);<br>
--Podkasteri:<br>
-Peter McCormack ([Šta je Bitkoin uradio](https://www-whatbitcoindid-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"});<br>
-Robert Breedlove ([Šta je novac](https://www.youtube.com/playlist?list=PL2jAZ0x9H0bRvoNt1xNJWYa9_8_an03h0){:target="_blank"});<br>
-Anthony Pompliano ([Pomp podkast](https://www.youtube.com/c/AnthonyPompliano){:target="_blank"});<br>
-Lex Fridman ([Lex podkast sa M.Saylor-om: Budućnost novca](https://www.youtube.com/watch?v=mC43pZkpTec){:target="_blank"});<br>
+-- Navedimo listu upućenih ljudi iz Bitkoin zajednice:<br>
+Bitkoin i makro sistemi:
+&nbsp;- Jeff Booth,
+&nbsp;- Luke Gromen,
+&nbsp;- Lyn Alden,
+&nbsp;- Nic Carter,<br>
+Tech gurui:
+&nbsp;- Andreas Antonopoulos (advocate and author),<br>
+&nbsp;- Jack Mallers (Strike),<br>
+&nbsp;- Jameson Lopp,<br>
+&nbsp;- Shinobi,<br>
+Investitori:<br>
+&nbsp;- Michael Saylor  (MicroStrategy),<br>
+&nbsp;- Jack Dorsey (Twitter, Block[Square]),<br>
+&nbsp;- Elon Musk (Tesla),<br>
+&nbsp;- Cathie Wood (Ark Invest),<br>
+Podkasteri:<br>
+&nbsp;- Peter McCormack ([Šta je Bitkoin uradio](https://www-whatbitcoindid-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"});<br>
+&nbsp;- Robert Breedlove ([Šta je novac](https://www.youtube.com/playlist?list=PL2jAZ0x9H0bRvoNt1xNJWYa9_8_an03h0){:target="_blank"});<br>
+&nbsp;- Anthony Pompliano ([Pomp podkast](https://www.youtube.com/c/AnthonyPompliano){:target="_blank"});<br>
+&nbsp;- Lex Fridman* ([Lex podkast sa M.Saylor-om: Budućnost novca](https://www.youtube.com/watch?v=mC43pZkpTec){:target="_blank"});<br>
 
 ____ **DALJI PREVOD JOS U TOKU ...** ____
 
