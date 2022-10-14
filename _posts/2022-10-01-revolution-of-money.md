@@ -571,7 +571,7 @@ Ima onih koji kažu da je [Bitcoin filozofija kao religija](https://theconversat
 -- Jednom kada čovjek dobije dovoljno informacija nakon nekog vremena mu to klikne u umu. Za to se koristi izraz:<br>
 [*'uzimanje narandžaste pilule'*](https://bitcoinmagazine-com.translate.goog/culture/bitcoin-orange-pill-theory-reality?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} analogija iz filma Matrix.
 
--- Navedimo listu vrlo upućenih ljudi:<br>>
+-- Navedimo listu upućenih ljudi:<br>
 -Bitkoin i makro sistemi: Luke Gromen, Lyn Alden, Nic Carter;<br>
 -Tech guru: Andreas Antonopoulos (advocate and author), Jameson Lopp, Adam Back, Nick Szabo, Shinobi, Jack Mallers (Strike);<br>
 -Investitori:  Michael Saylor(MicroStrategy), Jack Dorsey (Twitter, Block prethodno Square), Elon Musk (Tesla), Cathie Wood (Ark Invest);<br>
@@ -583,7 +583,6 @@ Lex Fridman ([Lex podkast sa M.Saylor-om: Budućnost novca](https://www.youtube.
 
 -- Današnje društvo prekomjerne potrošnje nije dugoročno održivo. Ulaganje u Bitkoin smanjuje kupovinu potrošne robe kratkog vijeka trajanja, koja završava na deponijama. Društvo bi trebalo promijeniti svoje kupovne navike jer resursi planete nisu neograničeni. Takođe, proizvodnja treba težiti trajnosti, a ne imati [planirano zastarjevanje](https://durabilitymatters-com.translate.goog/planned-obsolescence/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}. Problem nije u rastu, već u efikasnosti, kako dobiti više za manje. Ovo iz temelja mijenja način na koji naša ekonomija funkcioniše.
 -- Zbog narušenog monetarnog sistema, višak vrijednosti teče ka vrhu. To je jedan od razloga zašto ima mnogo milijardera dok drugi moraju da rade 60 sati sedmično samo da bi spojili kraj s krajem. Umjesto toga, veća produktivnost mogla bi većini ljudi omogućiti formalno radno vrijeme od 30 sati sedmično (automatizacija bi mogla osloboditi vrijeme za više ljudske kreativnosti).
-
 
 ____ **DALJI PREVOD JOS U TOKU ...** ____
 
