@@ -668,7 +668,7 @@ Novi ljudi koji dolaze nemaju iste informacije kao oni koji su bili tu ranije. R
 (ali nemojte zaboraviti da je svaka pretpostavka o budućnosti opklada vjerovatnoće)<br>
 -[Logaritamski graf cijena](https://www-tradingview-com.translate.goog/chart/BTCUSD/4dR4jhXx-How-I-see-Bitcoin/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}:<br>
 ![price-chart](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/revolution-of-money/log-chart.jpg)
--[Rainbow chart](https://www-blockchaincenter-net.translate.goog/en/bitcoin-rainbow-chart/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}:<br>
+-[Dugin graf](https://www-blockchaincenter-net.translate.goog/en/bitcoin-rainbow-chart/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}:<br>
 ![rainbow-chart](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/revolution-of-money/rainbow-chart.jpg)
 
 ### 5.4 Rekapitulacija [[C](#toc)]
