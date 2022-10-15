@@ -211,7 +211,7 @@ NSA još uvijek ima sisteme poput [PRISM](https://www-theverge-com.translate.goo
 *"[The Times 03/Jan/2009](https://cdn.codeforgeek.com/wp-content/uploads/image_01_01.jpeg.webp){:target="_blank"} - [Kancelar na rubu drugog spasa za banke](https://www-cityam-com.translate.goog/chancellor-on-the-brink-its-not-what-you-think/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}".*<br>
 
 | BTC [logo](https://cointelegraph.com/news/the-btc-origin-story-who-designed-the-bitcoin-logo){:target="_blank"} |
-![bitcoin_logo](https://raw.githubusercontent.com/borisdj/sr-latn/main/assets/images//revolution-of-money/bitcoin_logo32.png) |
+![bitcoin_logo](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images//revolution-of-money/bitcoin_logo32.png) |
 
 -- Primalac prve BTC transakcije koje je i doprinio mreži bio je kompjuterski naučnik po imenu *Hal Finney*. On je bio američki programer koji je radio za [**PGP**](https://www.openpgp.org){:target="_blank"} (*Pretty Good Privacy*, Prilično Dobra Privatnost) - prva besplatna implementacija enkripcije sa javno-privatnim ključem za (e-mail) komunikaciju. Takođe je vodio prvi kriptografski baziran anonimni re-mailer i bio je uključen u sajferpank mail listu. Među značajnim kriptografima i programerima čiji je rad citiran u BTC dokumentu bili su *Wei Dai* ([***B-money***](https://www-investopedia-com.translate.goog/terms/b/bmoney.asp?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}) i britanac *Adam Back* ([***Hashcash***](https://www-hashcash-org.translate.goog/?_x_tr_sch=http&_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}) koji je danas izvršni direktor [**Blockstream**](https://blockstream.com){:target="_blank"}. Sva četvorica su bili dio [Sajferpank](https://nakamoto-com.translate.goog/the-cypherpunks/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} zajednice i [pokreta](https://www-horizen-io.translate.goog/blockchain-academy/history/the-cypherpunk-movement/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} i istaknuti članovi mail liste, ali i rani saradnici Bitkoin projekta.<br>
 -- Dakle, Satoši može biti bilo ko od njih ili neko drugi, možda čak i više osoba, mali tim. To bi uvijek mogla [ostati misterija](https://academy-bit2me-com.translate.goog/en/quien-ha-creado-bitcoin/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} ali na kraju nije ni bitno, važna stvar je rezultat i sama mreža. Početne dorade prve web stranice uradio je [*Martti Malmi*](https://academy-bit2me-com.translate.goog/en/who-is-martti-malmi/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}, [student iz Finske](https://www-theverge-com.translate.goog/2015/6/10/8751933/the-shy-college-student-who-helped-build-bitcoin-into-a-global?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank" }.
@@ -220,14 +220,14 @@ U narednim godinama nekoliko osoba je pogrešno sumnjičeno ili su lažno tvrdil
 -- Jedna neobična napomena: Prva stvarna Btc transakcija je bila u maju 2010. za [2 velike pice plaćene 10.000 BTC](https://www.startupdaily.net/topic/cryptocurrency/the-story-behind-the-day-bitcoin-made-pizza-the-najskuplji-obrok-na-svijetu/){:target="_blank"} (uzmite u obzir trenutnu vrijednost toga - stotine miliona dolara)<br>
 
 [Istorija Sajferpanka](https://www-coindesk-com.translate.goog/markets/2016/04/09/bitcoin-and-the-rise-of-the-cypherpunks/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp)<br>
-![cypherpunks](https://raw.githubusercontent.com/borisdj/sr-latn/main/assets/images/revolution-of-money/cypherpunks.jpg)
+![cypherpunks](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/revolution-of-money/cypherpunks.jpg)
 
 ### 2.2 Prošireni opis [[C](#toc)]
 {: #technical-background }
 -- Sa inženjerskog aspekta, Bitcoin protokol je softversko remek djelo. Mogli smo vidjeti da je ubjedljiva ideja kružila već neko vrijeme i da nekoliko komponenti je već postojalo. Ali ipak, integrisanje svega u funkcionalnu cjelinu je urađeno genijalno. Kapa dole Satošiju, ko god on/ona ili oni bili, za prvu potpunu implementaciju ideje, kao istinskom vizionaru. Takođe, tajming je bio odgovarajući. Prvo, internet i kriptografija su bili dovoljno razvijeni. Drugo, i politička i ekonomska situacija je bila plodna, inspiracija je došla iz revolta. Takođe, da definišemo riječ **Bit** (binarna cifra) - najmanja jedinica podataka koju računar može obraditi i pohraniti, čija vrijednost može biti 0 ili 1.<br>
 -- Pređimo na stvar:<br>
 Bitkoin ima **Dnevnik** transakcija, što je lista uskladištena u bazi podataka koja nije centralizovana na jednom serveru, već se distribuira na više računara pod nazivom **Čvorovi** širom svijeta. Dnevnik knjiga u suštini omogućava pouzdanu tabelu sa bilansima. To je kao nepromjenjiva ploča koja se ne može falsifikovati. Nove transakcije, do 2000 njih, se u prosjeku svakih 10 minuta grupišu u **Blok** veličine 1 MB koji se dodaje u knjigu. Svaki blok je povezan sa prethodnim pomoću heš koda koji nije lako pronaći. Zato se ova struktura naziva **Blokčejn**, više blokova povezanih u niz kao lanac, i to je ono što podupire sistem. Može se koristiti i za [rješavanje drugih problema](https://101blockchains-com.translate.goog/problems-blockchain-solve/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}.<br>
-![Blockchain](https://raw.githubusercontent.com/borisdj/sr-latn/main/assets/images/revolution-of-money/blockchain.jpg)
+![Blockchain](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/revolution-of-money/blockchain.jpg)
 
 | OSOBINE        | BLOCKCHAIN-a (tip DLT - Tehnologija Distribuiranog Dnevnika)   |
 | -------------- | -------------------------------------------------------------- |
@@ -665,7 +665,7 @@ Novi ljudi koji dolaze nemaju iste informacije kao oni koji su bili tu ranije. R
 -- Što se tiče predviđanja cijene bitkoina, postoje zanimljivi grafikoni prema kojima smo trenutno u dobrom periodu za kupovinu.<br>
 (ali nemojte zaboraviti da je svaka pretpostavka o budućnosti opklada vjerovatnoće)<br>
 -[Logaritamski graf cijena](https://www-tradingview-com.translate.goog/chart/BTCUSD/4dR4jhXx-How-I-see-Bitcoin/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}:<br>
-![price-chart](https://raw.githubusercontent.com/borisdj/sr-latn/main/assets/images/revolution-of-money/log-chart.jpg)
+![price-chart](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/revolution-of-money/log-chart.jpg)
 -[Dugin graf](https://www-blockchaincenter-net.translate.goog/en/bitcoin-rainbow-chart/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}:<br>
 ![rainbow-chart](https://raw.githubusercontent.com/borisdj/sr-latn/main/assets/images/revolution-of-money/rainbow-chart.jpg)
 
