@@ -577,20 +577,20 @@ Ima onih koji kažu da je [Bitcoin filozofija kao religija](https://theconversat
 
 -- Navedimo listu upućenih ljudi iz Bitkoin zajednice:<br>
 Bitkoin i makro sistemi:<br>
-&nbsp;- Jeff Booth,<br>
-&nbsp;- Luke Gromen,<br>
-&nbsp;- Lyn Alden,<br>
-&nbsp;- Nic Carter,<br>
-Tech gurui:<br>
-&nbsp;- Andreas Antonopoulos (strasteni zagovornik i autor),<br>
-&nbsp;- Jack Mallers (Strike),<br>
-&nbsp;- Jameson Lopp,<br>
-&nbsp;- Shinobi,<br>
+&nbsp;- [Jeff Booth](https://www.jeffreybooth.com/){:target="_blank"},<br>
+&nbsp;- [Luke Gromen](https://fftt-llc.com/about/){:target="_blank"},<br>
+&nbsp;- [Lyn Alden](https://www.lynalden.com/){:target="_blank"},<br>
+&nbsp;- [Nic Carter](https://niccarter.info/about/){:target="_blank"},<br>
+Tech gurus:<br>
+&nbsp;- [Andreas Antonopoulos](https://aantonop.com/){:target="_blank"} (strasteni zagovornik i autor),<br>
+&nbsp;- [Jack Mallers](https://twitter.com/jackmallers){:target="_blank"} ([Strike](https://strike.me/){:target="_blank"}),<br>
+&nbsp;- [Jameson Lopp](https://www.lopp.net/){:target="_blank"},<br>
+&nbsp;- [Shinobi](https://bitcoinmagazine.com/authors/shinobi){:target="_blank"},<br>
 Investitori:<br>
-&nbsp;- Michael Saylor  (MicroStrategy),<br>
-&nbsp;- Jack Dorsey (Twitter, Block[Square]),<br>
-&nbsp;- Elon Musk (Tesla),<br>
-&nbsp;- Cathie Wood (Ark Invest),<br>
+&nbsp;- [Michael Saylor](https://www.michael.com/){:target="_blank"} ([MicroStrategy](https://www.microstrategy.com/en){:target="_blank"}),<br>
+&nbsp;- [Jack Dorsey](https://twitter.com/jack/){:target="_blank"} ([Twitter](https://twitter.com/){:target="_blank"}, [Block](https://block.xyz/){:target="_blank"} [Square]),<br>
+&nbsp;- [Elon Musk](https://www.forbes.com/profile/elon-musk/?sh=779e3e947999){:target="_blank"} ([Tesla](https://www.tesla.com/){:target="_blank"}),<br>
+&nbsp;- [Cathie Wood](https://www.forbes.com/profile/cathie-wood/?sh=1e3081b47360){:target="_blank"} ([Ark Invest](https://ark-invest.com/){:target="_blank"}),<br>
 Podkasteri:<br>
 &nbsp;- Peter McCormack ([Šta je Bitkoin uradio](https://www-whatbitcoindid-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"});<br>
 &nbsp;- Robert Breedlove ([Šta je novac](https://www.youtube.com/playlist?list=PL2jAZ0x9H0bRvoNt1xNJWYa9_8_an03h0){:target="_blank"});<br>
