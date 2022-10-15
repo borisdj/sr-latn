@@ -582,7 +582,7 @@ Bitkoin i makro sistemi:<br>
 &nbsp;- Lyn Alden,<br>
 &nbsp;- Nic Carter,<br>
 Tech gurui:<br>
-&nbsp;- Andreas Antonopoulos (advocate and author),<br>
+&nbsp;- Andreas Antonopoulos (strasteni zagovornik i autor),<br>
 &nbsp;- Jack Mallers (Strike),<br>
 &nbsp;- Jameson Lopp,<br>
 &nbsp;- Shinobi,<br>
