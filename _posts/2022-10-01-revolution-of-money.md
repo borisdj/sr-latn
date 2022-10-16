@@ -69,14 +69,18 @@ ako vam se sviđa tekst
 
 ## Uvod [[ToC](#toc)]
 {: #introduction }
--- U tekstu koji slijedi govori se o novčanim sistemima prošlosti, postojećim u sadašnjosti, ali i budućoj perspektivi i mogućnostima. U futurističkom kontekstu, prva riječ koju treba spomenuti je [***Bitcoin***](https://bitcoin.org/sr/) (Bitkoin), ili kratko **BTC (₿)**. Da bismo ga objasnili, postoji fraza koja kaže: *To je odgovor, a da vidimo sada šta je pitanje*. Za bolje razumijevanje moramo prvo da shvatimo istoriju novca i trenutne monetarne sisteme.<br>
+-- U tekstu koji slijedi govori se o novčanim sistemima prošlosti, postojećim u sadašnjosti, ali i budućoj perspektivi i mogućnostima. U futurističkom kontekstu, prva riječ koju treba spomenuti je [***Bitcoin***](https://bitcoin.org/sr/) (Bitkoin), ili kratko **BTC (₿)**. Da bismo ga objasnili, postoji fraza koja kaže: *To je odgovor, a da vidimo sada šta je pitanje*. Za bolje razumijevanje moramo prvo da shvatimo istoriju novca i trenutne monetarne sisteme, kako bi razumjeli buduće.<br>
 -- Diskusija je poduža kao i priroda tematike, pa je podijeljena na segmente radi lakšeg razumijevanja.
-Nemojte se obeshrabriti ako vam materijal izgleda stran. Većina ljudi, u zavisnosti od nivoa poznavanja materije, trebaće da ga pročita nekoliko puta, pošto obiluje različitim informacijama. Takođe najbolje je da čitanje rasporedite na više dana, prespavate ga, nakon čega će se pojaviti mnoga pitanja. Za njih imate prijatelje i forume za razgovor, kao i blogove, članke i YT kanale / podkaste za slušanje. Takođe možete ostaviti komentar ili pitanje na dnu. I što više znate, više želite da saznate, takozvano *'Pad niz (Bitcoin) Zečju rupu'* (metafora za avanturu u nepoznato iz *Alise u zemlji čuda*). To će vas natjerati na razmišljanje, ali istovremeno i proširiti vaše vidike.<br> 
--- Ono što je važno je shvatiti ideju i osnove, i kako im pristupiti. Ne moraju svi da znaju sve tehničke detalje da bi ga koristili. Ali za one koji želje dublje da se upute u materiju neka procjena je da je potrebno najmanje [100 sati učenja](https://crypto--telegraphs-com.translate.goog/2022/06/22/100-hours-of-study-needed-to-understand-how-bitcoin-works/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} ([100 sati analize](https://hannahdo.medium.com/a-summary-from-my-100-hours-of-learning-about-bitcoin-9d6da7b8feea){:target="_blank"}) da bi se uronilo u ovu stvar. Jedan komičar je čak rekao:<br>
+Nemojte se obeshrabriti ako vam materijal izgleda stran. Pošto obiluje različitim informacijama preporuka je da tekst čitate u segmentima i rasporedite na više dana, prespavate ga. Vjerovatno će vam se pojaviti nova pitanja. Za njih imate prijatelje i forume za razgovor, kao i blogove, članke i YT kanale / podkaste za slušanje. Takođe možete ostaviti komentar ili pitanje na dnu. Mnogi termini i događaji linkovani su na druge članke, blogove, forume i YT kanale / podkaste.  Na taj način možete pročitati više o tematici koja vas zanima, a takođe možete ostaviti komentar ili pitanje na dnu.
+
+-- Svrha ovog teksta jeste da se shvati ideja i osnove, i kako im pristupiti. Za za one koji želje dublje da se upute u materiju i da znaju više tehničkih detalja, tu je [100 sati učenja](https://crypto--telegraphs-com.translate.goog/2022/06/22/100-hours-of-study-needed-to-understand-how-bitcoin-works/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} ([100 sati analize](https://hannahdo.medium.com/a-summary-from-my-100-hours-of-learning-about-bitcoin-9d6da7b8feea){:target="_blank"}) da bi se uronilo u ovu stvar.<br>
+Jer što više znate, više želite da saznate, takozvano *'Pad niz (Bitcoin) Zečju rupu'* (metafora za avanturu u nepoznato iz *Alise u zemlji čuda*). To će vas natjerati na razmišljanje, ali istovremeno i proširiti vaše vidike.<br>
+
+Jedan komičar je čak rekao:<br>
 *"To je sve što ne razumijete o novcu u kombinaciji sa svime što ne razumijete o računarima".*<br>
 Ali kako počnete da učite, posljedično ćete steći znanje o ekonomiji, informatici, matematici, filozofiji, politici, istoriji, pa čak i fizici.<br>
 PS<br>
-Rad je još uvijek u toku i treba nešto konačnog refaktorisanja, nemojte zamjeriti ako naiđete na neke preostale greške.
+Oblikovanje / refaktorisanja teksta još u toku.
 
 ## <ins>1 Monetarne hronike</ins>
 {: #monetary-chronicles }
