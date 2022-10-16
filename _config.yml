@@ -37,7 +37,7 @@ github:
   username: borisdj                     # change to your github username
 
 twitter:
-  username: boris.dj                    # change to your twitter username
+  username: BorisDjurdevic                    # change to your twitter username
 
 social:
   # Change to your full name.
@@ -46,7 +46,7 @@ social:
   email: djurdjevicboris@hotmail.com    # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/boris.dj      # change to your twitter homepage
+    - https://twitter.com/BorisDjurdevic      # change to your twitter homepage
     - https://github.com/borisdj        # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
