@@ -599,6 +599,7 @@ Podkasteri:<br>
 &nbsp;- Robert Breedlove ([Šta je novac](https://www.youtube.com/playlist?list=PL2jAZ0x9H0bRvoNt1xNJWYa9_8_an03h0){:target="_blank"});<br>
 &nbsp;- Anthony Pompliano ([Pomp podkast](https://www.youtube.com/c/AnthonyPompliano){:target="_blank"});<br>
 &nbsp;- Lex Fridman ([Lex podkast sa M.Saylor-om: Budućnost novca](https://www.youtube.com/watch?v=mC43pZkpTec){:target="_blank"});<br>
+&nbsp;- Galeb Nikačević ([Agelast - ECD (kriptovalute)](https://www.youtube.com/watch?v=l89maeYZAEE){:target="_blank"});<br>
 
 ## <ins>5. Pogled u budućnosti</ins>
 {: #looking-forward }
