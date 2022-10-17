@@ -279,9 +279,9 @@ To je prvi slučaj u kojem su se pohlepa i altruistički podsticaji uskladili. S
 [Šta je Bitcoin](https://www.youtube.com/watch?v=Gc2en3nHxA4&t=34s){:target="_blank"}; | [Jednostavno objašnjenje](https://www.youtube.com/watch?v=41JCpzvnn_0&t=1s){:target="_blank"};<br>
 [Kako bitkoin radi](https://www.youtube.com/watch?v=bBC-nXj3Ng4&t=8s){:target="_blank"}; | [Kako blokčejn radi](https://www.youtube.com/watch?v=SSo_EIwHSd4){:target="_blank"};<br>
 TED govori:<br>
--[Blokčejn mijenja novac i poslovanje](https://www.youtube.com/watch?v=Pl8OlkkwRpc&t=37s){:target="_blank"}<br>
--[Blokčejn transformiše ekonomiju](https://www.youtube.com/watch?v=RplnSVTzvnU&t=1s){:target="_blank"}<br>
--[Budućnost novca](https://www.youtube.com/watch?v=pPgd7Hj3ABQ){:target="_blank"}<br>
+-[Blokčejn mijenja novac i poslovanje](https://www.youtube.com/watch?v=Pl8OlkkwRpc&t=37s){:target="_blank"} (*Don Tapscott*)<br>
+-[Blokčejn transformiše ekonomiju](https://www.youtube.com/watch?v=RplnSVTzvnU&t=1s){:target="_blank"} (*Bettina Warburg*)<br>
+-[Budućnost novca](https://www.youtube.com/watch?v=pPgd7Hj3ABQ){:target="_blank"} (*Neha Narula*)<br>
 
 [Bikcoin Upravljanje](https://stanford-jblp.pubpub.org/pub/bitcoin-governance/release/2){:target="_blank"} sličan sa 3 (tradicionalna) nivoa raydvajanja vlasti.<br>
 [3 grane Blokčejn Upravljanja](https://medium.com/digitalassetresearch/the-three-branches-of-blockchain-governance-75a29bf98880){:target="_blank"} (doktrina *podjela vlasti*)
