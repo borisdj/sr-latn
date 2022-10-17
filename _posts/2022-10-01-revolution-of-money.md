@@ -14,7 +14,7 @@ Uspon **Bitcoin-a** sa pričom o kripto industriji
 LANG(jezik):<br>
 [Globalni](https://infopedia.io/revolution-of-money) (en-us) / Lokalni (sr-latn-ba)
 
-Verzije: [*Pdf*](https://drive.google.com/file/d/1LBisCmUagkHRkRq3gD-cPm8rPFZlp4HY/view){:target="_blank"}<br>
+Verzije: [*Pdf*](https://drive.google.com/file/d/12lGUrL5EpSs_hvQen56rGP6xnWZ80omu/view){:target="_blank"}<br>
 
 ![evolution-of-money](https://raw.githubusercontent.com/borisdj/sr-latn/main/assets/images/revolution-of-money/evolution-of-money.jpg)
 
