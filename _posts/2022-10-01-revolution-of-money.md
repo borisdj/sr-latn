@@ -283,7 +283,7 @@ TED govori:<br>
 -[Blokčejn transformiše ekonomiju](https://www.youtube.com/watch?v=RplnSVTzvnU&t=1s){:target="_blank"} (*Bettina Warburg*)<br>
 -[Budućnost novca](https://www.youtube.com/watch?v=pPgd7Hj3ABQ){:target="_blank"} (*Neha Narula*)<br>
 
-[Bikcoin Upravljanje](https://stanford-jblp.pubpub.org/pub/bitcoin-governance/release/2){:target="_blank"} sličan sa 3 (tradicionalna) nivoa raydvajanja vlasti.<br>
+[Bikcoin Upravljanje](https://stanford-jblp.pubpub.org/pub/bitcoin-governance/release/2){:target="_blank"} sličan sa 3 (tradicionalna) nivoa razdvajanja vlasti.<br>
 [3 grane Blokčejn Upravljanja](https://medium.com/digitalassetresearch/the-three-branches-of-blockchain-governance-75a29bf98880){:target="_blank"} (doktrina *podjela vlasti*)
 
 | **VLAST**      | **BIT**      | Opis                             |
