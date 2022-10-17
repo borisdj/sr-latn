@@ -151,7 +151,7 @@ je pouzdan odnos s nepoznatim, društveni ljepak koji premošćuje jaz:<br>
 `Poznato` <---> POVJERENJE <---> `Nepoznato`<br>
 To je valuta interakcija.<br>
 Način da se izgradi više povjerenja je da budete transparentniji i s vremenom postanete vjerodostojni (imati reputacijski kapital).<br>
-U posljednje vrijeme mogli smo primijetiti [kršenje povjerenja](https://www-youtube-com.translate.goog/watch?v=GqGksNRYu8s?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} u mnogim oblastima kao što su:<br>
+U posljednje vrijeme mogli smo primijetiti [kršenje povjerenja](https://www.youtube.com/watch?v=GqGksNRYu8s){:target="_blank"} (objasnila [*Rachel Botsman*](https://rachelbotsman-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}) u mnogim oblastima kao što su:<br>
 &nbsp;1. [Hakovanje telefona News International](https://en-wikipedia-org.translate.goog/wiki/News_International_phone_hacking_scandal?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}<br>
 &nbsp;2. [Globalna finansijska kriza dovela do zatvaranja samo jednog bankara](https://features-marketplace-org.translate.goog/why-no-ceo-went-jail-after-financial-crisis/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}<br>
 &nbsp;3. [Skandal s emisijom Volkswagen-a](https://hbr-org.translate.goog/2015/09/what-vw-didnt-understand-about-trust?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}<br>
