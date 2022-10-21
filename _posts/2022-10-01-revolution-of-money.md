@@ -426,7 +426,7 @@ takođe sa udaljene lokacije koja je inače neupotrebljiva zbog velike udaljenos
 **Postojeći problemi sa odgovarajućim rješenjima**
 * 1 Ograničeni kapacitet - neefikasno, nedovoljno skalabilno<br>
 (trenutno maksimalno oko 10 transakcija u sekundi što ih čini sporim i skupim)
-  - [Blokčein Trilema](https://www.gemini.com/cryptopedia/blockchain-trilemma-decentralization-scalability-definition){:target="_blank"} (otpornost naspram efikasnosti):<br>
+  - [Blokčejn Trilema](https://www.gemini.com/cryptopedia/blockchain-trilemma-decentralization-scalability-definition){:target="_blank"} (otpornost naspram efikasnosti):<br>
 /__\ 1. Decentralizacija, 2. Sigurnost, 3. Skalabilnost
   - Slojevita struktura<br>
 L-1 osnovni sloj optimizuje sigurnost i robusnost, a takođe ga održava decentralizovanim<br>
@@ -685,7 +685,7 @@ Novi ljudi koji dolaze nemaju iste informacije kao oni koji su bili tu ranije. R
 (I pohvale i kritike su dobrodošle)<br>
 [**Vidi sve komentare**](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYCQRmyTGP2q3GphttZcEae9GlXohAqYy77GIdvVsh5deOfzo-M8J_S_gworsgvkH2klOfLmBoHzQO/pubhtml){:target="_blank"}<br>
 
--- Ostanite sa nama za objavu o *Lightning Network* sljedećeg mjeseca.<br>
+-- Ostanite sa nama za objavu o lajtning mreži (*Lightning Network*) sljedećeg mjeseca.<br>
 Uz to će biti i **Kviz** sa pitanjima. Za one koji daju sve tačne odgovore, nagrada će biti određena količina satoshi-ja putem *lightning* mreže.
 
  DODATAK<br>
