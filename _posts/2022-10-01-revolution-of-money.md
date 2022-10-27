@@ -406,7 +406,7 @@ Pogledajmo određene **Slabosti i Prijetnje (*Weaknesses & Threat*)** i njihova 
   - Podsticaj je korišćenje najjeftinije energije, trenutno uglavnom iz [obnovljivih izvora](https://wintonark.medium.com/bitcoin-mining-impact-on-renewable-uptake-fc91c5aa9be0){:target="_blank"} ([solar](https://medium.com/blockchain-life-tech/rooftop-solar-and-crypto-mining-could-kick-off-a-green-power-revolution-ad91d523b35b){:target="_blank"})<br>
 takođe sa udaljene lokacije koja je inače neupotrebljiva zbog velike udaljenosti (geo-nezavisno)
   - Može doprinijeti [stabilizaciji električne mreže](https://www-vaultelectricity-com.translate.goog/how-bitcoin-will-help-stabilize-the-texas-grid-and-lower-electricity-rates/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} pauziranje rudarenja na serverima u vršnim trenucima najveće potražnje
-  - Koristi višak energije trenutnih elektrana koja inače biva bačena
+  - Koristi višak energije trenutnih elektrana, koja inače biva protraćena
   - Toplota proizvedena opremom za rudarenje bi se mogla koristiti za grijanje domova
   - Civilizacijski nivo tehnološkog napretka mjeri se količinom energije koja se može iskoristiti<br>
 ([Kardašev skala](https://sr.wikipedia.org/sr-el/Skala_Karda%C5%A1eva){:target="_blank"})
