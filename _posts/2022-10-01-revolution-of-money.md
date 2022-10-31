@@ -475,15 +475,22 @@ Bitkoin monetarna inflacija [izvor grafa](https://bashco-github-io.translate.goo
 ### 3.3 Ostale kripto valute [[C](#toc)]
 {: #other-cryptos }
 -- U poređenju sa drugim kripto koinima, važne razlike su što **BTC** ima prednosti [**prvog pokretača**](https://corporatefinanceinstitute-com.translate.goog/resources/knowledge/strategy/first-mover-advantage/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} ([Poluistina](https://hbr-org.translate.goog/2005/04/the-half-truth-of-first-mover-advantage?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}), takođe je najpoznatiji i skoro svi su već čuli za njega. On sam po sebi nema lidera pa ima veću decentralizaciju i **nikada nije hakovan**. Ipak, to ne znači da su svi ostali bezvrijedni, neki od njih mogu imati vrijedne dodatne karakteristike. Samo oni koji nisu u istom domenu kao BTC i ciljaju na drugačiji način upotrebe, bilo šta osim bazne monetarne imovine, mogu preživjeti. Naravno da je bilo, ima i biće mnogo onih koji su čista prevara, poput [OneCoin](https://technext-ng.translate.goog/2022/07/05/all-you-need-know-onecoin-crypto-scam/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}, ili obmana sa manipulativnom šemom 'naduvaj i odbaci - *pump-and-dump*' (teorija Velike budale). Zatim tu je grupa loših sa besmislenom idejom. Obe vrste spadaju u kategoriju takozvanih 'sranje' novčića bez vidne svrhe. Ostaje mali broj koji bi mogao imati korisnu upotrebu, ali čak i mnogi od njih će propasti zbog loše implementacije. Samo nekolicina će preživjeti i napredovati i možda postati lider u određenom domenu. Ipak, BTC je trenutno jedini koji ima realne šanse da postane globalni monetarni sistem.<br>
+
 -- Postoji nekoliko razloga zašto je on glavni, kripto kralj, a to su:<br>
-&nbsp;1. Prava decentralizacija - glavna inovacija koju stvarno ima samo BTC.<br>
-&nbsp;Ovo je od najveće važnosti i PoW sa svom svojom potrošnjom električne energije mu daje suštinsku vrijednost ukorijenjenu u fizičkom svijetu a istovremeno obezbjeđuje vremensku i prostornu sigurnost.<br>
-&nbsp;Ne može se falsifikovati jer ima trošak energije.<br>
-&nbsp;Dok kompanije i njihove mreže/platforme mogu biti cenzurisane, protokoli se ne mogu tako lako blokirati.<br>
-&nbsp;2. Mrežni efekat - što ga više ljudi koristi, raste vjerovatnoća da će postati veći (vrijednost raste s brojem korisnika)<br>
-&nbsp;3. Dodatna vrijednost uz nove jedinstvene karakteristike i funkcionalnost<br>
-&nbsp;4. Pojednostavljen dizajn u svojoj srži i u skladu sa IT principom [***KISS***](https://www-techopedia-com.translate.goog/definition/20262/keep-it-simple-stupid-principle-kiss-principle?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} (*Neka bude jednostavno, glupo*)<br>
-&nbsp;5. Ima samo jednu glavnu funkciju u bazi - biti samo novac, ali radi to vrlo dobro.<br>
+1. Prava decentralizacija
+   - ovo je od najveće važnosti i PoW sa svom svojom potrošnjom električne energije mu daje suštinsku vrijednost ukorijenjenu u fizičkom svijetu a istovremeno obezbjeđuje vremensku i prostornu sigurnost.
+   - ne može se falsifikovati jer ima trošak energije.
+   - dok kompanije i njihove mreže/platforme mogu biti cenzurisane, protokoli se ne mogu tako lako blokirati.<br>
+2. Mrežni efekat
+   - što ga više ljudi koristi, raste vjerovatnoća da će postati veći<br>
+     (vrijednost raste s brojem korisnika)
+3. Dodatna vrijednost
+   - uz nove jedinstvene karakteristike i funkcionalnost
+5. Pojednostavljen dizajn u svojoj srži
+   - u skladu sa IT principom [***KISS***](https://www-techopedia-com.translate.goog/definition/20262/keep-it-simple-stupid-principle-kiss-principle?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}<br>
+     (*Neka bude jednostavno, glupo*)
+5. Ima samo jednu glavnu funkciju u osnovi
+   - biti samo novac, ali radi to vrlo dobro
 
 -- Neki AltKoini (Alternativni novčići - bilo koji drugi osim Bitcoina) mogu se smatrati startup-ima gdje je njihova kupovina slična ulaganju u tu kompaniju. Na primjer DeFi - *Decentralizovane finansije* (Kripto [Rječnik](https://www-forbes-com.translate.goog/uk/advisor/investing/cryptocurrency/crypto-glossary-of-terms-acronyms/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} i [Akronimi](https://www-coindesk-com.translate.goog/learn/from-btd-to-fud-to-wagmi-understanding-crypto-acronyms/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}) su aplikacije koje replikuju određene bankarske usluge. U njih ulaganje se često može uraditi sa [**ICO**](https://www-investopedia-com.translate.goog/terms/i/initial-coin-offering-ico.asp?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} (*Inicijalna ponuda koina*), analogno **IPO** (*Inicijalna javna ponuda*). To je kao balon Dot-com-a u 2000-im kada je bilo mnogo kompanija koje su imale web stranice, ali samo neke su postale Microsoft, Google, Apple, Amazon, itd. Dok je većina drugih potpuno propala, a mi nikada nismo ni čuli za njih.<br>
 Ipak samo se BTC posmatra kao **Imovina** (takođe [od strane SEC-a](https://www-reuters-com.translate.goog/legal/transactional/are-cryptocurrencies-securities-sec-is-answering-question-2022-03-21/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){: target="_blank"}), drugačije rečeno **Digitalna svojina**, dok su sve ostale kriptovalute opisane kao **Hartije od vrijednosti** (*Naredni Bitkoin je Bitkoin* i *Sve putanje vode ka Bitkoinu*).
