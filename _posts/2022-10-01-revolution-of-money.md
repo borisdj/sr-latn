@@ -621,7 +621,7 @@ Stopa usvajanja prati [S krivu](https://www.inbitcoinwetrust.net/bitcoin-on-the-
 
 ### 5.2 Šta dalje [[C](#toc)]
 {: #what-lies-ahead }
--- Prvo, važno je naučiti što više i imati sveobuhvatno razumijevanje sistema. Pošto sistem nije prisilan već je dobrovoljan za **Priključiti se** (slobodno birate da ga koristite i eventualno učinite svijet boljim) samo učenje o njemu je već doprinos. Zatim slijedi igranje s time i kasnije promovisanje ideje podučavanjem drugih oko sebe (vrlina je učiti ljude). Postoji poznata *mima* (kulturni element koji se brzo širi): [**Laserske oči**](https://www-wealthsimple-com.translate.goog/en-ca/magazine/laser-eyes-crypto?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} - značajan fokus na važne stvari koje mogu napraviti promjenu.<br>
+-- Prvo, važno je naučiti što više i imati sveobuhvatno razumijevanje sistema. Pošto sistem nije prisilan već je dobrovoljan za **priključiti se** (slobodno birate da ga koristite i eventualno učinite svijet boljim) samo učenje o njemu je već doprinos. Zatim slijedi igranje s time i kasnije promovisanje ideje podučavanjem drugih oko sebe (vrlina je učiti ljude). Postoji poznata *mima* (kulturni element koji se brzo širi): [**Laserske oči**](https://www-wealthsimple-com.translate.goog/en-ca/magazine/laser-eyes-crypto?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} - značajan fokus na važne stvari koje mogu napraviti promjenu.<br>
 Drugo odlučite da li ga želite kupite, za sada kao investiciju, a kasnije kao štedni račun. Na ovaj način ćete i sami isprobati i naučiti nekoliko stvari. Instalirajte jedan ili više [preporučenih novčanika](https://academy-aax-com.translate.goog/en/introducing-the-4-best-lightning-network-wallets-for-sending-and-receiving-bitcoin/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target ="_blank"} (kao što je *Phoenix, Breez, Muun, Blue Wallet*), registrujte se na berzi, prebacite sredstva u svoj novčanik (povucite sa berze).<br>
 
 -- Kada se većina zemalja pridruži sistemu, čak će se takmičiti ko ima bolje usvajanje. Na kraju će i Centralne banke početi da nabavljaju Bitkoin kao dio svojih rezervi. Kada ga prva velika CB stekne, druge će biti primorani da ga isto uzmu zbog teorije igara. Privatne banke bi takođe posjedovale BTC kao rezervnu aktivu. Kako nastavi da sazrijeva, dobiće širu podršku, integrisati se u stvarni svijet i postati mejnstrim što bi moglo biti od koristi za sve.<br>
@@ -634,7 +634,7 @@ Drugo odlučite da li ga želite kupite, za sada kao investiciju, a kasnije kao 
 Samo ako budete dovoljno uvjereni u Bitkoin priču, onda je dobra ideja investirati.<br>
 --U praksi postoji nekoliko generalno korisnih strategija (može se koristiti jedna ili više):<br>
 &nbsp;1. Premjestite (preusmjerite) dio svog portfelja u Btc i držite ga dugoročno<br>
-&nbsp; - veličina uloga može se kretati od 5 do 20 % zavisno od neto vrijednosti i sklonosti riziku
+&nbsp; - veličina uloga može se kretati od 5 do 20 % zavisno od neto vrijednosti i sklonosti riziku<br>
 &nbsp; - nemojte pogriješiti da ništa ne uložite kako ne biste imali FOMO (*Fear Of Missing Out* - strah od propuštanja)<br>
 &nbsp; - odlučite kada ćete se pridružiti vozu i potencijalno izgraditi bogatstvo<br>
 &nbsp;2. Napravite mjesečnu štednji u Bitkoin-u (na primjer 3 - 5 % vaše plate/prihoda)<br>
@@ -646,7 +646,7 @@ Samo ako budete dovoljno uvjereni u Bitkoin priču, onda je dobra ideja investir
 &nbsp; - veoma je teško nadmašiti tržište, čak i uz tehničku analizu<br>
 
 Dodatni načini doprinosa:<br>
--Razmislite o tome da počnete primati plaćanja u Bitcoin-u za posao/uslugu koju vi ili vaša kompanija pružate<br>
+-Razmislite o tome da počnete primati uplate u Bitcoin-u za posao/uslugu koju vi ili vaša kompanija pružate<br>
 -Možete čak dati i neki mali popust kada neko plaća BTC-om, to će podstaći druge da ga koriste<br>
 -U kasnijoj fazi koristite ga za plaćanja gdje god je to moguće<br>
 -Promijenite mentalitet s kupovine i prodaje na zaradu/štednju i trošenje/korišćenje<br>
