@@ -20,9 +20,8 @@ Verzije: [*Pdf*](https://drive.google.com/file/d/12lGUrL5EpSs_hvQen56rGP6xnWZ80o
 <center>QR Link</center>
 ![QR Link](https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=https://infopedia.io/revolution-of-money/)
 
-## Uvod
-{: #toc }
 
+**Sadržaj [C]**
 {% raw %}
 <p>
 Klik <BUTTON id="buttonLike" TYPE="button" 
@@ -42,8 +41,6 @@ ako vam se sviđa tekst
   });
 </script>
 {% endraw %}
-**Sadržaj [C]**
-
 | [Uvod](#toc) |
 | ------------------------------------- |
 | [**1. Monetarne hronike**](#monetary-chronicles) |
@@ -70,6 +67,8 @@ ako vam se sviđa tekst
 | [5.3 Praktični pristup](#practical-approach) |
 | [5.4 Rekapitulacija](#recapitulation) |
 
+## Uvod
+{: #introduction }
 -- U tekstu koji slijedi govori se o novčanim sistemima prošlosti, postojećim u sadašnjosti, ali i budućoj perspektivi i mogućnostima. U futurističkom kontekstu, prva riječ koju treba spomenuti je [***Bitcoin***](https://bitcoin.org/sr/) (Bitkoin), ili kratko **BTC (₿)**. Da bismo ga objasnili, postoji fraza koja kaže: *To je odgovor, a da vidimo sada šta je pitanje*. Za bolje razumijevanje moramo prvo da shvatimo istoriju novca i trenutne monetarne sisteme, radi budućeg razvoja.<br>
 -- Diskusija je poduža kao i priroda tematike, pa je podijeljena na segmente radi lakšeg razumijevanja. Nemojte se obeshrabriti ako vam materijal izgleda stran. Pošto obiluje različitim informacijama preporuka je da tekst čitate u segmentima i rasporedite na više dana, prespavate ga. Vjerovatno će vam se pojaviti nova pitanja. Mnogi termini i događaji linkovani su na druge članke, blogove, forume i YT kanale / podkaste. Na taj način možete pročitati više o tematici koja vas zanima, a takođe možete ostaviti komentar ili pitanje na dnu.
 
