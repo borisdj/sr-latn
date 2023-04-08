@@ -22,6 +22,26 @@ Verzije: [*Pdf*](https://drive.google.com/file/d/12lGUrL5EpSs_hvQen56rGP6xnWZ80o
 
 **Sadržaj [C]**
 
+{% raw %}
+<p>
+Klik <BUTTON id="buttonLike" TYPE="button" 
+style="border:none; background:url('https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/applause.png')no-repeat" 
+ONCLICK="fetch(counterUrl + 'post');
+document.getElementById('counterCell').innerHTML=likesCounter+1; document.getElementById('buttonLike').disabled=true; 
+document.getElementById('buttonLike').style.backgroundImage='url(https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/applauseGrey.png)';
+alert('Lajk:) dodan, Hvala!');">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</BUTTON>
+ako vam se sviđa tekst
+[<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRylKpaTqDluVsX1bgonHR74mApXbnrr7bCr6_z-UaH4fDlD3i6v51tITUbCbbRHl-MfvdS9VNUtDQU/pubhtml?gid=0" target="_blank">brojač:</a> <b id="counterCell">N</b>]
+</p>
+<script>
+  var likesCounter = 0;
+  var counterUrl = 'https://script.google.com/macros/s/AKfycbzZHMD7Y8gp04hSipbZqj0K8ThiV7fxHf0jZboXcfvU1saESYdk5PjyN6XNwMMCj8uv/exec?type=';
+  document.addEventListener("DOMContentLoaded", function() {
+    fetch(counterUrl + 'get').then(res => res.json()).then(out => document.getElementById('counterCell').innerHTML=likesCounter=out);
+  });
+</script>
+{% endraw %}
+
 | [Uvod](#introduction) |
 | ------------------------------------- |
 | [**1. Monetarne hronike**](#monetary-chronicles) |
@@ -48,7 +68,7 @@ Verzije: [*Pdf*](https://drive.google.com/file/d/12lGUrL5EpSs_hvQen56rGP6xnWZ80o
 | [5.3 Praktični pristup](#practical-approach) |
 | [5.4 Rekapitulacija](#recapitulation) |
 
-## Uvod [[ToC](#toc)]
+## Uvod [[C](#toc)]
 {: #introduction }
 -- U tekstu koji slijedi govori se o novčanim sistemima prošlosti, postojećim u sadašnjosti, ali i budućoj perspektivi i mogućnostima. U futurističkom kontekstu, prva riječ koju treba spomenuti je [***Bitcoin***](https://bitcoin.org/sr/) (Bitkoin), ili kratko **BTC (₿)**. Da bismo ga objasnili, postoji fraza koja kaže: *To je odgovor, a da vidimo sada šta je pitanje*. Za bolje razumijevanje moramo prvo da shvatimo istoriju novca i trenutne monetarne sisteme, radi budućeg razvoja.<br>
 -- Diskusija je poduža kao i priroda tematike, pa je podijeljena na segmente radi lakšeg razumijevanja. Nemojte se obeshrabriti ako vam materijal izgleda stran. Pošto obiluje različitim informacijama preporuka je da tekst čitate u segmentima i rasporedite na više dana, prespavate ga. Vjerovatno će vam se pojaviti nova pitanja. Mnogi termini i događaji linkovani su na druge članke, blogove, forume i YT kanale / podkaste. Na taj način možete pročitati više o tematici koja vas zanima, a takođe možete ostaviti komentar ili pitanje na dnu.
