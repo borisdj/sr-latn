@@ -4,7 +4,6 @@ date: 2022-09-01T00:00:00-00:00
 categories: [dev]
 tags: [.net, libs]
 classes: wide
-image: "/demo/assets/images/dot-net-libraries.jpg"
 excerpt: "Open source authored .Net libraries"
 ---
 
