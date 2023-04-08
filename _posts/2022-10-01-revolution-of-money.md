@@ -22,8 +22,6 @@ Verzije: [*Pdf*](https://drive.google.com/file/d/12lGUrL5EpSs_hvQen56rGP6xnWZ80o
 
 ## Uvod [[C](#toc)]
 {: #introduction }
-
-**Sadržaj [C]**
 {% raw %}
 <p>
 Klik <BUTTON id="buttonLike" TYPE="button" 
@@ -43,7 +41,8 @@ ako vam se sviđa tekst
   });
 </script>
 {% endraw %}
-| [Uvod](#introduction) |
+**Sadržaj [C]**
+| [Uvod](#toc) |
 | ------------------------------------- |
 | [**1. Monetarne hronike**](#monetary-chronicles) |
 | [1.1 Početak novca](#beginning-of-money) |
