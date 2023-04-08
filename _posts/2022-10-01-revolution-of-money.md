@@ -42,6 +42,7 @@ ako vam se sviđa tekst
 
 **Sadržaj [C]**
 {: #toc }
+..
 | [Uvod](#introduction) |
 | ------------------------------------- |
 | [**1. Monetarne hronike**](#monetary-chronicles) |
