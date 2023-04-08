@@ -20,11 +20,7 @@ Verzije: [*Pdf*](https://drive.google.com/file/d/12lGUrL5EpSs_hvQen56rGP6xnWZ80o
 <center>QR Link</center>
 ![QR Link](https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=https://infopedia.io/revolution-of-money/)
 
-
-
 **Sadržaj [C]**
-{: #toc }
-
 | [Uvod](#introduction) |
 | ------------------------------------- |
 | [**1. Monetarne hronike**](#monetary-chronicles) |
