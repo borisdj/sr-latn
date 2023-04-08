@@ -39,9 +39,11 @@ ako vam se sviđa tekst
   });
 </script>
 {% endraw %}
+..
 
 **Sadržaj [C]**
 {: #toc }
+..
 
 | [Uvod](#introduction) |
 | ------------------------------------- |
