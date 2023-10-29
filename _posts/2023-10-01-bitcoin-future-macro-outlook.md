@@ -12,6 +12,8 @@ excerpt: "Bitcoin Bitkoin očekivanja narednih mjeseci ali i decenija"
 LANG(jezik):<br>
 [Globalni](https://infopedia.io/bitcoin-future-macro-outlook/) (en-us) / Lokalni (sr-latn-ba)<br>
 
+![/evolution-of-money](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/revolution-of-money/evolution-of-money.jpg)
+
 <center>QR Link</center>
 ![QR Link](https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=https://infopedia.io/sr-latn/bitcoin-future-macro-outlook/)
 
@@ -88,9 +90,9 @@ Electrical production is another issue and in the future all power should be gre
 Personal assessment currently is that Bitcoin has 51% chance of growing and expanding  
 (in 2017 was 30% and in 2013 maybe 10% then).  
 The longer it exists (15 years so far) the higher are chances of succeeding (Lindy effect).  
-Like any investment it is a bet, just like any decision in life is.  
+Like any investment it is a bet, as every decision in life is.  
 For risky ones, invest only what you are able to lose.  
-DYOR and make personal probability for each hypothetical scenario.
+DYOR and make your probability for each hypothetical scenario.
 
 Epilogue: Following months will be interesting to see how this plays out, stay tuned.  
 For those eager to find out more and deep dive into it, last year post was a mini eBook: [(r)Evolution of Money](https://infopedia.io/revolution-of-money/)
