@@ -15,19 +15,19 @@ LANG(jezik):<br>
 <center>QR Link</center>
 ![QR Link](https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=https://infopedia.io/sr-latn/bitcoin-future-macro-outlook/)
 
-*Prevod u toku!...*
+Počnimo sa idejom da iza bitkoina stoji ideja, u suštini da monetarni sistem ne treba da kontroliše vlada. Razlog je taj što se, budući da je centralizovan i da države imaju monopol nad njim, u dužem periodu (50 do 100 godina) korumpira. Kao takav se zloupotrebljava, što završava devalvacijom (obezvređivanjem) valute i visokom ili hiper nekontrolisanom inflacijom, što je istorija često dokazala. Kao rezultat toga, ušteđevina građana biva ukradena, kapital uništen i ekonomija razorena. Osim toga, olakšava vođenje neopravdanih ratova i podstiče populističke političare.
+Dakle, predlog je da se prekine ovaj začarani krug stvaranjem decentralizovanog sistema u kojem nijedna vlada neće moći da štampa novac jednim klikom na dugme. U principu nije protiv države, samo za manju i transparentniju administraciju sa proverama i ravnotežama. Mogli bismo reći da je to pokret ka finansijskoj autonomiji i slobodi.
 
-Let's start with the notion that behind Bitcoin is an idea, essentially that the monetary system should not be controlled by the government. The reason being is that, since it is centralized and countries have monopoly over it, in the long period (50 to 100 years), it gets corrupted. As such it is misused which ends up with currency devaluation(debasement) and high or hyper runaway inflation, as history often proved. In addition it makes easier to wage unjustified wars and fuels populist politicians.  
-So the proposal was to break this vicious circle by making a decentralized system where no government will be able to print money with a click of a button. In principle it is not anti-government, just for smaller and more transparent administration with checks and balances. We could say it is a movement towards financial autonomy and freedom.
+Bitcoin protokol je samo prva funkcionalna implementacija ove ideje (zahvalnost Sajferpank pokretu).
+Dezinflatorni zdrav novac, digitalan (nastao na internetu), neutralan i apolitičan (agnostičan prema politici) kao fenomen koji se širi odozdo prema gore.
+Takođe je potpuno bez potrebe za dozvolom i poverenjem, jer poverenje ljudi često izdaju velike organizacije.
+Dizajniran je i programiran tako da ima najbolje karakteristike novca:
+&nbsp;1. Izdržljiv, 2. Prijenosan, 3. Prijenosan, 4. Prihvatljiv, 5. Ograničena količina, 6. Uniforman
+(popravlja loše karakteristike zlata u pogledu teške podjele i transporta zbog čega je sjajni metal centralizovan).
 
-Bitcoin protocol is just the first functional implementation of this idea (courtesy of Cypherpunks).  
-Disinflationary sound money that is internet native, digital, neutral and apolitical (agnostic to politics) as bottom up emergent phenomena.  
-Also being fully permissionless and trustless, since people trust is often betrayed by large organisations.  
-It was designed and programmed to have best characteristic of Money:  
-&nbsp;1. Durable, 2. Divisible, 3. Portable, 4. Acceptable, 5. Scarce, 6. Uniform  
-(fixes bad features of gold regarding difficult division and transport because of which yellow metal was centralized).  
+*Dalji prevod u toku!...*
 
-### Road ahead
+### Put ispred
 Next to lay out one possible way we could get to this system. Since BTC is Scarce (Most Important feature) while Fiat is constantly inflationary, people have INCENTIVE to save as much in Bitcoin.
 Proposition here is that it serves as SoV - Store Of Value (digital Gold 2.0) in the long period (disregarding short term volatility, looking at 4 year average).
 Later when everybody has some of it, they will start paying and accepting it directly instead of converting it into Fiat, and so it slowly takes on the function of MoE - Medium of Exchange.
