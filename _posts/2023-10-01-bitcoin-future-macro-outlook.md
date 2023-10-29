@@ -10,7 +10,7 @@ excerpt: "Bitcoin Bitkoin očekivanja narednih mjeseci ali i decenija"
 **Bitcoin** očekivanja narednih mjeseci ali i decenija<br>
 
 LANG(jezik):<br>
-[Globalni]([https://infopedia.io/bitcoin-future-macro-outlook/) (en-us) / Lokalni (sr-latn-ba)<br>
+[Globalni](https://infopedia.io/bitcoin-future-macro-outlook/) (en-us) / Lokalni (sr-latn-ba)<br>
 
 <center>QR Link</center>
 ![QR Link](https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=https://infopedia.io/sr-latn/bitcoin-future-macro-outlook/)
