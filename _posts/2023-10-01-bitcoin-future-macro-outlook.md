@@ -54,7 +54,7 @@ Dizajniran je i programiran tako da ima najbolje karakteristike novca:
 
 ### Put naprijed
 {: #forward }
-Dalje izložimo jedan mogući način na koji bi se moglo doći do ovog sistema. Pošto BTC ima ograničenu količinu (najvažnija karakteristika) dok je državna valuta, tzv. 'Fiat', konstantno inflatorna, ljudi imaju PODSTICAJ da štede što više u Bitkoinu (zaštita od inflacije).  
+Dalje izložimo jedan mogući način na koji bi se moglo doći do ovog sistema. Pošto BTC ima ograničenu količinu (najvažnija karakteristika) dok je državna valuta, tzv. 'Fiat', konstantno inflatorna i gubi vrijednost, ljudi imaju PODSTICAJ da štede što više u Bitkoinu (zaštita od inflacije).  
 Ovdje je pretpostavka da služi kao *Čuvar vrijednosti* '**(1) SoV** - *Store Of Value*' (digitalno zlato 2.0) u dugom periodu (ne uzimajući u obzir kratkoročnu volatilnost već gledajući 4-godišnji prosjek).  
 Poslije, kada skoro svi budu imali neku količinu, počeće da plaćaju i primaju direktno umjesto da ga konvertuju u Fiat, i tako polako preuzima funkciju *Sredstva razmjene* '**(2) MoE** - *Medium of Exchange*'. 
 I treća faza (ako do ove ikada dođe) bi mogla biti kada su cene u njoj, dakle funkcija *Jedinice obračuna* '**(3) UoA** - *Unit of Account*' (univerzalna valuta).  
@@ -102,7 +102,7 @@ Dakle, postojala bi ravnoteža u svakom trenutku.
 
 &nbsp;**5.** Krediti bi bili malo skuplji nego danas, jer bi imali realnu cijenu, ali bi učesnicima na tržištu davali ispravan signal troška. Banke (kreditne) bi bile kao u slobodnom bankarstvu i trebale bi da vode računa o trajanju kredita i oročenih depozita. Centralna banka bi bila suvišna jer ne bi mogla da deluje kao zajmodavac u krajnjoj instanci.  
 Uglavnom bi postojalo bankarstvo sa punim rezervama, ograničeno oročenim depozitima. Čak i ako se pojavi neka vrsta bankarstva sa djelimičnim rezervama, ona bi imala gornju granicu izloženosti riziku. Nema više NINJA kredita (nema prihoda, nema posla, nema imovine).  
-Nekretnine bi imale niže cijene jer ne bi služile kao Čuvar vrijednosti i izgubile bi tu novčanu premiju.
+Nekretnine bi imale niže cijene jer ne bi služile kao Čuvar vrijednosti i izgubile bi tu novčanu premiju (smanjeni troškovi stanovanja).
 
 Za potkrepljivanje ovih tvrdnji postoji odličan članak:  
 [*Zašto fiksna količina novca ne dovodi do ekonomske katastrofe*](https://www.swanbitcoin.com/why-a-fixed-supply-money-does-not-lead-to-economic-catastrophe/)  
@@ -126,7 +126,7 @@ Zanimljiva stvar koju treba spomenuti je da smo preko Lightning šina mogli da v
 U isto vrijeme rudari mogu pomoći u stabilizaciji strujne mreže i takođe mogu da troše inače neupotrebljivu energiju.  
 Proizvodnja električne energije je drugo pitanje i u budućnosti bi sva energija trebalo da bude zelena iz održivih izvora.
 
-&nbsp;**4.** Što se tiče pravedne distribucije, oni koji su ga rano prihvatili su pošteno nagrađeni za rizik i vrijeme koje su uložili. A takođe i zbog čeličnih živaca da dugo izdrže kroz turbulentna vremena, jer bez njih sistem ne bi mogao da opstane.
+&nbsp;**4.** U vezi pravedne distribucije, oni koji su ga rano prihvatili su pošteno nagrađeni za rizik i vrijeme koje su uložili. A takođe i zbog čeličnih živaca da dugo izdrže kroz turbulentna vremena, jer bez njih sistem ne bi mogao da opstane.
 
 ### Zaključak
 {: #conclusion }
