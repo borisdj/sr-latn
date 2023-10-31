@@ -98,7 +98,7 @@ Dakle, postojala bi ravnoteža u svakom trenutku.
 Takođe treba napomenuti da bi bankarstvo sa delimičnim rezervama i dalje moglo da postoji, samo što bi bilo ograničeno depozitima i imalo bi gornju granicu izloženosti riziku. Nema više NINJA kredita (nema prihoda, nema posla, nema imovine).
 Nekretnine bi imale niže cijene jer ne bi služile kao Čuvar vrijednosti i izgubile bi tu novčanu premiju.
 
-Da potkrepimo ove tvrdnje postoji odličan članak:
+Da potkrepimo ove tvrdnje postoji odličan članak:  
 [*Zašto fiksna količina novca ne dovodi do ekonomske katastrofe*](https://www.swanbitcoin.com/why-a-fixed-supply-money-does-not-lead-to-economic-catastrophe/)
 
 ### Na kraju da se osvrnemo i pojasnimo neke često upućene kritike prema sistemu (skepticizam):
