@@ -66,7 +66,7 @@ Posle 2030. biće vidljivo da li ide u ovom pravcu a oko 2040-2050 znaćemo kona
 
 Takođe između zemalja postoji dinamika teorije igara (SAD, Rusija, itd.) tako da čak i ako neke od njih ga blokiraju (kao Kina) ne može ga zaustaviti. A ako ga neke učine rezervama trezora i/ili legalnim sredstvom plaćanja, druge bi se na kraju pridružile (strah od propuštanja - '*FOMO*').  
 Čak i odluke Banaka da prihvate Bitkoin može se analizirati iz perspektive teorije igara, gdje isplata za svakog igrača (finansijsku instituciju) zavisi ne samo od njihove sopstvene odluke već i od odluka drugih.  
-Dakle, ovo bi bio čvrst novac izabran na slobodnom tržištu, baš kao što istorija sugeriše da se uvek dešava (*Thiers*-ov zakon – dobar novac će izbaciti loš, na nivou robe). Ali pošto ne bi bio centralizovan, zadržao bi svoju maksimalnu količinu trajno (nema centralne tačke kontrole/neuspjeha da se poveća količina – uklanja ljudski faktor greške). Na kraju bi došlo do ravnoteže sa ukupnim brojem monetarnih jedinica i cjelokupnom svjetskom ekonomijom (hiperbitkoinizacija).  
+Dakle, ovo bi bio čvrst novac izabran na slobodnom tržištu, baš kao što istorija sugeriše da se uvek dešava (*Thiers*-ov zakon – dobar novac će izbaciti loš, na nivou robe). Ali pošto ne bi bio centralizovan, zadržao bi svoju maksimalnu količinu trajno (nema centralne tačke kontrole/neuspjeha da se poveća količina – uklanja ljudski faktor greške). Na kraju bi došlo do ravnoteže sa ukupnim brojem monetarnih jedinica i cjelokupnom svjetskom ekonomijom (hiperbitkoinizacija - sve podijeljeno sa 21 milion).  
 Dakle, to bi bio kao precizan sistem mjerenja vrednosti - [mjerni štap](https://dematerialize.blog/bitcoin-is-the-economic-measuring-stick){:target="_blank"} (jedinica od 1 metra takođe se ne mijenja ni kada imamo više zgrade).
 
 **Mogući efekti:**  
@@ -74,7 +74,7 @@ Dakle, to bi bio kao precizan sistem mjerenja vrednosti - [mjerni štap](https:/
 -- niža vremenska preferencija, razmišljanje na duži rok, manje konzumerizma bezvrijedne robe (bez prekomjerne potrošnje)  
 -- realne plate koje održavaju kupovnu moć uz blagu deflaciju cijena koja vodi ka većem prosperitetu  
 &nbsp;&nbsp;(nema potrebe da se traži povišica samo da bi se pratila inflacija)  
--- pravedna distribucija rasta privrede uklanjanjem tihog regresivnog poreza putem inflacije  
+-- pravedna distribucija privrednog rasta uklanjanjem tihog regresivnog poreza putem inflacije  
 &nbsp;&nbsp;(bez *Cantillon* efekta – oni koji su blizu štamparske mašine imaju najviše koristi)  
 -- pojednostavljena štednja  
 
@@ -88,7 +88,7 @@ Ako je ova logika tačna, sa trenutne cijene od 27.000 dolara 2023/10/01, do kra
 
 ### Makro analiza (limitirana količina novca):
 {: #macro }  
-&nbsp;**1.** To je jedinstven globalni monetarni protokol - Bitkoin Standard (svjetska rezervna valuta), tako da nema problema sa konverzijom između valuta za globalnu trgovinu i e-poslovanje.  
+&nbsp;**1.** To je jedinstven globalni monetarni protokol - Bitkoin Standard (svjetska rezervna valuta), tako da nema problema sa konverzijom između valuta za globalnu trgovinu i međunarodno e-poslovanje.  
 Optimalni monetarni sistem projektovan da bude što efikasniji.
  
 &nbsp;**2.** Bio bi apolitičan novac, tako da zemlje efektivno više ne bi imale monetarnu politiku, već samo fiskalnu. Privreda će imati prirodne poslovne cikluse i postati stabilnija. Dakle, usponi i padovi ekonomije bi trebalo da budu mnogo manji jer ne bi mogli veštački da porastu pošto ne postoji državno spašavanje od bankrota (sjetimo se finansijske krize iz 2008.)
