@@ -40,8 +40,8 @@ SADRŽAJ:
 
 ### Uvod
 {: #intro }
-Počnimo sa idejom da iza Bitkoina (*BTC*) stoji ideja, u suštini da monetarni sistem ne treba da kontroliše vlada. Razlog je taj što se, budući da je centralizovan i da države imaju monopol nad njim, u dužem periodu (50 do 100 godina) korumpira. Kao takav se zloupotrebljava, što završava devalvacijom (obezvređivanjem) valute i nekontrolisanom visokom ili hiper inflacijom, što je istorija često dokazala. Kao rezultat toga, ušteđevina građana biva ukradena, kapital uništen i ekonomija razorena. Osim toga, olakšava vođenje neopravdanih ratova i podstiče populističke političare.  
-Dakle, predlog je da se prekine ovaj začarani krug stvaranjem decentralizovanog sistema u kojem nijedna vlada neće moći da štampa novac jednim klikom na dugme. U principu nije protiv države, samo za manju i transparentniju administraciju sa odgovarajućim mehanizmima ravnoteže i kontrole. Moglo bi se reći da je to pokret prema finansijskoj autonomiji i slobodi. Praktičan i izvodljiv pokušaj da se popravi pokvaren monetarni sistem.  
+Počnimo sa idejom da iza Bitkoina (**BTC**) stoji ideja, u suštini da monetarni sistem ne treba da kontroliše vlada. Razlog je taj što se, budući da je centralizovan i da države imaju monopol nad njim, u dužem periodu (50 do 100 godina) korumpira. Kao takav se zloupotrebljava, što završava devalvacijom (obezvređivanjem) valute i nekontrolisanom visokom ili hiper inflacijom, što je istorija često dokazala. Kao rezultat toga, ušteđevina građana biva ukradena, kapital uništen i ekonomija razorena. Osim toga, olakšava vođenje neopravdanih ratova i podstiče populističke političare.  
+Dakle, prijedlog je da se prekine ovaj začarani krug stvaranjem decentralizovanog sistema u kojem nijedna vlada neće moći da štampa novac jednim klikom na dugme. U principu nije protiv države, samo za manju i transparentniju administraciju sa odgovarajućim mehanizmima ravnoteže i kontrole. Moglo bi se reći da je to pokret prema finansijskoj autonomiji i slobodi. Praktičan i izvodljiv pokušaj da se popravi pokvaren monetarni sistem.  
 Da citiramo F.A. Hayek iz njegove knjige *‘Denacionalizacija Novca’*:  
 *“Vlade uglavnom zloupotrebljavaju novac i zaustavljaju njegovo poboljšanje, a monetarna politika je uglavnom škodila. Ne možemo ga nasilno uzeti iz ruku vlasti. Sve što možemo je da na neki lukav, zaobilazni način uvedemo nešto što oni ne mogu zaustaviti.”*
 
@@ -54,7 +54,7 @@ Dizajniran je i programiran tako da ima najbolje karakteristike novca:
 
 ### Put naprijed
 {: #forward }
-Sada izložimo jedan mogući način na koji bi se moglo doći do ovog sistema. Pošto BTC ima ograničenu količinu (najvažnija karakteristika) dok je državna valuta, tzv. 'Fiat', konstantno inflatorna, ljudi imaju PODSTICAJ da štede što više u Bitkoinu.  
+Dalje izložimo jedan mogući način na koji bi se moglo doći do ovog sistema. Pošto BTC ima ograničenu količinu (najvažnija karakteristika) dok je državna valuta, tzv. 'Fiat', konstantno inflatorna, ljudi imaju PODSTICAJ da štede što više u Bitkoinu (zaštita od inflacije).  
 Ovdje je pretpostavka da služi kao *Čuvar vrijednosti* '**(1) SoV** - *Store Of Value*' (digitalno zlato 2.0) u dugom periodu (ne uzimajući u obzir kratkoročnu volatilnost već gledajući 4-godišnji prosjek).  
 Poslije, kada skoro svi budu imali neku količinu, počeće da plaćaju i primaju direktno umjesto da ga konvertuju u Fiat, i tako polako preuzima funkciju *Sredstva razmjene* '**(2) MoE** - *Medium of Exchange*'. 
 I treća faza (ako do ove ikada dođe) bi mogla biti kada su cene u njoj, dakle funkcija *Jedinice obračuna* '**(3) UoA** - *Unit of Account*' (univerzalna valuta).  
@@ -62,10 +62,10 @@ BTC ima ogroman potencijal jer bi mogao biti prva imovina sa trostrukom funkcijo
 U tehničkom smislu, potkovan je značajnim otkrićem u kompjuterskoj nauci, decentralizovanom digitalnom oskudicom.  
 Svaka faza 1, 2, 3 mogla bi trajati najmanje 10 godina (slobodna procjena).  
 Pred faza 0 je trajala donedavno - akumulacija kao kolekcionarstvo. Slično evoluciji interneta (1980-2020) sa rastom S-krive.  
-Posle 2030. biće vidljivo da li ide u ovom pravcu a oko 2040-2050 znaćemo konačan rezultat (potrebna je generacijska promjena). U najboljem slučaju 1 BTC bi mogao biti milion+ dolara. U tom trenutku bi se potpuno stabilizovao, a do tada bi volatilnost bila niža svakim ciklusom.
+Poslije 2030. biće vidljivo da li ide u ovom pravcu a oko 2040-2050 znaćemo konačan rezultat (potrebna je generacijska promjena). U najboljem slučaju 1 BTC bi mogao biti milion+ dolara. U tom trenutku bi se potpuno stabilizovao, a do tada bi volatilnost bila niža svakim ciklusom.
 
 Takođe između zemalja postoji dinamika teorije igara (SAD, Rusija, itd.) tako da čak i ako neke od njih ga blokiraju (kao Kina) ne može ga zaustaviti. A ako ga neke učine rezervama trezora i/ili legalnim sredstvom plaćanja, druge bi se na kraju pridružile (strah od propuštanja - '*FOMO*').  
-Čak i odluke Banaka da prihvate Bitkoin mogu se posmatrati iz perspektive teorije igara, gdje korist za svakog igrača (finansijsku instituciju) zavisi ne samo od njihove sopstvene odluke već i od odluka drugih (tržišna utrka).  
+Čak i odluke Banaka da prihvataju Bitkoin mogu se posmatrati iz perspektive teorije igara, gdje korist za svakog igrača (finansijsku instituciju) zavisi ne samo od njihove sopstvene odluke već i od odluka drugih (tržišna utrka).  
 Dakle, ovo bi bio čvrst novac izabran na slobodnom tržištu, baš kao što istorija sugeriše da se uvek dešava (*Thiers*-ov zakon – dobar novac će izbaciti loš, na nivou robe). Ali pošto ne bi bio centralizovan, zadržao bi svoju maksimalnu količinu trajno (nema centralne tačke kontrole/neuspjeha da se poveća količina – uklanja ljudski faktor greške). Na kraju bi došlo do ravnoteže sa ukupnim brojem monetarnih jedinica i cjelokupnom svjetskom ekonomijom (hiperbitkoinizacija - sve podijeljeno sa 21 milion).  
 Dakle, to bi bio kao precizan sistem mjerenja vrednosti - [mjerni štap](https://dematerialize.blog/bitcoin-is-the-economic-measuring-stick){:target="_blank"} (jedinica od 1 metra takođe se ne mijenja ni kada imamo više zgrade).
 
