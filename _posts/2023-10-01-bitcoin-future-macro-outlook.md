@@ -124,7 +124,7 @@ Zanimljiva stvar koju treba spomenuti je da smo preko Lightning šina mogli da v
 &nbsp;**3.** Da bi bio otporan u budućnosti od promjena prema inflatornom modelu, potrebna mu je decentralizacija visokog nivoa koja zahtijeva troškove stvarnog svijeta (sidro u fizičkoj realnosti). To se manifestuje u 'rudarenju' (*mining*) kao Dokaz o Radu (*Proof of Work - PoW*).  
 Što se tiče potrošnje energije, argument je da korišćenje 0,3 do 0,6% svjetske električne energije je prilično jeftino da bi se dugoročno imao globalni visokokvalitetni monetarni sistem. Čak i bankarska industrija danas ima veću potrošnju energije od ove.  
 U isto vrijeme rudari mogu pomoći u stabilizaciji strujne mreže i takođe mogu da troše inače neupotrebljivu energiju.  
-Proizvodnja električne energije je drugo pitanje i u budućnosti bi sva energija trebalo da bude zelena iz održivih izvora.
+Proizvodnja električne energije je drugo pitanje i u budućnosti bi sva energija trebala da bude održiva iz obnovljivih izvora.
 
 &nbsp;**4.** U vezi pravedne distribucije, oni koji su ga rano prihvatili su pošteno nagrađeni za rizik i vrijeme koje su uložili. A takođe i zbog čeličnih živaca da dugo izdrže kroz turbulentna vremena, jer bez njih sistem ne bi mogao da opstane.
 
