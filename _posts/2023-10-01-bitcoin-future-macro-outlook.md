@@ -41,11 +41,13 @@ SADRŽAJ:
 ### Uvod
 {: #intro }
 Počnimo sa idejom da iza Bitkoina (*BTC*) stoji ideja, u suštini da monetarni sistem ne treba da kontroliše vlada. Razlog je taj što se, budući da je centralizovan i da države imaju monopol nad njim, u dužem periodu (50 do 100 godina) korumpira. Kao takav se zloupotrebljava, što završava devalvacijom (obezvređivanjem) valute i nekontrolisanom visokom ili hiper inflacijom, što je istorija često dokazala. Kao rezultat toga, ušteđevina građana biva ukradena, kapital uništen i ekonomija razorena. Osim toga, olakšava vođenje neopravdanih ratova i podstiče populističke političare.  
-Dakle, predlog je da se prekine ovaj začarani krug stvaranjem decentralizovanog sistema u kojem nijedna vlada neće moći da štampa novac jednim klikom na dugme. U principu nije protiv države, samo za manju i transparentniju administraciju sa proverama i ravnotežama. Moglo bi se reći da je to pokret prema finansijskoj autonomiji i slobodi.
+Dakle, predlog je da se prekine ovaj začarani krug stvaranjem decentralizovanog sistema u kojem nijedna vlada neće moći da štampa novac jednim klikom na dugme. U principu nije protiv države, samo za manju i transparentniju administraciju sa proverama i ravnotežama. Moglo bi se reći da je to pokret prema finansijskoj autonomiji i slobodi. Praktičan i izvodljiv pokušaj da se popravi pokvaren monetarni sistem.  
+Da citiramo F.A. Hayek iz njegove knjige *‘Denacionalizacija Novca’*:  
+*“Vlade uglavnom zloupotrebljavaju novac i zaustavljaju njegovo poboljšanje, a monetarna politika je uglavnom škodila. Ne možemo ga nasilno uzeti iz ruku vlasti. Sve što možemo je da na neki lukav, zaobilazni način uvedemo nešto što oni ne mogu zaustaviti.”*
 
 Bitcoin protokol je samo prva funkcionalna implementacija ove ideje (zahvalnost Sajferpank pokretu).  
 Neinflatorni zdrav novac, digitalan (nastao na internetu), neutralan (agnostičan prema politici) kao fenomen koji se širi odozdo prema gore.  
-Takođe je potpuno bez potrebe za dozvolom i poverenjem, jer poverenje ljudi često izdaju velike organizacije.  
+Takođe je potpuno bez potrebe za dozvolom i poverenjem, jer poverenje ljudi često naruše velike organizacije.  
 Dizajniran je i programiran tako da ima najbolje karakteristike novca:  
 &nbsp;1. Izdržljiv, 2. Djeljiv, 3. Prijenosan, 4. Prihvatljiv, 5. Ograničena količina, 6. Uniforman  
 (popravlja loše karakteristike zlata u pogledu teške podjele i transporta zbog čega je sjajni metal centralizovan).
@@ -56,11 +58,11 @@ Sada izložimo jedan mogući način na koji bi se moglo doći do ovog sistema. P
 Ovdje je pretpostavka da služi kao *Čuvar vrijednosti* '**SoV** - *Store Of Value*' (digitalno zlato 2.0) u dugom periodu (ne uzimajući u obzir kratkoročnu volatilnost već gledajući 4-godišnji prosjek).  
 Poslije, kada skoro svi budu imali neku količinu, počeće da plaćaju i primaju direktno umjesto da ga konvertuju u Fiat, i tako polako preuzima funkciju *Sredstva razmjene* '**MoE** - *Medium of Exchange*'. 
 I treća faza (ako do ove ikada dođe) bi mogla biti kada su cene u njoj, dakle funkcija *Jedinice obračuna* '**UoA** - *Unit of Account*' (univerzalna valuta).  
-BTC ima ogroman potencijal jer bi mogao biti prva imovina sa trostrukom funkcijom u istoriji.  
+BTC ima ogroman potencijal jer bi mogao biti prva imovina sa trostrukom funkcijom, jedistvena u istoriji.  
 Svaka faza 1,2,3 mogla bi trajati najmanje 10 godina (slobodna procena). (preFaza 0 je donedavno bila - akumulacije kao kolekcionarstvo). Slično evoluciji interneta (1980-2020) sa rastom S-krive.  
 Posle 2030. biće vidljivo da li ide u ovom pravcu a oko 2040-2050 znaćemo konačan rezultat (potrebna je generacijska promjena). U najboljem slučaju 1 BTC bi mogao biti milion+ dolara. U tom trenutku bi se potpuno stabilizovao, a do tada bi volatilnost bila niža svakim ciklusom.
 
-Takođe između zemalja postoji dinamika teorije igara (SAD, Rusija, itd.) tako da čak i ako neke od njih ga blokiraju (kao Kina) ne može ga zaustaviti. A ako ga neke učine legalnim sredstvom plaćanja, druge bi se na kraju pridružile (strah od propuštanja - '*FOMO*'). Dakle, ovo bi bio čvrst novac izabran na slobodnom tržištu, baš kao što istorija sugeriše da se uvek dešava (*Thiers*-ov zakon – dobar novac će izbaciti loš, na nivou robe). Ali pošto ne bi bio centralizovan, zadržao bi svoju maksimalnu količinu trajno (nema centralne tačke kontrole/neuspjeha da se poveća količina – uklanja ljudski faktor greške). Na kraju bi došlo do ravnoteže sa ukupnim brojem monetarnih jedinica i cjelokupnom svjetskom ekonomijom (hiperbitkoinizacija).  
+Takođe između zemalja postoji dinamika teorije igara (SAD, Rusija, itd.) tako da čak i ako neke od njih ga blokiraju (kao Kina) ne može ga zaustaviti. A ako ga neke učine rezervama trezora i/ili legalnim sredstvom plaćanja, druge bi se na kraju pridružile (strah od propuštanja - '*FOMO*'). Dakle, ovo bi bio čvrst novac izabran na slobodnom tržištu, baš kao što istorija sugeriše da se uvek dešava (*Thiers*-ov zakon – dobar novac će izbaciti loš, na nivou robe). Ali pošto ne bi bio centralizovan, zadržao bi svoju maksimalnu količinu trajno (nema centralne tačke kontrole/neuspjeha da se poveća količina – uklanja ljudski faktor greške). Na kraju bi došlo do ravnoteže sa ukupnim brojem monetarnih jedinica i cjelokupnom svjetskom ekonomijom (hiperbitkoinizacija).  
 Dakle, to bi bio kao precizan sistem mjerenja vrednosti - [mjerni štap](https://dematerialize.blog/bitcoin-is-the-economic-measuring-stick){:target="_blank"} (jedinica od 1 metra takođe se ne mijenja ni kada imamo više zgrade).
 
 **Mogući efekti:**  
@@ -76,7 +78,7 @@ Dakle, to bi bio kao precizan sistem mjerenja vrednosti - [mjerni štap](https:/
 April 2024 je kada će se desiti sljedeće polovljenje - *Halving*. Događaj se odnosi na smanjenje (upola) stvaranja novih novčića koje 'rudari' dobijaju kao nagradu, a dešava se svake 4 godine u ciklusima.  
 Pošto mnogi redovno kupuju i vrše DCA (*Dollar Cost Averaging* - uprosječavanje troškova u dolarima), to bi trebalo da dovede do povećanja cijene približno 2 puta.  
 Zatim dobija medijsku pažnju što privlači nove ljude i trgovce, dalje vodeći do hajpa i nove maksimlane cijene, što bude praćeno krahom tržišta. Dakle, ima specifično tržišno ponašanje, ali četvorogodišnji prosjek stalno raste (logaritamski rast) i broj korisnika se povećava sa svakim krugom. Upotreba postaje lakša jer mobilne aplikacije svakim danom postaju jednostavnije za upotrebu. I skoro odobrenje Spot [Bitcoin ETFs](https://www.coindesk.com/policy/2023/10/20/sec-likely-to-approve-spot-bitcoin-etf-in-next-few-months-jpmorgan/)
-(Exchange-Traded Fund) će izvjesno imati dodatni uticaj na jačanje.
+(Exchange-Traded Fund) će izvjesno imati dodatni uticaj na jačanje. Da dodamo ovdje Fidelity studiju [*Bitcoin First Revisited*](https://vvv.fidelitidigitalassets.com/research-and-insights/bitcoin-first-revisited) gdje je objašnjeno zašto se treba razmatra odvojeno od druge digitalne imovine.
 Ako je ova logika tačna, sa trenutne cijene od 27.000 dolara 2023/10/01, do kraja 2025. mogla bi dostići vrhunac u rasponu između 100 i 250 hiljada USD. Posle ovoga 2026. ili 2027. možda će se ponovo vratiti na 100 hiljada dolara ili čak malo ispod toga (procjena zasnovana na grafikonu duginih cena).
 
 ### Makro analiza (limitirana količina novca):
@@ -96,18 +98,20 @@ Dakle, postojala bi ravnoteža u svakom trenutku.
 Takođe treba napomenuti da bi bankarstvo sa delimičnim rezervama i dalje moglo da postoji, samo što bi bilo ograničeno depozitima i imalo bi gornju granicu izloženosti riziku. Nema više NINJA kredita (nema prihoda, nema posla, nema imovine).
 Nekretnine bi imale niže cijene jer ne bi služile kao Čuvar vrijednosti i izgubile bi tu novčanu premiju.
 
-### Na kraju da se pozabavimo i pojasnimo neke često upućene kritike prema sistemu (skepticizam):
+Da potkrepimo ove tvrdnje postoji odličan članak:
+[*Zašto fiksna količina novca ne dovodi do ekonomske katastrofe*](https://www.swanbitcoin.com/why-a-fixed-supply-money-does-not-lead-to-economic-catastrophe/)
+
+### Na kraju da se osvrnemo i pojasnimo neke često upućene kritike prema sistemu (skepticizam):
 {: #scepticism }  
 &nbsp;**1.** Druge 'kriptovalute' (alt novčići) nisu prava konkurencija bitkoinu zbog:
-Prednosti prvog pokretača, mrežni efekat (vrijednost je subjektivna), najbolji model upravljanja (bez poznatog osnivača), najviše decentralizovani rudari i široka distribucija čvorova, najveća zajednica (saradnici, programeri) sa snažnom posvećenošću/ubjeđenjem i sve većim usvajanjem od strane korisnika.
+Prednosti prvog pokretača (organska kreacija koja se ne može replicirati), mrežni efekat (vrijednost je subjektivna), najbolji model upravljanja (bez poznatog osnivača), najviše decentralizovani rudari i široka distribucija čvorova, najveća zajednica (saradnici, programeri) sa snažnim ubjeđenjem ,dubokom posvećenošću i sve većim usvajanjem od strane korisnika.
 Oni koji koriste PoS (*Proof of Stake* - Dokaz o Ulogu) mehanizam konsenzusa su poput 'hartija od vrijednosti' i nemaju stvarnu decentralizaciju, nema razdvajanja vlasti, a PoS je u osnovi centralizajuća sila. Neki od njih bi mogli naći drugi slučaj upotrebe, ali ne kao dobar novac. Samo bitkoin se smatra robom, što je potvrdila i SEC (Komisija za hartije od vrijednosti SAD).
 Takođe *Side-chains ([Liquid](https://liquid.net/) na primjer) ili *Drive-chains* ([BitVM](https://www.eddieoz.com/bitvm-a-computational-revolution-in-bitcoin/){:target="_blank"}) kao drugi slojevi mogu biti bolji od posebnih Alt-ova jer mogu da se iskoriste bezbednost Bitcoin L1 sloja.
 I svaki realna novi izum, pošto su svi otvorenog koda, mogao bi se dodati u Bitcoin sa novim ažuriranjima. Na primer, Litecoin je donekle testna mreža za Bitcoin, *Lightning* funkcionalnost je tamo prvi put implementirana.
 
 &nbsp;**2.** Što se tiče kritika zbog sporosti, to je donekle tačno ali uz dobar razloga, ili nekoliko njih.
 Distribuirani dnevnik može imati samo ograničenu veličinu i rast na osnovu prosječne internet veze širom sveta i prosječne veličine diska. Takođe, sve svjetske transakcije ne moraju (i ne bi trebale) da budu zapisane u javnoj bazi. Jednom plaćanju za kafe nema mjesta u trajnoj bazi podataka (naglasak na strukturnoj efikasnosti). To je *Blockchain* trilema između decentralizacije, bezbjednosti i skalabilnosti.
-Dakle, jedino izvodljivo rješenje bilo je ograničiti broj transakcija u sekundi na glavnom sloju i riješiti skalabilnost na višim slojevima. U budućnosti se očekuje da će osnovni sloj služiti za poravnanje između Lightning čvorova, kastodija i banaka sa javnim dokazima o rezervama, državama itd.; kao danas RTGS (Bruto poravnanje u realnom vremenu) ili GIRO kao međubankarski kliring, ili slično kako Swift funkcioniše. Dakle, redovne transakcije bi bile na [Lightning](https://medium.com/blockchain/the-lightning-network-explained-f3982356f87e){:target="_blank"} i/ili drugim rešenjima sloja 2 (L2), koje su brže (instant), niske cijena (1000 jeftinije od Visa), imaju veći kapacitet (potencijalno [1 milion+ TPS](https://cointelegraph.com/news/bitcoin-lightning-network-vs-visa-and-mastercard-how-do-they-stack-up){:target="_blank"}) i sa više privatnosti.  Vrijedno pomena su Fabrike kanala (*Channel factories*) koje omogućavaju otvaranje više Lightning kanala pomoću samo jedne transakcije na glavnoj mreži.  
-*Fedimint* je jedno od novijih L2 rješenja sa distribuiranim starateljstvom (custody) i federalnom strukturom u kontekstu zajednice.  
+Dakle, jedino izvodljivo rješenje bilo je ograničiti broj transakcija u sekundi na glavnom sloju i riješiti skalabilnost na višim slojevima. U budućnosti se očekuje da će osnovni sloj služiti za poravnanje između Lightning čvorova, kastodija i banaka sa javnim dokazima o rezervama, državama itd.; kao danas RTGS (Bruto poravnanje u realnom vremenu) ili GIRO kao međubankarski kliring, ili slično kako Swift funkcioniše. Dakle, redovne transakcije bi bile na [Lightning](https://medium.com/blockchain/the-lightning-network-explained-f3982356f87e){:target="_blank"} i/ili drugim rešenjima sloja 2 (L2), koje su brže (instant), niske cijena (1000 jeftinije od Visa), imaju veći kapacitet (potencijalno [1 milion+ TPS](https://cointelegraph.com/news/bitcoin-lightning-network-vs-visa-and-mastercard-how-do-they-stack-up){:target="_blank"}) i sa više privatnosti. Veliki kapacitet je odličan za korišćenje mikroplaćanja, slučaj upotrebe koji ranije nije bio moguć.  
 Zanimljiva stvar koju treba spomenuti je da smo preko Lightning šina mogli da vidimo implementaciju Stabilnih Satošija [StableSats](https://www.eddieoz.com/bitvm-a-computational-revolution-in-bitcoin/){:target="_blank "} koji bi se mogli koristiti umesto centralizovanih stabilnih kovanica USDT/USDC, sve dok sami Bitcoin Sats ne postanu dovoljno stabilni.
 
 &nbsp;**3.** Da bi bio otporan na budućnost od promena ka inflatornom modelu, potrebna mu je decentralizacija visokog nivoa koja zahtijeva troškove stvarnog svijeta (sidro u fizičkoj realnosti). To se manifestuje u 'rudarenju' (*mining*) kao Dokaz o Radu (*Proof of Work - PoW*).  
@@ -121,7 +125,7 @@ Proizvodnja električne energije je drugo pitanje i u budućnosti bi sva energi
 {: #conclusion }
 Lična procjena trenutno je da Bitkoin ima 51% šanse za rast i širenje  
 (2017. je bilo 30%, a 2013. možda 10% tada).  
-Što duže postoji (15 godina do sada) veće su šanse za uspeh (Lindi efekat).  
+Što duže postoji (15 godina do sada) veće su šanse za uspeh (Lindi efekat), jer vremenom jača i postaje robusniji.  
 Kao bilo koja investicija to je opklada, što je i svaka odluka u životu.  
 Za rizične, uložite samo ono što možete priuštiti da izgubite.  
 DYOR (*Do Your Own Research* - uradite sopstveno istraživanje) i napravite sopstvenu vjerovatnoću za svaki hipotetički scenario.  
