@@ -4,10 +4,10 @@ date: 2023-10-01T00:00:00-00:00
 categories: [fintech]
 tags: [finance, crypto]
 classes: wide
-excerpt: "Bitcoin Bitkoin očekivanja narednih mjeseci ali i decenija"
+excerpt: "Bitcoin očekivanja narednih mjeseci i decenija"
 ---
 
-**Bitcoin** očekivanja narednih mjeseci ali i decenija<br>
+**Bitcoin** očekivanja narednih mjeseci a i decenija<br>
 
 LANG(jezik):<br>
 [Globalni](https://infopedia.io/bitcoin-future-macro-outlook/) (en-us) / Lokalni (sr-latn-ba)<br>
