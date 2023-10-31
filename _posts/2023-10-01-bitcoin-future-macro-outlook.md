@@ -55,12 +55,12 @@ Dizajniran je i programiran tako da ima najbolje karakteristike novca:
 ### Put naprijed
 {: #forward }
 Sada izložimo jedan mogući način na koji bi se moglo doći do ovog sistema. Pošto BTC ima ograničenu količinu (najvažnija karakteristika) dok je državna valuta, tzv. 'Fiat', konstantno inflatorna, ljudi imaju PODSTICAJ da štede što više u Bitkoinu.  
-Ovdje je pretpostavka da služi kao *Čuvar vrijednosti* '**SoV** - *Store Of Value*' (digitalno zlato 2.0) u dugom periodu (ne uzimajući u obzir kratkoročnu volatilnost već gledajući 4-godišnji prosjek).  
-Poslije, kada skoro svi budu imali neku količinu, počeće da plaćaju i primaju direktno umjesto da ga konvertuju u Fiat, i tako polako preuzima funkciju *Sredstva razmjene* '**MoE** - *Medium of Exchange*'. 
-I treća faza (ako do ove ikada dođe) bi mogla biti kada su cene u njoj, dakle funkcija *Jedinice obračuna* '**UoA** - *Unit of Account*' (univerzalna valuta).  
+Ovdje je pretpostavka da služi kao *Čuvar vrijednosti* '**(1) SoV** - *Store Of Value*' (digitalno zlato 2.0) u dugom periodu (ne uzimajući u obzir kratkoročnu volatilnost već gledajući 4-godišnji prosjek).  
+Poslije, kada skoro svi budu imali neku količinu, počeće da plaćaju i primaju direktno umjesto da ga konvertuju u Fiat, i tako polako preuzima funkciju *Sredstva razmjene* '**(2) MoE** - *Medium of Exchange*'. 
+I treća faza (ako do ove ikada dođe) bi mogla biti kada su cene u njoj, dakle funkcija *Jedinice obračuna* '**(3) UoA** - *Unit of Account*' (univerzalna valuta).  
 BTC ima ogroman potencijal jer bi mogao biti prva imovina sa trostrukom funkcijom, jedistvena u istoriji.  
 U tehničkom smislu, potkovan je značajnim otkrićem u kompjuterskoj nauci, decentralizovanom digitalnom oskudicom.  
-Svaka faza 1,2,3 mogla bi trajati najmanje 10 godina (slobodna procena).  
+Svaka faza 1, 2, 3 mogla bi trajati najmanje 10 godina (slobodna procjena).  
 Pred faza 0 je trajala donedavno - akumulacija kao kolekcionarstvo. Slično evoluciji interneta (1980-2020) sa rastom S-krive.  
 Posle 2030. biće vidljivo da li ide u ovom pravcu a oko 2040-2050 znaćemo konačan rezultat (potrebna je generacijska promjena). U najboljem slučaju 1 BTC bi mogao biti milion+ dolara. U tom trenutku bi se potpuno stabilizovao, a do tada bi volatilnost bila niža svakim ciklusom.
 
