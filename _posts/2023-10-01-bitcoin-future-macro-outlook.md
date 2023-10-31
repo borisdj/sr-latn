@@ -85,12 +85,13 @@ Ako je ova logika tačna, sa trenutne cijene od 27.000 dolara 2023/10/01, do kra
 
 ### Makro analiza (limitirana količina novca):
 {: #macro }  
-&nbsp;**1.** To je jedinstven globalni monetarni protokol - Bitkoin Standard (svjetska rezervna valuta), tako da nema problema sa konverzijom između valuta za globalnu trgovinu.
+&nbsp;**1.** To je jedinstven globalni monetarni protokol - Bitkoin Standard (svjetska rezervna valuta), tako da nema problema sa konverzijom između valuta za globalnu trgovinu i e-poslovanje.  
+Optimalni monetarni sistem projektovan da bude što efikasniji.
  
 &nbsp;**2.** Bio bi apolitičan novac, tako da zemlje efektivno više ne bi imale monetarnu politiku, već samo fiskalnu. Privreda će imati prirodne poslovne cikluse i postati stabilnija. Dakle, usponi i padovi ekonomije bi trebalo da budu mnogo manji jer ne bi mogli veštački da porastu pošto ne postoji državno spašavanje od bankrota (sjetimo se finansijske krize iz 2008.)
 
 &nbsp;**3.** Ograničena ponuda ne bi bila suštinski problem sve dok je djeljiva nadole (8 cifara + 8 decimala => 21 mil Btc * 100 mil = 21 kvadrilion Satošija ili Sata) i *Lightning* čak omogućava miliSate.
-Ako svjetska ekonomija raste u proseku 1% godišnje, nekim stvarima bi se umanjila cijena za 1%. Naravno, neke bi pale još više ako proizvodnja postane ekstra efikasna, a nekima bi mogla i porasti ako bi postojala dodatna potražnja.
+Ako svjetska ekonomija raste u proseku 1% godišnje, nekim stvarima bi se umanjila cijena za 1%. Naravno, neke bi pale još više sa višom proizvodnom efikasnošću, a nekima bi mogla i porasti ako bi postojala dodatna potražnja.
 Takođe ne postoji rizik od deflatorne spirale jer je to moguće samo u današnjem sistemu Novca kao Dug (novac koji se stvara svakim novim kreditom dok se uništava kada se dug otplati).
 
 &nbsp;**4.** Gomilarenje nije problem, jer ljudi imaju svakodnevne potrebe, ali takođe i želje, i trošili bi i štedili tokom svog života (niko ne živi vječno).
