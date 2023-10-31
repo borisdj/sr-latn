@@ -95,11 +95,11 @@ Takođe ne postoji rizik od deflatorne spirale jer je to moguće samo u današn
 &nbsp;**4.** Gomilarenje nije problem, jer ljudi imaju svakodnevne potrebe, ali takođe i želje, i trošili bi i štedili tokom svog života (niko ne živi vječno).
 Dakle, postojala bi ravnoteža u svakom trenutku.
 
-&nbsp;**5.** Krediti bi bili malo skuplji nego danas, jer bi imali realnu cijenu, ali bi učesnicima na tržištu davali ispravan signal troška. Banke (kreditne) bi bile kao u slobodnom bankarstvu i trebale bi da vode računa o trajanju kredita i oročenih depozita. Centralna banka bi bila suvišna jer ne bi mogla da deluje kao zajmodavac u krajnjoj instanci.
-Takođe treba napomenuti da bi bankarstvo sa delimičnim rezervama i dalje moglo da postoji, samo što bi bilo ograničeno depozitima i imalo bi gornju granicu izloženosti riziku. Nema više NINJA kredita (nema prihoda, nema posla, nema imovine).
+&nbsp;**5.** Krediti bi bili malo skuplji nego danas, jer bi imali realnu cijenu, ali bi učesnicima na tržištu davali ispravan signal troška. Banke (kreditne) bi bile kao u slobodnom bankarstvu i trebale bi da vode računa o trajanju kredita i oročenih depozita. Centralna banka bi bila suvišna jer ne bi mogla da deluje kao zajmodavac u krajnjoj instanci.  
+Uglavnom bi postojalo bankarstvo sa punim rezervama, ograničeno oročenim depozitima. Čak i ako se pojavi neka vrsta bankarstva sa delimičnim rezervama, ona bi imala gornju granicu izloženosti riziku. Nema više NINJA kredita (nema prihoda, nema posla, nema imovine).  
 Nekretnine bi imale niže cijene jer ne bi služile kao Čuvar vrijednosti i izgubile bi tu novčanu premiju.
 
-Za potkreiti ove tvrdnje postoji odličan članak:  
+Za potkrepljivanje ovih tvrdnji postoji odličan članak:  
 [*Zašto fiksna količina novca ne dovodi do ekonomske katastrofe*](https://www.swanbitcoin.com/why-a-fixed-supply-money-does-not-lead-to-economic-catastrophe/)
 
 ### Na kraju da se osvrnemo i pojasnimo neke često upućene kritike prema sistemu (skepticizam):
