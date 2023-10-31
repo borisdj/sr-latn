@@ -36,7 +36,7 @@ ako je članak koristan
 </script>
 
 SADRŽAJ:  
-[**Uvod**](#intro) | [**Put naprijed**](#forward) | [**Makro**](#macro) | [**Skepticizam**](#scepticism) | [**Zaključak**](#conclusion) 
+[**Uvod**](#intro) | [**Put naprijed**](#forward) | [**Predstojeći period**](#upcoming) | [**Makro**](#macro) | [**Skepticizam**](#scepticism) | [**Zaključak**](#conclusion) 
 
 ### Uvod
 {: #intro }
@@ -78,7 +78,8 @@ Dakle, to bi bio kao precizan sistem mjerenja vrednosti - [mjerni štap](https:/
 &nbsp;&nbsp;(bez *Cantillon* efekta – oni koji su blizu štamparske mašine imaju najviše koristi)  
 -- pojednostavljena štednja  
 
-#### Predstojeći period
+### Predstojeći period
+{: #upcoming } 
 April 2024 je kada će se desiti sljedeće polovljenje - *Halving*. Događaj se odnosi na smanjenje (upola) stvaranja novih novčića koje 'rudari' dobijaju kao nagradu, a dešava se svake 4 godine u ciklusima.  
 Pošto mnogi redovno kupuju i vrše DCA (*Dollar Cost Averaging* - uprosječavanje troškova u dolarima), to bi trebalo da dovede do povećanja cijene približno 2 puta.  
 Zatim dobija medijsku pažnju što privlači nove ljude i trgovce, dalje vodeći do hajpa i nove maksimlane cijene, što bude praćeno krahom tržišta. Dakle, ima specifično tržišno ponašanje, ali četvorogodišnji prosjek stalno raste (logaritamski rast) i broj korisnika se povećava sa svakim krugom. Upotreba postaje lakša jer mobilne aplikacije svakim danom postaju jednostavnije za upotrebu. I skoro odobrenje Spot [Bitcoin ETFs](https://www.coindesk.com/policy/2023/10/20/sec-likely-to-approve-spot-bitcoin-etf-in-next-few-months-jpmorgan/)
