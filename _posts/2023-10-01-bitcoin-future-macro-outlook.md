@@ -86,7 +86,7 @@ Ako je ova logika tačna, sa trenutne cijene od 27.000 dolara 2023/10/01, do kra
 {: #macro }  
 &nbsp;**1.** To je jedinstven globalni monetarni protokol - Bitkoin Standard (svjetska rezervna valuta), tako da nema problema sa konverzijom između valuta za globalnu trgovinu.
  
-&nbsp;**2.** Bio bi apolitičan novac, tako da zemlje efektivno više ne bi imale monetarnu politiku, već samo fiskalnu. Privreda će imati prirodne poslovne cikluse i postati stabilnija. Dakle, usponi i padovi ekonomije bi trebalo da budu mnogo manji jer ne bi mogli veštački da porastu pošto ne postoji državno spašavanje od bankrota.
+&nbsp;**2.** Bio bi apolitičan novac, tako da zemlje efektivno više ne bi imale monetarnu politiku, već samo fiskalnu. Privreda će imati prirodne poslovne cikluse i postati stabilnija. Dakle, usponi i padovi ekonomije bi trebalo da budu mnogo manji jer ne bi mogli veštački da porastu pošto ne postoji državno spašavanje od bankrota (sjetimo se finansijske krize iz 2008.)
 
 &nbsp;**3.** Ograničena ponuda ne bi bila suštinski problem sve dok je djeljiva nadole (8 cifara + 8 decimala => 21 mil Btc * 100 mil = 21 kvadrilion Satošija ili Sata) i *Lightning* čak omogućava miliSate.
 Ako svjetska ekonomija raste u proseku 1% godišnje, nekim stvarima bi se umanjila cijena za 1%. Naravno, neke bi pale još više ako proizvodnja postane ekstra efikasna, a nekima bi mogla i porasti ako bi postojala dodatna potražnja.
