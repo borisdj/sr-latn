@@ -103,7 +103,8 @@ Uglavnom bi postojalo bankarstvo sa punim rezervama, ograničeno oročenim depoz
 Nekretnine bi imale niže cijene jer ne bi služile kao Čuvar vrijednosti i izgubile bi tu novčanu premiju.
 
 Za potkrepljivanje ovih tvrdnji postoji odličan članak:  
-[*Zašto fiksna količina novca ne dovodi do ekonomske katastrofe*](https://www.swanbitcoin.com/why-a-fixed-supply-money-does-not-lead-to-economic-catastrophe/)
+[*Zašto fiksna količina novca ne dovodi do ekonomske katastrofe*](https://www.swanbitcoin.com/why-a-fixed-supply-money-does-not-lead-to-economic-catastrophe/)  
+(*I zašto je to u stvari jedini intelektualno i etički odbranjiv monetarni sistem*)
 
 ### Na kraju da se osvrnemo i pojasnimo neke često upućene kritike prema sistemu (skepticizam):
 {: #scepticism }  
