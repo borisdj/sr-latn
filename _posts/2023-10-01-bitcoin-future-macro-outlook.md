@@ -84,7 +84,7 @@ April 2024 je kada će se desiti sljedeće polovljenje - *Halving*. Događaj s
 Pošto mnogi redovno kupuju i vrše DCA (*Dollar Cost Averaging* - uprosječavanje troškova u dolarima), to bi trebalo da dovede do povećanja cijene približno 2 puta.  
 Zatim dobija medijsku pažnju što privlači nove ljude i trgovce, dalje vodeći do hajpa i nove maksimlane cijene, što bude praćeno krahom tržišta. Dakle, ima specifično tržišno ponašanje, ali četvorogodišnji prosjek stalno raste (logaritamski rast) i broj korisnika se povećava sa svakim krugom. Upotreba postaje lakša jer mobilne aplikacije svakim danom postaju jednostavnije za upotrebu. I skoro odobrenje Spot [Bitcoin ETFa](https://www.coindesk.com/policy/2023/10/20/sec-likely-to-approve-spot-bitcoin-etf-in-next-few-months-jpmorgan/)
 (Exchange-Traded Fund) će izvjesno imati dodatni uticaj na jačanje. Da dodamo ovdje Fidelity studiju [*Bitcoin First Revisited*](https://vvv.fidelitidigitalassets.com/research-and-insights/bitcoin-first-revisited) gdje je objašnjeno zašto se treba razmatrati odvojeno od druge digitalne imovine.  
-Ako je ova logika tačna, sa trenutne cijene od 27.000 dolara 2023/10/01, do kraja 2025. mogla bi dostići vrhunac u rasponu između 100 i 250 hiljada USD. Posle ovoga 2026. ili 2027. možda će se ponovo vratiti na 100 hiljada dolara ili čak malo ispod toga (procjena zasnovana na grafikonu duginih cijena).
+Ako je ova logika tačna, sa trenutne cijene od 27.000 dolara 2023/10/01, do kraja 2025. mogla bi dostići vrhunac u rasponu između 100 i 200 hiljada USD. Posle ovoga 2026. ili 2027. možda će se ponovo vratiti na 100 hiljada dolara ili čak malo ispod toga (procjena zasnovana na grafikonu duginih cijena).
 
 ### Makro analiza (limitirana količina novca):
 {: #macro }  
@@ -122,7 +122,7 @@ Dakle, jedino izvodljivo rješenje, tj. kompromis, bilo je ograničiti broj tran
 Zanimljiva stvar koju treba spomenuti je da smo preko Lightning šina mogli da vidimo implementaciju Stabilnih Satošija [StableSats](https://www.eddieoz.com/bitvm-a-computational-revolution-in-bitcoin/){:target="_blank "} koji bi se mogli koristiti umesto centralizovanih stabilnih kovanica USDT/USDC, sve dok sami Bitcoin Sats ne postanu dovoljno stabilni.  
 I zadnje, ali ne manje bitno, može da podstakne nove društvene mreže kao što je [Nostr](https://nostr.com/){:target="_blank"}, takođe poznat kao decentralizovani tviter, gdje je korisnik vlasnik svojih podataka.
 
-&nbsp;**3.** Da bi bio otporan u budućnosti od promjena prema inflatornom modelu, potrebna mu je decentralizacija visokog nivoa koja zahtijeva troškove stvarnog svijeta (sidro u fizičkoj realnosti). To se manifestuje u 'rudarenju' (*mining*) kao Dokaz o Radu (*Proof of Work - PoW*).  
+&nbsp;**3.** Da bi bio otporan u budućnosti od promjena prema inflatornom modelu, potrebna mu je decentralizacija visokog nivoa koja zahtijeva troškove stvarnog svijeta (sidro u fizičkoj realnosti). To se manifestuje u digitalnom 'rudarenju' (*mining*) kao Dokaz o Radu (*Proof of Work - PoW*).  
 Što se tiče potrošnje energije, argument je da korišćenje 0,3 do 0,6% svjetske električne energije je prilično jeftino da bi se dugoročno imao globalni visokokvalitetni monetarni sistem. Čak i bankarska industrija danas ima veću potrošnju energije od ove.  
 U isto vrijeme rudari mogu pomoći u stabilizaciji strujne mreže i takođe mogu da troše inače neupotrebljivu energiju.  
 Proizvodnja električne energije je drugo pitanje i u budućnosti bi sva energija trebala da bude održiva iz obnovljivih izvora.
