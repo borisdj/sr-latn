@@ -40,7 +40,7 @@ SADRŽAJ:
 
 ### Uvod
 {: #intro }
-Počnimo sa idejom da iza Bitkoina (**BTC**) stoji ideja, u suštini da monetarni sistem ne treba da kontroliše vlada. Razlog je taj što, budući da je centralizovan i da države imaju monopol nad njim, u dužem periodu (50 do 100 godina) se korumpira. Kao takav se zloupotrebljava, što završava devalvacijom (obezvređivanjem) valute i nekontrolisanom visokom ili hiper inflacijom, što je istorija često dokazala. Kao rezultat toga, ušteđevina građana biva ukradena, kapital uništen i ekonomija razorena. Osim toga, olakšava vođenje neopravdanih ratova i podstiče populističke političare, a istovremeno povećava razliku u bogatstvu.  
+Počnimo sa idejom da iza Bitkoina (**BTC**) stoji ideja, u suštini da monetarni sistem ne treba da kontroliše vlada. Razlog je taj što, budući da je centralizovan i da države imaju monopol nad njim, u dužem periodu (50 do 100 godina) se korumpira. Kao takav se zloupotrebljava, što završava devalvacijom (obezvređivanjem) valute i nekontrolisanom visokom ili hiper inflacijom, što je istorija često dokazala. Kao rezultat toga, ušteđevina građana biva ukradena, kapital uništen i ekonomija razorena. Osim toga, olakšava vođenje neopravdanih ratova, podstiče populističke političare, i istovremeno povećava razliku u bogatstvu.  
 Dakle, prijedlog je da se prekine ovaj začarani krug stvaranjem decentralizovanog sistema u kojem nijedna vlada neće moći da štampa novac jednim klikom na dugme (razdvajanje novca i države). U principu nije protiv države, samo za manju i transparentniju administraciju sa odgovarajućim mehanizmima ravnoteže i kontrole. Moglo bi se reći da je to pokret prema finansijskoj autonomiji i slobodi. Praktičan i izvodljiv pokušaj da se popravi pokvaren monetarni sistem, drugim riječima Bitkoin popravlja Novac.  
 Da citiramo F.A. Hayek iz njegove knjige *‘Denacionalizacija Novca’*:  
 *“Vlade uglavnom zloupotrebljavaju novac i zaustavljaju njegovo poboljšanje, a monetarna politika je uglavnom škodila. Ne možemo ga nasilno uzeti iz ruku vlasti. Sve što možemo je da na neki lukav, zaobilazni način uvedemo nešto što oni ne mogu zaustaviti.”*
@@ -101,7 +101,8 @@ Takođe ne postoji rizik od deflatorne spirale jer je to moguće samo u današn
 &nbsp;**4.** Gomilanje nije problem, jer ljudi imaju svakodnevne potrebe, ali takođe i želje, i trošili bi i štedili tokom svog života (niko ne živi vječno).
 Dakle, postojala bi ravnoteža u svakom trenutku.
 
-&nbsp;**5.** Krediti bi bili malo skuplji nego danas, jer bi imali realnu cijenu, ali bi učesnicima na tržištu davali ispravan signal troška. Banke (kreditne) bi bile kao u slobodnom bankarstvu i trebale bi da vode računa o trajanju kredita i oročenih depozita. Centralna banka bi bila suvišna jer ne bi mogla da deluje kao zajmodavac u krajnjoj instanci.  
+&nbsp;**5.** Krediti bi bili malo skuplji nego danas, jer bi imali realnu cijenu. Zato bi učesnicima na tržištu davali ispravan signal troška, što bi smanjivalo pogrešne alokacije kapitala.  
+Banke (kreditne) bi bile kao u slobodnom bankarstvu i trebale bi da vode računa o trajanju kredita i oročenih depozita. Centralna banka bi bila suvišna jer ne bi mogla da deluje kao zajmodavac u krajnjoj instanci.  
 Uglavnom bi postojalo bankarstvo sa punim rezervama, ograničeno oročenim depozitima. Čak i ako se pojavi neka vrsta bankarstva sa djelimičnim rezervama, ona bi imala gornju granicu izloženosti riziku. Nema više NINJA kredita (nema prihoda, nema posla, nema imovine).  
 Nekretnine bi imale niže cijene jer ne bi služile kao Čuvar vrijednosti i izgubile bi tu novčanu premiju (smanjeni troškovi stanovanja).
 
