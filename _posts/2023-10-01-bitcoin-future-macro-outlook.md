@@ -62,7 +62,7 @@ BTC ima ogroman potencijal jer bi mogao biti prva imovina sa trostrukom funkcijo
 U tehničkom smislu, potkovan je značajnim otkrićem u kompjuterskoj nauci, decentralizovanom digitalnom oskudicom.  
 Svaka faza 1, 2, 3 mogla bi trajati najmanje 10 godina (slobodna procjena).  
 Pred faza 0 je trajala donedavno - akumulacija kao kolekcionarstvo. Slično evoluciji interneta (1980-2020) sa rastom S-krive.  
-Jedna [procjena](https://cointelegraph.com/news/global-bitcoin-adoption-to-hit-10-by-2030-blockware-report){:target="_blank"} je da bi do 2030. usvajanje trebalo da dostigne 10% ljudi, upravo pravi broj kao prekretnica za prihvatanje kritične mase. Do tada će biti vidljivo da li ide u ovom pravcu.  
+Jedna [procjena](https://cointelegraph.com/news/global-bitcoin-adoption-to-hit-10-by-2030-blockware-report){:target="_blank"} je da bi do 2030. usvajanje od korisnika moglo da dostigne 10% populacije, upravo pravi broj kao prekretnica za prihvatanje kritične mase. Do tada će biti vidljivo da li ide u ovom pravcu.  
 A oko 2040-2050 znaćemo konačan rezultat (potrebna je generacijska promjena). U najboljem slučaju 1 BTC bi mogao biti milion+ dolara. U tom trenutku bi se potpuno stabilizovao, a do tada bi volatilnost bila niža svakim ciklusom.
 
 Takođe između zemalja postoji dinamika teorije igara (SAD, Rusija, itd.) tako da čak i ako neke od njih ga blokiraju (kao Kina) ne može ga zaustaviti. A ako ga neke učine rezervama trezora i/ili legalnim sredstvom plaćanja, druge bi se na kraju pridružile (strah od propuštanja - '*FOMO*').  
