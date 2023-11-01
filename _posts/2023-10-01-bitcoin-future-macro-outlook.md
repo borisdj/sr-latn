@@ -112,7 +112,7 @@ Za potkrepljivanje ovih tvrdnji postoji odličan članak:
 
 ### Na kraju da se osvrnemo i pojasnimo neke često upućene kritike prema sistemu (skepticizam):
 {: #scepticism }  
-&nbsp;**1.** Druge 'kriptovalute' (alt novčići) nisu prava konkurencija bitkoinu zbog:
+&nbsp;**1.** Druge 'kriptovalute' tzv. Alt (alternativni) novčići nisu prava konkurencija bitkoinu zbog:
 Prednosti prvog pokretača (organska kreacija koja se ne može replicirati), mrežni efekat (vrijednost je subjektivna), najbolji model upravljanja (bez poznatog osnivača), najviše decentralizovani rudari i široka distribucija čvorova, najveća zajednica (saradnici, programeri) sa snažnim ideološkim ubjeđenjem, dubokom posvećenošću i sve većim usvajanjem od strane korisnika.  
 Oni koji koriste PoS (*Proof of Stake* - Dokaz o Ulogu) mehanizam konsenzusa su poput 'hartija od vrijednosti' i nemaju stvarnu decentralizaciju, nema razdvajanja vlasti, a PoS je u suštini centralizajuća sila. Neki od njih bi mogli naći drugi slučaj upotrebe, ali ne kao dobar novac. Samo bitkoin se smatra robom (primarno monetarno dobro), što je potvrdila i *SEC* (Komisija za hartije od vrijednosti SAD).  
 Takođe *Side-chains ([Liquid](https://liquid.net/) na primjer) ili *Drive-chains* ([BitVM](https://www.eddieoz.com/bitvm-a-computational-revolution-in-bitcoin/){:target="_blank"}) kao drugi slojevi možda budu bolji od posebnih Alt-ova jer mogu da se iskoriste bezbjednost Bitkoin L1 sloja. Čak i neki Alt-ovi imaju most za povezivanje sa BTC-om koristeći *Wrapped* 'Omotani' Bitkoin.
