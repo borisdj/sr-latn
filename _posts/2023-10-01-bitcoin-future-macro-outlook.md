@@ -40,8 +40,8 @@ SADRŽAJ:
 
 ### Uvod
 {: #intro }
-Počnimo sa idejom da iza Bitkoina (**BTC**) stoji ideja, u suštini da monetarni sistem ne treba da kontroliše vlada. Razlog je taj što se, budući da je centralizovan i da države imaju monopol nad njim, u dužem periodu (50 do 100 godina) korumpira. Kao takav se zloupotrebljava, što završava devalvacijom (obezvređivanjem) valute i nekontrolisanom visokom ili hiper inflacijom, što je istorija često dokazala. Kao rezultat toga, ušteđevina građana biva ukradena, kapital uništen i ekonomija razorena. Osim toga, olakšava vođenje neopravdanih ratova i podstiče populističke političare, a istovremeno povećava razliku u bogatstvu.  
-Dakle, prijedlog je da se prekine ovaj začarani krug stvaranjem decentralizovanog sistema u kojem nijedna vlada neće moći da štampa novac jednim klikom na dugme. U principu nije protiv države, samo za manju i transparentniju administraciju sa odgovarajućim mehanizmima ravnoteže i kontrole. Moglo bi se reći da je to pokret prema finansijskoj autonomiji i slobodi. Praktičan i izvodljiv pokušaj da se popravi pokvaren monetarni sistem (razdvajanje novca i države).  
+Počnimo sa idejom da iza Bitkoina (**BTC**) stoji ideja, u suštini da monetarni sistem ne treba da kontroliše vlada. Razlog je taj što, budući da je centralizovan i da države imaju monopol nad njim, u dužem periodu (50 do 100 godina) se korumpira. Kao takav se zloupotrebljava, što završava devalvacijom (obezvređivanjem) valute i nekontrolisanom visokom ili hiper inflacijom, što je istorija često dokazala. Kao rezultat toga, ušteđevina građana biva ukradena, kapital uništen i ekonomija razorena. Osim toga, olakšava vođenje neopravdanih ratova i podstiče populističke političare, a istovremeno povećava razliku u bogatstvu.  
+Dakle, prijedlog je da se prekine ovaj začarani krug stvaranjem decentralizovanog sistema u kojem nijedna vlada neće moći da štampa novac jednim klikom na dugme (razdvajanje novca i države). U principu nije protiv države, samo za manju i transparentniju administraciju sa odgovarajućim mehanizmima ravnoteže i kontrole. Moglo bi se reći da je to pokret prema finansijskoj autonomiji i slobodi. Praktičan i izvodljiv pokušaj da se popravi pokvaren monetarni sistem, drugim riječima Bitkoin popravlja Novac.  
 Da citiramo F.A. Hayek iz njegove knjige *‘Denacionalizacija Novca’*:  
 *“Vlade uglavnom zloupotrebljavaju novac i zaustavljaju njegovo poboljšanje, a monetarna politika je uglavnom škodila. Ne možemo ga nasilno uzeti iz ruku vlasti. Sve što možemo je da na neki lukav, zaobilazni način uvedemo nešto što oni ne mogu zaustaviti.”*
 
@@ -50,7 +50,7 @@ Neinflatorni zdrav novac, digitalan (nastao na internetu), neutralan (agnostiča
 Takođe je potpuno bez potrebe za dozvolom i poverenjem, jer poverenje ljudi često naruše velike organizacije (države, velike banke, mega korporacije).  
 Dizajniran je i programiran tako da ima najbolje karakteristike novca:  
 &nbsp;1. Izdržljiv, 2. Djeljiv, 3. Prijenosan, 4. Prihvatljiv, 5. Ograničena količina, 6. Uniforman  
-(popravlja loše karakteristike zlata u pogledu teške podjele i transporta zbog čega je sjajni metal centralizovan).
+(popravlja loše karakteristike zlata u pogledu teške podjele i prijenosa (transporta) zbog čega je sjajni žuti metal centralizovan).
 
 ### Put naprijed
 {: #forward }
@@ -59,7 +59,7 @@ Ovdje je pretpostavka da služi kao *Čuvar vrijednosti* '**(1) SoV** - *Store O
 Poslije, kada skoro svi budu imali neku količinu, počeće da plaćaju i primaju direktno umjesto da ga konvertuju u Fiat, i tako polako preuzima funkciju *Sredstva razmjene* '**(2) MoE** - *Medium of Exchange*'. 
 I treća faza (ako do ove ikada dođe) bi mogla biti kada su cene u njoj, dakle funkcija *Jedinice obračuna* '**(3) UoA** - *Unit of Account*' (univerzalna valuta).  
 BTC ima ogroman potencijal jer bi mogao biti prva imovina sa trostrukom funkcijom, jedistvena u istoriji.  
-U tehničkom smislu, potkovan je značajnim otkrićem u kompjuterskoj nauci, decentralizovanom digitalnom oskudicom.  
+U tehničkom smislu, potkovan je značajnim otkrićem u kompjuterskoj nauci: Decentralizovanom Digitalnom oskudicom, koja je napravljena pomoću kriptografije. 
 Svaka faza 1, 2, 3 mogla bi trajati najmanje 10 godina (slobodna procjena).  
 Pred faza 0 je trajala donedavno - akumulacija kao kolekcionarstvo. Slično evoluciji interneta (1980-2020) sa rastom S-krive.  
 Jedna [procjena](https://cointelegraph.com/news/global-bitcoin-adoption-to-hit-10-by-2030-blockware-report){:target="_blank"} je da bi do 2030. usvajanje od korisnika moglo da dostigne 10% populacije, upravo pravi broj kao prekretnica za prihvatanje kritične mase. Do tada će biti vidljivo da li ide u ovom pravcu.  
@@ -90,7 +90,7 @@ Ako je ova logika tačna, sa trenutne cijene od 27.000 dolara 2023/10/01, do kra
 ### Makro analiza (limitirana količina novca):
 {: #macro }  
 &nbsp;**1.** To je jedinstven globalni monetarni protokol - Bitkoin Standard (svjetska rezervna valuta), tako da nema problema sa konverzijom između valuta za globalnu trgovinu i međunarodno e-poslovanje.  
-Optimalni monetarni sistem projektovan da bude što efikasniji.
+Optimalni novi monetarni poredak projektovan da bude što efikasniji.
  
 &nbsp;**2.** Bio bi apolitičan novac, tako da zemlje efektivno više ne bi imale monetarnu politiku, već samo fiskalnu. Privreda će imati prirodne poslovne cikluse i postati stabilnija. Dakle, usponi i padovi ekonomije bi trebalo da budu mnogo manji jer ne bi mogli vještački da porastu pošto ne postoji državno spašavanje od bankrota (sjetimo se finansijske krize iz 2008.)
 
@@ -112,9 +112,9 @@ Za potkrepljivanje ovih tvrdnji postoji odličan članak:
 ### Na kraju da se osvrnemo i pojasnimo neke često upućene kritike prema sistemu (skepticizam):
 {: #scepticism }  
 &nbsp;**1.** Druge 'kriptovalute' (alt novčići) nisu prava konkurencija bitkoinu zbog:
-Prednosti prvog pokretača (organska kreacija koja se ne može replicirati), mrežni efekat (vrijednost je subjektivna), najbolji model upravljanja (bez poznatog osnivača), najviše decentralizovani rudari i široka distribucija čvorova, najveća zajednica (saradnici, programeri) sa snažnim ubjeđenjem, dubokom posvećenošću i sve većim usvajanjem od strane korisnika.  
-Oni koji koriste PoS (*Proof of Stake* - Dokaz o Ulogu) mehanizam konsenzusa su poput 'hartija od vrijednosti' i nemaju stvarnu decentralizaciju, nema razdvajanja vlasti, a PoS je u osnovi centralizajuća sila. Neki od njih bi mogli naći drugi slučaj upotrebe, ali ne kao dobar novac. Samo bitkoin se smatra robom (primarno monetarno dobro), što je potvrdila i *SEC* (Komisija za hartije od vrijednosti SAD).  
-Takođe *Side-chains ([Liquid](https://liquid.net/) na primjer) ili *Drive-chains* ([BitVM](https://www.eddieoz.com/bitvm-a-computational-revolution-in-bitcoin/){:target="_blank"}) kao drugi slojevi možda budu bolji od posebnih Alt-ova jer mogu da se iskoriste bezbjednost Bitkoin L1 sloja.
+Prednosti prvog pokretača (organska kreacija koja se ne može replicirati), mrežni efekat (vrijednost je subjektivna), najbolji model upravljanja (bez poznatog osnivača), najviše decentralizovani rudari i široka distribucija čvorova, najveća zajednica (saradnici, programeri) sa snažnim ideološkim ubjeđenjem, dubokom posvećenošću i sve većim usvajanjem od strane korisnika.  
+Oni koji koriste PoS (*Proof of Stake* - Dokaz o Ulogu) mehanizam konsenzusa su poput 'hartija od vrijednosti' i nemaju stvarnu decentralizaciju, nema razdvajanja vlasti, a PoS je u suštini centralizajuća sila. Neki od njih bi mogli naći drugi slučaj upotrebe, ali ne kao dobar novac. Samo bitkoin se smatra robom (primarno monetarno dobro), što je potvrdila i *SEC* (Komisija za hartije od vrijednosti SAD).  
+Takođe *Side-chains ([Liquid](https://liquid.net/) na primjer) ili *Drive-chains* ([BitVM](https://www.eddieoz.com/bitvm-a-computational-revolution-in-bitcoin/){:target="_blank"}) kao drugi slojevi možda budu bolji od posebnih Alt-ova jer mogu da se iskoriste bezbjednost Bitkoin L1 sloja. Čak i neki Alt-ovi imaju most za povezivanje sa BTC-om koristeći *Wrapped* 'Omotani' Bitkoin.
 I svaki realni novi izum, pošto su svi otvorenog koda, mogao bi se dodati u Bitkoin sa novim ažuriranjima. Na primer, Litecoin je donekle testna mreža za Bitkoin, *Lightning* funkcionalnost je tamo prvi put implementirana.
 
 &nbsp;**2.** Što se tiče kritika zbog sporosti, to je donekle tačno ali uz dobar razloga, ili nekoliko njih.
