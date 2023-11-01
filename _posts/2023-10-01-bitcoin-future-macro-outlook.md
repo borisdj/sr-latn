@@ -136,6 +136,7 @@ Lična procjena trenutno je da Bitkoin ima 51% šanse za rast i širenje
 (2017. je bilo 30%, a 2013. možda 10% tada).  
 Što duže postoji (15 godina do sada) veće su šanse za uspeh (Lindi efekat), jer vremenom jača i postaje robusniji.  
 Kao bilo koja investicija to je opklada, što je i svaka odluka u životu. Za rizične, uložite samo ono što možete priuštiti da izgubite.  
+U svakom slučaju, uvijek je dobro biti upućen u aktuelnu tematiku.  
 DYOR (*Do Your Own Research* - uradite sopstveno istraživanje) i napravite svoju vjerovatnoću za svaki hipotetički scenario.  
 
 Epilog: Narednih mjeseci biće zanimljivo vidjeti kako će se ovo odvijati, ostanite sa nama.  
