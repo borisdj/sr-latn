@@ -42,7 +42,7 @@ SADRŽAJ:
 {: #intro }
 Počnimo sa idejom da iza Bitkoina (**BTC**) stoji ideja, u suštini da monetarni sistem ne treba da kontroliše vlada. Razlog je taj što, budući da je centralizovan i da države imaju monopol nad njim, u dužem periodu (50 do 100 godina) se korumpira. Kao takav se zloupotrebljava, što završava devalvacijom (obezvređivanjem) valute i nekontrolisanom visokom ili hiper inflacijom, što je istorija često dokazala. Kao rezultat toga, ušteđevina građana biva ukradena, kapital uništen i ekonomija razorena. Osim toga, olakšava vođenje neopravdanih ratova, podstiče populističke političare, i istovremeno povećava razliku u bogatstvu.  
 Dakle, prijedlog je da se prekine ovaj začarani krug stvaranjem decentralizovanog sistema u kojem nijedna vlada neće moći da štampa novac jednim klikom na dugme (razdvajanje novca i države). U principu nije protiv države, samo za manju i transparentniju administraciju sa odgovarajućim mehanizmima ravnoteže i kontrole. Moglo bi se reći da je to pokret prema finansijskoj autonomiji i slobodi. Praktičan i izvodljiv pokušaj da se popravi pokvaren monetarni sistem, drugim riječima Bitkoin popravlja Novac.  
-Da citiramo F.A. Hayek iz njegove knjige *‘Denacionalizacija Novca’* (1984):  
+Da citiramo F.A. Hayek iz njegove knjige *‘Denacionalizacija Novca’*(1984):  
 *“Vlade uglavnom zloupotrebljavaju novac i zaustavljaju njegovo poboljšanje, a monetarna politika je uglavnom škodila. Ne možemo ga nasilno uzeti iz ruku vlasti. Sve što možemo je da na neki lukav, zaobilazni način uvedemo nešto što oni ne mogu zaustaviti.”*
 
 Bitcoin protokol je samo prva funkcionalna implementacija ove ideje (zahvalnost Sajferpank pokretu).  
