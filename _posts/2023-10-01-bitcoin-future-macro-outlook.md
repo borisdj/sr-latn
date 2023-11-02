@@ -47,7 +47,7 @@ Da citiramo F.A. Hayek iz njegove knjige *‘Denacionalizacija Novca’*(1984):
 
 Bitcoin protokol je samo prva funkcionalna implementacija ove ideje (zahvalnost Sajferpank pokretu).  
 Neinflatorni zdrav novac, digitalan (nastao na internetu), neutralan (agnostičan prema politici) kao fenomen koji se širi odozdo prema gore.  
-Takođe je potpuno bez potrebe za dozvolom i poverenjem, jer poverenje ljudi često naruše velike organizacije (države, velike banke, mega korporacije).  
+Takođe je potpuno otporan na cenzuru, bez potrebe za dozvolom i povjerenjem, jer poverenje ljudi često naruše velike organizacije (države, velike banke, mega korporacije).  
 Dizajniran je i programiran tako da ima najbolje karakteristike novca:  
 &nbsp;1. Izdržljiv, 2. Djeljiv, 3. Prijenosan, 4. Prihvatljiv, 5. Ograničena količina, 6. Uniforman  
 (popravlja loše karakteristike zlata u pogledu teške podjele i prijenosa (transporta) zbog čega je sjajni žuti metal centralizovan).
