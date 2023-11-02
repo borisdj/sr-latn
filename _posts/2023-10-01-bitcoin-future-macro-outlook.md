@@ -65,7 +65,7 @@ Pred faza 0 je trajala donedavno - akumulacija kao kolekcionarstvo. Slično evol
 Jedna [procjena](https://cointelegraph.com/news/global-bitcoin-adoption-to-hit-10-by-2030-blockware-report){:target="_blank"} je da bi do 2030. usvajanje od korisnika moglo da dostigne 10% populacije, upravo pravi broj kao prekretnica za prihvatanje kritične mase. Do tada će biti vidljivo da li ide u ovom pravcu.  
 A oko 2040-2050 znaćemo konačan rezultat (potrebna je generacijska promjena). U najboljem slučaju 1 BTC bi mogao biti milion+ dolara. U tom trenutku bi se potpuno stabilizovao, a do tada bi volatilnost bila niža svakim ciklusom.
 
-Takođe između zemalja postoji dinamika teorije igara (SAD, Rusija, itd.) tako da čak i ako neke od njih ga blokiraju (kao Kina) ne može ga zaustaviti. A ako ga neke učine rezervama trezora i/ili legalnim sredstvom plaćanja, druge bi se na kraju pridružile (strah od propuštanja - '*FOMO*').  
+Takođe između zemalja postoji dinamika teorije igara (SAD, Rusija, itd.) tako da čak i ako neke od njih ga blokiraju (kao Kina) ne može ga zaustaviti, a pored toga ideje su neuništive. A ako ga neke učine rezervama trezora i/ili legalnim sredstvom plaćanja, druge bi se na kraju pridružile (strah od propuštanja - '*FOMO*').  
 Čak i odluke Banaka da prihvataju Bitkoin mogu se posmatrati iz perspektive teorije igara, gdje korist za svakog igrača (finansijsku instituciju) zavisi ne samo od njihove sopstvene odluke već i od odluka drugih (tržišna utrka).  
 Dakle, ovo bi bio čvrst novac izabran na slobodnom tržištu, baš kao što istorija sugeriše da se uvek dešava (*Thiers*-ov zakon – dobar novac će izbaciti loš, na nivou robe). Ali pošto ne bi bio centralizovan, zadržao bi svoju maksimalnu količinu trajno (nema centralne tačke kontrole/kvara da se poveća količina – uklanja ljudski faktor greške). Na kraju bi došlo do ravnoteže sa ukupnim brojem monetarnih jedinica i cjelokupnom svjetskom ekonomijom (hiperbitkoinizacija - sve podijeljeno sa 21 milion).  
 Dakle, to bi bio kao precizan sistem mjerenja vrijednosti - [mjerni štap](https://dematerialize.blog/bitcoin-is-the-economic-measuring-stick){:target="_blank"} (jedinica od 1 metra takođe se ne mijenja ni kada imamo više zgrade).
@@ -89,9 +89,9 @@ Ako je ova logika tačna, sa trenutne cijene od 27.000 dolara 2023/10/01, do kra
 
 ### Makro analiza (limitirana količina novca):
 {: #macro }  
-&nbsp;**1.** To je jedinstven globalni monetarni protokol - Bitkoin Standard (svjetska rezervna valuta), tako da nema problema sa konverzijom između valuta za globalnu trgovinu i međunarodno e-poslovanje.  
+&nbsp;**1.** To je jedinstven interoperabilni globalni protokol za prijenos vrijednosti - Bitkoin Standard (svjetska rezervna valuta), tako da nema problema sa konverzijom između valuta za globalnu trgovinu i međunarodno e-poslovanje.  
 Optimalni novi monetarni poredak projektovan da bude što efikasniji.
- 
+
 &nbsp;**2.** Bio bi apolitičan novac, tako da zemlje efektivno više ne bi imale monetarnu politiku, već samo fiskalnu. Privreda će imati prirodne poslovne cikluse i postati stabilnija. Dakle, usponi i padovi ekonomije bi trebalo da budu mnogo manji jer ne bi mogli vještački da porastu pošto ne postoji državno spašavanje od bankrota (sjetimo se finansijske krize iz 2008.)
 
 &nbsp;**3.** Ograničena ponuda ne bi bila suštinski problem sve dok je djeljiva nadole (8 cifara + 8 decimala => 21 mil Btc * 100 mil = 21 kvadrilion Satošija ili Sata) a *Lightning* čak omogućava miliSate.
@@ -129,7 +129,7 @@ I zadnje, ali ne manje bitno, može da podstakne nove društvene mreže kao što
 U isto vrijeme rudari mogu pomoći u stabilizaciji strujne mreže i takođe mogu da troše inače neupotrebljivu energiju.  
 Proizvodnja električne energije je drugo pitanje i u budućnosti bi sva energija trebala da bude održiva iz obnovljivih izvora.
 
-&nbsp;**4.** U vezi pravedne distribucije, oni koji su ga rano prihvatili su pošteno nagrađeni za rizik i vrijeme koje su uložili. A takođe i zbog čeličnih živaca da dugo izdrže kroz turbulentna vremena, jer bez njih sistem ne bi mogao da opstane.
+&nbsp;**4.** U vezi pravedne distribucije, oni koji su ga rano prihvatili su pošteno nagrađeni za rizik i vrijeme koje su uložili. A takođe i zbog čeličnih živaca i odlučnosti da dugo izdrže kroz neizvjesnost i turbulentna vremena. Jer bez njih sistem ne bi mogao da opstane. Potrebna je hrabrost i otpornost da bi ostali posvećeni tokom padova tržišta.
 
 ### Zaključak
 {: #conclusion }
