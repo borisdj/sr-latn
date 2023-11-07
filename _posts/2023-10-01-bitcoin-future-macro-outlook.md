@@ -135,7 +135,7 @@ I zadnje, ali ne manje bitno, može da podstakne nove društvene mreže kao što
 U isto vrijeme rudari mogu pomoći u stabilizaciji strujne mreže (simbiotski odnos) i takođe mogu da troše inače neupotrebljivu energiju.  
 Proizvodnja električne energije je drugo pitanje i u budućnosti bi sva energija trebala da bude održiva iz obnovljivih izvora.
 
-&nbsp;**4.** U vezi pravedne distribucije, oni koji su ga rano prihvatili su pošteno nagrađeni za rizik i vrijeme koje su uložili. A takođe i zbog čeličnih živaca i odlučnosti da dugo izdrže kroz neizvjesnost i turbulentna vremena. Jer bez njih sistem ne bi mogao da opstane. Potrebna je hrabrost i otpornost da bi ostali posvećeni tokom padova tržišta.
+&nbsp;**4.** U vezi pravedne distribucije, oni koji su ga rano prihvatili su pošteno nagrađeni za rizik i vrijeme koje su uložili. A takođe i zbog čeličnih živaca i odlučnosti da dugo izdrže kroz neizvjesnost i turbulentna vremena. Jer bez njih sistem ne bi mogao da opstane. Potrebna je hrabrost i otpornost da bi ostali posvećeni tokom padova tržišta. A bez njih mreža ne bi mogla opstati u ranoj fazi razvoja.
 
 ### Zaključak
 {: #conclusion }
