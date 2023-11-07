@@ -99,7 +99,7 @@ Optimalni novi monetarni režim projektovan da bude što efikasniji.
 &nbsp;**2.** Bio bi apolitičan novac, tako da zemlje efektivno više ne bi imale monetarnu politiku, već samo fiskalnu. Privreda će imati prirodne poslovne cikluse i postati stabilnija. Usponi i padovi ekonomije bi trebalo da budu manji jer ne bi mogli vještački da porastu previše, pošto ne postoji državno spašavanje od bankrota (sjetimo se finansijske krize iz 2008.)
 
 &nbsp;**3.** Ograničena količina novca nije bila suštinski problem dok god je djeljiva nadole: 1 BTC = 100 milion Satošija (*Sat*-a). Ukupna količina jedinica je 2,1 kvadrilion Satošija, 21 mil * 100 mil (8 cifara + 8 decimala) a *Lightning* čak omogućava miliSate (1/1000).  
-Ako svjetska ekonomija raste u prosjeku 1% godišnje, nekim stvarima bi se smanjila cijena za 1%. Naravno, druge sa većom efikasnošću bi pale i više do graničnog troška proizvodnje, a nekima bi mogla i porasti cijena ako bi postojala dodatna potražnja.  
+Ako svjetska ekonomija raste u prosjeku 1% godišnje, nekim stvarima bi se smanjila cijena za 1%. Naravno, druge sa većom efikasnošću izrade bi pale i više do graničnog troška proizvodnje, a nekima bi mogla i porasti cijena ako bi postojala dodatna potražnja.  
 Takođe ne postoji rizik od deflatorne spirale jer je to moguće samo u današnjem sistemu Novca kao Dug (Kreditni novac - novac koji se stvara svakim novim kreditom dok se uništava kada se dug otplati).
 
 &nbsp;**4.** Gomilanje novca nije problematično, jer ljudi imaju svakodnevne potrebe, ali takođe i želje, i trošili bi i štedili tokom svog života (niko ne živi vječno).
