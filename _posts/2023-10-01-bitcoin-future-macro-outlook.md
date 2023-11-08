@@ -46,11 +46,11 @@ U principu nije protiv države, samo za manju i transparentniju administraciju s
 Da citiramo F.A. Hayek iz njegove knjige *‘Denacionalizacija Novca’* (1984):  
 *“Vlade uglavnom zloupotrebljavaju novac i zaustavljaju njegovo poboljšanje, a monetarna politika je uglavnom škodila. Ne možemo ga nasilno uzeti iz ruku vlasti. **Sve što možemo je da na neki lukav, zaobilazni način uvedemo nešto što oni ne mogu zaustaviti.”***
 
-Bitcoin protokol je samo prva funkcionalna implementacija ovog koncepta (zahvalnost Sajferpank pokretu).  
+Bitcoin **protokol** je samo prva funkcionalna implementacija ovog koncepta (zahvalnost Sajferpank pokretu).  
 Neinflatorni zdrav novac, digitalan (nastao na internetu), neutralan (agnostičan prema politici) kao fenomen koji se širi odozdo prema gore.  
 Takođe je potpuno otporan na cenzuru, bez potrebe za dozvolom i povjerenjem, jer poverenje ljudi često naruše velike organizacije (države, velike banke, mega korporacije).  
 Dizajniran je i programiran tako da ima najbolje karakteristike novca:  
-&nbsp;1. Izdržljiv, 2. Djeljiv, 3. Prijenosan, 4. Prihvatljiv, 5. Ograničena količina, 6. Uniforman  
+***&nbsp;1. Izdržljiv, 2. Djeljiv, 3. Prijenosan, 4. Prihvatljiv, 5. Ograničena količina, 6. Uniforman***  
 (popravlja loše karakteristike zlata u pogledu teške i skupe provjere, podjele i prijenosa (transporta) zbog čega je sjajni žuti metal centralizovan).
 
 ### Put naprijed
@@ -65,14 +65,14 @@ Svaka faza 1, 2, 3 mogla bi trajati najmanje 10 godina (slobodna procjena).  Pre
 Slično evoluciji interneta (1980-2020) sa rastom S-krive. Uz jednu važnu razliku da sada postoji direktna vrijednost za ulaganje, tako da je sklon promjenama cijene u ciklusima zbog mnogo špekulanata u prostoru. 
 A ako odemo dalje u prošlost mogli bismo posmatrati kako su automobili zamijenili konje, pri tome i da vidimo kako su se neki protivili evolucija transporta. Čak je i Henri Ford rekao, parafraziramo: *Dovoljno je što ljudi **ne razumeju bankarski i monetarni sistem**, jer da znaju, vjerujem da bi revolucija bila već sutra ujutru.*
 Prvi korak za dalje širenje će biti *selektivno usvajanje* od 1% ljudi - trendsetera.
-Jedna [procjena](https://cointelegraph.com/news/global-bitcoin-adoption-to-hit-10-by-2030-blockware-report){:target="_blank"} je da bi do 2030. usvajanje od korisnika moglo da dostigne 10% populacije, upravo pravi broj kao prekretnica za prihvatanje kritične mase. Do tada će biti vidljivo da li ide u ovom pravcu.  
-A oko 2040-2050 znaćemo konačan rezultat (potrebna je generacijska promjena). U najboljem slučaju 1 BTC bi mogao biti milion+ a. U tom trenutku bi se potpuno stabilizovao, a do tada bi volatilnost bila niža svakim ciklusom. Bitcoin nudi postepeno meko sletanje za današnju prezaduženu ekonomiju.
+Jedna [**procjena**](https://cointelegraph.com/news/global-bitcoin-adoption-to-hit-10-by-2030-blockware-report){:target="_blank"} je da bi do 2030. usvajanje od korisnika moglo da dostigne 10% populacije, upravo pravi broj kao prekretnica za prihvatanje kritične mase. Do tada će biti vidljivo da li ide u ovom pravcu.  
+A oko 2040-2050 znaćemo konačan rezultat (potrebna je generacijska promjena). U najboljem slučaju 1 BTC bi mogao biti preko milion dolara. U tom trenutku bi se potpuno stabilizovao, a do tada bi volatilnost bila niža svakim ciklusom. Bitcoin nudi postepeno meko sletanje za današnju prezaduženu ekonomiju.
 
 Takođe između zemalja postoji dinamika teorije igara (SAD, Rusija, itd.) tako da čak i ako neke od njih ga blokiraju (kao Kina) ne mogu ga zaustaviti, a pored toga ideje su neuništive. S druge strane ako ga neke učine rezervama trezora i/ili legalnim sredstvom plaćanja, ostale bi se na kraju pridružile ('*FOMO*' - strah od propuštanja). U geopolitici američki dolar je već počeo polako da gubi svoju dominaciju (***Dedolarizacija***).
 Čak i odluke banaka da prihvataju Bitkoin mogu se posmatrati iz perspektive teorije igara, gdje korist za svakog igrača (finansijsku instituciju) zavisi ne samo od njihove sopstvene odluke već i od odluka drugih (tržišna utrka).  
 Dakle, ovo bi bio čvrst novac izabran na slobodnom tržištu, baš kao što istorija sugeriše da se uvijek dešava (*Thiers*-ov zakon – dobar novac će izbaciti loš). Ali pošto ne bi bio centralizovan, zadržao bi svoju maksimalnu količinu trajno (nema centralne tačke kontrole/kvara da se poveća količina – uklanja ljudski faktor greške).  
 Na kraju bi došlo do ravnoteže sa ukupnim brojem monetarnih jedinica i cjelokupnom svjetskom ekonomijom (hiperbitkoinizacija - sve podijeljeno sa **21 milion**). Svaki *Sat* bi bio učešće u budućnosti izobilja (nada za bolje sutra i izgradnju svjetlije budućnosti preko toga).  
-Uz to bi bio kao precizan sistem mjerenja vrijednosti - [mjerni štap](https://dematerialize.blog/bitcoin-is-the-economic-measuring-stick){:target="_blank"} (jedinica od 1 metra takođe se ne mijenja ni kada imamo više zgrade).
+Uz to bi bio kao precizan sistem mjerenja vrijednosti - [**mjerni štap**](https://dematerialize.blog/bitcoin-is-the-economic-measuring-stick){:target="_blank"} (jedinica od 1 metra takođe se ne mijenja ni kada imamo više zgrade).
 
 **Mogući efekti:**  
 -- ljudi bi trošili promišljenije (nameće disciplinu) i uzimali bi samo proračunate rizike/kredite  
@@ -80,16 +80,16 @@ Uz to bi bio kao precizan sistem mjerenja vrijednosti - [mjerni štap](https://d
 -- realne plate koje održavaju kupovnu moć uz blagu deflaciju cijena i vode ka većem prosperitetu  
 &nbsp;&nbsp;(nema potrebe da se traži povišica samo da bi se pratila inflacija)  
 -- pravedna distribucija privrednog rasta uklanjanjem tihog regresivnog poreza putem inflacije  
-&nbsp;&nbsp;(bez [*Cantillon* efekta](https://whatismoney.info/cantillon-effect-bitcoin/){:target="_blank"} – oni koji su blizu štamparske mašine imaju najviše koristi)  
+&nbsp;&nbsp;(bez [***Cantillon* efekta**](https://whatismoney.info/cantillon-effect-bitcoin/){:target="_blank"} – oni koji su blizu štamparske mašine imaju najviše koristi)  
 -- pojednostavljena štednja (analogno moć jednostavnosti Bitcoin arhitekture)
 
 ### Predstojeći period
 {: #upcoming } 
 April 2024 je kada će se desiti sljedeće polovljenje - *Halving*. Događaj se odnosi na smanjenje (upola) stvaranja novih 'novčića' koje 'rudari' dobijaju kao nagradu, a dešava se svake 4 godine u ciklusima.  
 Pošto mnogi redovno kupuju i vrše ***DCA*** (*Dollar Cost Averaging* - uprosječavanje troškova u ima), to bi trebalo da dovede do povećanja cijene približno 2 puta.  
-Zatim dobija medijsku pažnju što privlači nove ljude i trgovce, dalje vodeći do rasta i nove maksimlane cijene, što poslije bude praćeno krahom tržišta. Dakle, ima specifično tržišno ponašanje, ali četvorogodišnji prosjek stalno raste (logaritamski rast) i broj korisnika se povećava sa svakim krugom. Upotreba postaje lakša jer mobilne aplikacije svakim danom postaju jednostavnije za upotrebu. I skoro odobrenje Spot [Bitcoin ETFa](https://www.coindesk.com/policy/2023/10/20/sec-likely-to-approve-spot-bitcoin-etf-in-next-few-months-jpmorgan/){:target="_blank"}
-(Exchange-Traded Fund) će izvjesno imati dodatni uticaj na jačanje. Da dodamo ovdje Fidelity studiju [*Bitcoin First Revisited*](https://vvv.fidelitidigitalassets.com/research-and-insights/bitcoin-first-revisited){:target="_blank"} gdje je objašnjeno zašto se treba razmatrati odvojeno od druge digitalne imovine.  
-Ako je ova logika tačna, sa trenutne cijene od 27.000 a 2023/10/01, do kraja 2025. mogla bi dostići vrhunac u rasponu između 100 i 200 hiljada USD. Posle ovoga 2026. ili 2027. možda će se ponovo vratiti na 100 hiljada dolara ili čak malo ispod toga (procjena zasnovana na [grafikonu duginih cijena](https://www.blockchaincenter.net/en/bitcoin-rainbow-chart/){:target="_blank"} - informisana pretpostavka).
+Zatim dobija medijsku pažnju što privlači nove ljude i trgovce, dalje vodeći do rasta i nove maksimlane cijene, što poslije bude praćeno krahom tržišta. Dakle, ima specifično tržišno ponašanje, ali četvorogodišnji prosjek stalno raste (logaritamski rast) i broj korisnika se povećava sa svakim krugom. Upotreba postaje lakša jer mobilne aplikacije svakim danom postaju jednostavnije za upotrebu. I skoro odobrenje Spot [**Bitcoin ETFa**](https://www.coindesk.com/policy/2023/10/20/sec-likely-to-approve-spot-bitcoin-etf-in-next-few-months-jpmorgan/){:target="_blank"}
+(Exchange-Traded Fund) će izvjesno imati dodatni uticaj na jačanje. Da dodamo ovdje Fidelity studiju [***Bitcoin First Revisited***](https://vvv.fidelitidigitalassets.com/research-and-insights/bitcoin-first-revisited){:target="_blank"} gdje je objašnjeno zašto se treba razmatrati odvojeno od druge digitalne imovine.  
+Ako je ova logika tačna, sa trenutne cijene od 27.000 a 2023/10/01, do kraja 2025. mogla bi dostići vrhunac u rasponu između 100 i 200 hiljada USD. Posle ovoga 2026. ili 2027. možda će se ponovo vratiti na 100 hiljada dolara ili čak malo ispod toga (procjena zasnovana na [**grafikonu duginih cijena**](https://www.blockchaincenter.net/en/bitcoin-rainbow-chart/){:target="_blank"} - informisana pretpostavka).
 
 ### Makro analiza (osobine ograničene količine novca):
 {: #macro }  
@@ -121,14 +121,14 @@ Prednosti prvog pokretača (organska kreacija koja se ne može replicirati), mre
 Pored genijalne sistemske integracije svih komponenti, jedna stavka se ističe kao vitalna a to je ***Podešavanje težine*** rudarenja.  
 Oni koji koriste PoS (*Proof of Stake* - 'Dokaz o Ulogu') mehanizam konsenzusa su poput 'hartija od vrijednosti' i nemaju stvarnu decentralizaciju, nemaju dovoljno razdvojeno upravljanja, a PoS je u suštini centralizujuća sila. Neki od njih bi mogli naći drugi slučaj upotrebe, ali ne kao pošten i pouzdan novac.  
 Samo bitkoin se smatra robom (primarno monetarno dobro), što je potvrdila i *SEC* (Komisija za hartije od vrijednosti SAD). To je imovina bez emitenta.  
-Takođe *Side-chains ([Liquid](https://liquid.net/) na primjer) ili *Drive-chains* ([BitVM](https://www.eddieoz.com/bitvm-a-computational-revolution-in-bitcoin/){:target="_blank"}) kao drugi slojevi možda budu bolji od posebnih Alt-ova jer mogu da se iskoriste bezbjednost Bitkoin L1 sloja. Čak i neki Alt-ovi imaju most za povezivanje sa BTC-om koristeći *Wrapped* 'Omotani' Bitkoin.
+Takođe *Side-chains ([**Liquid**](https://liquid.net/) na primjer) ili *Drive-chains* ([**BitVM**](https://www.eddieoz.com/bitvm-a-computational-revolution-in-bitcoin/){:target="_blank"}) kao drugi slojevi možda budu bolji od posebnih Alt-ova jer mogu da se iskoriste bezbjednost Bitkoin L1 sloja. Čak i neki Alt-ovi imaju most za povezivanje sa BTC-om koristeći *Wrapped* 'Omotani' Bitkoin.
 I svaki realni novi izum, pošto su svi otvorenog koda, mogao bi se dodati u Bitkoin sa novim ažuriranjima. Na primer, Litecoin je donekle testna mreža za Bitkoin, *Lightning* funkcionalnost je tamo prvi put implementirana. Ipak, svaka promjena mora da zadrži glavne principe, ali i da bude kompatibilna unazad, pošto osnovni sloj protokola ne bi trebalo da se mijenja previše (Vi ne mijenjate Bitcoin, on mijenja vas).
 
 &nbsp;**2.** Što se tiče kritika zbog sporosti, to je donekle tačno ali uz dobar razloga, ili nekoliko njih.
 Distribuirani dnevnik može imati samo ograničenu veličinu i rast na osnovu prosječne internet brzine širom sveta i prosječne veličine diska. Takođe, sve svjetske transakcije ne moraju (i ne bi trebale) da budu zapisane u javnoj bazi. Jednom plaćanju za kafu nema mjesta u trajnoj nepromjenljivoj bazi podataka, čiji je glavni posao da drži monetarnu politiku (naglasak na strukturnoj efikasnosti). To je *Blockchain* trilema između decentralizacije, bezbjednosti i skalabilnosti.
-Dakle, jedino izvodljivo rješenje, tj. kompromis, bilo je ograničiti broj transakcija u sekundi na glavnom sloju i riješiti skalabilnost na višim slojevima. U budućnosti se očekuje da će osnovni sloj služiti za poravnanje između Lightning čvorova, kastodija i banaka sa javnim dokazima o rezervama, zatim među državama itd.; kao danas RTGS (Bruto poravnanje u realnom vremenu) ili GIRO kao međubankarski kliring, ili slično kako Swift funkcioniše. Dakle, redovne transakcije bi bile na [Lightning](https://medium.com/blockchain/the-lightning-network-explained-f3982356f87e){:target="_blank"} i drugim rješenjima sloja 2 (L2), koje su brže (instant), sa jako niskom provizijama (1000 jeftinije od Visa), imaju veći kapacitet (potencijalno [1 milion+ TPS](https://cointelegraph.com/news/bitcoin-lightning-network-vs-visa-and-mastercard-how-do-they-stack-up){:target="_blank"}) i sa više privatnosti. Veliki kapacitet je odličan za mikroplaćanja, slučaj upotrebe koji ranije nije bio moguć.  
-Zanimljiva stvar koju treba spomenuti je da se preko Lightning šina mogla vidjeti implementacija Stabilnih Satošija [StableSats](https://www.eddieoz.com/bitvm-a-computational-revolution-in-bitcoin/){:target="_blank "} koji bi se mogli koristiti umjesto centralizovanih stabilnih kripto valuta USDT/USDC, sve dok sami Bitcoin Sats ne postanu dovoljno stabilni.  
-I zadnje, ali ne manje bitno, može da podstakne nove društvene mreže kao što je [Nostr](https://nostr.com/){:target="_blank"}, takođe poznat kao decentralizovani tviter, gdje je korisnik vlasnik svojih podataka.
+Dakle, jedino izvodljivo rješenje, tj. kompromis, bilo je ograničiti broj transakcija u sekundi na glavnom sloju i riješiti skalabilnost na višim slojevima. U budućnosti se očekuje da će osnovni sloj služiti za poravnanje između Lightning čvorova, kastodija i banaka sa javnim dokazima o rezervama, zatim među državama itd.; kao danas RTGS (Bruto poravnanje u realnom vremenu) ili GIRO kao međubankarski kliring, ili slično kako Swift funkcioniše. Dakle, redovne transakcije bi bile na [**Lightning**](https://medium.com/blockchain/the-lightning-network-explained-f3982356f87e){:target="_blank"} i drugim rješenjima sloja 2 (L2), koje su brže (instant), sa jako niskom provizijama (1000 jeftinije od Visa), imaju veći kapacitet (potencijalno [**1 milion+ TPS**](https://cointelegraph.com/news/bitcoin-lightning-network-vs-visa-and-mastercard-how-do-they-stack-up){:target="_blank"}) i sa više privatnosti. Veliki kapacitet je odličan za mikroplaćanja, slučaj upotrebe koji ranije nije bio moguć.  
+Zanimljiva stvar koju treba spomenuti je da se preko Lightning šina mogla vidjeti implementacija Stabilnih Satošija [**StableSats**](https://www.eddieoz.com/bitvm-a-computational-revolution-in-bitcoin/){:target="_blank "} koji bi se mogli koristiti umjesto centralizovanih stabilnih kripto valuta USDT/USDC, sve dok sami Bitcoin Sats ne postanu dovoljno stabilni.  
+I zadnje, ali ne manje bitno, može da podstakne nove društvene mreže kao što je [**Nostr**](https://nostr.com/){:target="_blank"}, takođe poznat kao decentralizovani tviter, gdje je korisnik vlasnik svojih podataka.
 
 &nbsp;**3.** Da bi bio otporan u budućnosti od promjena prema inflatornom modelu, potrebna mu je decentralizacija visokog nivoa koja zahtijeva troškove stvarnog svijeta (sidro u fizičkoj realnosti). To se manifestuje u digitalnom 'rudarenju' (*mining*) kao 'Dokaz o Radu' (*Proof of Work - **PoW**).  
 Što se tiče potrošnje energije, argument je da korišćenje 0,3 do 0,6 % svjetske električne energije je prilično jeftino da bi se dugoročno imao globalni visokokvalitetni monetarni sistem. Čak i bankarska industrija danas ima veću potrošnju energije od ove.  
@@ -141,10 +141,10 @@ Proizvodnja električne energije je drugo pitanje i u budućnosti bi sva energi
 {: #conclusion }
 Lična procjena trenutno je da Bitkoin ima **51% šanse** za rast i širenje  
 (2017. je bilo 30%, a 2013. možda 10% tada).  
-Što duže postoji (15 godina do sada) veće su šanse za uspjeh ([Lindi efekat](https://medium.com/coinmonks/bitcoins-growth-metcalfe-s-law-and-the-lindy-effect-68bda4386f4b){:target="_blank"}), jer vremenom jača i postaje robusniji.  
+Što duže postoji (15 godina do sada) veće su šanse za uspjeh ([**Lindi efekat**](https://medium.com/coinmonks/bitcoins-growth-metcalfe-s-law-and-the-lindy-effect-68bda4386f4b){:target="_blank"}), jer vremenom jača i postaje robusniji.  
 Kao bilo koja investicija to je opklada, što je i svaka odluka u životu. Za rizične, uložite samo ono što možete priuštiti da izgubite.  
 U svakom slučaju, uvijek je dobro biti upućen u aktuelnu tematiku.  
 DYOR (*Do Your Own Research* - uradite sopstveno istraživanje) i napravite svoju vjerovatnoću za svaki hipotetički scenario.  
 
 Epilog: Narednih mjeseci biće zanimljivo vidjeti kako će se ovo odvijati, ostanite sa nama.  
-Za one koji su željni da saznaju više i duboko zarone u ovu tematiku, prvi Bit post je bila mini e-knjiga: [(r)Evolution of Money](https://infopedia.io/revolution-of-money/)
+Za one koji su željni da saznaju više i duboko zarone u ovu tematiku, prvi Bit post je bila mini e-knjiga: [**(r)Evolution of Money**](https://infopedia.io/revolution-of-money/)
