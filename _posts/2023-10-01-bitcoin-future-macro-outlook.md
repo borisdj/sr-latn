@@ -42,7 +42,7 @@ SADRŽAJ:
 {: #intro }
 Počnimo sa činjenicom da iza Bitkoina (**BTC**) stoji ideja, u suštini da monetarni sistem ne treba da kontroliše vlada. Razlog je taj što, budući da je centralizovan i da države imaju monopol nad njim, u dužem periodu (50 do 100 godina) se korumpira. Kao takav se zloupotrebljava, što završava devalvacijom (obezvređivanjem) valute i nekontrolisanom visokom ili hiper inflacijom, što je istorija često pokazala. Kao rezultat toga, ušteđevina građana biva ukradena, kapital uništen i ekonomija razorena. Osim toga, olakšava vođenje neopravdanih ratova, podstiče populističke političare, i istovremeno povećava razliku u bogatstvu.  
 Dakle, prijedlog je da se prekine ovaj začarani krug stvaranjem decentralizovanog sistema u kojem nijedna vlada neće moći da štampa novac jednim klikom na dugme (razdvajanje novca i države). Slično, Gutenbergova štamparska presa je pridonijela razdvajanju crkve i države tako što je Bibliju i druge knjige učinila široko dostupnim.  
-U principu nije protiv države, samo za manju i transparentniju administraciju sa odgovarajućim mehanizmima ravnoteže i kontrole. Moglo bi se reći da je to pokret prema finansijskoj autonomiji i slobodi. Praktičan i izvodljiv pokušaj da se popravi pokvaren monetarni sistem, drugim riječima Bitkoin popravlja Novac.  
+U principu nije protiv države, samo za manju i transparentniju administraciju sa odgovarajućim mehanizmima ravnoteže i kontrole. Moglo bi se reći da je to pokret prema finansijskoj autonomiji i slobodi. Praktičan i izvodljiv pokušaj da se popravi pokvaren monetarni sistem, drugim riječima Bitkoin popravlja Novac (Integritet kao osnovno uvjerenje).  
 Da citiramo F.A. Hayek iz njegove knjige *‘Denacionalizacija Novca’* (1984):  
 *“Vlade uglavnom zloupotrebljavaju novac i zaustavljaju njegovo poboljšanje, a monetarna politika je uglavnom škodila. Ne možemo ga nasilno uzeti iz ruku vlasti. **Sve što možemo je da na neki lukav, zaobilazni način uvedemo nešto što oni ne mogu zaustaviti.”***
 
@@ -66,16 +66,16 @@ Slično evoluciji interneta (1980-2020) sa rastom S-krive. Uz jednu važnu razli
 A ako odemo dalje u prošlost mogli bismo posmatrati kako su automobili zamijenili konje, pri tome i da vidimo kako su se neki protivili evolucija transporta. Čak je i Henri Ford rekao, parafraziramo: *Dovoljno je što ljudi **ne razumeju bankarski i monetarni sistem**, jer da znaju, vjerujem da bi revolucija bila već sutra ujutru.*
 Prvi korak za dalje širenje će biti *selektivno usvajanje* od 1% ljudi - trendsetera.
 Jedna [procjena](https://cointelegraph.com/news/global-bitcoin-adoption-to-hit-10-by-2030-blockware-report){:target="_blank"} je da bi do 2030. usvajanje od korisnika moglo da dostigne 10% populacije, upravo pravi broj kao prekretnica za prihvatanje kritične mase. Do tada će biti vidljivo da li ide u ovom pravcu.  
-A oko 2040-2050 znaćemo konačan rezultat (potrebna je generacijska promjena). U najboljem slučaju 1 BTC bi mogao biti milion+ dolara. U tom trenutku bi se potpuno stabilizovao, a do tada bi volatilnost bila niža svakim ciklusom.
+A oko 2040-2050 znaćemo konačan rezultat (potrebna je generacijska promjena). U najboljem slučaju 1 BTC bi mogao biti milion+ dolara. U tom trenutku bi se potpuno stabilizovao, a do tada bi volatilnost bila niža svakim ciklusom. Bitcoin nudi postepeno meko sletanje za današnju prezaduženu ekonomiju.
 
 Takođe između zemalja postoji dinamika teorije igara (SAD, Rusija, itd.) tako da čak i ako neke od njih ga blokiraju (kao Kina) ne mogu ga zaustaviti, a pored toga ideje su neuništive. S druge strane ako ga neke učine rezervama trezora i/ili legalnim sredstvom plaćanja, ostale bi se na kraju pridružile ('*FOMO*' - strah od propuštanja).  
 Čak i odluke banaka da prihvataju Bitkoin mogu se posmatrati iz perspektive teorije igara, gdje korist za svakog igrača (finansijsku instituciju) zavisi ne samo od njihove sopstvene odluke već i od odluka drugih (tržišna utrka).  
 Dakle, ovo bi bio čvrst novac izabran na slobodnom tržištu, baš kao što istorija sugeriše da se uvijek dešava (*Thiers*-ov zakon – dobar novac će izbaciti loš). Ali pošto ne bi bio centralizovan, zadržao bi svoju maksimalnu količinu trajno (nema centralne tačke kontrole/kvara da se poveća količina – uklanja ljudski faktor greške).  
-Na kraju bi došlo do ravnoteže sa ukupnim brojem monetarnih jedinica i cjelokupnom svjetskom ekonomijom (hiperbitkoinizacija - sve podijeljeno sa 21 milion). Svaki *Sat* bi bio učešće u budućnosti izobilja (nada za bolje sutra).  
+Na kraju bi došlo do ravnoteže sa ukupnim brojem monetarnih jedinica i cjelokupnom svjetskom ekonomijom (hiperbitkoinizacija - sve podijeljeno sa 21 milion). Svaki *Sat* bi bio učešće u budućnosti izobilja (nada za bolje sutra i izgradnju svjetlije budućnosti preko toga).  
 Uz to bi bio kao precizan sistem mjerenja vrijednosti - [mjerni štap](https://dematerialize.blog/bitcoin-is-the-economic-measuring-stick){:target="_blank"} (jedinica od 1 metra takođe se ne mijenja ni kada imamo više zgrade).
 
 **Mogući efekti:**  
--- ljudi bi trošili promišljenije i uzimali bi samo proračunate rizike/kredite  
+-- ljudi bi trošili promišljenije (nameće disciplinu) i uzimali bi samo proračunate rizike/kredite  
 -- niža vremenska preferencija, razmišljanje na duži rok, manje konzumerizma bezvrijedne robe (bez prekomjerne potrošnje)  
 -- realne plate koje održavaju kupovnu moć uz blagu deflaciju cijena i vode ka većem prosperitetu  
 &nbsp;&nbsp;(nema potrebe da se traži povišica samo da bi se pratila inflacija)  
@@ -117,7 +117,7 @@ Za potkrepljivanje ovih tvrdnji postoji odličan članak:
 ### Na kraju da se osvrnemo i pojasnimo neke često upućene kritike prema sistemu (skepticizam):
 {: #scepticism }  
 &nbsp;**1.** Druge 'kriptovalute' tzv. Alt (alternativni) novčići nisu prava konkurencija bitkoinu zbog:
-Prednosti prvog pokretača (organska kreacija koja se ne može replicirati), mrežni efekat (vrijednost je subjektivna), najbolji model upravljanja (bez poznatog osnivača), najviše decentralizovani rudari i široka distribucija čvorova, najveća zajednica (saradnici, programeri) sa snažnim ideološkim ubjeđenjem, dubokom posvećenošću i sve većim usvajanjem od strane korisnika.  
+Prednosti prvog pokretača (organska kreacija koja se ne može replicirati), mrežni efekat (vrijednost je subjektivna), najbolji model upravljanja (bez poznatog osnivača - slijediti pravila, ne vladara). Zatim najviše decentralizovani rudari i široka distribucija čvorova, najveća zajednica (saradnici, programeri) sa snažnim ideološkim ubjeđenjem, dubokom posvećenošću i sve većim usvajanjem od strane korisnika.  
 Pored genijalne sistemske integracije svih komponenti, jedna stavka se ističe kao vitalna a to je *Podešavanje težine* rudarenja.  
 Oni koji koriste PoS (*Proof of Stake* - Dokaz o Ulogu) mehanizam konsenzusa su poput 'hartija od vrijednosti' i nemaju stvarnu decentralizaciju, nemaju dovoljno razdvojeno upravljanja, a PoS je u suštini centralizujuća sila. Neki od njih bi mogli naći drugi slučaj upotrebe, ali ne kao pošten i pouzdan novac.  
 Samo bitkoin se smatra robom (primarno monetarno dobro), što je potvrdila i *SEC* (Komisija za hartije od vrijednosti SAD). To je imovina bez emitenta.  
@@ -135,7 +135,7 @@ I zadnje, ali ne manje bitno, može da podstakne nove društvene mreže kao što
 U isto vrijeme rudari mogu pomoći u stabilizaciji strujne mreže (simbiotski odnos) i takođe mogu da troše inače neupotrebljivu energiju.  
 Proizvodnja električne energije je drugo pitanje i u budućnosti bi sva energija trebala da bude održiva iz obnovljivih izvora.
 
-&nbsp;**4.** U vezi pravedne distribucije, oni koji su ga rano prihvatili su pošteno nagrađeni za rizik i vrijeme koje su uložili. A takođe i zbog čeličnih živaca i odlučnosti da dugo izdrže kroz neizvjesnost i turbulentna vremena. Jer bez njih sistem ne bi mogao da opstane. Potrebna je hrabrost i otpornost da bi ostali posvećeni tokom padova tržišta. A bez njih mreža ne bi mogla opstati u ranoj fazi razvoja.
+&nbsp;**4.** U vezi pravedne distribucije, oni koji su ga rano prihvatili su pošteno nagrađeni za rizik i vrijeme koje su uložili. A takođe i zbog čeličnih živaca i odlučnosti da dugo izdrže kroz neizvjesnost i turbulentna vremena. Potrebna je hrabrost i otpornost da bi ostali posvećeni tokom padova tržišta. Drugo bez njih mreža ne bi mogla opstati u ranoj fazi razvoja. Pored toga, većina ranih kupaca i rudara su prodali svoje 'koine' u jednom trenutku tokom vremena.
 
 ### Zaključak
 {: #conclusion }
