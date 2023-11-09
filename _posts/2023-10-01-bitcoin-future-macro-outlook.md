@@ -93,7 +93,7 @@ Rast cijene može da počne nekoliko mjeseci ranije u iščekivanju polovljenja,
 Ako je ova logika tačna, i sa tržišnim multiplikatorom, sa trenutne cijene od 27.000 a 2023/10/01, do kraja 2025. mogla bi dostići vrhunac u rasponu između 100 i 200 hiljada USD. Poslije ovoga 2026. ili 2027. možda će se ponovo vratiti na 100 hiljada dolara ili čak malo ispod toga (procjena zasnovana na [**grafikonu duginih cijena**](https://www.blockchaincenter.net/en/bitcoin-rainbow-chart/){:target="_blank"} - informisana pretpostavka).  
 Vrlo rijetko u istoriji postoji neka imovina koja je najsigurnija za držanje, a istovremeno ima i najveći potencijal za rast.
 
-### Makro analiza (osobine ograničene količine novca):
+### Makro-Ekonomska analiza (osobine ograničene količine novca):
 {: #macro }  
 &nbsp;**1.** Jedinstven interoperabilni globalni protokol za prijenos vrijednosti - Bitkoin Standard (svjetska rezervna valuta). To znači da nema problema sa konverzijom između valuta za globalnu trgovinu i međunarodno e-poslovanje (jedinstveni zajednički ekonomski jezik).  
 Optimalni novi monetarni režim projektovan da bude što efikasniji.
