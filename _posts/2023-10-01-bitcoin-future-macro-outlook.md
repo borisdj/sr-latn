@@ -55,7 +55,7 @@ Popravlja loše karakteristike zlata u pogledu teške i skupe provjere, podjele 
 
 ### Put naprijed
 {: #forward }
-Dalje izložimo jedan mogući način na koji bi se moglo doći do ovog sistema. Pošto BTC ima **ograničenu količinu** (najvažnija karakteristika) dok je državna valuta, tzv. '*Fiat*', konstantno inflatorna i gubi vrijednost, ljudi imaju **PODSTICAJ** da štede što više u Bitkoinu (zaštita od inflacije).  
+Dalje izložimo jedan mogući način na koji bi se moglo doći do ovog sistema. Pošto BTC ima **ograničenu količinu** (najvažnija karakteristika) dok je državna valuta, tzv. '*Fiat*', konstantno inflatorna i gubi vrijednost, ljudi imaju **PODSTICAJ** da štede što više u Bitkoinu (zaštita od inflacije). Ne zaboravimo da je vrijednost djelimično subjektivna.  
 Ovdje je pretpostavka da služi kao *Čuvar vrijednosti* '**(1) SoV** - *Store Of Value*' (digitalno zlato 2.0) u dugom periodu (ne uzimajući u obzir kratkoročnu volatilnost već gledajući 4-godišnji prosjek).  
 Poslije, kada skoro svi budu imali neku količinu, počeće da plaćaju i primaju direktno umjesto da ga konvertuju u Fiat, i tako polako preuzima funkciju *Sredstva razmjene* '**(2) MoE** - *Medium of Exchange*'. 
 I treća faza (ako do ove ikada dođe) bi mogla biti kada su cijene u njoj, dakle funkcija *Jedinice obračuna* '**(3) UoA** - *Unit of Account*' (univerzalna valuta).  
@@ -119,7 +119,7 @@ Za potkrepljivanje ovih tvrdnji postoji odličan članak:
 ### Na kraju da se osvrnemo i pojasnimo neke često upućene kritike prema sistemu (skepticizam):
 {: #scepticism }  
 &nbsp;**1.** Druge 'kriptovalute' tzv. Alt (alternativni) novčići nisu prava konkurencija bitkoinu zbog:
-Prednosti prvog pokretača (organska kreacija koja se ne može replicirati), mrežni efekat (vrijednost je subjektivna), najbolji model upravljanja (bez poznatog osnivača - slijediti pravila, ne vladara). Zatim najviše decentralizovani rudari i široka distribucija čvorova, najveća zajednica (saradnici, programeri) sa snažnim ideološkim ubjeđenjem, dubokom posvećenošću i sve većim usvajanjem od strane korisnika.  
+Prednosti prvog pokretača (organska kreacija koja se ne može replicirati), najveći mrežni efekat, najbolji model upravljanja (bez poznatog osnivača - slijediti pravila, ne vladara). Zatim najviše decentralizovani rudari i široka distribucija čvorova, najveća zajednica (saradnici, programeri) sa snažnim ideološkim ubjeđenjem, dubokom posvećenošću i sve većim usvajanjem od strane korisnika.  
 Pored genijalne sistemske integracije svih komponenti, jedna stavka se ističe kao vitalna a to je [***Podešavanje težine***](https://www.reddit.com/r/Bitcoin/comments/r2hvuu/bitcoins_difficulty_adjustment_is_its_most/){:target="_blank"} rudarenja.  
 Oni koji koriste ***PoS*** (*Proof of Stake* - 'Dokaz o Ulogu') mehanizam konsenzusa su poput 'hartija od vrijednosti', nemaju stvarnu decentralizaciju, i virtuelni su po prirodi. Zatim nemaju dovoljno razdvojeno upravljanja, a PoS je u suštini centralizujuća sila. Neki od njih bi mogli naći drugi slučaj upotrebe, ali ne kao pošten i pouzdan novac, jer je previše važan da postoji skroz apstraktno.  
 Samo bitkoin se smatra robom (primarno monetarno dobro), što je potvrdila i *SEC* (Komisija za hartije od vrijednosti SAD). To je imovina bez emitenta.  
