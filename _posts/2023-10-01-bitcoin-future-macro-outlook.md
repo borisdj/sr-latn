@@ -96,7 +96,7 @@ Vrlo rijetko u istoriji je postojala neka imovina koja je najsigurnija za držan
 ### Makro-Ekonomska analiza (osobine ograničene količine novca):
 {: #macro }  
 &nbsp;**1.** Jedinstven interoperabilni globalni protokol za prijenos vrijednosti - Bitkoin Standard (svjetska rezervna valuta). To znači da nema problema sa konverzijom između valuta za globalnu trgovinu i međunarodno e-poslovanje (jedinstveni zajednički ekonomski jezik).  
-Optimalni novi monetarni režim projektovan sa razmišljanjenm iz prvih principa da bude što efikasniji.
+Optimalni novi monetarni režim projektovan sa razmišljanjenm iz [**prvih principa**](https://medium.com/the-mission/elon-musks-3-step-first-principles-thinking-how-to-think-and-solve-difficult-problems-like-a-ba1e73a9f6c0){:target="_blank"} da bude što efikasniji.
 
 &nbsp;**2.** Bio bi apolitičan novac, tako da zemlje efektivno više ne bi imale monetarnu politiku, već samo fiskalnu. Privreda će imati prirodne poslovne cikluse i postati stabilnija. Usponi i padovi ekonomije bi trebalo da budu manji jer ne bi mogli vještački da porastu previše, pošto ne postoji državno spašavanje od bankrota (sjetimo se finansijske krize iz 2008.)
 
