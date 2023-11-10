@@ -23,7 +23,7 @@ style="border:none; background:url('https://raw.githubusercontent.com/borisdj/bo
 ONCLICK="fetch(counterUrl + 'post');
 document.getElementById('counterCell').innerHTML=likesCounter+1; document.getElementById('buttonLike').disabled=true; 
 document.getElementById('buttonLike').style.backgroundImage='url(https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/applauseGrey.png)';
-alert('Like:) saved, thx!');">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</BUTTON>
+alert('Like:) saved, thx!');"> . . . </BUTTON>
 ako je članak koristan
 [<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRylKpaTqDluVsX1bgonHR74mApXbnrr7bCr6_z-UaH4fDlD3i6v51tITUbCbbRHl-MfvdS9VNUtDQU/pubhtml?gid=0" target="_blank">brojač:</a> <b id="counterCell">N</b>]
 </p>
@@ -96,7 +96,7 @@ Vrlo rijetko u istoriji je postojala neka imovina koja je najsigurnija za držan
 ### Makro-Ekonomska analiza (osobine ograničene količine novca):
 {: #macro }  
 &nbsp;**1.** Jedinstven interoperabilni globalni protokol za prijenos vrijednosti - Bitkoin Standard (svjetska rezervna valuta). To znači da nema problema sa konverzijom između valuta za globalnu trgovinu i međunarodno e-poslovanje (jedinstveni zajednički ekonomski jezik).  
-Optimalni novi monetarni režim projektovan da bude što efikasniji.
+Optimalni novi monetarni režim projektovan sa razmišljanjenm iz prvih principa da bude što efikasniji.
 
 &nbsp;**2.** Bio bi apolitičan novac, tako da zemlje efektivno više ne bi imale monetarnu politiku, već samo fiskalnu. Privreda će imati prirodne poslovne cikluse i postati stabilnija. Usponi i padovi ekonomije bi trebalo da budu manji jer ne bi mogli vještački da porastu previše, pošto ne postoji državno spašavanje od bankrota (sjetimo se finansijske krize iz 2008.)
 
@@ -137,7 +137,7 @@ I zadnje, ali ne manje bitno, može da podstakne nove društvene mreže kao što
 U isto vrijeme rudari mogu pomoći u stabilizaciji strujne mreže (simbiotski odnos) i takođe mogu da troše inače neupotrebljivu i izgubljenu energiju.  
 Proizvodnja električne energije je drugo pitanje i u budućnosti bi sva energija trebala da bude održiva iz obnovljivih izvora.
 
-&nbsp;**4.** U vezi pravedne distribucije, oni koji su ga rano prihvatili su pošteno nagrađeni za rizik i vrijeme koje su uložili. A takođe i zbog čeličnih živaca i odlučnosti da dugo drže (***HODL*** mim) kroz neizvjesnost i turbulentna vremena. Potrebna je hrabrost i otpornost da bi ostali posvećeni tokom padova tržišta. Drugo bez njih mreža ne bi mogla opstati u ranoj fazi razvoja. Pored toga, većina ranih kupaca i rudara su prodali svoje 'koine' u jednom trenutku tokom vremena.
+&nbsp;**4.** U vezi pravedne distribucije, oni koji su ga rano prihvatili su pošteno nagrađeni za rizik i vrijeme koje su uložili. A takođe i zbog čeličnih živaca i odlučnosti da dugo drže (***HODL*** mim) kroz neizvjesnost i turbulentna vremena (BTC kao jedina izvjesna stvar u doglednoj budućnosti). Potrebna je hrabrost i otpornost da bi ostali posvećeni tokom padova tržišta. Drugo bez njih mreža ne bi mogla opstati u ranoj fazi razvoja. Pored toga, većina ranih kupaca i rudara su prodali svoje 'koine' u jednom trenutku tokom vremena.
 
 ### Zaključak
 {: #conclusion }
