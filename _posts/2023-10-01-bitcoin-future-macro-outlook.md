@@ -72,7 +72,7 @@ Takođe između zemalja postoji dinamika teorije igara (SAD, Rusija, itd.) tako 
 Čak i odluke banaka da prihvataju Bitkoin mogu se posmatrati iz perspektive teorije igara, gdje korist za svakog igrača (finansijsku instituciju) zavisi ne samo od njihove sopstvene odluke već i od odluka drugih (tržišna utrka).  
 Dakle, ovo bi bio čvrst novac izabran na slobodnom tržištu, baš kao što istorija sugeriše da se uvijek dešava ([***Thiers*-ov zakon**](https://www.momentum-analytics.io/news/are-we-starting-to-see-thiers-law-in-action-the-reverse-of-greshams-law){:target="_blank"} – *dobar novac će izbaciti loš*). Ali pošto ne bi bio centralizovan, zadržao bi svoju maksimalnu količinu trajno (nema centralne tačke kontrole/kvara da se poveća količina – uklanja ljudski faktor greške).  
 Na kraju bi došlo do ravnoteže sa ukupnim brojem monetarnih jedinica i cjelokupnom svjetskom ekonomijom (hiperbitkoinizacija - sve podijeljeno sa **21 milion**). Svaki ***Sat*** bi bio učešće u budućnosti izobilja (nada za bolje sutra i svjetliju budućnosti preko toga).  
-Uz to bi bio kao precizan sistem mjerenja vrijednosti - [**mjerni štap**](https://dematerialize.blog/bitcoin-is-the-economic-measuring-stick){:target="_blank"} (jedinica od 1 metra takođe se ne mijenja ni kada imamo više zgrade).
+Uz to bi bio kao precizan numerički sistem mjerenja ekonomske aktivnosti - [**mjerni štap**](https://dematerialize.blog/bitcoin-is-the-economic-measuring-stick){:target="_blank"} (jedinica od 1 metra takođe se ne mijenja ni kada imamo više zgrade).
 
 **Mogući efekti:**  
 -- ljudi bi trošili promišljenije (nameće disciplinu) i uzimali bi samo proračunate rizike/kredite  
