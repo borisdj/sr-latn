@@ -109,11 +109,11 @@ Dakle, postojala bi ravnoteža u svakom trenutku.
 
 &nbsp;**5.** Krediti bi bili malo skuplji nego danas, jer bi imali realnu cijenu. Zato bi učesnicima na tržištu davali ispravan signal troška, što bi smanjivalo pogrešne alokacije kapitala.  
 Banke (kreditne) bi bile kao u **slobodnom bankarstvu** i trebale bi da vode računa o trajanju kredita i oročenih depozita. **Centralna banka** bi bila suvišna jer ne bi mogla da djeluje kao zajmodavac u krajnjoj instanci.  
-Uglavnom bi postojalo bankarstvo sa punim rezervama, ograničeno oročenim depozitima. Čak i ako se pojavi neka vrsta bankarstva sa djelimičnim rezervama, ono bi imala gornju granicu izloženosti riziku. Ne bi bilo više prerizičnih kredita bez pokrića.  
+Uglavnom bi postojalo bankarstvo sa **punim rezervama**, ograničeno oročenim depozitima. Čak i ako se pojavi neka vrsta bankarstva sa [**djelimičnim rezervama**](https://fee.org/articles/to-the-opponents-of-fractional-reserve-banking/){:target="_blank"}, ono bi imala gornju granicu izloženosti riziku. Ne bi bilo više prerizičnih kredita bez pokrića.  
 Nekretnine bi imale niže cijene jer ne bi služile kao Čuvar vrijednosti i izgubile bi tu novčanu premiju (smanjeni troškovi stanovanja).
 
 Za potkrepljivanje ovih tvrdnji postoji odličan članak:  
-[*Zašto fiksna količina novca ne dovodi do ekonomske katastrofe*](https://www.swanbitcoin.com/why-a-fixed-supply-money-does-not-lead-to-economic-catastrophe/)  
+[*Zašto fiksna količina novca ne dovodi do ekonomske katastrofe*](https://www.swanbitcoin.com/why-a-fixed-supply-money-does-not-lead-to-economic-catastrophe/){:target="_blank"}  
 (*I zašto je to u stvari jedini intelektualno i etički odbranjiv monetarni sistem*)
 
 ### Na kraju da se osvrnemo i pojasnimo neke često upućene kritike prema sistemu (skepticizam):
