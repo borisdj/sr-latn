@@ -52,7 +52,7 @@ Takođe je potpuno otporan na cenzuru, bez potrebe za dozvolom i povjerenjem, je
 Kao '*Opt-In*' sistem (slobodno uključenje) predstavlja mirni otpor protiv devalvacije valute.  
 Dizajniran je i programiran tako da ima najbolje karakteristike novca:  
 ***&nbsp;1. Izdržljiv, 2. Djeljiv, 3. Prijenosan, 4. Prihvatljiv, 5. Ograničena količina, 6. Uniforman***  
-Popravlja loše karakteristike zlata u pogledu teške i skupe provjere, podjele i prijenosa (transporta) zbog čega je sjajni žuti metal centralizovan.
+Popravlja loše karakteristike zlata u pogledu teške provjere, podjele (treba topiti) i prijenosa (skup transfer) zbog čega je sjajni žuti metal centralizovan.
 
 ### Put naprijed
 {: #forward }
