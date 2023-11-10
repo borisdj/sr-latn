@@ -81,7 +81,7 @@ Uz to bi bio kao precizan sistem mjerenja vrijednosti - [**mjerni štap**](https
 &nbsp;&nbsp;(nema potrebe da se traži povišica samo da bi se pratila inflacija)  
 -- pravedna distribucija privrednog rasta uklanjanjem tihog regresivnog poreza putem inflacije  
 &nbsp;&nbsp;(bez [***Cantillon* efekta**](https://whatismoney.info/cantillon-effect-bitcoin/){:target="_blank"} – oni koji su blizu štamparske mašine imaju najviše koristi)  
--- pojednostavljena štednja (analogno moć jednostavnosti Bitcoin arhitekture)
+-- pojednostavljena štednja (takođe postoji moć jednostavnosti Bitcoin arhitekture)
 
 ### Predstojeći period
 {: #upcoming } 
