@@ -49,6 +49,7 @@ Da citiramo F.A. Hayek-a, ekonomistu austrijske škole, i autora *‘Denacionali
 Bitcoin **protokol** je samo prva funkcionalna implementacija ovog koncepta (zahvalnost Sajferpank pokretu).  
 Neinflatorni zdrav novac, digitalan (nastao na internetu), neutralan (agnostičan prema politici) kao fenomen koji se širi odozdo prema gore.  
 Takođe je potpuno otporan na cenzuru, bez potrebe za dozvolom i povjerenjem, jer poverenje ljudi često naruše velike organizacije (države, velike banke, mega korporacije).  
+Kao '*Opt-In*' sistem (slobodno uključenje) predstavlja mirni otpor protiv devalvacije valute.  
 Dizajniran je i programiran tako da ima najbolje karakteristike novca:  
 ***&nbsp;1. Izdržljiv, 2. Djeljiv, 3. Prijenosan, 4. Prihvatljiv, 5. Ograničena količina, 6. Uniforman***  
 Popravlja loše karakteristike zlata u pogledu teške i skupe provjere, podjele i prijenosa (transporta) zbog čega je sjajni žuti metal centralizovan.
