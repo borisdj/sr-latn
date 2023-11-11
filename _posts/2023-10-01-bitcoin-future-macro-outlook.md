@@ -49,14 +49,14 @@ Da citiramo F.A. Hayek-a, ekonomistu austrijske škole, i autora *‘Denacionali
 Bitkoin **protokol** je samo prva funkcionalna implementacija ovog koncepta (zahvalnost Sajferpank pokretu).  
 Neinflatorni zdrav novac, digitalan (nastao na internetu), neutralan (agnostičan prema politici) kao fenomen koji se širi odozdo prema gore.  
 Takođe je potpuno otporan na cenzuru, bez potrebe za dozvolom i povjerenjem, jer poverenje ljudi često naruše velike organizacije (države, velike banke, mega korporacije).  
-Kao '*Opt-In*' sistem (slobodno uključenje) predstavlja mirni otpor protiv obezvređivanja valute.  
+Kao '*Opt-In*' ekosistem (slobodno priključenje) predstavlja mirni otpor protiv obezvređivanja valute.  
 Dizajniran je i programiran tako da ima najbolje karakteristike novca:  
 ***&nbsp;1. Izdržljiv, 2. Djeljiv, 3. Prijenosan, 4. Prihvatljiv, 5. Ograničena količina, 6. Uniforman***  
 Popravlja loše karakteristike zlata u pogledu teške provjere, podjele (treba topiti) i prijenosa (skup transfer) zbog čega je sjajni žuti metal centralizovan.
 
 ### Put naprijed
 {: #forward }
-Dalje izložimo jedan mogući način na koji bi se moglo doći do ovog sistema. Pošto BTC ima **ograničenu količinu** (najvažnija karakteristika) dok je državna valuta, tzv. ['*Fiat*'](https://www.britannica.com/money/fiat-money){:target="_blank"}, konstantno inflatorna i gubi vrijednost, ljudi imaju **PODSTICAJ** da štede što više u Bitkoinu (zaštita od inflacije). Ne zaboravimo da je vrijednost djelimično subjektivna.  
+Dalje izložimo jedan mogući način na koji bi se moglo doći do ovog sistema. Pošto BTC ima **ograničenu količinu** (najvažnija karakteristika) dok je državna valuta, tzv. ['*Fiat*'](https://www.britannica.com/money/fiat-money){:target="_blank"}, konstantno inflatorna i gubi vrijednost, ljudi imaju **PODSTICAJ** da štede što više u Bitkoinu (zaštita od inflacije ali i od sistemskog institucionalnog kolapsa). Ne zaboravimo da je vrijednost djelimično subjektivna.  
 Ovdje je pretpostavka da služi kao *Čuvar vrijednosti* '**(1) SoV** - *Store Of Value*' (digitalno zlato 2.0) u dugom periodu (ne uzimajući u obzir kratkoročnu volatilnost već gledajući 4-godišnji prosjek).  
 Poslije, kada skoro svi budu imali neku količinu, počeće da plaćaju i primaju direktno umjesto da ga konvertuju u Fiat, i tako polako preuzima funkciju *Sredstva razmjene* '**(2) MoE** - *Medium of Exchange*'. 
 I treća faza (ako do ove ikada dođe) bi mogla biti kada su cijene u njoj, dakle funkcija *Jedinice obračuna* '**(3) UoA** - *Unit of Account*' (univerzalna valuta).  
