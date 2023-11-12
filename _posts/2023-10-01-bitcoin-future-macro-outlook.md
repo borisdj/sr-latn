@@ -92,7 +92,7 @@ On bi bio kao precizan numerički sistem mjerenja ekonomske aktivnosti - [**mjer
 
 ### Predstojeći period
 {: #upcoming } 
-April 2024 je kada će se desiti sljedeće polovljenje - *Halving*. Događaj se odnosi na smanjenje (upola) stvaranja novih 'novčića' koje 'rudari' dobijaju kao nagradu, a dešava se svake 4 godine u ciklusima. Nagrada rudara uključuje nove novčiće, kao i naknade za transakcije koje postaju relevantnije kako vrijeme bude prolazilo (slično odnosu glavnice i kamate u rati kredita tokom perioda otplate).  
+April 2024 je kada će se desiti sljedeće polovljenje - *Halving*. Događaj se odnosi na smanjenje (upola) stvaranja novih 'novčića' koje 'rudari' dobijaju kao nagradu, a dešava se svake 4 godine u ciklusima. Nagrada rudara uključuje novokreirane novčiće, kao i naknade za transakcije koje postaju relevantnije kako vrijeme bude prolazilo (slično odnosu glavnice i kamate u rati kredita tokom perioda otplate).  
 Pošto mnogi redovno kupuju i vrše ***DCA*** (*Dollar Cost Averaging* - uprosječavanje troškova u dolarima), to bi trebalo da dovede do povećanja cijene približno 2 puta.  
 Zatim dobija medijsku pažnju što privlači nove ljude i trgovce, dalje vodeći do rasta i nove maksimlane cijene, što poslije bude praćeno krahom tržišta. Dakle, ima specifično tržišno ponašanje, ali [**4-godišnji pokretni prosjek**](https://charts.bitbo.io/sma1458/){:target="_blank"} stalno raste (logaritamski rast) i broj korisnika se povećava sa svakim krugom. Upotreba postaje lakša jer mobilne aplikacije svakim danom postaju jednostavnije za upotrebu. I skoro odobrenje Spot [**Bitkoin ETFa**](https://www.coindesk.com/policy/2023/10/20/sec-likely-to-approve-spot-bitcoin-etf-in-next-few-months-jpmorgan/){:target="_blank"}
 (Exchange-Traded Fund) će izvjesno imati dodatni uticaj na jačanje. Da dodamo ovdje Fidelity studiju [***Bitcoin First Revisited***](https://vvv.fidelitidigitalassets.com/research-and-insights/bitcoin-first-revisited){:target="_blank"} gdje je objašnjeno zašto se treba razmatrati odvojeno od druge digitalne imovine.  
@@ -108,7 +108,7 @@ Optimalni novi monetarni režim projektovan sa razmišljanjem iz [**prvih princi
 &nbsp;**2.** Bio bi apolitičan novac, tako da zemlje efektivno više ne bi imale monetarnu politiku, već samo fiskalnu. Privreda će imati prirodne poslovne cikluse i postati stabilnija. Usponi i padovi ekonomije bi trebalo da budu manji jer ne bi mogli vještački da porastu previše, pošto ne postoji državno spašavanje od bankrota (sjetimo se finansijske krize iz 2008.)
 
 &nbsp;**3.** Ograničena količina novca nije bila suštinski problem dok god je djeljiva nadole: 1 BTC = 100 milion Satošija (*Sat*-a). Ukupna količina jedinica je **2,1 kvadrilion**, 21 mil * 100 mil (8 cifara + 8 decimala) a ***Lightning*** čak omogućava miliSate (1/1000). Pokušajte da izbjegnete pristrasnost veličine jedinice, objektivno to nije bitno.  
-Ako svjetska ekonomija raste u prosjeku 1% godišnje, nekim stvarima bi se smanjila cijena za 1%. Naravno, druge sa većom efikasnošću izrade bi pale i više do graničnog troška proizvodnje, a nekima bi mogla i porasti cijena ako bi postojala dodatna potražnja.  
+Ako svjetska ekonomija raste u prosjeku 1% godišnje, nekim stvarima bi se smanjila cijena za 1%. Naravno, druge sa većom efikasnošću izrade, zahvaljujući tehnološkom napretku, bi pale i više do graničnog troška proizvodnje, a nekima bi mogla i porasti cijena ako bi postojala dodatna potražnja.  
 Takođe ne postoji rizik od deflatorne spirale jer je to moguće samo u današnjem sistemu **Novca kao Dug** (Kreditni novac - stvara se svakim novim kreditom dok se uništava kada se dug otplati).
 
 &nbsp;**4.** Gomilanje novca nije problematično, jer ljudi imaju svakodnevne potrebe, ali takođe i želje, i trošili bi i štedili tokom svog života (niko ne živi vječno).
@@ -156,6 +156,11 @@ Kao bilo koja investicija to je poduhvat, što je i svaka odluka u životu. Za r
 Takođe držite veći dio van kripto berzi (**Sopstveno staranje** - *nisu vaši ključevi, nisu vaši novčići*).  
 U svakom slučaju, uvijek je dobro biti upućen u aktuelnu tematiku.  
 DYOR (*Do Your Own Research* - uradite sopstveno istraživanje) i napravite svoju vjerovatnoću za svaki hipotetički scenario.  
+
+YT govori za poslušati:  
+[*Natalie Brunell*: Bitcoin is World Hope](https://www.youtube.com/watch?v=VqXVxBc3WZQ){:target="_blank"}  
+[*Jeff Booth*: Good Deflation, Bad Inflation](https://www.youtube.com/watch?v=S9IB3aWt3Ww){:target="_blank"}  
+_ an author of: [*Why Deflation is Key to an Abundant Future*](https://www.youtube.com/watch?v=G2vAm2hfW9U){:target="_blank"}  
 
 Epilog: Narednih mjeseci biće zanimljivo vidjeti kako će se ovo odvijati, ostanite sa nama.  
 Za sve koji su željni saznati više i da zarone dublje u tematiku, prvi Bit post je bila mini e-knjiga: [**(r)Evolution of Money**](https://infopedia.io/revolution-of-money/)
