@@ -158,9 +158,9 @@ U svakom slučaju, uvijek je dobro biti upućen u aktuelnu tematiku.
 DYOR (*Do Your Own Research* - uradite sopstveno istraživanje) i napravite svoju vjerovatnoću za svaki hipotetički scenario.  
 
 YT govori za poslušati:  
-[*Natalie Brunell*: Bitcoin is World Hope](https://www.youtube.com/watch?v=VqXVxBc3WZQ){:target="_blank"}  
-[*Jeff Booth*: Good Deflation, Bad Inflation](https://www.youtube.com/watch?v=S9IB3aWt3Ww){:target="_blank"}  
-_ an author of: [*Why Deflation is Key to an Abundant Future*](https://www.youtube.com/watch?v=G2vAm2hfW9U){:target="_blank"}  
+-[Bitcoin is World Hope](https://www.youtube.com/watch?v=VqXVxBc3WZQ){:target="_blank"} (*Natalie Brunell*)   
+-[Good Deflation, Bad Inflation](https://www.youtube.com/watch?v=S9IB3aWt3Ww){:target="_blank"} (*Jeff Booth*)  
+-[Why Deflation is Key to an Abundant Future](https://www.youtube.com/watch?v=G2vAm2hfW9U){:target="_blank"} (*Jeff Booth*)  
 
 Epilog: Narednih mjeseci biće zanimljivo vidjeti kako će se ovo odvijati, ostanite sa nama.  
 Za sve koji su željni saznati više i da zarone dublje u tematiku, prvi Bit post je bila mini e-knjiga: [**(r)Evolution of Money**](https://infopedia.io/revolution-of-money/)
