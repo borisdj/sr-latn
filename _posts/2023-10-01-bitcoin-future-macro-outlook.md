@@ -40,9 +40,9 @@ SADRŽAJ:
 
 ### Uvod
 {: #intro }
-Počnimo sa činjenicom da iza Bitkoina ('*Bitcoin*' - **BTC**) stoji ideja, u suštini da monetarni sistem ne treba da kontroliše vlada. Razlog je taj što, budući da je centralizovan i da države imaju monopol nad njim, u dužem periodu (50 do 100 godina) postaje korumpiran. Kao takav se zloupotrebljava, pa vodi do devalvacije valute i nekontrolisane visoke ili hiper inflacije, što je istorija često pokazala. Kao rezultat toga, ušteđevina građana biva ukradena, kapital uništen i ekonomija razorena. Osim toga, olakšava vođenje neopravdanih ratova, podstiče populističke političare, i istovremeno povećava razliku u bogatstvu slojeva društva. Naduvavanje količine valute iskrivljuje novac.  
+Počnimo sa činjenicom da iza Bitkoina ('*Bitcoin*' - **BTC**) stoji ideja, u suštini da monetarni sistem ne treba da kontroliše vlada. Razlog je taj što, budući da je centralizovan i da države imaju monopol nad njim, u dužem periodu (50 do 100 godina) postaje korumpiran. Kao takav se zloupotrebljava, pa vodi do devalvacije valute i nekontrolisane visoke ili hiper inflacije, što je istorija često pokazala. Kao rezultat toga, ušteđevina građana biva ukradena, kapital uništen i ekonomija razorena. Osim toga, olakšava vođenje neopravdanih ratova, podstiče populističke političare, i istovremeno povećava razliku u bogatstvu slojeva društva.  
 Dakle, prijedlog je da se prekine ovaj začarani krug stvaranjem decentralizovanog sistema u kojem nijedna vlada neće moći da štampa novac jednim klikom na dugme (**razdvajanje novca i države**). Slično, Gutenbergova štamparska presa je doprinijela razdvajanju crkve i države tako što je učinila knjige široko dostupnim (znanje je demokratizovano).  
-Novac je apstraktan pojam za vrijeme, najvredniji resurs, i ljudi ne žele više novca, već ono što mogu njime kupiti.  
+Novac je apstraktan pojam i proksi za vrijeme, najvredniji ljudski resurs. A ljudi ne žele više novca, već ono što mogu njime kupiti.  
 
 U principu Bitkoin nije protiv države, samo za manju i transparentniju administraciju sa odgovarajućim mehanizmima ravnoteže i kontrole. Moglo bi se reći da je to pokret prema finansijskoj liberalizaciji, autonomiji i slobodi. Praktičan i izvodljiv pokušaj da se popravi **pokvaren** monetarni sistem, drugim riječima **Bitkoin popravlja Novac** (Integritet kao osnovno uvjerenje).  
 Da citiramo F.A. Hayek-a, ekonomistu austrijske škole, i autora knjige *‘Denacionalizacija Novca’* koji je [**predvidio Bitkoin**](https://www.sothebys.com/en/articles/the-economist-who-predicted-bitcoin){:target="_blank"} još 1984 u jednom [**intervju**](https://www.youtube.com/watch?v=EYhEDxFwFRU&t=1118s){:target="_blank"}:  
@@ -115,7 +115,7 @@ Takođe ne postoji rizik od deflatorne spirale jer je to moguće samo u današn
 &nbsp;**4.** Gomilanje novca nije problematično, jer ljudi imaju svakodnevne potrebe, ali takođe i želje, i trošili bi i štedili tokom svog života (niko ne živi vječno).
 Dakle, postojala bi ravnoteža u svakom trenutku.
 
-&nbsp;**5.** Krediti bi bili malo skuplji nego danas, jer bi imali realnu cijenu. Zato bi učesnicima na tržištu davali ispravan signal troška, što bi smanjivalo pogrešne alokacije kapitala ([**Pronalaženje Signala u bučnom svijetu**](https://medium.com/@JeffBooth/finding-signal-in-a-noisy-world-57497df06a35){:target="_blank"}).  
+&nbsp;**5.** Krediti bi bili malo skuplji nego danas, jer bi imali realnu cijenu. Zato bi učesnicima na tržištu davali ispravan signal troška, što bi smanjivalo pogrešne alokacije kapitala (inflacija iskrivljuje signal i [**Pronalaženje Signala u bučnom svijetu**](https://medium.com/@JeffBooth/finding-signal-in-a-noisy-world-57497df06a35){:target="_blank"}).  
 Banke (kreditne) bi bile kao u **slobodnom bankarstvu** i trebale bi da vode računa o trajanju kredita i oročenih depozita. **Centralna banka** bi bila suvišna jer ne bi mogla da djeluje kao zajmodavac u krajnjoj instanci.  
 Uglavnom bi postojalo bankarstvo sa **punim rezervama**, ograničeno oročenim depozitima. Čak i ako se pojavi neka vrsta bankarstva sa [**djelimičnim rezervama**](https://fee.org/articles/to-the-opponents-of-fractional-reserve-banking/){:target="_blank"}, ono bi imalo gornju granicu izloženosti riziku. Ne bi više bilo prerizičnih kredita bez pokrića.  
 Nekretnine bi imale niže cijene jer ne bi služile kao Čuvar vrijednosti i izgubile bi tu novčanu premiju (smanjeni troškovi stanovanja).
@@ -161,7 +161,7 @@ DYOR (*Do Your Own Research* - uradite sopstveno istraživanje) i napravite svoj
 YT govori za poslušati:  
 -[Bitcoin is World Hope](https://www.youtube.com/watch?v=VqXVxBc3WZQ){:target="_blank"} (*Natalie Brunell*)   
 -[Good Deflation, Bad Inflation](https://www.youtube.com/watch?v=S9IB3aWt3Ww){:target="_blank"} (*Jeff Booth*)  
--[Why Deflation is Key to an Abundant Future](https://www.youtube.com/watch?v=G2vAm2hfW9U){:target="_blank"} (*Jeff Booth*)  
+-[Why Deflation is Key to an Abundant Future](https://www.youtube.com/watch?v=G2vAm2hfW9U){:target="_blank"}  
 
 Epilog: Narednih mjeseci biće zanimljivo vidjeti kako će se ovo odvijati, ostanite sa nama.  
 Za sve koji su željni saznati više i da zarone dublje u tematiku, prvi Bit post je bila mini e-knjiga: [**(r)Evolution of Money**](https://infopedia.io/revolution-of-money/)
