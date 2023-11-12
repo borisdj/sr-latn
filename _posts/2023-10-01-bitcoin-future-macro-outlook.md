@@ -99,7 +99,7 @@ Zatim dobija medijsku pažnju što privlači nove ljude i trgovce, dalje vodeći
 (Exchange-Traded Fund) će izvjesno imati dodatni uticaj na jačanje. Da dodamo ovdje Fidelity studiju [***Bitcoin First Revisited***](https://vvv.fidelitidigitalassets.com/research-and-insights/bitcoin-first-revisited){:target="_blank"} gdje je objašnjeno zašto se treba razmatrati odvojeno od druge digitalne imovine.  
 Rast cijene može da počne nekoliko mjeseci ranije u iščekivanju polovljenja, tako da je cijena uračunata, ali samo djelimično. Očekivanja mogu dovesti do samoispunjavajuće pretpostavke.  
 Ako je ova logika tačna, uz faktor **multiplikacije** (mala likvidnost može dosta povećati cijenu), sa trenutne cijene od 27.000 a 2023/10/01, do kraja 2025. mogla bi dostići vrhunac u rasponu između 100 i 200 hiljada USD. Poslije ovoga 2026. ili 2027. možda će se ponovo vratiti na 100 hiljada dolara ili čak malo ispod toga (procjena zasnovana na [**grafikonu duginih cijena**](https://www.blockchaincenter.net/en/bitcoin-rainbow-chart/){:target="_blank"} - informisana pretpostavka).  
-Vrlo rijetko u istoriji je postojala neka imovina koja je sigurnija za držanje, a istovremeno ima i najveći potencijal za rast.
+Vrlo rijetko u istoriji je postojala neka imovina koja je sigurna za držanje, a istovremeno ima i najveći potencijal za rast.
 
 ### Makro-Ekonomska analiza (osobine ograničene količine novca):
 {: #macro }  
