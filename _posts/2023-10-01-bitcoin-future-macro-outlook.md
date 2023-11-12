@@ -112,7 +112,7 @@ Optimalni novi monetarni režim projektovan sa razmišljanjem iz [**prvih princi
 Ako svjetska ekonomija raste u prosjeku 1% godišnje, nekim stvarima bi se smanjila cijena za 1%. Naravno, druge sa većom efikasnošću izrade, zahvaljujući tehnološkom napretku, bi pale i više do graničnog troška proizvodnje, a nekima bi mogla i porasti cijena ako bi postojala dodatna potražnja.  
 Takođe ne postoji rizik od deflatorne spirale jer je to moguće samo u današnjem sistemu **Novca kao Dug** (Kreditni novac - stvara se svakim novim kreditom dok se uništava kada se dug otplati).
 
-&nbsp;**4.** Gomilanje novca nije problematično, jer ljudi imaju svakodnevne potrebe, ali takođe i želje, i trošili bi i štedili tokom svog života (niko ne živi vječno).
+&nbsp;**4.** Gomilanje novca nije problematično, jer ljudi imaju svakodnevne potrebe, ali takođe i želje, i trošili bi i štedili i investirali tokom svog života (niko ne živi vječno).
 Dakle, postojala bi ravnoteža u svakom trenutku.
 
 &nbsp;**5.** Krediti bi bili malo skuplji nego danas, jer bi imali realnu cijenu. Zato bi učesnicima na tržištu davali ispravan signal troška, što bi smanjivalo pogrešne alokacije kapitala (inflacija iskrivljuje signal i [**Pronalaženje Signala u bučnom svijetu**](https://medium.com/@JeffBooth/finding-signal-in-a-noisy-world-57497df06a35){:target="_blank"}).  
