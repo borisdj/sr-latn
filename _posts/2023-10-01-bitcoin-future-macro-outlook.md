@@ -56,7 +56,7 @@ Takođe je potpuno otporan na cenzuru, bez potrebe za dozvolom i povjerenjem, je
 Kao '*Opt-In*' ekosistem (slobodno priključenje) predstavlja mirni otpor protiv obezvređivanja valute.  
 Dizajniran je i programiran tako da ima najbolje karakteristike novca:  
 ***&nbsp;1. Izdržljiv, 2. Djeljiv, 3. Prijenosan, 4. Prihvatljiv, 5. Ograničena količina, 6. Uniforman***  
-Popravlja loše karakteristike zlata u pogledu teške provjere, podjele (potrebno otopiti) i prijenosa (skup transfer) zbog čega je sjajni žuti metal centralizovan.  
+Popravlja loše karakteristike zlata u pogledu teške provjere, podjele (potrebno otopiti) i prijenosa (skup transfer) zbog čega je sjajni žuti metal koncetrisan i centralizovan.  
 U tehničkom smislu, podržan je značajnim otkrićem u kompjuterskoj nauci: **Decentralizovanom** [**Digitalnom Oskudicom**](https://dergigi.com/2022/10/02/bitcoin-is-digital-scarcity/){:target="_blank"}, koja je napravljena pomoću **kriptografije**. To što je Digitalan ne znači da je Virtuelan jer ima troškove i efekte u stvarnom svijetu.  
 
 ### Put naprijed
