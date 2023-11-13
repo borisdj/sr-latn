@@ -146,7 +146,7 @@ I zadnje, ali ne manje bitno, može da podstakne nove društvene mreže kao što
 U isto vrijeme rudari mogu pomoći u stabilizaciji strujne mreže (simbiotski odnos) i takođe mogu da troše inače neupotrebljivu i izgubljenu energiju.  
 Proizvodnja električne energije je drugo pitanje i u budućnosti bi sva energija trebala da bude održiva iz obnovljivih izvora.
 
-&nbsp;**4.** U vezi pravedne distribucije, oni koji su ga rano prihvatili su pošteno nagrađeni za rizik i vrijeme koje su uložili. A takođe i zbog čeličnih živaca i odlučnosti da dugo drže (***HODL*** mim) kroz neizvjesnost i turbulentna vremena (BTC kao jedina izvjesna stvar u doglednoj budućnosti). Potrebna je hrabrost i otpornost da bi ostali posvećeni tokom padova tržišta. Drugo bez njih mreža ne bi mogla opstati u ranoj fazi razvoja. Pored toga, većina ranih kupaca i rudara su prodali svoje 'koine' u jednom trenutku tokom vremena.
+&nbsp;**4.** U vezi pravedne distribucije, oni koji su ga rano prihvatili su pošteno nagrađeni za rizik i vrijeme koje su uložili. A takođe i zbog čeličnih živaca i odlučnosti da dugo drže (***HODL*** mim) kroz neizvjesnost i turbulentna vremena (BTC kao jedina izvjesna stvar u doglednoj budućnosti - *Tik Tok Sljedeći Blok*). Potrebna je hrabrost i otpornost da bi ostali posvećeni tokom padova tržišta. Drugo bez njih mreža ne bi mogla opstati u ranoj fazi razvoja. Pored toga, većina ranih kupaca i rudara su prodali svoje 'koine' u jednom trenutku tokom vremena.
 
 ### Zaključak
 {: #conclusion }
