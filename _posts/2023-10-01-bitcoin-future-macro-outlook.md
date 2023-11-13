@@ -53,7 +53,7 @@ Dalje, dobitnik Nobelove nagrade ekonomista Milton Fridman je 1999. godine [**iz
 Bitkoin **protokol** je samo prva funkcionalna implementacija ovog koncepta (zahvalnost Sajferpank pokretu).  
 Neinflatorni zdrav novac, digitalan (nastao na internetu), neutralan (agnostičan prema politici) kao fenomen koji se širi odozdo prema gore.  
 Takođe je potpuno otporan na cenzuru, bez potrebe za dozvolom i povjerenjem, jer **poverenje** ljudi često naruše velike organizacije (države, velike banke, mega korporacije).  
-Kao '*Opt-In*' ekosistem (slobodno priključenje) predstavlja mirni otpor protiv obezvređivanja valute.  
+Kao '*Opt-In*' ekosistem (slobodno priključenje) predstavlja mirni otpor protiv manipulacije i obezvređivanja valute.  
 Dizajniran je i programiran tako da ima najbolje karakteristike novca:  
 ***&nbsp;1. Izdržljiv, 2. Djeljiv, 3. Prijenosan, 4. Prihvatljiv, 5. Ograničena količina, 6. Uniforman***  
 Popravlja loše karakteristike zlata u pogledu teške provjere, podjele (potrebno otopiti) i prijenosa (skup transfer) zbog čega je sjajni žuti metal koncetrisan i centralizovan.  
@@ -115,7 +115,7 @@ Takođe ne postoji rizik od deflatorne spirale jer je to moguće samo u današn
 &nbsp;**4.** Gomilanje novca nije problematično, jer ljudi imaju svakodnevne potrebe, ali takođe i želje, i trošili bi i štedili i investirali tokom svog života (niko ne živi vječno).
 Dakle, postojala bi ravnoteža u svakom trenutku.
 
-&nbsp;**5.** Krediti bi bili malo skuplji nego danas, jer bi imali realnu cijenu. Zato bi učesnicima na tržištu davali ispravan signal troška, što bi smanjivalo pogrešne alokacije kapitala (inflacija iskrivljuje signal i [**Pronalaženje SIGNALA u bučnom svijetu** - VAŽNO](https://medium.com/@JeffBooth/finding-signal-in-a-noisy-world-57497df06a35){:target="_blank"}).  
+&nbsp;**5.** Krediti bi bili malo skuplji nego danas, jer bi imali realnu cijenu. Zato bi učesnicima na tržištu davali ispravan signal troška, što bi smanjivalo pogrešne alokacije kapitala (inflacija iskrivljuje signal i [**Pronalaženje SIGNALA u bučnom svijetu**](https://medium.com/@JeffBooth/finding-signal-in-a-noisy-world-57497df06a35){:target="_blank"} - ODLIČAN članak, preporuka PROČITATI).  
 Banke (kreditne) bi bile kao u **slobodnom bankarstvu** i trebale bi da vode računa o trajanju kredita i oročenih depozita. **Centralna banka** bi bila suvišna jer ne bi mogla da djeluje kao zajmodavac u krajnjoj instanci.  
 Uglavnom bi postojalo bankarstvo sa **punim rezervama**, ograničeno oročenim depozitima. Čak i ako se pojavi neka vrsta bankarstva sa [**djelimičnim rezervama**](https://fee.org/articles/to-the-opponents-of-fractional-reserve-banking/){:target="_blank"}, ono bi imalo gornju granicu izloženosti riziku. Ne bi više bilo prerizičnih kredita bez pokrića.  
 Nekretnine bi imale niže cijene jer ne bi služile kao Čuvar vrijednosti i izgubile bi tu novčanu premiju (smanjeni troškovi stanovanja).
