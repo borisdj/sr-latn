@@ -65,7 +65,7 @@ Dalje izložimo jedan mogući način na koji bi se moglo doći do ovog sistema. 
 Ovdje je pretpostavka da služi kao *Čuvar vrijednosti* '**(1) SoV** - *Store Of Value*' (digitalno zlato 2.0) u dugom periodu (ne uzimajući u obzir kratkoročnu volatilnost već gledajući 4-godišnji prosjek). Ne zaboravimo da je vrijednost djelimično subjektivna.  
 Poslije, kada skoro svi budu imali neku količinu, počeće da plaćaju i primaju direktno umjesto da ga konvertuju u Fiat, i tako polako preuzima funkciju *Sredstva razmjene* '**(2) MoE** - *Medium of Exchange*'.  
 I treća faza (ako do ove ikada dođe) bi mogla biti kada su cijene izražene u njemu, dakle funkcija *Jedinice obračuna* '**(3) UoA** - *Unit of Account*' (univerzalna valuta).  
-BTC ima ogroman potencijal jer bi mogao biti prva **imovina sa trostrukom funkcijom**, jedistvena u istoriji.  
+BTC ima ogroman potencijal jer bi mogao biti odličan u sve funkcije, da bude prva **imovina sa trostrukom funkcijom**, jedistvena u istoriji.  
 Svaka faza (1), (2), (3) mogla bi trajati najmanje 10 godina (slobodna procjena).  Pred faza 0 je trajala donedavno - akumulacija kao kolekcionarstvo, tokom koje je tržiše otkrivalo cijenu.  
 
 Slično evoluciji interneta (1980-2020) sa rastom u obliku [**S-krive**](https://medium.com/the-capital/the-adoption-curve-embracing-bitcoin-digital-assets-at-remarkable-speed-818ed3e7b2b0){:target="_blank"}. Uz jednu važnu razliku da sada postoji direktna vrijednost za ulaganje, tako da je sklon cikličnim promjenama cijene zbog mnogo špekulanata u prostoru. 
