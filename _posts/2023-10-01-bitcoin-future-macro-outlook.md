@@ -57,15 +57,15 @@ Kao '*Opt-In*' ekosistem (slobodno priključenje) predstavlja mirni otpor protiv
 Dizajniran je i programiran tako da ima najbolje karakteristike novca:  
 ***&nbsp;1. Izdržljiv, 2. Djeljiv, 3. Prijenosan, 4. Prihvatljiv, 5. Ograničena količina, 6. Uniforman***  
 Popravlja loše karakteristike zlata u pogledu teške provjere, podjele (potrebno otopiti) i prijenosa (skup transfer) zbog čega je sjajni žuti metal koncetrisan i centralizovan.  
-U tehničkom smislu, podržan je značajnim otkrićem u kompjuterskoj nauci: **Decentralizovanom** [**Digitalnom Oskudicom**](https://dergigi.com/2022/10/02/bitcoin-is-digital-scarcity/){:target="_blank"}, koja je napravljena pomoću **kriptografije**. To što je Digitalan ne znači da je Virtuelan jer ima troškove i efekte u stvarnom svijetu.  
+U tehničkom smislu, podržan je značajnim otkrićem u kompjuterskoj nauci: **Decentralizovanom** [**Digitalnom Oskudicom**](https://dergigi.com/2022/10/02/bitcoin-is-digital-scarcity/){:target="_blank"}, koja je napravljena pomoću **kriptografije**. To što je Digitalan ne znači da je Virtuelan jer ima troškove i efekte sa posljedicama u stvarnom svijetu.  
 
 ### Put naprijed
 {: #forward }
 Dalje izložimo jedan mogući način na koji bi se moglo doći do ovog sistema. Pošto BTC ima **ograničenu količinu** (najvažnija karakteristika) dok je državna valuta, tzv. ['***Fiat***'](https://www.britannica.com/money/fiat-money){:target="_blank"}, konstantno inflatorna i gubi vrijednost, ljudi imaju **PODSTICAJ** da štede što više u Bitkoinu. Predstavlja zaštitu od inflacije, koja se smatra krađom, ali i od sistematskog institucionalnog kolapsa.   
 Ovdje je pretpostavka da služi kao *Čuvar vrijednosti* '**(1) SoV** - *Store Of Value*' (digitalno zlato 2.0) u dugom periodu (ne uzimajući u obzir kratkoročnu volatilnost već gledajući 4-godišnji prosjek). Ne zaboravimo da je vrijednost djelimično subjektivna.  
-Poslije, kada skoro svi budu imali neku količinu, počeće da plaćaju i primaju direktno umjesto da ga konvertuju u Fiat, i tako polako preuzima funkciju *Sredstva razmjene* '**(2) MoE** - *Medium of Exchange*'.  
+Poslije, kada skoro svi budu imali neku količinu, počeće da plaćaju i primaju direktno umjesto da ga konvertuju u Fiat, i tako polako preuzima funkciju *Sredstva razmjene* '**(2) MoE** - *Medium of Exchange*'. Od tog trenutka nećete trebati da ga prodajete, već ćete ga prosto trošiti.  
 I treća faza (ako do ove ikada dođe) bi mogla biti kada su cijene izražene u njemu, dakle funkcija *Jedinice obračuna* '**(3) UoA** - *Unit of Account*' (univerzalna valuta).  
-BTC ima ogroman potencijal jer bi mogao biti odličan u sve funkcije, da bude prva **imovina sa trostrukom funkcijom**, jedistvena u istoriji.  
+BTC ima ogroman potencijal jer bi mogao biti odličan u sve funkcije, da bude prva **imovina sa trostrukom funkcijom**, jedistvena u istoriji (ima sposobnost da promijeni svijet).  
 Svaka faza (1), (2), (3) mogla bi trajati najmanje 10 godina (slobodna procjena).  Pred faza 0 je trajala donedavno - akumulacija kao kolekcionarstvo, tokom koje je tržiše otkrivalo cijenu.  
 
 Slično evoluciji interneta (1980-2020) sa rastom u obliku [**S-krive**](https://medium.com/the-capital/the-adoption-curve-embracing-bitcoin-digital-assets-at-remarkable-speed-818ed3e7b2b0){:target="_blank"}. Uz jednu važnu razliku da sada postoji direktna vrijednost za ulaganje, tako da je sklon cikličnim promjenama cijene zbog mnogo špekulanata u prostoru. 
@@ -128,7 +128,7 @@ Za potkrepljivanje ovih tvrdnji postoji odličan članak:
 {: #scepticism }  
 &nbsp;**1.** Druge 'kriptovalute' tzv. Alt (alternativni) novčići nisu prava konkurencija bitkoinu zbog:
 Prednosti prvog pokretača (organska kreacija koja se ne može replicirati), najveći mrežni efekat, najbolji model upravljanja (bez poznatog osnivača - slijediti pravila, ne vladara). Zatim najviše decentralizovani rudari i široka distribucija čvorova, najveća zajednica (saradnici, programeri) sa snažnim ideološkim ubjeđenjem, dubokom posvećenošću i sve većim usvajanjem od strane korisnika.  
-Pored genijalne sistemske integracije svih komponenti, jedna novina se ističe kao vitalna a to je [***Podešavanje težine***](https://www.reddit.com/r/Bitcoin/comments/r2hvuu/bitcoins_difficulty_adjustment_is_its_most/){:target="_blank"} rudarenja. To je samobalansirajući mehanizam koji održava izdavanje novih novčića u skladu sa unaprijed određenim rasporedom.  
+Pored genijalne sistemske integracije svih komponenti, jedna novina se ističe kao vitalna a to je [***Podešavanje težine***](https://www.reddit.com/r/Bitcoin/comments/r2hvuu/bitcoins_difficulty_adjustment_is_its_most/){:target="_blank"} rudarenja. To je samobalansirajući mehanizam koji održava izdavanje novih novčića u skladu sa unaprijed određenim rasporedom (ova fleksibilnost ga čini tvrdim i čvrstim).  
 S druge strane, kriptovalute koje koriste ***PoS*** (*Proof of Stake* - 'Dokaz o Ulogu') mehanizam konsenzusa su poput 'hartija od vrijednosti', nemaju istinsku decentralizaciju, i virtuelni su po prirodi. Zatim nemaju dovoljno razdvojeno upravljanje, a PoS je u suštini centralizujuća sila. Neki od njih bi mogli naći drugi slučaj upotrebe, ali ne kao pošten i pouzdan novac, jer je to previše važna funkcija.  
 Samo bitkoin se smatra robom (primarno monetarno dobro), što je potvrdila i *SEC* (Komisija za hartije od vrijednosti SAD). To je imovina bez emitenta.  
 
