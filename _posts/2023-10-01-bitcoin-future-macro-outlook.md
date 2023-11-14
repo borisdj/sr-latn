@@ -49,6 +49,7 @@ Da citiramo F.A. Hayek-a, ekonomistu austrijske škole, i autora knjige *‘Dena
 *“Vlade uglavnom zloupotrebljavaju novac i zaustavljaju njegovo poboljšanje, a monetarna politika je uglavnom škodila. Ne možemo ga nasilno uzeti iz ruku vlasti. **Sve što možemo je da na neki lukav, zaobilazni način uvedemo nešto što oni ne mogu zaustaviti.”***  
 Dalje, dobitnik Nobelove nagrade ekonomista Milton Fridman je 1999. godine [**izjavio**](https://www.youtube.com/watch?v=j2mdYX1nF_Y&t=198s){:target="_blank"}:  
 *“Internet će biti jedna od glavnih sila za smanjenje uloge vlade. Jedina stvar koja nedostaje, a koja će uskoro biti razvijena, je **pouzdan e-keš”.***  
+Pomenimo i Davida Chauma, poznatog kriptografa, koji je rekao: “[*Privatnost u porukama i plaćanjima](https://decrypt.co/95109/david-chaum-from-inventing-digital-cash-to-pioneering-digital-privacy){:target="_blank"}, i slično, je vrlo **fundamentalna za demokratiju***.”  
 
 Bitkoin **protokol** je samo prva funkcionalna implementacija ovog koncepta (zahvalnost Sajferpank pokretu).  
 Neinflatorni zdrav novac, digitalan (nastao na internetu), neutralan (agnostičan prema politici) kao fenomen koji se širi odozdo prema gore.  
@@ -68,7 +69,7 @@ I treća faza (ako do ove ikada dođe) bi mogla biti kada su cijene izražene u 
 BTC ima ogroman potencijal jer bi mogao biti odličan u sve funkcije, da bude prva **imovina sa trostrukom funkcijom**, jedistvena u istoriji (ima sposobnost da promijeni svijet).  
 Svaka faza (1), (2), (3) mogla bi trajati najmanje 10 godina (slobodna procjena).  Pred faza 0 je trajala donedavno - akumulacija kao kolekcionarstvo, tokom koje je tržiše otkrivalo cijenu.  
 
-Slično evoluciji interneta (1980-2020) sa rastom u obliku [**S-krive**](https://medium.com/the-capital/the-adoption-curve-embracing-bitcoin-digital-assets-at-remarkable-speed-818ed3e7b2b0){:target="_blank"}. Uz jednu važnu razliku da sada postoji direktna vrijednost za ulaganje, tako da je sklon cikličnim promjenama cijene zbog mnogo špekulanata u prostoru. 
+Slično evoluciji interneta (1980-2020) sa rastom u obliku [**S-krive**](https://medium.com/the-capital/the-adoption-curve-embracing-bitcoin-digital-assets-at-remarkable-speed-818ed3e7b2b0){:target="_blank"} (postepeno pa iznenada). Uz jednu važnu razliku da sada postoji direktna vrijednost za ulaganje, tako da je sklon cikličnim promjenama cijene zbog mnogo špekulanata u prostoru. 
 A ako odemo dalje u prošlost mogli bismo posmatrati kako su automobili zamijenili konje, pri tome i da vidimo kako su se neki protivili evolucija transporta. Na isti način na koji se neki ljudi i danas protive finansijskoj evoluciji. Čak je i Henri Ford rekao, [**parafraziramo**](https://skeptics.stackexchange.com/questions/18247/did-henry-ford-predict-revolution-if-people-understood-the-banking-and-monetary){:target="_blank"}: *Dovoljno je što ljudi **ne razumiju bankarski i monetarni sistem**, jer da znaju, vjerujem da bi revolucija bila već sutra ujutru.*  
 
 Prvi korak za dalje širenje će biti *selektivno usvajanje* od 1% ljudi - trendsetera.
@@ -164,4 +165,5 @@ YT govori za poslušati:
 -[Why Deflation is Key to an Abundant Future](https://www.youtube.com/watch?v=G2vAm2hfW9U){:target="_blank"} (The Price of Tomorrow)  
 
 Epilog: Narednih mjeseci biće zanimljivo vidjeti kako će se ovo odvijati, ostanite sa nama.  
-Za sve koji su željni saznati više i da zarone dublje u tematiku, prvi Bit post je bila mini e-knjiga: [**(r)Evolution of Money**](https://infopedia.io/revolution-of-money/)
+Za sve koji su željni saznati više i da zarone dublje u tematiku, prvi Bit post je bila mini e-knjiga: [**(r)Evolution of Money**](https://infopedia.io/revolution-of-money/)  
+Takođe odlična literatura je obrazovna knjiga iz Salvadora: [Bitcoin-Diploma](https://github.com/MyFirstBitcoin/Bitcoin-Diploma/blob/main/English%20-%20V%203.0%20-%20Bitcoin%20Diploma.pdf){:target="_blank"} (*[MiPrimerBitcoin](https://miprimerbitcoin.io/en/my-first-bitcoin/){:target="_blank"} - Moj prvi Bitkoin*)
