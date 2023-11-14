@@ -48,7 +48,7 @@ U principu Bitkoin nije protiv države, samo za manju i transparentniju administ
 Da citiramo F.A. Hayek-a, ekonomistu austrijske škole, i autora knjige *‘Denacionalizacija Novca’* koji je [**predvidio Bitkoin**](https://www.sothebys.com/en/articles/the-economist-who-predicted-bitcoin){:target="_blank"} još 1984 u jednom [**intervju**](https://www.youtube.com/watch?v=EYhEDxFwFRU&t=1118s){:target="_blank"}:  
 *“Vlade uglavnom zloupotrebljavaju novac i zaustavljaju njegovo poboljšanje, a monetarna politika je uglavnom škodila. Ne možemo ga nasilno uzeti iz ruku vlasti. **Sve što možemo je da na neki lukav, zaobilazni način uvedemo nešto što oni ne mogu zaustaviti.”***  
 Dalje, dobitnik Nobelove nagrade ekonomista Milton Fridman je 1999. godine [**izjavio**](https://www.youtube.com/watch?v=j2mdYX1nF_Y&t=198s){:target="_blank"}:  
-*“Internet će biti jedna od glavnih sila za smanjenje uloge vlade. Jedina stvar koja nedostaje, a koja će uskoro biti razvijena, je **pouzdan e-keš”.***  
+“*Internet će biti jedna od glavnih sila za smanjenje uloge vlade. Jedina stvar koja nedostaje, a koja će uskoro biti razvijena, je **pouzdan e-keš”***. (elektronski keš)  
 Pomenimo i Davida Chauma, poznatog kriptografa, koji je rekao: “[*Privatnost u porukama i plaćanjima](https://decrypt.co/95109/david-chaum-from-inventing-digital-cash-to-pioneering-digital-privacy){:target="_blank"}, i slično, je vrlo **fundamentalna za demokratiju***.”  
 
 Bitkoin **protokol** je samo prva funkcionalna implementacija ovog koncepta (zahvalnost Sajferpank pokretu).  
