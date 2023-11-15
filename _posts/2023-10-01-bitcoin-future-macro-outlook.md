@@ -166,8 +166,8 @@ YT govori za poslušati:
 -[Why Deflation is Key to an Abundant Future](https://www.youtube.com/watch?v=G2vAm2hfW9U){:target="_blank"} (The Price of Tomorrow)  
 -[The Bitcoin Standard](https://www.youtube.com/watch?v=Zbm772vF-5M&t=1125s){:target="_blank"} (*Saifedean Ammous*)  
 -[Can Bitcoin Replace Government-Issued Money?](https://www.youtube.com/watch?v=MN4klUUx8fM){:target="_blank"}  (A Debate)
--[What is bitcoin and why does it matter?](https://www.youtube.com/watch?v=l1si5ZWLgy0&list=PLPQwGV1aLnTuN6kdNWlElfr2tzigB9Nnj) (*Andreas Antonopoulos*)
--[Bitcoin Explained in Simple Terms](https://www.youtube.com/watch?v=UlKZ83REIkA){:target="_blank"} (-||-)
+-[Introduction: What is bitcoin and why does it matter?](https://www.youtube.com/watch?v=l1si5ZWLgy0&list=PLPQwGV1aLnTuN6kdNWlElfr2tzigB9Nnj) (*Andreas Antonopoulos*)  
+-[Bitcoin for Beginners: Explained in Simple Terms](https://www.youtube.com/watch?v=UlKZ83REIkA){:target="_blank"} (-||-)  
 
 Epilog: Narednih mjeseci biće zanimljivo vidjeti kako će se ovo odvijati, ostanite sa nama.  
 Za sve koji su željni saznati više i da zarone dublje u tematiku, prvi Bit post je bila mini e-knjiga: [**(r)Evolution of Money**](https://infopedia.io/revolution-of-money/)  
