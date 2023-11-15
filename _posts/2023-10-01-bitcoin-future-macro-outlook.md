@@ -51,7 +51,7 @@ Dalje, dobitnik Nobelove nagrade ekonomista Milton Fridman je 1999. godine [**iz
 “*Internet će biti jedna od glavnih sila za smanjenje uloge vlade. Jedina stvar koja nedostaje, a koja će uskoro biti razvijena, je **pouzdan e-keš”***. (elektronski keš)  
 Pomenimo i Davida Chauma, poznatog kriptografa, koji je [**rekao**](https://decrypt.co/95109/david-chaum-from-inventing-digital-cash-to-pioneering-digital-privacy){:target="_blank"}: *“**Privatnost** u porukama i plaćanjima, i slično, je vrlo **fundamentalna za demokratiju**.”*  
 
-Bitkoin **protokol** je samo prva funkcionalna implementacija ovog radikalnog koncepta (zahvalnost Sajferpank pokretu).  
+Bitkoin **protokol** je samo prva funkcionalna implementacija ovog radikalnog koncepta (zahvalnost Sajferpank pokretu). Može se definisati i kao novac slobodog govora, sa zadržavanjem slobode i nakon govora.  
 **Neinflatorni** zdrav novac, digitalan (nastao na internetu), **neutralan** (agnostičan prema politici) kao fenomen koji se širi odozdo prema gore.  
 Takođe je potpuno otporan na cenzuru, bez potrebe za dozvolom i povjerenjem, jer **poverenje** ljudi često naruše velike organizacije (države, velike banke, mega korporacije).  
 Kao '*Opt-In*' ekosistem (slobodno priključenje) predstavlja mirni otpor protiv manipulacije i obezvređivanja valute.  
