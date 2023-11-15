@@ -52,7 +52,7 @@ Dalje, dobitnik Nobelove nagrade ekonomista Milton Fridman je 1999. godine [**iz
 Pomenimo i Davida Chauma, poznatog kriptografa, koji je [**rekao**](https://decrypt.co/95109/david-chaum-from-inventing-digital-cash-to-pioneering-digital-privacy){:target="_blank"}: *“**Privatnost** u porukama i plaćanjima, i slično, je vrlo **fundamentalna za demokratiju**.”*  
 
 Bitkoin **protokol** je samo prva funkcionalna implementacija ovog radikalnog koncepta (zahvalnost Sajferpank pokretu).  
-Neinflatorni zdrav novac, digitalan (nastao na internetu), neutralan (agnostičan prema politici) kao fenomen koji se širi odozdo prema gore.  
+**Neinflatorni** zdrav novac, digitalan (nastao na internetu), **neutralan** (agnostičan prema politici) kao fenomen koji se širi odozdo prema gore.  
 Takođe je potpuno otporan na cenzuru, bez potrebe za dozvolom i povjerenjem, jer **poverenje** ljudi često naruše velike organizacije (države, velike banke, mega korporacije).  
 Kao '*Opt-In*' ekosistem (slobodno priključenje) predstavlja mirni otpor protiv manipulacije i obezvređivanja valute.  
 Dizajniran je i programiran tako da ima najbolje karakteristike novca:  
@@ -79,7 +79,7 @@ A oko 2040-2050 znaćemo konačan rezultat (potrebna je generacijska promjena). 
 Takođe između zemalja postoji dinamika teorije igara (SAD, Rusija, itd.) tako da čak i ako neke od njih ga blokiraju (kao Kina) ne mogu ga zaustaviti, a pored toga ideje su neuništive. S druge strane ako ga neke učine rezervama trezora i/ili legalnim sredstvom plaćanja, ostale bi se na kraju pridružile ('*FOMO*' - strah od propuštanja). U geopolitici američki dolar je već počeo polako da gubi svoju dominaciju ([***Dedolarizacija***](https://www.jpmorgan.com/insights/global-research/currencies/de-dollarization){:target="_blank"}). Zapravo je u [**interesu SAD-a**](https://www.usfunds.com/resource/bitcoin-is-one-of-the-greatest-american-inventions/){:target="_blank"} da podrže Bitkoin, sa otvorenijim regulatornim okvirom, jer je to njihova najbolja opcija za budućnost. S druge strane postoje pokušaji da se uvede Digitalna valuta centralne banke (*Central Bank Digital Currency* - **CBDC**) kao vrsta kontra-revolucije, ali to je samo digitalni Fiat sa još više nadzora i kao takav neće proći.  
 Čak i odluke banaka da prihvataju Bitkoin mogu se posmatrati iz perspektive teorije igara, gdje korist za svakog igrača (finansijsku instituciju) zavisi ne samo od njihove sopstvene odluke već i od odluka drugih (tržišna utrka).
 
-Dakle, ovo bi bio čvrst novac izabran na slobodnom tržištu, baš kao što istorija sugeriše da se uvijek dešava ([***Thiers*-ov zakon**](https://www.momentum-analytics.io/news/are-we-starting-to-see-thiers-law-in-action-the-reverse-of-greshams-law){:target="_blank"} – *dobar novac će izbaciti loš*). Ali pošto ne bi bio centralizovan, zadržao bi svoju maksimalnu količinu trajno (nema centralne tačke kontrole/kvara da se poveća količina – uklanja grešku ljudskog faktora).  
+Dakle, ovo bi bio visoko kvalitetan čvrst novac izabran na slobodnom tržištu, baš kao što istorija sugeriše da se uvijek dešava ([***Thiers*-ov zakon**](https://www.momentum-analytics.io/news/are-we-starting-to-see-thiers-law-in-action-the-reverse-of-greshams-law){:target="_blank"} – *dobar novac će izbaciti loš*). Ali pošto ne bi bio centralizovan, zadržao bi svoju maksimalnu količinu trajno (nema centralne tačke kontrole/kvara da se poveća količina – uklanja grešku ljudskog faktora).  
 Na kraju bi došlo do ravnoteže sa ukupnim brojem monetarnih jedinica i cjelokupnom svjetskom ekonomijom (hiperbitkoinizacija - sve podijeljeno sa **21 milion**). Svaki *Satoši* ili ***Sat***, Bitcoin podjedinica, bi bio učešće u budućnosti izobilja (nada za bolje sutra).  
 On bi bio kao precizan numerički sistem mjerenja ekonomske aktivnosti - [**mjerni štap**](https://dematerialize.blog/bitcoin-is-the-economic-measuring-stick){:target="_blank"} (jedinica od 1 metra takođe se ne mijenja ni kada imamo više zgrade).
 
@@ -166,6 +166,8 @@ YT govori za poslušati:
 -[Why Deflation is Key to an Abundant Future](https://www.youtube.com/watch?v=G2vAm2hfW9U){:target="_blank"} (The Price of Tomorrow)  
 -[The Bitcoin Standard](https://www.youtube.com/watch?v=Zbm772vF-5M&t=1125s){:target="_blank"} (*Saifedean Ammous*)  
 -[Can Bitcoin Replace Government-Issued Money?](https://www.youtube.com/watch?v=MN4klUUx8fM){:target="_blank"}  (A Debate)
+-[What is bitcoin and why does it matter?](https://www.youtube.com/watch?v=l1si5ZWLgy0&list=PLPQwGV1aLnTuN6kdNWlElfr2tzigB9Nnj) (*Andreas Antonopoulos*)
+-[Bitcoin Explained in Simple Terms](https://www.youtube.com/watch?v=UlKZ83REIkA){:target="_blank"} (-||-)
 
 Epilog: Narednih mjeseci biće zanimljivo vidjeti kako će se ovo odvijati, ostanite sa nama.  
 Za sve koji su željni saznati više i da zarone dublje u tematiku, prvi Bit post je bila mini e-knjiga: [**(r)Evolution of Money**](https://infopedia.io/revolution-of-money/)  
