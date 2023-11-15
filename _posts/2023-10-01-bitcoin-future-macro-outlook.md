@@ -62,7 +62,7 @@ U tehničkom smislu, podržan je značajnim otkrićem u kompjuterskoj nauci: **
 
 ### Put naprijed
 {: #forward }
-Dalje izložimo jedan mogući način na koji bi se moglo doći do ovog sistema. Pošto BTC ima **ograničenu količinu** (najvažnija karakteristika) dok je državna valuta, tzv. ['***Fiat***'](https://www.britannica.com/money/fiat-money){:target="_blank"}, konstantno inflatorna i gubi vrijednost, ljudi imaju **PODSTICAJ** da štede što više u Bitkoinu. Predstavlja zaštitu od inflacije, koja se smatra krađom, ali i od sistematskog institucionalnog kolapsa.   
+Dalje izložimo jedan mogući način na koji bi se moglo doći do ovog sistema. Pošto BTC ima **ograničenu količinu** (najvažnija karakteristika) dok je državna valuta, tzv. ['***Fiat***'](https://www.britannica.com/money/fiat-money){:target="_blank"}, konstantno inflatorna i gubi vrijednost, ljudi imaju **PODSTICAJ** da štede što više u Bitkoinu. Predstavlja zaštitu od inflacije, često okarakterisanu kao '*nevidljivi lopov*', ali i od sistematskog institucionalnog kolapsa.   
 Ovdje je pretpostavka da služi kao *Čuvar vrijednosti* '**(1) SoV** - *Store Of Value*' (digitalno zlato 2.0) u dugom periodu (ne uzimajući u obzir kratkoročnu volatilnost već gledajući 4-godišnji prosjek). Ne zaboravimo da je vrijednost djelimično subjektivna. Vrijednost se percipira, nije intrizična (svojstvena) u stvarima.
 Poslije, kada skoro svi budu imali neku količinu, počeće da plaćaju i primaju direktno umjesto da ga konvertuju u Fiat, i tako polako preuzima funkciju *Sredstva razmjene* '**(2) MoE** - *Medium of Exchange*'. Od tog trenutka nećete trebati da ga prodajete, već ćete ga prosto trošiti.  
 I treća faza (ako do ove ikada dođe) bi mogla biti kada su cijene izražene u njemu, dakle funkcija *Jedinice obračuna* '**(3) UoA** - *Unit of Account*' (univerzalna valuta).  
@@ -80,7 +80,7 @@ Takođe između zemalja postoji dinamika teorije igara (SAD, Rusija, itd.) tako 
 Čak i odluke banaka da prihvataju Bitkoin mogu se posmatrati iz perspektive teorije igara, gdje korist za svakog igrača (finansijsku instituciju) zavisi ne samo od njihove sopstvene odluke već i od odluka drugih (tržišna utrka).
 
 Dakle, ovo bi bio čvrst novac izabran na slobodnom tržištu, baš kao što istorija sugeriše da se uvijek dešava ([***Thiers*-ov zakon**](https://www.momentum-analytics.io/news/are-we-starting-to-see-thiers-law-in-action-the-reverse-of-greshams-law){:target="_blank"} – *dobar novac će izbaciti loš*). Ali pošto ne bi bio centralizovan, zadržao bi svoju maksimalnu količinu trajno (nema centralne tačke kontrole/kvara da se poveća količina – uklanja grešku ljudskog faktora).  
-Na kraju bi došlo do ravnoteže sa ukupnim brojem monetarnih jedinica i cjelokupnom svjetskom ekonomijom (hiperbitkoinizacija - sve podijeljeno sa **21 milion**). Svaki *Satoši* ili ***Sat***, Bitcoin podjedinica, bi bio učešće u budućnosti izobilja (nada za bolje sutra).  
+Na kraju bi došlo do ravnoteže sa ukupnim brojem monetarnih jedinica i cjelokupnom svjetskom ekonomijom (hiperbitkoinizacija - sve podijeljeno sa **21 milion**). Svaki *Satoši* ili ***Sat***, Bitcoin podjedinica, bi bio učešće u budućnosti izobilja (nada za bolje sutra i buduće generacije).  
 On bi bio kao precizan numerički sistem mjerenja ekonomske aktivnosti - [**mjerni štap**](https://dematerialize.blog/bitcoin-is-the-economic-measuring-stick){:target="_blank"} (jedinica od 1 metra takođe se ne mijenja ni kada imamo više zgrade).
 
 **Mogući efekti:**  
@@ -88,7 +88,7 @@ On bi bio kao precizan numerički sistem mjerenja ekonomske aktivnosti - [**mjer
 -- niža vremenska preferencija, razmišljanje na duži rok, manje konzumerizma bezvrijedne robe (bez prekomjerne potrošnje)  
 -- realne plate koje održavaju kupovnu moć uz blagu deflaciju cijena i vode ka većem prosperitetu  
 &nbsp;&nbsp;(nema potrebe da se traži povišica samo da bi se pratila inflacija)  
--- pravedna distribucija privrednog rasta uklanjanjem tihog regresivnog poreza putem inflacije  
+-- pravedna distribucija privrednog rasta uklanjanjem prikrivenog regresivnog poreza putem inflacije  
 &nbsp;&nbsp;(bez [***Cantillon* efekta**](https://whatismoney.info/cantillon-effect-bitcoin/){:target="_blank"} – oni koji su blizu štamparske mašine imaju najviše koristi)  
 -- pojednostavljena štednja (takođe postoji moć jednostavnosti Bitkoin arhitekture)
 
