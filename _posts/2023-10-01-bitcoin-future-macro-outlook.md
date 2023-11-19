@@ -159,7 +159,7 @@ Lična procjena trenutno je da Bitkoin ima **51% šanse** za rast i širenje
 Što duže postoji (15 godina do sada) veće su šanse za uspjeh ([**Lindi efekat**](https://medium.com/coinmonks/bitcoins-growth-metcalfe-s-law-and-the-lindy-effect-68bda4386f4b){:target="_blank"}), jer vremenom jača i postaje robusniji.  
 Kao bilo koja investicija to je poduhvat, što je i svaka odluka u životu. Za rizičnije, uložite samo ono što možete priuštiti da izgubite.  
 Takođe držite veći dio van kripto berzi (**Sopstveno staranje** - *nisu vaši ključevi, nisu vaši novčići*).  
-U svakom slučaju, uvijek je dobro biti upućen u aktuelnu tematiku (metafora: *uzimanje narandžaste pilule*).  
+U svakom slučaju, uvijek je dobro biti upućen u aktuelnu tematiku.  
 DYOR (*Do Your Own Research* - uradite sopstveno istraživanje) i napravite svoju vjerovatnoću za svaki hipotetički scenario.  
 
 YT govori za poslušati:  
