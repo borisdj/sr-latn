@@ -158,7 +158,7 @@ Proizvodnja električne energije je drugo pitanje i u budućnosti bi sva energi
 {: #conclusion }
 Lična procjena trenutno je da Bitkoin ima **51% šanse** za rast i širenje  
 (2017. je bilo 30%, a 2013. možda 10% tada).  
-Što duže postoji (15 godina do sada) veće su šanse za uspjeh ([**Lindi efekat**](https://medium.com/coinmonks/bitcoins-growth-metcalfe-s-law-and-the-lindy-effect-68bda4386f4b){:target="_blank"}), jer vremenom jača i postaje robusniji.  
+Što duže postoji (15 godina do sada) veće su šanse za uspjeh ([**Lindi efekat**](https://medium.com/coinmonks/bitcoins-growth-metcalfe-s-law-and-the-lindy-effect-68bda4386f4b){:target="_blank"}), jer vremenom jača i postaje robusniji (bio je rigidno testiran).  
 Kao bilo koja investicija to je poduhvat, što je i svaka odluka u životu. Za rizičnije, uložite samo ono što možete priuštiti da izgubite.  
 Takođe držite veći dio van kripto berzi (**Sopstveno staranje** - *nisu vaši ključevi, nisu vaši novčići*).  
 U svakom slučaju, uvijek je dobro biti upućen u aktuelnu tematiku.  
