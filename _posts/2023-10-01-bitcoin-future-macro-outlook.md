@@ -25,7 +25,7 @@ document.getElementById('counterCell').innerHTML=likesCounter+1; document.getEle
 document.getElementById('buttonLike').style.backgroundImage='url(https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/applauseGrey.png)';
 alert('Like:) sačuvano, hvala!');"> . . . </BUTTON>
 ako je članak koristan
-[<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRylKpaTqDluVsX1bgonHR74mApXbnrr7bCr6_z-UaH4fDlD3i6v51tITUbCbbRHl-MfvdS9VNUtDQU/pubhtml?gid=0" target="_blank">brojac:</a> <b id="counterCell">N</b>]
+[<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRylKpaTqDluVsX1bgonHR74mApXbnrr7bCr6_z-UaH4fDlD3i6v51tITUbCbbRHl-MfvdS9VNUtDQU/pubhtml?gid=0" target="_blank">brojač:</a> <b id="counterCell">N</b>]
 </p>
 <script>
   var likesCounter = 0;
