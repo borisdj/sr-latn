@@ -18,18 +18,18 @@ LANG(jezik):<br>
 ![QR Link](https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=https://infopedia.io/bitcoin-future-macro-outlook/)
 
 <p>
-Klik <BUTTON id="buttonLike" TYPE="button" 
+Tap <BUTTON id="buttonLike" TYPE="button" 
 style="border:none; background:url('https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/applause.png')no-repeat" 
 ONCLICK="fetch(counterUrl + 'post');
 document.getElementById('counterCell').innerHTML=likesCounter+1; document.getElementById('buttonLike').disabled=true; 
 document.getElementById('buttonLike').style.backgroundImage='url(https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/applauseGrey.png)';
 alert('Like:) saved, thx!');"> . . . </BUTTON>
-ako je članak koristan
-[<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRylKpaTqDluVsX1bgonHR74mApXbnrr7bCr6_z-UaH4fDlD3i6v51tITUbCbbRHl-MfvdS9VNUtDQU/pubhtml?gid=0" target="_blank">brojač:</a> <b id="counterCell">N</b>]
+if you find post useful
+[<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRylKpaTqDluVsX1bgonHR74mApXbnrr7bCr6_z-UaH4fDlD3i6v51tITUbCbbRHl-MfvdS9VNUtDQU/pubhtml?gid=0" target="_blank">counter:</a> <b id="counterCell">N</b>]
 </p>
 <script>
   var likesCounter = 0;
-  var counterUrl = 'https://script.google.com/macros/s/AKfyzZHMD7Y8gp04hSipbZqj0K8ThiV7fxHf0jZboXcfvU1saESYdk5PjyN6XNwMMCj8uv/exec?type=';
+  var counterUrl = 'https://script.google.com/macros/s/AKfycbzZHMD7Y8gp04hSipbZqj0K8ThiV7fxHf0jZboXcfvU1saESYdk5PjyN6XNwMMCj8uv/exec?type=';
   document.addEventListener("DOMContentLoaded", function() {
     fetch(counterUrl + 'get').then(res => res.json()).then(out => document.getElementById('counterCell').innerHTML=likesCounter=out);
   });
