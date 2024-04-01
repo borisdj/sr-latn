@@ -1,14 +1,14 @@
 ---
-title: "Lightning Mreža"
+title: "Lajtning Mreža"
 date: 2024-04-01T00:00:00-00:00
 categories: [fintech]
 tags: [finance, crypto]
 classes: wide
-excerpt: "Lightning Mreža"
+excerpt: "Lajtning Mreža"
 ---
 
-**[Lightning Mreža](https://en.wikipedia.org/wiki/Lightning_Network){:target="_blank"} (LN) razvoj i slučaj upotrebe**<br>
-Bitcoin Sloj 2 (L2) - [Tech behind](https://medium.com/coinmonks/the-lightning-network-technology-behind-bitcoins-scaling-solution-915c07455ca8){:target="_blank"}
+**[Lajtning Mreža](https://en.wikipedia.org/wiki/Lightning_Network){:target="_blank"} (LN) razvoj i slučaj upotrebe**<br>
+Bitcoin Sloj 2 (L2) - [Tehnologija iza](https://medium.com/coinmonks/the-lightning-network-technology-behind-bitcoins-scaling-solution-915c07455ca8){:target="_blank"}
 
 ![bitcoin-future](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-model.jpg)
 
