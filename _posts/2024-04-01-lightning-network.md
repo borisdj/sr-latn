@@ -1,27 +1,27 @@
 ---
-title: "Lightning Network"
+title: "Lightning Mreža"
 date: 2024-04-01T00:00:00-00:00
 categories: [fintech]
 tags: [finance, crypto]
 classes: wide
-excerpt: "Lightning Network"
+excerpt: "Lightning Mreža"
 ---
 
-**[Lightning Network](https://en.wikipedia.org/wiki/Lightning_Network){:target="_blank"} (LN) development and usecase**<br>
-Bitcoin Layer 2 (L2) - [Tech behind](https://medium.com/coinmonks/the-lightning-network-technology-behind-bitcoins-scaling-solution-915c07455ca8){:target="_blank"}
+**[Lightning Mreža](https://en.wikipedia.org/wiki/Lightning_Network){:target="_blank"} (LN) razvoj i slučaj upotrebe**<br>
+Bitcoin Sloj 2 (L2) - [Tech behind](https://medium.com/coinmonks/the-lightning-network-technology-behind-bitcoins-scaling-solution-915c07455ca8){:target="_blank"}
 
 ![bitcoin-future](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-model.jpg)
 
 <center>QR Link</center>
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/lightning-network/)
 
-**Scaling Issues**:  
-* Bitcoin base layer and Blockchain architecture in general does not scale.  
-In order to remain decentralized enough in the long term, from a governance perspective, it needs robust structure and high redundancy.  
-This puts practical constraints to DB to enable many distributed nodes. It also limits the number of transactions per second (TPS), in order to achieve global sync state for consensus.  
-Even if Bitcoin 10 TPS were to be somehow miraculously increased by a factor of 10 without losing security, still 100 TPS would change nothing, since for the entire world we need at least 1 million TPS.
-* [**Blockchain Trilemma**](https://medium.com/@chainway_xyz/the-true-trilemma-for-bitcoin-layers-06855d535b95){:target="_blank"} <u>/\</u> (resilience vs efficiency):  
-1.Decentralisation, 2.Security, 3.Scalability (num 3 left for [**next layers**](https://www.minima.global/post/taking-blockchain-scalability-to-the-next-layer){:target="_blank"}).
+**Problemi Skaliranja**:  
+* Bazni sloj Bitkoina i Blokčejn arhitektura uopšteno ne mogu se skalirati
+Da bi dugoročno ostao dovoljno decentralizovan, iz perspektive upravljanja, potrebna mu je čvrsta struktura i visoka redundantnost.  
+Ovo postavlja praktična ograničenja za Bazu podataka kako bi omogućila mnoge distribuirane čvorove. Takođe ograničava broj transakcija u sekundi (TPS), kako bi se postiglo globalno stanje sinhronizacije za konsenzus.  
+Čak i kada bi se Bitcoin 10 TPS nekako čudesno povećao za faktor 10 bez gubitka sigurnosti, ipak 100 TPS ne bi ništa promijenilo, jer za cijeli svijet nam treba najmanje 1 milion TPS.
+* [**Blokčejn Trilema**](https://medium.com/@chainway_xyz/the-true-trilemma-for-bitcoin-layers-06855d535b95){:target="_blank"} <u>/\</u> (otpornost naspram efikasnosti):  
+1.Decentralizacija, 2.Sigurnost, 3.Skalabilnost (br 3 ostavljen za [**naredne slojeve**](https://www.minima.global/post/taking-blockchain-scalability-to-the-next-layer){:target="_blank"}).
 
 -- One of the most promising **Solutions** is the so-called [***Lightning Network***](https://lightning.network/){:target="_blank"}.  
 It works via channels between nodes, and needs base transactions for opening, closing, rebalancing and routing.  
