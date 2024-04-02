@@ -164,6 +164,9 @@ Takođe držite veći dio van kripto berzi (**Sopstveno staranje** - *nisu vaši
 U svakom slučaju, uvijek je dobro biti upućen u aktuelnu tematiku.  
 DYOR (*Do Your Own Research* - uradite sopstveno istraživanje) i napravite svoju vjerovatnoću za svaki hipotetički scenario.  
 
+Servisi za redovno [dokupljivanje](https://www.reddit.com/r/Bitcoin/comments/168ez0h/strike_swan_or_river_for_dca/){:target="_blank"}:  
+1.[River](https://river.com/){:target="_blank"} 2.[Strike](https://strike.me/){:target="_blank"} 3.[CashApp](https://cash.app/){:target="_blank"} 4.[Swan](https://www.swanbitcoin.com/){:target="_blank"}
+
 YT govori za poslušati:  
 -[Bitcoin is World Hope](https://www.youtube.com/watch?v=VqXVxBc3WZQ){:target="_blank"} (*Natalie Brunell*)   
 -[Introduction: What is bitcoin and why does it matter?](https://www.youtube.com/watch?v=l1si5ZWLgy0&list=PLPQwGV1aLnTuN6kdNWlElfr2tzigB9Nnj) (*Andreas Antonopoulos*)  
