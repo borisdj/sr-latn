@@ -26,88 +26,85 @@ Ovo postavlja praktična ograničenja za Bazu podataka kako bi omogućila mnoge 
 * [**Blokčejn Trilema**](https://medium.com/@chainway_xyz/the-true-trilemma-for-bitcoin-layers-06855d535b95){:target="_blank"} <u>/\</u> (otpornost naspram efikasnosti):  
 1.Decentralizacija, 2.Sigurnost, 3.Skalabilnost (br. 3 ostavljen za [**naredne slojeve**](https://www.minima.global/post/taking-blockchain-scalability-to-the-next-layer){:target="_blank"}).
 
--- One of the most promising **Solutions** is the so-called [***Lightning Network***](https://lightning.network/){:target="_blank"}.  
-It works via channels between nodes, and needs base transactions for opening, closing, rebalancing and routing.  
-One simple analogy is when you open a beer tap with bartender and at the end of night it gets settled with finality.
-With current transaction throughput we could see each year opening up to 100 000 new channels.  
-Later process for onboarding users can be increased even more with [**Channel Factories**](https://bitcoinops.org/en/topics/channel-factories/){:target="_blank"} for [**scalability**](https://bitcoin.stackexchange.com/questions/67158/what-are-channel-factories-and-how-do-they-work){:target="_blank"} and [**Covenants**](https://bitbox.swiss/blog/what-are-bitcoin-covenants/){:target="_blank"} ([scale beyond](https://www.rhinobitcoin.com/blog/bitcoin-covenants-can-we-scale-beyond-100m-users){:target="_blank"}).  
-Others optins in development include: [sidecar channels](){:target="_blank"}, [statechains](https://lightning.engineering/posts/2021-05-26-sidecar-channels/){:target="_blank"}, [inherited IDs](https://github.com/JohnLaw2/btc-iids/blob/main/iids14.pdf){:target="_blank"}, and [statechains](https://medium.com/@RubenSomsen/statechains-non-custodial-off-chain-bitcoin-transfer-1ae4845a4a39){:target="_blank"}.
-But once set up it can handle large volumes of transactions without the need for regular main net connection.  
--- As such it has the potential for over [**1 million**](https://cointelegraph.com/news/bitcoin-lightning-network-vs-visa-and-mastercard-how-do-they-stack-up){:target="_blank"} TPS, just the right number, while keeping the fees low.  
-Still it should be mentioned that this is not necessarily the ultimate fix ([Challenges](https://www.blockchain-council.org/blockchain/what-is-the-lightning-network/){:target="_blank"} & [Response](https://murchandamus.medium.com/i-have-just-read-jonald-fyookballs-article-https-medium-com-jonaldfyookball-mathematical-fd112d13737a){:target="_blank"}).  
-Those protocols are meant to extend Bitcoin's functionality up to a point, while maintaining the base layer secure and decentralized ([**LN 2.0**](https://blog.theabacus.io/lightning-network-2-0-b878b9bb356e){:target="_blank"}).  
-It also adds support for miliSats a sub Sat (1/1000), with higher decimal precision for microtransactions and streaming payments.  
-There are several [implementations](https://medium.com/@fulgur.ventures/an-overview-of-lightning-network-implementations-d670255a6cfa){:target="_blank"} of the protocol, notably:  
--***C-lightning*** developed by Blockstream in C language  
--***Eclair***, french for Lightning, a Scala implementation by ACINQ  
--***LND*** (Lightning Network Daemon) node by Lightning Labs in Go  
+-- Jedno od najperspektivnijih **Rješenja** je tzv [***Lajtning Mreža***](https://lightning.network/){:target="_blank"}.  
+Radi preko kanala između čvorova i potrebne su mu osnovne transakcije samo za otvaranje, zatvaranje, ponovno balansiranje i rutiranje.  
+Jedna jednostavna analogija je kada otvorite račun za pivo sa barmenom i na kraju noći se konačno riješi. Ali kada se jednom postavi, može podnijeti velike količine transakcija bez potrebe za redovnom vezom sa glavnom mrežnom.
+Uz trenutnu propusnost transakcija mogli bismo vidjeti da se svake godine otvara do 100 000 novih kanala. 
+Kasnije proces za uključivanje korisnika može se još više povećati uz [**Fabrike kanala**](https://bitcoinops.org/en/topics/channel-factories/){:target="_blank"} za [**skalabilnost**](https://bitcoin.stackexchange.com/questions/67158/what-are-channel-factories-and-how-do-they-work){:target="_blank"} i [**Zavjete**](https://bitbox.swiss/blog/what-are-bitcoin-covenants/){:target="_blank"} ([skaliranje iznad](https://www.rhinobitcoin.com/blog/bitcoin-covenants-can-we-scale-beyond-100m-users){:target="_blank"}).  
+Ostale opcije još u razvoju uključuju: [priključni kanali](https://lightning.engineering/posts/2021-05-26-sidecar-channels/){:target="_blank"}, [naslijeđeni ID](https://github.com/JohnLaw2/btc-iids/blob/main/iids14.pdf){:target="_blank"}, and [lanci stanja](https://medium.com/@RubenSomsen/statechains-non-custodial-off-chain-bitcoin-transfer-1ae4845a4a39){:target="_blank"}.   
+-- Kao takav ima potencijal preko [**1 milion**](https://cointelegraph.com/news/bitcoin-lightning-network-vs-visa-and-mastercard-how-do-they-stack-up){:target="_blank"} TPS, upravo odgovaraju'u broj, dok zadržava niske provizije.  
+Ipak, treba napomenuti da ovo nije nužno konačno rješenje ([Izazovi](https://www.blockchain-council.org/blockchain/what-is-the-lightning-network/){:target="_blank"} & [Odgovori](https://murchandamus.medium.com/i-have-just-read-jonald-fyookballs-article-https-medium-com-jonaldfyookball-mathematical-fd112d13737a){:target="_blank"}).  
+Ovi protokoli imaju za cilj da prošire funkcionalnost Bitcoina do određene tačke, dok održavaju osnovni sloj sigurnim i decentralizovanim ([**LN 2.0**](https://blog.theabacus.io/lightning-network-2-0-b878b9bb356e){:target="_blank"}).  
+Takođe dodaje podršku za mili-Satošije subSat (1/1000), sa većom decimalnom preciznošću za mikrotransakcije i protočna plaćanja.
+Postoji nekoliko [implementacija](https://medium.com/@fulgur.ventures/an-overview-of-lightning-network-implementations-d670255a6cfa){:target="_blank"} protokola, gdje spadaju:  
+-***C-lightning*** razvio *Blockstream* u C jeziku  
+-***Eclair***, francuski za *Lightning*, implementirano u Skali od ACINQ  
+-***LND*** (*Lightning Network Daemon*) čvor od *Lightning Labs* u Go  
 
-Technical difficulties and solutions:  
--finding viable paths -> Pickhardt routing
--privacy leakages -> PTLCs (Point Time Locked Contracts), trampoline routing  
--force-closed channel -> solves itself with time  
+Tehničke poteškoće i rješenja:  
+-pronalaženje održivih puteva -> *Pickhardt* rutiranje:
+-propuštanje privatnosti -> PTLC-ovi (Ugovori sa zaključanim vremenom), trampolina rutiranje  
+-prisilno zatvoren kanal -> rješava se s vremenom
 
--- Another issue that Lighting improves upon is **Privacy** as transactions are not publicly visible on the chain.  
-Here to mention [**Wasabi**](https://wasabiwallet.io/){:target="_blank"} wallet that has plan to enable [Lightning with CoinJoins](https://blog.wasabiwallet.io/what-lightning-network-enabled-wabisabi-coinjoins-might-look-like/){:target="_blank"}. 
+-- Još jedna sporna stavka koje Lighting poboljšava je **Privatnost** jer transakcije nisu javno vidljive u lancu.  
+Ovdje spomenimo [**Wasabi**](https://wasabiwallet.io/){:target="_blank"} novčanik koji planira omogućiti [Lightning sa CoinJoins](https://blog.wasabiwallet.io/what-lightning-network-enabled-wabisabi-coinjoins-might-look-like/){:target="_blank"}. 
 
--- Also worth noting is that it is not currently feasible for every person on the planet to have a fully custodial lightning wallet with its own node.  
-In addition, for most people this is too complicated, so it might not even be necessary.  
-Instead, a more realistic approach is to have many distributed custodians, for example like today we have Wallet of Satoshi - WoS.  
--- In fact every bank could become custodian and a lightning node.  
-On top of that maybe only few percent of the global population will have self custody, with either completely or partially trustless implementation.  
-One example with non routing nodes is the [**Phonix**](https://phoenix.acinq.co/){:target="_blank"} wallet that has node on mobile but it only connects to the  [Acinq](https://acinq.co/){:target="_blank"} node. They provide services of automatic channel management and balancing liquidity. Phoenix is a great wallet, where you keep your keys but still is very user-friendly with trust-minimized model.  
-Then there is an option for federated nodes like [**FediMint**](https://fedimint.org/){:target="_blank"} that are using federated models for governance.  
+-- Takođe vredi napomenuti da trenutno nije izvodljivo da svaka osoba na planeti ima potpuno privatni novčanik sa svojim sopstvenim čvorom.  
+Osim toga, za većinu ljudi ovo je previše komplikovano, pa vjerovatno nije ni potrebno.  
+Umjesto toga, realniji pristup je imati mnogo distribuiranih 'staratelja', na primjer kao što danas imamo *Wallet of Satoshi - WoS*.
+-- U stvari, svaka banka bi mogla postati 'staratelja' i lajtning čvor.  
+Povrh toga, možda će samo nekoliko procenata globalne populacije imati samozaštitu, sa potpuno ili djelimično bez posrednika implementacijom.  
+Jedan primjer sa čvorovima koji ne usmjeravaju je [**Phonix**](https://phoenix.acinq.co/){:target="_blank"} novčanik koji ima čvor na mobilnom, ali se povezuje samo na [Acinq](https://acinq.co/){:target="_blank"} čvor. Pružaju usluge automatskog upravljanja kanalima i balansiranja likvidnosti. Phoenix je odličan novčanik u kojem držite svoje ključeve, ali je i dalje vrlo jednostavan za korištenje s modelom sa minimalnim povjerenjem.  
+Zatim postoji opcija za čvorove sa federacijom kao što je [**FediMint**](https://fedimint.org/){:target="_blank"} koji koriste federalne modele za upravljanje.  
 
+-- Dakle, u narednih 20+ godina, ako bi nekoliko milijardi ljudi počelo da ga koristi, mogli bismo očekivati oko 50 000 čvorova sa prosječno 100.000 korisnika.
+Naravno, postojao bi mali broj onih sa milion korisnika i mnogo malih sa nekoliko stotina korisnika - Normalna Raspodjela u bankarstvu, a trenutno ima oko 25 000 [banki globalno](https://www.linkedin.com/pulse/how-many-banks-globally-david-gyori){:target="_blank"}. (Mega banke naspram [**Društvene banke**](https://www.extractable.com/insights/by-the-numbers-mega-banks-vs-community-banks/){:target="_blank"}.)  
+-- Takođe se od velikih korporacija očekuje da imaju svoje čvorove i kanale sa dobavljačima za plaćanje, dok bi male kompanije koristile kastodi banke.  
+Kao što velika preduzeća imaju svoj sektor računovodstva, tako i manja angažuju eksterne usluge iz računovodstvenih biroa.  
 
-
--- So in the next 20+ years if few billion people, would start using it we could expect around 50 000 nodes with average 100 K users.  
-Of course there would be a small number of ones with million users and also many small ones with few hundreds users - Normal Distribution of banking, as currently there are around 25 000 [banks globally](https://www.linkedin.com/pulse/how-many-banks-globally-david-gyori){:target="_blank"}. (Mega banks vs [**Community banks**](https://www.extractable.com/insights/by-the-numbers-mega-banks-vs-community-banks/){:target="_blank"}.)  
--- Also it is expected from big corporations to have their own nodes and channels with vendors for payment, while small companies would use custodian banks.  
-Just like large enterprises have their own accounting sector, while smaller ones hire external service from accounting bureaus.  
-
-Bitcoin Lightning wallets - [**Review**](https://www.coinbureau.com/analysis/best-bitcoin-lightning-wallets/){:target="_blank"}  
+Bitkoin Lajtning novčanici - [**Pregled**](https://www.coinbureau.com/analysis/best-bitcoin-lightning-wallets/){:target="_blank"}  
 ![wallets](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-wallets.jpg)
 
-Self custody lightning wallets - [**Comparison**](https://www.coindesk.com/consensus-magazine/2024/01/26/which-is-the-best-self-custody-lightning-wallet/){:target="_blank"} (tested in Africa):  
+Sopstveni kastodi lajtning novčanici - [**Poređenje**](https://www.coindesk.com/consensus-magazine/2024/01/26/which-is-the-best-self-custody-lightning-wallet/){:target="_blank"} (testirano u Africi):  
 ***Phoenix, Mutiny, Blixt, Green, Zeus, Wallet of Satoshi***.
 
-In the meantime there is an interesting use case for stableSats (StableCoins alternative), like dollars or even euros on top of Bitcoin network, e.g. for remittances, and particularly in the global south where many local currencies are quite unstable with very high inflation. Wallets with stable features:
+U međuvremenu postoji zanimljiv slučaj upotrebe za 'stabilne Sats' (alternativa Stable koinima), poput dolara ili čak eura na vrhu Bitcoin mreže, npr. za ino doznake, a posebno na globalnom jugu gde su mnoge lokalne valute prilično nestabilne sa veoma visokom inflacijom. Novčanici sa mogućnosti stabilne valute karakteristikama:
 
-| Wallet | StableCoin | Based on | Org/location  |
+| Novčanik | Stabilnost | Bazirano | Org/lokacija |
 | -----  | ---------- | -------- | ------------- |
 | [**Aqua**](https://aquawallet.io/){:target="_blank"}  | USDT | [Liquid (BlockStream)](https://liquid.net/){:target="_blank"} | [Jan3](https://jan3.com/){:target="_blank"} |
-| [**Blink**](https://www.blink.sv/){:target="_blank"}  | Exchange | ex Bitcoin Beach (BBW) | [Galloy](https://galoy.io/){:target="_blank"} |
-| [**10101**](https://10101.finance/){:target="_blank"} | DLC (not LN) | USDp - bolt | Australia |
-| [**Mutiny**](https://www.mutinywallet.com/){:target="_blank"} | DLC Channel | Web-based  | Austin TX |
+| [**Blink**](https://www.blink.sv/){:target="_blank"}  | Berza | ex Bitcoin Beach (BBW) | [Galloy](https://galoy.io/){:target="_blank"} |
+| [**10101**](https://10101.finance/){:target="_blank"} | DLC (ne LN) | USDp - bolt | Australia |
+| [**Mutiny**](https://www.mutinywallet.com/){:target="_blank"} | DLC Kanal | Web-app | Austin TX |
 
-Network [**Topology**](https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00602-2){:target="_blank"} and [graph](https://lnrouter.app/graph){:target="_blank"} (distribution of nodes):  
+Mrežna [**Topologija**](https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00602-2){:target="_blank"} i [graf](https://lnrouter.app/graph){:target="_blank"} (distribucija nodova):  
 ![graph](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-graph.jpg)
 
-[**Research**](https://river.com/learn/files/river-lightning-report-2023.pdf){:target="_blank"} report by River (2023) and Analysis [Engine](https://1ml.com/){:target="_blank"}  
-More scientific papers:  
+[**Istraživački**](https://river.com/learn/files/river-lightning-report-2023.pdf){:target="_blank"} izvještaj od *River* (2023) and Analitički [Servis](https://1ml.com/){:target="_blank"}  
+Ostali naučni papiri:  
 [nakamotoinstitute/funding-of-micropayment-channel](https://nakamotoinstitute.org/static/docs/scalable-funding-of-bitcoin-micropayment-channel-networks.pdf){:target="_blank"}  
 [lightning-pool-whitepaper](https://lightning.engineering/lightning-pool-whitepaper.pdf){:target="_blank"}  
 [MA_EEMCS](https://essay.utwente.nl/80780/1/Wijburg_MA_EEMCS.pdf){:target="_blank"}  
 
-YT talks to listen:  
+YT za pregledati:  
 -[Bitcoin's Lightning Network](https://www.youtube.com/watch?v=rrr_zPmEiME){:target="_blank"} (*Simply Explained*)  
--[Bitcoin Lightning Network: Need to know](https://www.youtube.com/watch?v=J3cQNpOR_a0){:target="_blank"} (*Coin Bureau*)  
--[What is the Lightning Network?](https://www.youtube.com/watch?v=pBh4DcM-0pg){:target="_blank"} (*99Bitcoins*)  
--[What is it? why should I care?](https://www.youtube.com/watch?v=AYAreuNzx58&t=39s){:target="_blank"} & [Tech Intro to LN - devs 2020](https://www.youtube.com/watch?v=E1n3sKKPD_k){:target="_blank"} (*Andreas Antonopoulos*)  
--[Lightning Made Easy](https://www.youtube.com/watch?v=nusOl6wb1a4){:target="_blank"} & [LN wiht Phoenix](https://www.youtube.com/watch?v=9j_slmZ7Eyo) (*Bitcoin University*)  
--[Scaling Bitcoin with Giacomo, John & Matt](https://www.youtube.com/watch?v=Iz81W-_X5gw){:target="_blank"} (*WBD - What Bitcoin Did*)  
+-[Bitcoin Lightning Network: Šta treba znati](https://www.youtube.com/watch?v=J3cQNpOR_a0){:target="_blank"} (*Coin Bureau*)  
+-[Šta je Lightning Network?](https://www.youtube.com/watch?v=pBh4DcM-0pg){:target="_blank"} (*99Bitcoins*)  
+-[Šta je to? zašto da me zanima?](https://www.youtube.com/watch?v=AYAreuNzx58&t=39s){:target="_blank"} & [Tech Intro to LN - devs 2020](https://www.youtube.com/watch?v=E1n3sKKPD_k){:target="_blank"} (*Andreas Antonopoulos*)  
+-[Lightning lako](https://www.youtube.com/watch?v=nusOl6wb1a4){:target="_blank"} & [LN wiht Phoenix](https://www.youtube.com/watch?v=9j_slmZ7Eyo) (*Bitcoin University*)  
+-[Skaliranje Bitcoina sa Giacomo, John & Matt](https://www.youtube.com/watch?v=Iz81W-_X5gw){:target="_blank"} (*WBD - What Bitcoin Did*)  
 
-Dashboard info:  
+Tabla info:  
 -[mempool.space/lightning](https://mempool.space/lightning){:target="_blank"}  
 -[clarkmoody.com/dashboard](https://bitcoin.clarkmoody.com/dashboard/){:target="_blank"}  
 -[bitbo.io](https://bitbo.io/target="_blank")  
 
-Previous Bit posts:  
-B1. [**(r)Evolution of Money**](https://infopedia.io/revolution-of-money/)  
-B2. [**Bitcoin future and macro outlook**](https://infopedia.io/bitcoin-future-macro-outlook/)  
+Prethodni Bit postovi:  
+B1. [**(r)Evolucija Novca of**](https://infopedia.io/sr-latn/revolution-of-money/)  
+B2. [**Bitkoin budućnost and makro izgled**](https://infopedia.io/sr-latn/bitcoin-future-macro-outlook/)  
 
 PS  
-If you have business or provide services consider to start accepting BTC (circular economy), sticker:  
-(one personal example with prices also denominated in Bit - [codis.tech/efcorebulk](https://codis.tech/efcorebulk))  
+Ako imate sopstevni posao ili pružate usluge razmislite o tome da počnete da prihvatate BTC (kružna ekonomija), naljepnica::  
+(jedan lični primjer sa cijenama također denominiranim u bit-u - [codis.tech/efcorebulk](https://codis.tech/efcorebulk))  
 ![bit-acc](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/bit-acc.png)
-Donation for support: [BTC-LN](https://borisdj.net/donation/donate-btc.html){:target="_blank"}  
+Donacija za podršku: [BTC-LN](https://borisdj.net/donation/donate-btc.html){:target="_blank"}  
