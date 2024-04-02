@@ -72,10 +72,10 @@ U međuvremenu postoji zanimljiv slučaj upotrebe za 'stabilne Sats' (alternativ
 
 | Novčanik | Stabilnost | Bazirano | Org/lokacija |
 | -----  | ---------- | -------- | ------------- |
-| [**Aqua**](https://aquawallet.io/){:target="_blank"}  | USDT | [Liquid (BlockStream)](https://liquid.net/){:target="_blank"} | [Jan3](https://jan3.com/){:target="_blank"} |
-| [**Blink**](https://www.blink.sv/){:target="_blank"}  | Berza | ex Bitcoin Beach (BBW) | [Galloy](https://galoy.io/){:target="_blank"} |
-| [**10101**](https://10101.finance/){:target="_blank"} | DLC (ne LN) | USDp - bolt | Australia |
-| [**Mutiny**](https://www.mutinywallet.com/){:target="_blank"} | DLC Kanal | Web-app | Austin TX |
+| [**Mutiny**](https://www.mutinywallet.com/){:target="_blank"} | Sat: DLC Kanal | Web-app | Austin TX |
+| [**10101**](https://10101.finance/){:target="_blank"} | Sat: DLC (ne LN) | USDp - bolt | Australia |
+| [**Blink**](https://www.blink.sv/){:target="_blank"}  | Sat: Berza | ex Bitcoin Beach (BBW) | [Galloy](https://galoy.io/){:target="_blank"} |
+| [**Aqua**](https://aquawallet.io/){:target="_blank"}  | Coin: - | [Liquid (BlockStream)](https://liquid.net/){:target="_blank"} | [Jan3](https://jan3.com/){:target="_blank"} |
 
 Mrežna [**Topologija**](https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00602-2){:target="_blank"} i [graf](https://lnrouter.app/graph){:target="_blank"} (distribucija nodova):  
 ![graph](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-graph.jpg)
