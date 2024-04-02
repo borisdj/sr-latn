@@ -66,9 +66,6 @@ Bitkoin Lajtning novčanici:
 -[**Poređenje**](https://luxb.substack.com/p/usporedba-lightning-novcanika){:target="_blank"} (od *luxb* @substack)  
 ![wallets](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-wallets-all.jpg)
 
--[**Pregled**](https://www.coinbureau.com/analysis/best-bitcoin-lightning-wallets/){:target="_blank"} (od *coinbureau*)  
-![wallets](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-wallets.jpg)
-
 Sopstveni kastodi LN novčanici - [**Test**](https://www.coindesk.com/consensus-magazine/2024/01/26/which-is-the-best-self-custody-lightning-wallet/){:target="_blank"} (od *coindesk* -testirano u Africi):  
 ***Phoenix, Mutiny, Blixt, Green, Zeus, Wallet of Satoshi***.
 
