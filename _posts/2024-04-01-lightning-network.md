@@ -93,5 +93,5 @@ B2. [**Bitcoin future and macro outlook**](https://infopedia.io/bitcoin-future-m
 
 PS  
 If you have business or provide some side services consider to start acceepting BTC  
-(one personal example with prices also denominated in Bit - [codis.tech/efcorebulk](https://codis.tech/efcorebulk)):
+(one personal example with prices also denominated in Bit - [codis.tech/efcorebulk](https://codis.tech/efcorebulk)):  
 ![bit-acc](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/bit-acc.png)
