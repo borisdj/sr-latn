@@ -24,7 +24,7 @@ Da bi dugoročno ostao dovoljno decentralizovan, iz perspektive upravljanja, pot
 Ovo postavlja praktična ograničenja za Bazu podataka kako bi omogućila mnoge distribuirane čvorove. Takođe ograničava broj transakcija u sekundi (TPS), kako bi se postiglo globalno stanje sinhronizacije za konsenzus.  
 Čak i kada bi se Bitcoin 10 TPS nekako čudesno povećao za faktor 10 bez gubitka sigurnosti, ipak 100 TPS ne bi ništa promijenilo, jer za cijeli svijet nam treba najmanje 1 milion TPS.
 * [**Blokčejn Trilema**](https://medium.com/@chainway_xyz/the-true-trilemma-for-bitcoin-layers-06855d535b95){:target="_blank"} <u>/\</u> (otpornost naspram efikasnosti):  
-1.Decentralizacija, 2.Sigurnost, 3.Skalabilnost (br 3 ostavljen za [**naredne slojeve**](https://www.minima.global/post/taking-blockchain-scalability-to-the-next-layer){:target="_blank"}).
+1.Decentralizacija, 2.Sigurnost, 3.Skalabilnost (br. 3 ostavljen za [**naredne slojeve**](https://www.minima.global/post/taking-blockchain-scalability-to-the-next-layer){:target="_blank"}).
 
 -- One of the most promising **Solutions** is the so-called [***Lightning Network***](https://lightning.network/){:target="_blank"}.  
 It works via channels between nodes, and needs base transactions for opening, closing, rebalancing and routing.  
@@ -42,7 +42,7 @@ There are several [implementations](https://medium.com/@fulgur.ventures/an-overv
 -***LND*** (Lightning Network Daemon) node by Lightning Labs in Go  
 
 Technical difficulties and solutions:  
--finding viable paths -> Pickhardt routing, Hornet  
+-finding viable paths -> Pickhardt routing
 -privacy leakages -> PTLCs (Point Time Locked Contracts), trampoline routing  
 -force-closed channel -> solves itself with time  
 
