@@ -49,7 +49,7 @@ Tehničke poteškoće i rješenja:
 -- Još jedna sporna stavka koje Lighting poboljšava je **Privatnost** jer transakcije nisu javno vidljive u lancu.  
 Ovdje spomenimo [**Wasabi**](https://wasabiwallet.io/){:target="_blank"} novčanik koji planira omogućiti [Lightning sa CoinJoins](https://blog.wasabiwallet.io/what-lightning-network-enabled-wabisabi-coinjoins-might-look-like/){:target="_blank"}. 
 
--- Takođe vredi napomenuti da trenutno nije izvodljivo da svaka osoba na planeti ima potpuno privatni novčanik sa svojim sopstvenim čvorom.  
+-- Takođe vrijedi napomenuti da trenutno nije izvodljivo da svaka osoba na planeti ima potpuno privatni novčanik sa svojim sopstvenim čvorom.  
 Osim toga, za većinu ljudi ovo je previše komplikovano, pa vjerovatno nije ni potrebno.  
 Umjesto toga, realniji pristup je imati mnogo distribuiranih 'staratelja', na primjer kao što danas imamo *Wallet of Satoshi - WoS*.
 -- U stvari, svaka banka bi mogla postati 'staratelja' i lajtning čvor.  
@@ -62,10 +62,14 @@ Naravno, postojao bi mali broj onih sa milion korisnika i mnogo malih sa nekolik
 -- Takođe se od velikih korporacija očekuje da imaju svoje čvorove i kanale sa dobavljačima za plaćanje, dok bi male kompanije koristile kastodi banke.  
 Kao što velika preduzeća imaju svoj sektor računovodstva, tako i manja angažuju eksterne usluge iz računovodstvenih biroa.  
 
-Bitkoin Lajtning novčanici - [**Pregled**](https://www.coinbureau.com/analysis/best-bitcoin-lightning-wallets/){:target="_blank"}  
+Bitkoin Lajtning novčanici:  
+-[**Poređenje**](https://luxb.substack.com/p/usporedba-lightning-novcanika){:target="_blank"} (od *luxb* @substack)  
+![wallets](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-wallets-all.jpg)
+
+-[**Pregled**](https://www.coinbureau.com/analysis/best-bitcoin-lightning-wallets/){:target="_blank"} (od *coinbureau*)  
 ![wallets](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-wallets.jpg)
 
-Sopstveni kastodi lajtning novčanici - [**Poređenje**](https://www.coindesk.com/consensus-magazine/2024/01/26/which-is-the-best-self-custody-lightning-wallet/){:target="_blank"} (testirano u Africi):  
+Sopstveni kastodi LN novčanici - [**Test**](https://www.coindesk.com/consensus-magazine/2024/01/26/which-is-the-best-self-custody-lightning-wallet/){:target="_blank"} (od *coindesk* -testirano u Africi):  
 ***Phoenix, Mutiny, Blixt, Green, Zeus, Wallet of Satoshi***.
 
 U međuvremenu postoji zanimljiv slučaj upotrebe za 'stabilne Sats' (alternativa Stable koinima), poput dolara ili čak eura na vrhu Bitcoin mreže, npr. za ino doznake, a posebno na globalnom jugu gde su mnoge lokalne valute prilično nestabilne sa veoma visokom inflacijom. Novčanici sa mogućnosti stabilne valute karakteristikama:
