@@ -27,13 +27,13 @@ Ovo postavlja praktična ograničenja za Bazu podataka kako bi omogućila mnoge 
 1.Decentralizacija, 2.Sigurnost, 3.Skalabilnost (br. 3 ostavljen za [**naredne slojeve**](https://www.minima.global/post/taking-blockchain-scalability-to-the-next-layer){:target="_blank"}).
 
 -- Jedno od najperspektivnijih **Rješenja** je tzv [***Lajtning Mreža***](https://lightning.network/){:target="_blank"}.  
-Radi preko kanala između čvorova i potrebne su mu osnovne transakcije samo za otvaranje, zatvaranje, ponovno balansiranje i rutiranje.  
-Jedna jednostavna analogija je kada otvorite račun za pivo sa barmenom i na kraju noći se konačno riješi. Ali kada se jednom postavi, može podnijeti velike količine transakcija bez potrebe za redovnom vezom sa glavnom mrežnom.
+Radi preko [dvosmjernih kanala](https://bitcoinmagazine.com/technical/understanding-the-lightning-network-part-building-a-bidirectional-payment-channel-1464710791){:target="_blank"} između čvorova i potrebne su mu osnovne transakcije samo za otvaranje, zatvaranje, ponovno balansiranje i rutiranje. Zahtjev za plaćanje šalje se kao lajtning faktura.  
+Jedna prosta analogija je kao kada otvorite račun za pivo sa barmenom i na kraju noći se konačno riješi. Ali kada se jednom postavi, može podnijeti velike količine transakcija bez potrebe za redovnom vezom sa glavnom mrežnom.
 Uz trenutnu propusnost transakcija mogli bismo vidjeti da se svake godine otvara do 100 000 novih kanala. 
 Kasnije proces za uključivanje korisnika može se još više povećati uz [**Fabrike kanala**](https://bitcoinops.org/en/topics/channel-factories/){:target="_blank"} za [**skalabilnost**](https://bitcoin.stackexchange.com/questions/67158/what-are-channel-factories-and-how-do-they-work){:target="_blank"} i [**Zavjete**](https://bitbox.swiss/blog/what-are-bitcoin-covenants/){:target="_blank"} ([skaliranje iznad](https://www.rhinobitcoin.com/blog/bitcoin-covenants-can-we-scale-beyond-100m-users){:target="_blank"}).  
 Ostale opcije još u razvoju uključuju: [priključni kanali](https://lightning.engineering/posts/2021-05-26-sidecar-channels/){:target="_blank"}, [naslijeđeni ID](https://github.com/JohnLaw2/btc-iids/blob/main/iids14.pdf){:target="_blank"}, and [lanci stanja](https://medium.com/@RubenSomsen/statechains-non-custodial-off-chain-bitcoin-transfer-1ae4845a4a39){:target="_blank"}.   
--- Kao takav ima potencijal preko [**1 milion**](https://cointelegraph.com/news/bitcoin-lightning-network-vs-visa-and-mastercard-how-do-they-stack-up){:target="_blank"} TPS, upravo odgovaraju'u broj, dok zadržava niske provizije.  
-Ipak, treba napomenuti da ovo nije nužno konačno rješenje ([Izazovi](https://www.blockchain-council.org/blockchain/what-is-the-lightning-network/){:target="_blank"} & [Odgovori](https://murchandamus.medium.com/i-have-just-read-jonald-fyookballs-article-https-medium-com-jonaldfyookball-mathematical-fd112d13737a){:target="_blank"}).  
+-- Kao takav ima potencijal preko [**1 milion**](https://medium.com/@mnry.io/what-is-the-lightning-network-and-how-does-it-work-a9015096cc1c){:target="_blank"} TPS, upravo odgovaraju'u broj, dok zadržava niske provizije.  
+Ipak, treba napomenuti da ovo nije nužno konačno rješenje i ipak ima još izazova.  
 Ovi protokoli imaju za cilj da prošire funkcionalnost Bitcoina do određene tačke, dok održavaju osnovni sloj sigurnim i decentralizovanim ([**LN 2.0**](https://blog.theabacus.io/lightning-network-2-0-b878b9bb356e){:target="_blank"}).  
 Takođe dodaje podršku za mili-Satošije subSat (1/1000), sa većom decimalnom preciznošću za mikrotransakcije i protočna plaćanja.
 Postoji nekoliko [implementacija](https://medium.com/@fulgur.ventures/an-overview-of-lightning-network-implementations-d670255a6cfa){:target="_blank"} protokola, gdje spadaju:  
@@ -62,12 +62,17 @@ Naravno, postojao bi mali broj onih sa milion korisnika i mnogo malih sa nekolik
 -- Takođe se od velikih korporacija očekuje da imaju svoje čvorove i kanale sa dobavljačima za plaćanje, dok bi male kompanije koristile kastodi banke.  
 Kao što velika preduzeća imaju svoj sektor računovodstva, tako i manja angažuju eksterne usluge iz računovodstvenih biroa.  
 
+[**Istraživački**](https://river.com/learn/files/river-lightning-report-2023.pdf){:target="_blank"} izvještaj od *River* (2023) and Analitički [Servis](https://1ml.com/){:target="_blank"}  
+
 Bitkoin Lajtning novčanici:  
 -[**Poređenje**](https://luxb.substack.com/p/usporedba-lightning-novcanika){:target="_blank"} (od *luxb* @substack)  
 ![wallets](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-wallets-all.jpg)
 
-Sopstveni kastodi LN novčanici - [**Test**](https://www.coindesk.com/consensus-magazine/2024/01/26/which-is-the-best-self-custody-lightning-wallet/){:target="_blank"} (od *coindesk* -testirano u Africi):  
-***Phoenix, Mutiny, Blixt, Green, Zeus, Wallet of Satoshi***.
+Sopstveni kastodi LN novčanici - [**Test**](https://anitaposch.com/lightning-wallet-test-2024){:target="_blank"} (od *coindesk* -testirano u Africi):  
+***Phoenix, Mutiny, Blixt, Green, Zeus,** Wallet of Satoshi*.  
+*Phoenix je bio na vrhu ljestvice zbog svojih ukupnih performansi i pouzdanosti, a slijedi ga Mutiny zbog njegove jednostavnosti za korištenje.*
+
+Next is a table for selected ones from the middle segment.
 
 U međuvremenu postoji zanimljiv slučaj upotrebe za 'stabilne Sats' (alternativa Stable koinima), poput dolara ili čak eura na vrhu Bitcoin mreže, npr. za ino doznake, a posebno na globalnom jugu gde su mnoge lokalne valute prilično nestabilne sa veoma visokom inflacijom. Novčanici sa mogućnosti stabilne valute karakteristikama:
 
@@ -81,7 +86,6 @@ U međuvremenu postoji zanimljiv slučaj upotrebe za 'stabilne Sats' (alternativ
 Mrežna [**Topologija**](https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00602-2){:target="_blank"} i [graf](https://lnrouter.app/graph){:target="_blank"} (distribucija nodova):  
 ![graph](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-graph.jpg)
 
-[**Istraživački**](https://river.com/learn/files/river-lightning-report-2023.pdf){:target="_blank"} izvještaj od *River* (2023) and Analitički [Servis](https://1ml.com/){:target="_blank"}  
 Ostali naučni papiri:  
 [nakamotoinstitute/funding-of-micropayment-channel](https://nakamotoinstitute.org/static/docs/scalable-funding-of-bitcoin-micropayment-channel-networks.pdf){:target="_blank"}  
 [lightning-pool-whitepaper](https://lightning.engineering/lightning-pool-whitepaper.pdf){:target="_blank"}  
@@ -89,7 +93,6 @@ Ostali naučni papiri:
 
 YT za pregledati:  
 -[Bitcoin's Lightning Network](https://www.youtube.com/watch?v=rrr_zPmEiME){:target="_blank"} (*Simply Explained*)  
--[Bitcoin Lightning Network: Šta treba znati](https://www.youtube.com/watch?v=J3cQNpOR_a0){:target="_blank"} (*Coin Bureau*)  
 -[Šta je Lightning Network?](https://www.youtube.com/watch?v=pBh4DcM-0pg){:target="_blank"} (*99Bitcoins*)  
 -[Šta je to? zašto da me zanima?](https://www.youtube.com/watch?v=AYAreuNzx58&t=39s){:target="_blank"} & [Tech Intro to LN - devs 2020](https://www.youtube.com/watch?v=E1n3sKKPD_k){:target="_blank"} (*Andreas Antonopoulos*)  
 -[Lightning lako](https://www.youtube.com/watch?v=nusOl6wb1a4){:target="_blank"} & [LN wiht Phoenix](https://www.youtube.com/watch?v=9j_slmZ7Eyo) (*Bitcoin University*)  
@@ -105,7 +108,7 @@ B1. [**(r)Evolucija Novca of**](https://infopedia.io/sr-latn/revolution-of-money
 B2. [**Bitkoin budućnost and makro izgled**](https://infopedia.io/sr-latn/bitcoin-future-macro-outlook/)  
 
 PS  
-Ako imate sopstevni posao ili pružate usluge razmislite o tome da počnete da prihvatate BTC (kružna ekonomija), naljepnica::  
-(jedan lični primjer sa cijenama također denominiranim u bit-u - [codis.tech/efcorebulk](https://codis.tech/efcorebulk))  
+Ako imate sopstevni posao ili pružate usluge razmislite o tome da počnete da prihvatate Bitcoin (kružna ekonomija), naljepnica::  
+(jedan lični primjer sa cijenama također denominiranim u BTC - [codis.tech/efcorebulk](https://codis.tech/efcorebulk))  
 ![bit-acc](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/bit-acc.png)
 Donacija za podršku: [BTC-LN](https://borisdj.net/donation/donate-btc.html){:target="_blank"}  
