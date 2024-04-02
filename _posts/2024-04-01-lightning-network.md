@@ -10,13 +10,16 @@ excerpt: "Lajtning Mreža"
 **[Lajtning Mreža](https://en.wikipedia.org/wiki/Lightning_Network){:target="_blank"} (LN) razvoj i slučaj upotrebe**<br>
 Bitcoin Sloj 2 (L2) - [Tehnologija iza](https://medium.com/coinmonks/the-lightning-network-technology-behind-bitcoins-scaling-solution-915c07455ca8){:target="_blank"}
 
+LANG(jezik):<br>
+[Global](https://infopedia.io/lightning-network/) (en-us) / Local (sr-latn-ba)<br>
+
 ![bitcoin-future](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-model.jpg)
 
 <center>QR Link</center>
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/lightning-network/)
 
 **Problemi Skaliranja**:  
-* Bazni sloj Bitkoina i Blokčejn arhitektura uopšteno ne mogu se skalirati
+* Bazni sloj Bitkoina i Blokčejn arhitektura uopšteno ne mogu se skalirati.
 Da bi dugoročno ostao dovoljno decentralizovan, iz perspektive upravljanja, potrebna mu je čvrsta struktura i visoka redundantnost.  
 Ovo postavlja praktična ograničenja za Bazu podataka kako bi omogućila mnoge distribuirane čvorove. Takođe ograničava broj transakcija u sekundi (TPS), kako bi se postiglo globalno stanje sinhronizacije za konsenzus.  
 Čak i kada bi se Bitcoin 10 TPS nekako čudesno povećao za faktor 10 bez gubitka sigurnosti, ipak 100 TPS ne bi ništa promijenilo, jer za cijeli svijet nam treba najmanje 1 milion TPS.
@@ -25,7 +28,7 @@ Ovo postavlja praktična ograničenja za Bazu podataka kako bi omogućila mnoge 
 
 -- One of the most promising **Solutions** is the so-called [***Lightning Network***](https://lightning.network/){:target="_blank"}.  
 It works via channels between nodes, and needs base transactions for opening, closing, rebalancing and routing.  
-One simple analogy is with when you open a beer tap with bartender and at the end of night it gets settled.
+One simple analogy is when you open a beer tap with bartender and at the end of night it gets settled with finality.
 With current transaction throughput we could see each year opening up to 100 000 new channels.  
 Later process for onboarding users can be increased even more with [**Channel Factories**](https://bitcoinops.org/en/topics/channel-factories/){:target="_blank"} for [**scalability**](https://bitcoin.stackexchange.com/questions/67158/what-are-channel-factories-and-how-do-they-work){:target="_blank"} and [**Covenants**](https://bitbox.swiss/blog/what-are-bitcoin-covenants/){:target="_blank"} ([scale beyond](https://www.rhinobitcoin.com/blog/bitcoin-covenants-can-we-scale-beyond-100m-users){:target="_blank"}).  
 Others optins in development include: [sidecar channels](){:target="_blank"}, [statechains](https://lightning.engineering/posts/2021-05-26-sidecar-channels/){:target="_blank"}, [inherited IDs](https://github.com/JohnLaw2/btc-iids/blob/main/iids14.pdf){:target="_blank"}, and [statechains](https://medium.com/@RubenSomsen/statechains-non-custodial-off-chain-bitcoin-transfer-1ae4845a4a39){:target="_blank"}.
