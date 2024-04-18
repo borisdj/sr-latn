@@ -51,7 +51,7 @@ Tehničke poteškoće i rješenja:
 -propuštanje privatnosti -> PTLC-ovi (Ugovori sa zaključanim vremenom), trampolina rutiranje  
 -prisilno zatvoren kanal -> rješava se s vremenom  
 
-[**Istraživački**](https://river.com/learn/files/river-lightning-report-2023.pdf){:target="_blank"} izvještaj od *River* (2023) and Analitički [Servis](https://1ml.com/){:target="_blank"}  
+[**Istraživački**](https://river.com/learn/files/river-lightning-report-2023.pdf){:target="_blank"} izvještaj od *River* (2023) i Analitički [Servis](https://1ml.com/){:target="_blank"}  
 
 Bitkoin Lajtning novčanici:  
 -[**Poređenje**](https://luxb.substack.com/p/usporedba-lightning-novcanika){:target="_blank"} (od *luxb* @substack)  
