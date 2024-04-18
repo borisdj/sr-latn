@@ -27,15 +27,20 @@ Ovo postavlja praktična ograničenja za Bazu podataka kako bi omogućila mnoge 
 1.Decentralizacija, 2.Sigurnost, 3.Skalabilnost (br. 3 ostavljen za [**naredne slojeve**](https://www.minima.global/post/taking-blockchain-scalability-to-the-next-layer){:target="_blank"}).
 
 -- Jedno od najperspektivnijih **Rješenja** je tzv [***Lajtning Mreža***](https://lightning.network/){:target="_blank"}.  
-Radi preko [dvosmjernih kanala](https://bitcoinmagazine.com/technical/understanding-the-lightning-network-part-building-a-bidirectional-payment-channel-1464710791){:target="_blank"} između čvorova i potrebne su mu osnovne transakcije samo za otvaranje, zatvaranje, ponovno balansiranje i rutiranje. Zahtjev za plaćanje šalje se kao lajtning faktura.  
-Jedna prosta analogija je kao kada otvorite račun za pivo sa barmenom i na kraju noći se konačno riješi. Ali kada se jednom postavi, može podnijeti velike količine transakcija bez potrebe za redovnom vezom sa glavnom mrežnom.
-Uz trenutnu propusnost transakcija mogli bismo vidjeti da se svake godine otvara do 100 000 novih kanala. 
-Kasnije proces za uključivanje korisnika može se još više povećati uz [**Fabrike kanala**](https://bitcoinops.org/en/topics/channel-factories/){:target="_blank"} za [**skalabilnost**](https://bitcoin.stackexchange.com/questions/67158/what-are-channel-factories-and-how-do-they-work){:target="_blank"} i [**Zavjete**](https://bitbox.swiss/blog/what-are-bitcoin-covenants/){:target="_blank"} ([skaliranje iznad](https://www.rhinobitcoin.com/blog/bitcoin-covenants-can-we-scale-beyond-100m-users){:target="_blank"}).  
-Ostale opcije još u razvoju uključuju: [priključni kanali](https://lightning.engineering/posts/2021-05-26-sidecar-channels/){:target="_blank"}, [naslijeđeni ID](https://github.com/JohnLaw2/btc-iids/blob/main/iids14.pdf){:target="_blank"}, and [lanci stanja](https://medium.com/@RubenSomsen/statechains-non-custodial-off-chain-bitcoin-transfer-1ae4845a4a39){:target="_blank"}.   
--- Kao takav ima potencijal preko [**1 milion**](https://medium.com/@mnry.io/what-is-the-lightning-network-and-how-does-it-work-a9015096cc1c){:target="_blank"} TPS, upravo odgovaraju'u broj, dok zadržava niske provizije.  
-Ipak, treba napomenuti da ovo nije nužno konačno rješenje i ipak ima još izazova.  
+Radi preko [dvosmjernih kanala](https://bitcoinmagazine.com/technical/understanding-the-lightning-network-part-building-a-bidirectional-payment-channel-1464710791){:target="_blank"} između čvorova i potrebne su mu osnovne transakcije samo za otvaranje, zatvaranje, ponovno balansiranje i rutiranje. Ali kada se jednom uspostavi, može podnijeti velike količine transakcija bez potrebe za čestom konekcijom sa glavnom mrežom.  
 Ovi protokoli imaju za cilj da prošire funkcionalnost Bitcoina do određene tačke, dok održavaju osnovni sloj sigurnim i decentralizovanim ([**LN 2.0**](https://blog.theabacus.io/lightning-network-2-0-b878b9bb356e){:target="_blank"}).  
-Takođe dodaje podršku za mili-Satošije subSat (1/1000), sa većom decimalnom preciznošću za mikrotransakcije i protočna plaćanja.
+-- Kao takav ima potencijal preko [**1 milion**](https://medium.com/@mnry.io/what-is-the-lightning-network-and-how-does-it-work-a9015096cc1c){:target="_blank"} TPS, upravo odgovarajuću broj, dok zadržava niske provizije. Ipak, treba napomenuti da ovo nije nužno konačno rješenje i da ima još izazova.  
+-- Takođe vrijedi napomenuti da trenutno nije izvodljivo da svaka osoba na planeti ima potpuno privatni novčanik sa svojim sopstvenim čvorom. Uz trenutnu propusnost transakcija mogli bismo vidjeti da se svake godine otvara do 100 000 novih kanala, relativno sporo za globalnu populaciju. Umjesto toga, realniji pristup je imati mnogo distribuiranih 'staratelja' - čuvara bitcoin-a. 
+-- U stvari, svaka banka bi mogla postati 'staratelj' i lajtning čvor. Povrh toga, možda će samo nekoliko procenata globalne populacije imati lično čuvanje, potpuno ili djelimičnom implementacijom bez posrednika. 
+
+-- Dakle, u narednih 20+ godina, ako bi nekoliko milijardi ljudi počelo da ga koristi, mogli bismo očekivati oko 50 000 čvorova sa prosječno 100.000 korisnika. Naravno, postojao bi mali broj onih sa milion korisnika i mnogo malih sa nekoliko stotina korisnika - Normalna Raspodjela u bankarstvu, a trenutno ima oko 25 000 [banki globalno](https://www.linkedin.com/pulse/how-many-banks-globally-david-gyori){:target="_blank"}. (Mega banke naspram [**Društvene banke**](https://www.extractable.com/insights/by-the-numbers-mega-banks-vs-community-banks/){:target="_blank"}.)  
+-- Takođe se od velikih korporacija očekuje da imaju svoje čvorove i kanale sa dobavljačima za plaćanje, dok bi male kompanije koristile kastodi banke. Kao što velika preduzeća imaju svoj sektor računovodstva, tako i manja angažuju eksterne usluge iz računovodstvenih biroa.
+
+-- Za lakše razumjevanje jedna prosta analogija je kao kada otvorite račun za pivo sa barmenom i na kraju noći se konačno riješi. U praksi zahtjev za plaćanje se šalje od primaoca kao lajtning faktura, koji može biti sa definisanim iznosom, ili prazan i ostavljen da ga pošiljalac unese.
+Osim toga, za većinu ljudi ovo je previše komplikovano, pa vjerovatno nije ni potrebno.  
+-- Još jedna sporna stavka koju Lighting poboljšava je **Privatnost** jer transakcije nisu javno vidljive u lancu.  
+LN takođe dodaje podršku za mili-Satošije subSat (1/1000), sa većom decimalnom preciznošću za mikrotransakcije i protočna plaćanja (Sats [simbol](https://bitcoinmagazine.com/culture/my-suggestion-for-the-bitcoin-sats-symbol){:target="_blank"}). 
+
 Postoji nekoliko [implementacija](https://medium.com/@fulgur.ventures/an-overview-of-lightning-network-implementations-d670255a6cfa){:target="_blank"} protokola, gdje spadaju:  
 -***C-lightning*** razvio *Blockstream* u C jeziku  
 -***Eclair***, francuski za *Lightning*, implementirano u Skali od ACINQ  
@@ -44,23 +49,7 @@ Postoji nekoliko [implementacija](https://medium.com/@fulgur.ventures/an-overvie
 Tehničke poteškoće i rješenja:  
 -pronalaženje održivih puteva -> *Pickhardt* rutiranje:
 -propuštanje privatnosti -> PTLC-ovi (Ugovori sa zaključanim vremenom), trampolina rutiranje  
--prisilno zatvoren kanal -> rješava se s vremenom
-
--- Još jedna sporna stavka koje Lighting poboljšava je **Privatnost** jer transakcije nisu javno vidljive u lancu.  
-Ovdje spomenimo [**Wasabi**](https://wasabiwallet.io/){:target="_blank"} novčanik koji planira omogućiti [Lightning sa CoinJoins](https://blog.wasabiwallet.io/what-lightning-network-enabled-wabisabi-coinjoins-might-look-like/){:target="_blank"}. 
-
--- Takođe vrijedi napomenuti da trenutno nije izvodljivo da svaka osoba na planeti ima potpuno privatni novčanik sa svojim sopstvenim čvorom.  
-Osim toga, za većinu ljudi ovo je previše komplikovano, pa vjerovatno nije ni potrebno.  
-Umjesto toga, realniji pristup je imati mnogo distribuiranih 'staratelja', na primjer kao što danas imamo *Wallet of Satoshi - WoS*.
--- U stvari, svaka banka bi mogla postati 'staratelja' i lajtning čvor.  
-Povrh toga, možda će samo nekoliko procenata globalne populacije imati samozaštitu, sa potpuno ili djelimično bez posrednika implementacijom.  
-Jedan primjer sa čvorovima koji ne usmjeravaju je [**Phonix**](https://phoenix.acinq.co/){:target="_blank"} novčanik koji ima čvor na mobilnom, ali se povezuje samo na [Acinq](https://acinq.co/){:target="_blank"} čvor. Pružaju usluge automatskog upravljanja kanalima i balansiranja likvidnosti. Phoenix je odličan novčanik u kojem držite svoje ključeve, ali je i dalje vrlo jednostavan za korištenje s modelom sa minimalnim povjerenjem.  
-Zatim postoji opcija za čvorove sa federacijom kao što je [**FediMint**](https://fedimint.org/){:target="_blank"} koji koriste federalne modele za upravljanje.  
-
--- Dakle, u narednih 20+ godina, ako bi nekoliko milijardi ljudi počelo da ga koristi, mogli bismo očekivati oko 50 000 čvorova sa prosječno 100.000 korisnika.
-Naravno, postojao bi mali broj onih sa milion korisnika i mnogo malih sa nekoliko stotina korisnika - Normalna Raspodjela u bankarstvu, a trenutno ima oko 25 000 [banki globalno](https://www.linkedin.com/pulse/how-many-banks-globally-david-gyori){:target="_blank"}. (Mega banke naspram [**Društvene banke**](https://www.extractable.com/insights/by-the-numbers-mega-banks-vs-community-banks/){:target="_blank"}.)  
--- Takođe se od velikih korporacija očekuje da imaju svoje čvorove i kanale sa dobavljačima za plaćanje, dok bi male kompanije koristile kastodi banke.  
-Kao što velika preduzeća imaju svoj sektor računovodstva, tako i manja angažuju eksterne usluge iz računovodstvenih biroa.  
+-prisilno zatvoren kanal -> rješava se s vremenom 
 
 [**Istraživački**](https://river.com/learn/files/river-lightning-report-2023.pdf){:target="_blank"} izvještaj od *River* (2023) and Analitički [Servis](https://1ml.com/){:target="_blank"}  
 
@@ -68,11 +57,11 @@ Bitkoin Lajtning novčanici:
 -[**Poređenje**](https://luxb.substack.com/p/usporedba-lightning-novcanika){:target="_blank"} (od *luxb* @substack)  
 ![wallets](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-wallets-all.jpg)
 
-Sopstveni kastodi LN novčanici - [**Test**](https://anitaposch.com/lightning-wallet-test-2024){:target="_blank"} (od *coindesk* -testirano u Africi):  
-***Phoenix, Mutiny, Blixt, Green, Zeus,** Wallet of Satoshi*.  
+Sopstveni kastodi LN novčanici - [**Test**](https://anitaposch.com/lightning-wallet-test-2024){:target="_blank"} (od *Anita Posch* - testirano u Africi):  
+***Phoenix, Mutiny, Blixt, Green, Zeus,** Wallet of Satoshi(kastodial)*.  
 *Phoenix je bio na vrhu ljestvice zbog svojih ukupnih performansi i pouzdanosti, a slijedi ga Mutiny zbog njegove jednostavnosti za korištenje.*
 
-Next is a table for selected ones from the middle segment.
+Naredna tabela je sa odabranim novčanicima koji su potpuno mobilni.
 
 U međuvremenu postoji zanimljiv slučaj upotrebe za 'stabilne Sats' (alternativa Stable koinima), poput dolara ili čak eura na vrhu Bitcoin mreže, npr. za ino doznake, a posebno na globalnom jugu gde su mnoge lokalne valute prilično nestabilne sa veoma visokom inflacijom. Novčanici sa mogućnosti stabilne valute karakteristikama:
 
