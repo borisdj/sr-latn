@@ -58,14 +58,14 @@ Bitkoin Lajtning novčanici:
 ![wallets](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-wallets-all.jpg)
 
 Sopstveni kastodi LN novčanici - [**Test**](https://anitaposch.com/lightning-wallet-test-2024){:target="_blank"} (od *Anita Posch* - testirano u Africi):  
-***Phoenix, Mutiny, Blixt, Green, Zeus,** Wallet of Satoshi(kastodial)*.  
+***Phoenix, Mutiny, Blixt, Green, Zeus,** Wallet of Satoshi(kastodi)*.  
 *Phoenix je bio na vrhu ljestvice zbog svojih ukupnih performansi i pouzdanosti, a slijedi ga Mutiny zbog njegove jednostavnosti za korištenje.*
 
 Naredna tabela je sa odabranim novčanicima koji su potpuno mobilni.
 
 | Novčanik | Github | Tim | Vid | Tag |
 | -----  | ------ | ---- | --- | ---- |
-| 1.**Kastodial** | ------ | ---------- | --- | --------------- |
+| 1.**Kastodi** | ------ | ---------- | --- | --------------- |
 | [**Wallet of Satoshi**](https://www.walletofsatoshi.com/){:target="_blank"} | Not OS | Daniel Alexiuc - Australia | [YT](https://www.youtube.com/watch?v=sXBwRO7ML7w){:target="_blank"} | jednostavan, bez provizija |
 | [**Strike**](https://strike.me/){:target="_blank"} | Nije OS | Jack Mallers - US | [YT](https://www.youtube.com/watch?v=4-vJ7zZQ4wU){:target="_blank"} | - |
 | [**Blink**](https://www.blink.sv/){:target="_blank"} | [Galoy](https://github.com/GaloyMoney/blinkbtc){:target="_blank"} | Nicolas Burtey - El.Sal. | [YT](https://www.youtube.com/watch?v=q3QwxCd1EZE) | [StableSats] |
