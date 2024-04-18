@@ -47,9 +47,9 @@ Postoji nekoliko [implementacija](https://medium.com/@fulgur.ventures/an-overvie
 -***LND*** (*Lightning Network Daemon*) čvor od *Lightning Labs* u Go  
 
 Tehničke poteškoće i rješenja:  
--pronalaženje održivih puteva -> *Pickhardt* rutiranje:
+-pronalaženje održivih puteva -> *Pickhardt* rutiranje  
 -propuštanje privatnosti -> PTLC-ovi (Ugovori sa zaključanim vremenom), trampolina rutiranje  
--prisilno zatvoren kanal -> rješava se s vremenom 
+-prisilno zatvoren kanal -> rješava se s vremenom  
 
 [**Istraživački**](https://river.com/learn/files/river-lightning-report-2023.pdf){:target="_blank"} izvještaj od *River* (2023) and Analitički [Servis](https://1ml.com/){:target="_blank"}  
 
