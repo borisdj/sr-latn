@@ -63,17 +63,32 @@ Sopstveni kastodi LN novčanici - [**Test**](https://anitaposch.com/lightning-wa
 
 Naredna tabela je sa odabranim novčanicima koji su potpuno mobilni.
 
-U međuvremenu postoji zanimljiv slučaj upotrebe za 'stabilne Sats' (alternativa Stable koinima), poput dolara ili čak eura na vrhu Bitcoin mreže, npr. za ino doznake, a posebno na globalnom jugu gde su mnoge lokalne valute prilično nestabilne sa veoma visokom inflacijom. Novčanici sa mogućnosti stabilne valute karakteristikama:
+| Novčanik | Github | Tim | Vid | Tag |
+| -----  | ------ | ---- | --- | ---- |
+| 1.**Kastodial** | ------ | ---------- | --- | --------------- |
+| [**Wallet of Satoshi**](https://www.walletofsatoshi.com/){:target="_blank"} | Not OS | Daniel Alexiuc - Australia | [YT](https://www.youtube.com/watch?v=sXBwRO7ML7w){:target="_blank"} | jednostavan, bez provizija |
+| [**Strike**](https://strike.me/){:target="_blank"} | Nije OS | Jack Mallers - US | [YT](https://www.youtube.com/watch?v=4-vJ7zZQ4wU){:target="_blank"} | - |
+| [**Blink**](https://www.blink.sv/){:target="_blank"} | [Galoy](https://github.com/GaloyMoney/blinkbtc){:target="_blank"} | Nicolas Burtey - El.Sal. | [YT](https://www.youtube.com/watch?v=q3QwxCd1EZE) | [StableSats] |
+| 2.**Non-Custodial** | *------* | *----------* | *---* | *---------------* |
+| [**Phoenix**](https://phoenix.acinq.co/){:target="_blank"} | [Acinq](https://github.com/ACINQ){:target="_blank"} | Pierre-Marie - Paris, FR | [YT](https://www.youtube.com/watch?v=hmmehTnV3ys){:target="_blank"}| [trust-minimized] |
+| [**Breez**](https://breez.technology/mobile/){:target="_blank"} | [BreezMobile](https://github.com/breez/breezmobile){:target="_blank"}| Roy Sheinfeld - Israel | [YT](https://www.youtube.com/watch?v=lcBsn8e-oQ4&t=407s){:target="_blank"} | - |
+| [**Mutiny**](https://www.mutinywallet.com/){:target="_blank"} | [MutinyWallet](https://github.com/MutinyWallet/mutiny-web){:target="_blank"} | Tony Giorgio - Austin, TX | [YT](https://www.youtube.com/watch?v=vHQ6wgT3S2I){:target="_blank"} | [Web], [Stables-DLC], [Nostr] |
+| [**Blixt**](https://blixtwallet.github.io/){:target="_blank"} | [blixt-wallet](https://github.com/hsjoberg/blixt-wallet){:target="_blank"} | Hampus Sjöberg - Sweden | [YT](https://www.youtube.com/watch?v=5JyOAeaCN0o){:target="_blank"} | - |
+| [**Zeus**](https://zeusln.com/){:target="_blank"} | [ZeusLN](https://github.com/ZeusLN/zeus){:target="_blank"} | Evan Kaloudis - NY, US | [YT](https://www.youtube.com/watch?v=hmmehTnV3ys&t=1106s){:target="_blank"} | - |
+| 3.**With On-Chain** | *------* | *----------* | *---* | *---------------* |
+| [**Electrum**](https://electrum.org/){:target="_blank"} | [spesmilo](https://github.com/spesmilo/electrum){:target="_blank"} | Thomas Voegtlin - Berlin, DE | [YT](https://www.youtube.com/watch?v=pyylkpR4DDk){:target="_blank"} | [external node] |
+| [**BlueWallet**](https://bluewallet.io/){:target="_blank"} | [BlueWallet](https://github.com/BlueWallet/BlueWallet){:target="_blank"} | Nuno Coelho - Barcelona, ES | [YT](https://www.youtube.com/watch?v=iVPNk2ZZ63w){:target="_blank"} | [external node] |
+| [**Green**](https://github.com/Blockstream/green_android){:target="_blank"} | [Blockstream](https://github.com/Blockstream/green_android){:target="_blank"} | Adam Back - US | [YT](https://www.youtube.com/watch?v=DesN85bWmGA){:target="_blank"} | [eksterni nod] |
+| [**Wasabi**](https://wasabiwallet.io/){:target="_blank"} | [zkSNACKs](https://github.com/zkSNACKs/WalletWasabi){:target="_blank"} | Max Hillebrand(DE) - Gibraltar | [YT](https://www.youtube.com/watch?v=ECQHAzSckK0){:target="_blank"} | plan for [LN with CoinJoins](https://blog.wasabiwallet.io/what-lightning-network-enabled-wabisabi-coinjoins-might-look-like/){:target="_blank"} |
+| [**Sparrow**](https://sparrowwallet.com/){:target="_blank"} | [sparrowwallet](https://github.com/sparrowwallet/sparrow){:target="_blank"} | Craig Raw(ZA) - Cape Town | [YT](https://www.youtube.com/watch?v=qJ_SpQX_YKw){:target="_blank"} | [multisig](https://bitcoiner.guide/multisig/recover/){:target="_blank"} |
 
-| Novčanik | Stabilnost | Bazirano | Org/lokacija |
-| -----  | ---------- | -------- | ------------- |
-| [**Mutiny**](https://www.mutinywallet.com/){:target="_blank"} | Sat: DLC Kanal | Web-app | Austin TX |
-| [**10101**](https://10101.finance/){:target="_blank"} | Sat: DLC (ne LN) | USDp - bolt | Australia |
-| [**Blink**](https://www.blink.sv/){:target="_blank"}  | Sat: Berza | ex Bitcoin Beach (BBW) | [Galloy](https://galoy.io/){:target="_blank"} |
-| [**Aqua**](https://aquawallet.io/){:target="_blank"}  | Coin: - | [Liquid (BlockStream)](https://liquid.net/){:target="_blank"} | [Jan3](https://jan3.com/){:target="_blank"} |
 
 Mrežna [**Topologija**](https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00602-2){:target="_blank"} i [graf](https://lnrouter.app/graph){:target="_blank"} (distribucija nodova):  
 ![graph](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/lightning-graph.jpg)
+
+--  Ukoliko se ukaže potreba, proces za uključivanje korisnika može se još više povećati uz [**Fabrike kanala**](https://bitcoinops.org/en/topics/channel-factories/){:target="_blank"} za [**skalabilnost**](https://bitcoin.stackexchange.com/questions/67158/what-are-channel-factories-and-how-do-they-work){:target="_blank"}.  
+Ostale opcije još u razvoju uključuju: [priključni kanali](https://lightning.engineering/posts/2021-05-26-sidecar-channels/){:target="_blank"}, [naslijeđeni ID](https://github.com/JohnLaw2/btc-iids/blob/main/iids14.pdf){:target="_blank"}, and [lanci stanja](https://medium.com/@RubenSomsen/statechains-non-custodial-off-chain-bitcoin-transfer-1ae4845a4a39){:target="_blank"} i takođe [**Zavjete**](https://bitbox.swiss/blog/what-are-bitcoin-covenants/){:target="_blank"} ([skaliranje iznad](https://www.rhinobitcoin.com/blog/bitcoin-covenants-can-we-scale-beyond-100m-users){:target="_blank"}). Zatim postoji opcija za čvorove sa federacijom kao što je [**FediMint**](https://fedimint.org/){:target="_blank"} koji koriste federalne modele za upravljanje.  
+-- U međuvremenu postoji zanimljiv slučaj upotrebe za 'stabilne Sats' (alternativa Stable koinima), poput dolara preko Bitcoin mreže, npr. za ino doznake. Posebno korisno na globalnom jugu gdje su mnoge lokalne valute prilično nestabilne sa veoma visokom inflacijom. Pored *Mutiny* još jedan novčanik sa ovom funkcijom je [10101](https://10101.finance/){:target="_blank"} (10-10-1) finansije.
 
 Ostali naučni papiri:  
 [nakamotoinstitute/funding-of-micropayment-channel](https://nakamotoinstitute.org/static/docs/scalable-funding-of-bitcoin-micropayment-channel-networks.pdf){:target="_blank"}  
@@ -101,3 +116,4 @@ Ako imate sopstevni posao ili pružate usluge razmislite o tome da počnete da p
 (jedan lični primjer sa cijenama također denominiranim u BTC - [codis.tech/efcorebulk](https://codis.tech/efcorebulk))  
 ![bit-acc](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/bit-acc.png)
 Donacija za podršku: [BTC-LN](https://borisdj.net/donation/donate-btc.html){:target="_blank"}  
+(takođe za podršku programerima:: [Donacije Portal](https://bitcoindevlist.com/){:target="_blank"})
