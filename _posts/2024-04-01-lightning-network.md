@@ -66,7 +66,7 @@ Naredna tabela je sa odabranim novčanicima koji su potpuno mobilni.
 | Novčanik | Github | Tim | Vid | Tag |
 | -----  | ------ | ---- | --- | ---- |
 | 1.**Kastodialni** | ------ | ---------- | --- | --------------- |
-| [**Wallet of Satoshi**](https://www.walletofsatoshi.com/){:target="_blank"} | Not OS | Daniel Alexiuc - Australia | [YT](https://www.youtube.com/watch?v=sXBwRO7ML7w){:target="_blank"} | jednostavan, bez provizija |
+| [**Wallet of Satoshi**](https://www.walletofsatoshi.com/){:target="_blank"} | Nije OS | Daniel Alexiuc - Australia | [YT](https://www.youtube.com/watch?v=sXBwRO7ML7w){:target="_blank"} | jednostavan, bez provizija |
 | [**Strike**](https://strike.me/){:target="_blank"} | Nije OS | Jack Mallers - US | [YT](https://www.youtube.com/watch?v=4-vJ7zZQ4wU){:target="_blank"} | - |
 | [**Blink**](https://www.blink.sv/){:target="_blank"} | [Galoy](https://github.com/GaloyMoney/blinkbtc){:target="_blank"} | Nicolas Burtey - El.Sal. | [YT](https://www.youtube.com/watch?v=q3QwxCd1EZE) | [StableSats] |
 | 2.**Ne-Kastodialni (Lični kastodi)** | *------* | *----------* | *---* | *---------------* |
@@ -76,10 +76,10 @@ Naredna tabela je sa odabranim novčanicima koji su potpuno mobilni.
 | [**Blixt**](https://blixtwallet.github.io/){:target="_blank"} | [blixt-wallet](https://github.com/hsjoberg/blixt-wallet){:target="_blank"} | Hampus Sjöberg - Sweden | [YT](https://www.youtube.com/watch?v=5JyOAeaCN0o){:target="_blank"} | - |
 | [**Zeus**](https://zeusln.com/){:target="_blank"} | [ZeusLN](https://github.com/ZeusLN/zeus){:target="_blank"} | Evan Kaloudis - NY, US | [YT](https://www.youtube.com/watch?v=hmmehTnV3ys&t=1106s){:target="_blank"} | - |
 | 3.**Sa podrškom za bazni sloj** | *------* | *----------* | *---* | *---------------* |
-| [**Electrum**](https://electrum.org/){:target="_blank"} | [spesmilo](https://github.com/spesmilo/electrum){:target="_blank"} | Thomas Voegtlin - Berlin, DE | [YT](https://www.youtube.com/watch?v=pyylkpR4DDk){:target="_blank"} | [external node] |
-| [**BlueWallet**](https://bluewallet.io/){:target="_blank"} | [BlueWallet](https://github.com/BlueWallet/BlueWallet){:target="_blank"} | Nuno Coelho - Barcelona, ES | [YT](https://www.youtube.com/watch?v=iVPNk2ZZ63w){:target="_blank"} | [external node] |
+| [**Electrum**](https://electrum.org/){:target="_blank"} | [spesmilo](https://github.com/spesmilo/electrum){:target="_blank"} | Thomas Voegtlin - Berlin, DE | [YT](https://www.youtube.com/watch?v=pyylkpR4DDk){:target="_blank"} | [eksterni nod] |
+| [**BlueWallet**](https://bluewallet.io/){:target="_blank"} | [BlueWallet](https://github.com/BlueWallet/BlueWallet){:target="_blank"} | Nuno Coelho - Barcelona, ES | [YT](https://www.youtube.com/watch?v=iVPNk2ZZ63w){:target="_blank"} | [eksterni nod] |
 | [**Green**](https://github.com/Blockstream/green_android){:target="_blank"} | [Blockstream](https://github.com/Blockstream/green_android){:target="_blank"} | Adam Back - US | [YT](https://www.youtube.com/watch?v=DesN85bWmGA){:target="_blank"} | [eksterni nod] |
-| [**Wasabi**](https://wasabiwallet.io/){:target="_blank"} | [zkSNACKs](https://github.com/zkSNACKs/WalletWasabi){:target="_blank"} | Max Hillebrand(DE) - Gibraltar | [YT](https://www.youtube.com/watch?v=ECQHAzSckK0){:target="_blank"} | plan for [LN with CoinJoins](https://blog.wasabiwallet.io/what-lightning-network-enabled-wabisabi-coinjoins-might-look-like/){:target="_blank"} |
+| [**Wasabi**](https://wasabiwallet.io/){:target="_blank"} | [zkSNACKs](https://github.com/zkSNACKs/WalletWasabi){:target="_blank"} | Max Hillebrand(DE) - Gibraltar | [YT](https://www.youtube.com/watch?v=ECQHAzSckK0){:target="_blank"} | plan za [LN with CoinJoins](https://blog.wasabiwallet.io/what-lightning-network-enabled-wabisabi-coinjoins-might-look-like/){:target="_blank"} |
 | [**Sparrow**](https://sparrowwallet.com/){:target="_blank"} | [sparrowwallet](https://github.com/sparrowwallet/sparrow){:target="_blank"} | Craig Raw(ZA) - Cape Town | [YT](https://www.youtube.com/watch?v=qJ_SpQX_YKw){:target="_blank"} | [multisig](https://bitcoiner.guide/multisig/recover/){:target="_blank"} |
 
 
