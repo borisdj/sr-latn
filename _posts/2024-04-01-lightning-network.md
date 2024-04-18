@@ -116,4 +116,4 @@ Ako imate sopstevni posao ili pružate usluge razmislite o tome da počnete da p
 (jedan lični primjer sa cijenama također denominiranim u BTC - [codis.tech/efcorebulk](https://codis.tech/efcorebulk))  
 ![bit-acc](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/bit-acc.png)
 Donacija za podršku: [BTC-LN](https://borisdj.net/donation/donate-btc.html){:target="_blank"}  
-(takođe za podršku programerima:: [Donacije Portal](https://bitcoindevlist.com/){:target="_blank"})
+(takođe za podršku programerima: [Donacije Portal](https://bitcoindevlist.com/){:target="_blank"})
