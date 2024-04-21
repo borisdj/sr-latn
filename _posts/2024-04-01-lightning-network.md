@@ -90,17 +90,17 @@ Mrežna [**Topologija**](https://appliednetsci.springeropen.com/articles/10.1007
 Ostale opcije još u razvoju uključuju: [priključni kanali](https://lightning.engineering/posts/2021-05-26-sidecar-channels/){:target="_blank"}, [naslijeđeni ID](https://github.com/JohnLaw2/btc-iids/blob/main/iids14.pdf){:target="_blank"}, and [lanci stanja](https://medium.com/@RubenSomsen/statechains-non-custodial-off-chain-bitcoin-transfer-1ae4845a4a39){:target="_blank"} i takođe [**Zavjete**](https://bitbox.swiss/blog/what-are-bitcoin-covenants/){:target="_blank"} ([skaliranje iznad](https://www.rhinobitcoin.com/blog/bitcoin-covenants-can-we-scale-beyond-100m-users){:target="_blank"}). Zatim postoji opcija za čvorove sa federacijom kao što je [**FediMint**](https://fedimint.org/){:target="_blank"} koji koriste federalne modele za upravljanje.  
 -- U međuvremenu postoji zanimljiv slučaj upotrebe za 'stabilne Sats' (alternativa Stable koinima), poput dolara preko Bitcoin mreže, npr. za ino doznake. Posebno korisno na globalnom jugu gdje su mnoge lokalne valute prilično nestabilne sa veoma visokom inflacijom. Pored *Mutiny* još jedan novčanik sa ovom funkcijom je [10101](https://10101.finance/){:target="_blank"} (10-10-1) finansije.
 
-Ostali naučni papiri:  
-[nakamotoinstitute/funding-of-micropayment-channel](https://nakamotoinstitute.org/static/docs/scalable-funding-of-bitcoin-micropayment-channel-networks.pdf){:target="_blank"}  
-[lightning-pool-whitepaper](https://lightning.engineering/lightning-pool-whitepaper.pdf){:target="_blank"}  
-[MA_EEMCS](https://essay.utwente.nl/80780/1/Wijburg_MA_EEMCS.pdf){:target="_blank"}  
-
 YT za pregledati:  
 -[Bitcoin's Lightning Network](https://www.youtube.com/watch?v=rrr_zPmEiME){:target="_blank"} (*Simply Explained*)  
 -[Šta je Lightning Network?](https://www.youtube.com/watch?v=pBh4DcM-0pg){:target="_blank"} (*99Bitcoins*)  
 -[Šta je to? zašto da me zanima?](https://www.youtube.com/watch?v=AYAreuNzx58&t=39s){:target="_blank"} & [Tech Intro to LN - devs 2020](https://www.youtube.com/watch?v=E1n3sKKPD_k){:target="_blank"} (*Andreas Antonopoulos*)  
 -[Lightning lako](https://www.youtube.com/watch?v=nusOl6wb1a4){:target="_blank"} & [LN wiht Phoenix](https://www.youtube.com/watch?v=9j_slmZ7Eyo) (*Bitcoin University*)  
 -[Skaliranje Bitcoina sa Giacomo, John & Matt](https://www.youtube.com/watch?v=Iz81W-_X5gw){:target="_blank"} (*WBD - What Bitcoin Did*)  
+
+Ostali naučni papiri:  
+-[nakamotoinstitute/funding-of-micropayment-channel](https://nakamotoinstitute.org/static/docs/scalable-funding-of-bitcoin-micropayment-channel-networks.pdf){:target="_blank"}  
+-[lightning-pool-whitepaper](https://lightning.engineering/lightning-pool-whitepaper.pdf){:target="_blank"}  
+-[MA_EEMCS](https://essay.utwente.nl/80780/1/Wijburg_MA_EEMCS.pdf){:target="_blank"}  
 
 Tabla info:  
 -[mempool.space/lightning](https://mempool.space/lightning){:target="_blank"}  
