@@ -591,15 +591,16 @@ Tech gurui:<br>
 &nbsp;- [Jameson Lopp](https://www.lopp.net/){:target="_blank"},<br>
 &nbsp;- [Shinobi](https://bitcoinmagazine.com/authors/shinobi){:target="_blank"},<br>
 Investitori:<br>
-&nbsp;- [Michael Saylor](https://www.michael.com/){:target="_blank"} ([MicroStrategy](https://www.microstrategy.com/en){:target="_blank"}),<br>
+&nbsp;- [Michael Saylor](https://www.michael.com/){:target="_blank"} ([MicroStrategy](https://www.microstrategy.com/en){:target="_blank"}); ([Lex Podcast: Budućnost Novca](https://www.youtube.com/watch?v=mC43pZkpTec){:target="_blank"}),<br>
 &nbsp;- [Jack Dorsey](https://twitter.com/jack/){:target="_blank"} ([Twitter](https://twitter.com/){:target="_blank"}, [Block](https://block.xyz/){:target="_blank"} [Square]),<br>
 &nbsp;- [Elon Musk](https://www.forbes.com/profile/elon-musk/?sh=779e3e947999){:target="_blank"} ([Tesla](https://www.tesla.com/){:target="_blank"}),<br>
 &nbsp;- [Cathie Wood](https://www.forbes.com/profile/cathie-wood/?sh=1e3081b47360){:target="_blank"} ([Ark Invest](https://ark-invest.com/){:target="_blank"}),<br>
 Podkasteri:<br>
-&nbsp;- Peter McCormack ([Šta je Bitkoin uradio](https://www-whatbitcoindid-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"});<br>
-&nbsp;- Robert Breedlove ([Šta je novac](https://www.youtube.com/playlist?list=PL2jAZ0x9H0bRvoNt1xNJWYa9_8_an03h0){:target="_blank"});<br>
-&nbsp;- Anthony Pompliano ([Pomp podkast](https://www.youtube.com/c/AnthonyPompliano){:target="_blank"});<br>
-&nbsp;- Lex Fridman ([Lex podkast sa M.Saylor-om: Budućnost novca](https://www.youtube.com/watch?v=mC43pZkpTec){:target="_blank"});<br>
+&nbsp;- [Peter McCormack](https://www.petermccormack.co.uk/){:target="_blank"} ([What Bitcoin Did](https://www.whatbitcoindid.com/){:target="_blank"});<br>
+&nbsp;- [Matthew Kratterk](https://www.bitcoinuniversity.com/about){:target="_blank"} (Bitcoin University]([https://www.whatbitcoindid.com/](https://www.youtube.com/@Bitcoin_University)){:target="_blank"});<br>
+&nbsp;- [Preston Pysh](https://twitter.com/PrestonPysh){:target="_blank"} ([Bitcoin's future global impact](https://www.youtube.com/@PrestonPysh){:target="_blank"});<br>
+&nbsp;- [Natalie Brunell](https://twitter.com/natbrunell){:target="_blank"} ([Coin Stories](https://www.youtube.com/@nataliebrunell){:target="_blank"});<br>
+&nbsp;- [Robert Breedlove](https://twitter.com/Breedlove22){:target="_blank"} ([What is Money](https://www.youtube.com/playlist?list=PL2jAZ0x9H0bRvoNt1xNJWYa9_8_an03h0){:target="_blank"});<br>
 &nbsp;- Galeb Nikačević ([Agelast - ECD (kriptovalute)](https://www.youtube.com/watch?v=l89maeYZAEE){:target="_blank"});<br>
 
 ## <ins>5. Pogled u budućnosti</ins>
