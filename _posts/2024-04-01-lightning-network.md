@@ -7,7 +7,7 @@ classes: wide
 excerpt: "Lajtning Mreža"
 ---
 
-**[LN](https://en.wikipedia.org/wiki/Lightning_Network){:target="_blank"} razvoj i slučaj upotrebe**<br>
+**[LN](https://en.wikipedia.org/wiki/Lightning_Network){:target="_blank"} razvoj i upotreba**<br>
 Bitcoin Sloj 2 (L2) - [Tehnologija iza](https://medium.com/coinmonks/the-lightning-network-technology-behind-bitcoins-scaling-solution-915c07455ca8){:target="_blank"}
 
 LANG(jezik):<br>
