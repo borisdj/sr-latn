@@ -684,6 +684,7 @@ Podkasteri:<br>
 &nbsp;- [Matthew Kratterk](https://www.bitcoinuniversity.com/about){:target="_blank"} (Bitcoin University]([https://www.whatbitcoindid.com/](https://www.youtube.com/@Bitcoin_University)){:target="_blank"});<br>
 &nbsp;- [Preston Pysh](https://twitter.com/PrestonPysh){:target="_blank"} ([Bitcoin's future global impact](https://www.youtube.com/@PrestonPysh){:target="_blank"});<br>
 &nbsp;- [Natalie Brunell](https://twitter.com/natbrunell){:target="_blank"} ([Coin Stories](https://www.youtube.com/@nataliebrunell){:target="_blank"});<br>
+&nbsp;- [Bram Kanstein](https://kanstein.co/){:target="_blank"} ([₿itcoin za Milenijce](https://www.youtube.com/@bramk){:target="_blank"});<br>
 &nbsp;- [Robert Breedlove](https://twitter.com/Breedlove22){:target="_blank"} ([What is Money](https://www.youtube.com/playlist?list=PL2jAZ0x9H0bRvoNt1xNJWYa9_8_an03h0){:target="_blank"});<br>
 &nbsp;- DVADESET JEDAN ([HUB 21 - The Belgrade Bitcoin Hub](https://www.youtube.com/@dvadesetjedan){:target="_blank"});<br>
 &nbsp;- Galeb Nikačević ([Agelast - ECD (kriptovalute)](https://www.youtube.com/watch?v=l89maeYZAEE){:target="_blank"});<br>
