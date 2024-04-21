@@ -579,30 +579,6 @@ Ima onih koji kažu da je [Bitcoin filozofija kao religija](https://theconversat
 -- Današnje društvo prekomjerne potrošnje nije dugoročno održivo. Ulaganje u Bitkoin smanjuje kupovinu potrošne robe kratkog vijeka trajanja, koja završava na deponijama. Društvo bi trebalo promijeniti svoje kupovne navike jer resursi planete nisu neograničeni. Takođe, proizvodnja treba težiti trajnosti, a ne imati [planirano zastarjevanje](https://durabilitymatters-com.translate.goog/planned-obsolescence/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}. Problem nije u rastu, već u efikasnosti, kako dobiti više za manje. Ovo iz temelja mijenja način na koji naša ekonomija funkcioniše.<br>
 -- Zbog narušenog monetarnog sistema, višak vrijednosti teče ka vrhu. To je jedan od razloga zašto ima mnogo milijardera dok drugi moraju da rade 60 sati sedmično samo da bi spojili kraj s krajem. Umjesto toga, veća produktivnost mogla bi većini ljudi omogućiti formalno radno vrijeme od 30 sati sedmično (automatizacija bi mogla osloboditi vrijeme za više ljudske kreativnosti).
 
--- Navedimo listu upućenih ljudi iz Bitkoin zajednice:<br>
-Bitkoin i makro sistemi:<br>
-&nbsp;- [Jeff Booth](https://www.jeffreybooth.com/){:target="_blank"},<br>
-&nbsp;- [Luke Gromen](https://fftt-llc.com/about/){:target="_blank"},<br>
-&nbsp;- [Lyn Alden](https://www.lynalden.com/){:target="_blank"},<br>
-&nbsp;- [Nic Carter](https://niccarter.info/about/){:target="_blank"},<br>
-Tech gurui:<br>
-&nbsp;- [Andreas Antonopoulos](https://aantonop.com/){:target="_blank"} (strasteni zagovornik i autor),<br>
-&nbsp;- [Jack Mallers](https://twitter.com/jackmallers){:target="_blank"} ([Strike](https://strike.me/){:target="_blank"}),<br>
-&nbsp;- [Jameson Lopp](https://www.lopp.net/){:target="_blank"},<br>
-&nbsp;- [Shinobi](https://bitcoinmagazine.com/authors/shinobi){:target="_blank"},<br>
-Investitori:<br>
-&nbsp;- [Michael Saylor](https://www.michael.com/){:target="_blank"} ([MicroStrategy](https://www.microstrategy.com/en){:target="_blank"}); ([Lex Podcast: Budućnost Novca](https://www.youtube.com/watch?v=mC43pZkpTec){:target="_blank"}),<br>
-&nbsp;- [Jack Dorsey](https://twitter.com/jack/){:target="_blank"} ([Twitter](https://twitter.com/){:target="_blank"}, [Block](https://block.xyz/){:target="_blank"} [Square]),<br>
-&nbsp;- [Elon Musk](https://www.forbes.com/profile/elon-musk/?sh=779e3e947999){:target="_blank"} ([Tesla](https://www.tesla.com/){:target="_blank"}),<br>
-&nbsp;- [Cathie Wood](https://www.forbes.com/profile/cathie-wood/?sh=1e3081b47360){:target="_blank"} ([Ark Invest](https://ark-invest.com/){:target="_blank"}),<br>
-Podkasteri:<br>
-&nbsp;- [Peter McCormack](https://www.petermccormack.co.uk/){:target="_blank"} ([What Bitcoin Did](https://www.whatbitcoindid.com/){:target="_blank"});<br>
-&nbsp;- [Matthew Kratterk](https://www.bitcoinuniversity.com/about){:target="_blank"} (Bitcoin University]([https://www.whatbitcoindid.com/](https://www.youtube.com/@Bitcoin_University)){:target="_blank"});<br>
-&nbsp;- [Preston Pysh](https://twitter.com/PrestonPysh){:target="_blank"} ([Bitcoin's future global impact](https://www.youtube.com/@PrestonPysh){:target="_blank"});<br>
-&nbsp;- [Natalie Brunell](https://twitter.com/natbrunell){:target="_blank"} ([Coin Stories](https://www.youtube.com/@nataliebrunell){:target="_blank"});<br>
-&nbsp;- [Robert Breedlove](https://twitter.com/Breedlove22){:target="_blank"} ([What is Money](https://www.youtube.com/playlist?list=PL2jAZ0x9H0bRvoNt1xNJWYa9_8_an03h0){:target="_blank"});<br>
-&nbsp;- Galeb Nikačević ([Agelast - ECD (kriptovalute)](https://www.youtube.com/watch?v=l89maeYZAEE){:target="_blank"});<br>
-
 ## <ins>5. Pogled u budućnosti</ins>
 {: #looking-forward }
 ### 5.1 Budući razvoj [[C](#toc)]
@@ -687,8 +663,35 @@ Novi ljudi koji dolaze nemaju iste informacije kao oni koji su bili tu ranije. R
 (I pohvale i kritike su dobrodošle)<br>
 [**Vidi sve komentare**](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYCQRmyTGP2q3GphttZcEae9GlXohAqYy77GIdvVsh5deOfzo-M8J_S_gworsgvkH2klOfLmBoHzQO/pubhtml){:target="_blank"}<br>
 
--- Ostanite sa nama za objavu o lajtning mreži (*Lightning Network*) sljedećeg mjeseca.<br>
-Uz to će biti i **Kviz** sa pitanjima. Za one koji daju sve tačne odgovore, nagrada će biti određena količina satoshi-ja putem *lightning* mreže.
+-- Navedimo listu upućenih ljudi iz Bitkoin zajednice:<br>
+Bitkoin i makro sistemi:<br>
+&nbsp;- [Jeff Booth](https://www.jeffreybooth.com/){:target="_blank"},<br>
+&nbsp;- [Luke Gromen](https://fftt-llc.com/about/){:target="_blank"},<br>
+&nbsp;- [Lyn Alden](https://www.lynalden.com/){:target="_blank"},<br>
+&nbsp;- [Nic Carter](https://niccarter.info/about/){:target="_blank"},<br>
+Tech gurui:<br>
+&nbsp;- [Andreas Antonopoulos](https://aantonop.com/){:target="_blank"} (strasteni zagovornik i autor),<br>
+&nbsp;- [Jack Mallers](https://twitter.com/jackmallers){:target="_blank"} ([Strike](https://strike.me/){:target="_blank"}),<br>
+&nbsp;- [Jameson Lopp](https://www.lopp.net/){:target="_blank"},<br>
+&nbsp;- [Shinobi](https://bitcoinmagazine.com/authors/shinobi){:target="_blank"},<br>
+Investitori:<br>
+&nbsp;- [Michael Saylor](https://www.michael.com/){:target="_blank"} ([MicroStrategy](https://www.microstrategy.com/en){:target="_blank"}); ([Lex Podcast: Budućnost Novca](https://www.youtube.com/watch?v=mC43pZkpTec){:target="_blank"}),<br>
+&nbsp;- [Jack Dorsey](https://twitter.com/jack/){:target="_blank"} ([Twitter](https://twitter.com/){:target="_blank"}, [Block](https://block.xyz/){:target="_blank"} [Square]),<br>
+&nbsp;- [Elon Musk](https://www.forbes.com/profile/elon-musk/?sh=779e3e947999){:target="_blank"} ([Tesla](https://www.tesla.com/){:target="_blank"}),<br>
+&nbsp;- [Cathie Wood](https://www.forbes.com/profile/cathie-wood/?sh=1e3081b47360){:target="_blank"} ([Ark Invest](https://ark-invest.com/){:target="_blank"}),<br>
+Podkasteri:<br>
+&nbsp;- [Peter McCormack](https://www.petermccormack.co.uk/){:target="_blank"} ([What Bitcoin Did](https://www.whatbitcoindid.com/){:target="_blank"});<br>
+&nbsp;- [Matthew Kratterk](https://www.bitcoinuniversity.com/about){:target="_blank"} (Bitcoin University]([https://www.whatbitcoindid.com/](https://www.youtube.com/@Bitcoin_University)){:target="_blank"});<br>
+&nbsp;- [Preston Pysh](https://twitter.com/PrestonPysh){:target="_blank"} ([Bitcoin's future global impact](https://www.youtube.com/@PrestonPysh){:target="_blank"});<br>
+&nbsp;- [Natalie Brunell](https://twitter.com/natbrunell){:target="_blank"} ([Coin Stories](https://www.youtube.com/@nataliebrunell){:target="_blank"});<br>
+&nbsp;- [Robert Breedlove](https://twitter.com/Breedlove22){:target="_blank"} ([What is Money](https://www.youtube.com/playlist?list=PL2jAZ0x9H0bRvoNt1xNJWYa9_8_an03h0){:target="_blank"});<br>
+&nbsp;- DVADESET JEDAN ([HUB 21 - The Belgrade Bitcoin Hub](https://www.youtube.com/@dvadesetjedan){:target="_blank"});<br>
+&nbsp;- Galeb Nikačević ([Agelast - ECD (kriptovalute)](https://www.youtube.com/watch?v=l89maeYZAEE){:target="_blank"});<br>
+
+https://www.youtube.com/@dvadesetjedan
+
+-- Ostanite sa nama za naredne objave u vezi Marko i Lajtning mreži (*Lightning Network*).<br>
+Poslije će biti i **Kviz** sa pitanjima. Za one koji daju sve tačne odgovore, nagrada će biti određena količina satoshi-ja putem *lightning* mreže.
 
  DODATAK<br>
 **Odricanje odgovornosti**:<br>
