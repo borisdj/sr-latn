@@ -179,4 +179,4 @@ YT govori za poslušati:
 Epilog: Narednih mjeseci biće zanimljivo vidjeti kako će se ovo odvijati, ostanite sa nama.  
 Za sve koji su željni saznati više i da zarone dublje u tematiku, prvi Bit post je bila mini e-knjiga: [**(r)Evolution of Money**](https://infopedia.io/revolution-of-money/)  
 Još domaćeg štiva: [Bitcoin Balkan](https://bitcoin-balkan.com/){:target="_blank"}  
-Takođe odlična literatura je obrazovna knjiga iz Salvadora: [**Bitcoin-Diploma**](https://github.com/MyFirstBitcoin/Bitcoin-Diploma/blob/main/English%20-%20V%203.0%20-%20Bitcoin%20Diploma.pdf){:target="_blank"} (*[MiPrimerBitcoin](https://miprimerbitcoin.io/en/my-first-bitcoin/){:target="_blank"} - Moj prvi Bitkoin*) za povećanje finansijske svijesti.
+Takođe odlična literatura je obrazovna knjiga iz Salvadora: [**Bitcoin-Diploma**](https://github.com/MyFirstBitcoin/Bitcoin-Diploma/blob/main/English%20-%20V%203.0%20-%20Bitcoin%20Diploma.pdf){:target="_blank"} (*[MiPrimerBitcoin](https://miprimerbitcoin.io/en/my-first-bitcoin/){:target="_blank"} - Moj prvi Bitkoin*) za povećanje finansijske pismenosti i svijesti.
