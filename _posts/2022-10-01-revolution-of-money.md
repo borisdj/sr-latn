@@ -663,7 +663,6 @@ Novi ljudi koji dolaze nemaju iste informacije kao oni koji su bili tu ranije. R
 -- Ostavite **Komentar** (stručnu recenziju) i dajte svoje lično mišljenje.<br>
 [**Forma za komentare**](https://docs.google.com/forms/d/e/1FAIpQLSfX6OicCuvvcd8ewY0_qqKlOzegljSMmSVX_KfGwtP89EF3AQ/viewform){:target="_blank"}<br>
 (I pohvale i kritike su dobrodošle)<br>
-[**Vidi sve komentare**](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYCQRmyTGP2q3GphttZcEae9GlXohAqYy77GIdvVsh5deOfzo-M8J_S_gworsgvkH2klOfLmBoHzQO/pubhtml){:target="_blank"}<br>
 
 -- Navedimo listu upućenih ljudi iz Bitkoin zajednice:<br>
 Bitkoin i makro sistemi:<br>
@@ -690,8 +689,6 @@ Podkasteri:<br>
 &nbsp;- [Robert Breedlove](https://twitter.com/Breedlove22){:target="_blank"} ([What is Money](https://www.youtube.com/playlist?list=PL2jAZ0x9H0bRvoNt1xNJWYa9_8_an03h0){:target="_blank"});<br>
 &nbsp;- DVADESET JEDAN ([HUB 21 - The Belgrade Bitcoin Hub](https://www.youtube.com/@dvadesetjedan){:target="_blank"});<br>
 &nbsp;- Galeb Nikačević ([Agelast - ECD (kriptovalute)](https://www.youtube.com/watch?v=l89maeYZAEE){:target="_blank"});<br>
-
-https://www.youtube.com/@dvadesetjedan
 
 -- Ostanite sa nama za naredne objave u vezi Marko i Lajtning mreži (*Lightning Network*).<br>
 Poslije će biti i **Kviz** sa pitanjima. Za one koji daju sve tačne odgovore, nagrada će biti određena količina satoshi-ja putem *lightning* mreže.
