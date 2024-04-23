@@ -79,7 +79,7 @@ Jedan komičar je čak rekao:<br>
 *"To je sve što ne razumijete o novcu u kombinaciji sa svime što ne razumijete o računarima".*<br>
 Ali kako počnete da učite, posljedično ćete steći znanje o ekonomiji, informatici, matematici, filozofiji, politici, istoriji, pa čak i fizici.<br>
 PS<br>
-Konačno formatiranje / refaktorisanje teksta još u toku.
+Konačno formatiranje i refaktorisanje teksta kontinualno traje.
 
 ## <ins>1 Monetarne hronike</ins>
 {: #monetary-chronicles }
