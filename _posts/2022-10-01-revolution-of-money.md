@@ -379,8 +379,8 @@ Pogledajmo određene **Slabosti i Prijetnje (*Weaknesses & Threat*)** i njihova 
   - Mrežni efekat drži BTC na vrhu, a rudarenje otežava dupliranje hardvera i infrastrukture
   - Postoji mnogo kopija i verzija, sa većim ili manjim izmjenama, ali imaju malu ili nikakvu vrijednost i manju likvidnost
 * 2 Nije podržano ničim
-  - Podržano električnom energijom (svojstvena vrijednost iz energije)
-  - Novac kao apstraktni pojam djelimično zavisi od vjerovanja<br>
+  - Podržano električnom energijom (usidren u stvarni svijet pomoću energije)
+  - Novac kao apstraktni pojam djelimično zavisi od vjerovanja (svojstvena vrijednost od ljudi koji ga koriste)<br>
 (sporazum među ljudima koji misle da je vrijedno)
 * 3 [Ponzi šema](https://constantinecannon-com.translate.goog/practice/whistleblower/whistleblower-types/financial-investment-fraud/ponzi-schemes/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} (još jedna [tulip manija](https://www-history-com.translate.goog/news/tulip-mania-financial-crash-holland?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"})
   - Zapravo je Anti-Ponzi, nema piramidalne strukture i nema procenta za 'dovođenje' drugih
