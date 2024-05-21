@@ -168,7 +168,8 @@ DYOR (*Do Your Own Research* - uradite sopstveno istraživanje) i napravite svoj
 Servisi za redovnu [kupovinu](https://www.reddit.com/r/Bitcoin/comments/168ez0h/strike_swan_or_river_for_dca/){:target="_blank"} i/ili [dokupljivanje](https://dca.bitnob.com/){:target="_blank"} ([BTC-DCA_CompareSheet](https://docs.google.com/spreadsheets/d/1NXle4attr4cp6lESAaPRT4zSFmcPlQl8VZ7nmsJJGGk/view){:target="_blank"}) sa bankovnom karticom za buduće [trošenje](https://bitcoin-only.com/spend-bitcoin){:target="_blank"} i [penziju](https://er-bybitcoin.com/){:target="_blank"}:  
 | 1.[River](https://river.com/){:target="_blank"} | 2.[Strike](https://strike.me/){:target="_blank"} | 3.[CashApp](https://cash.app/){:target="_blank"} (samo US) | 4.[Swan](https://www.swanbitcoin.com/){:target="_blank"} |  
 | [relai](https://relai.app/){:target="_blank"}(Swiss) |  [peachbitcoin](https://peachbitcoin.com/){:target="_blank"}(Swiss) | [21bitcoin](https://21bitcoin.app/en){:target="_blank"}(Austria) |  
-
+*Ukoliko se radi DCA u sopstveni kastodi, vodite računa o [UTXO](https://river.com/learn/bitcoins-utxo-model/){:target="_blank"} upravljanju - minimalna transakcija bazne mreže 0,01 BTC - obezbeđenje za visoke naknade u budućnosti.
+ 
 YT govori za poslušati:  
 -[Bitcoin is World Hope](https://www.youtube.com/watch?v=VqXVxBc3WZQ){:target="_blank"} (*Natalie Brunell*)   
 -[Introduction: What is bitcoin and why does it matter?](https://www.youtube.com/watch?v=l1si5ZWLgy0&list=PLPQwGV1aLnTuN6kdNWlElfr2tzigB9Nnj) (*Andreas Antonopoulos*)  
