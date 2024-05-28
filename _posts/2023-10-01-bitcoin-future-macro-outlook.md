@@ -169,7 +169,7 @@ Servisi za redovnu [kupovinu](https://www.reddit.com/r/Bitcoin/comments/168ez0h/
 | 1.[River](https://river.com/){:target="_blank"} | 2.[Strike](https://strike.me/){:target="_blank"} | 3.[CashApp](https://cash.app/){:target="_blank"} (samo US) | 4.[Swan](https://www.swanbitcoin.com/){:target="_blank"} |  
 | [relai](https://relai.app/){:target="_blank"}(Swiss) |  [peachbitcoin](https://peachbitcoin.com/){:target="_blank"}(Swiss) | [21bitcoin](https://21bitcoin.app/en){:target="_blank"}(Austria) |  
 *Ukoliko se radi DCA u sopstveni kastodi, vodite računa o [UTXO](https://river.com/learn/bitcoins-utxo-model/){:target="_blank"} upravljanju - minimalna transakcija bazne mreže 0,01 BTC - obezbeđenje za visoke naknade u budućnosti.  
-Other Bitcoin only exchanges: [guides](https://bitcoinmagazine.com/guides/best-bitcoin-only-exchanges){:target="_blank"}  
+Ostale samo Bitcoin berze: [guides](https://bitcoinmagazine.com/guides/best-bitcoin-only-exchanges){:target="_blank"}  
 Lokalne i regionalne mjenjačnice: | BIH: [ACX](https://acx.ba/){:target="_blank"}, [BCX](https://bcx.ba/){:target="_blank"} | SRB: [ECD](https://ecd.rs/){:target="_blank"}, [CRYPTO12](https://crypto12.com/){:target="_blank"} | HRV: [ElectroCoin](https://electrocoin.eu/hr){:target="_blank"} | [BitStore](https://www.bitstore.net/hr/){:target="_blank"} | 
  
 YT govori za poslušati:  
