@@ -643,8 +643,9 @@ Novi ljudi koji dolaze nemaju iste informacije kao oni koji su bili tu ranije. R
 
 -- Popularne **[Berze](https://coinmarketcap-com.translate.goog/rankings/exchanges/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}** kriptovalutna (mjesta za kupovinu Bitkoina):<br>
 *[Kraken](https://www.kraken.com/){:target="_blank"}, [Binance](https://www.binance.com/){:target="_blank"}, [Bitfinex](https://www.bitfinex.com/){:target="_blank"}, [Coinbase](https://www.coinbase.com/){:target="_blank"}, [Bitstamp](https://www.bitstamp.net/){:target="_blank"}, [Gemini](https://www.gemini.com/){:target="_blank"}, ...*<br>
--- Postoje i [decentralizovana](https://koinly-io.translate.goog/blog/top-no-kyc-crypto-exchanges/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} a i lokalna tržišta kao što su:<br>
-*[Bisq](https://bisq.network/){:target="_blank"}, [KuCoin](https://www.kucoin.com/){:target="_blank"}, [LocalBicoins](https://localbitcoins.com/){:target="_blank"}, [LocalCryptos](https://localcryptos.com/){:target="_blank"}*
+-- Postoje i [decentralizovana](https://koinly-io.translate.goog/blog/top-no-kyc-crypto-exchanges/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} tržišta kao što su:<br>
+*[Bisq](https://bisq.network/){:target="_blank"}, [KuCoin](https://www.kucoin.com/){:target="_blank"}, [LocalBicoins](https://localbitcoins.com/){:target="_blank"}, [LocalCryptos](https://localcryptos.com/){:target="_blank"}*  
+Lokalne i regionalne mjenjačnice: | BIH: [ACX](https://acx.ba/){:target="_blank"}, [BCX](https://bcx.ba/){:target="_blank"} | SRB: [ECD](https://ecd.rs/){:target="_blank"}, [CRYPTO12](https://crypto12.com/){:target="_blank"} | HRV: [ElectroCoin](https://electrocoin.eu/hr){:target="_blank"} | [BitStore](https://www.bitstore.net/hr/){:target="_blank"} | 
 
 -- Što se tiče predviđanja cijene bitkoina, postoje zanimljivi grafikoni prema kojima smo trenutno u dobrom periodu za kupovinu.<br>
 (ali nemojte zaboraviti da je svaka pretpostavka o budućnosti opklada vjerovatnoće)<br>
