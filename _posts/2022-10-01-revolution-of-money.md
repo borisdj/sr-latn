@@ -642,9 +642,9 @@ Novi ljudi koji dolaze nemaju iste informacije kao oni koji su bili tu ranije. R
 Što se tiče onih koji su zainteresirani za trgovanje između ciklusa, imajte na umu [pravilo 80-20](https://alphachain-co-uk.translate.goog/blog/trading-80-20-using-the-pareto-rule-in-trading?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} ([Pareto princip](https://www-investopedia-com.translate.goog/terms/p/paretoprinciple.asp?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"})
 
 -- Popularne **[Berze](https://coinmarketcap-com.translate.goog/rankings/exchanges/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}** kriptovalutna (mjesta za kupovinu Bitkoina):<br>
-*[Kraken](https://www.kraken.com/){:target="_blank"}, [Binance](https://www.binance.com/){:target="_blank"}, [Bitfinex](https://www.bitfinex.com/){:target="_blank"}, [Coinbase](https://www.coinbase.com/){:target="_blank"}, [Bitstamp](https://www.bitstamp.net/){:target="_blank"}, [Gemini](https://www.gemini.com/){:target="_blank"}, ...*<br>
+*[Kraken](https://www.kraken.com/){:target="_blank"}, [Binance](https://www.binance.com/){:target="_blank"}, [Bitfinex](https://www.bitfinex.com/){:target="_blank"}, [Coinbase](https://www.coinbase.com/){:target="_blank"}, [Bitstamp](https://www.bitstamp.net/){:target="_blank"}, [Gemini](https://www.gemini.com/){:target="_blank"}, [KuCoin](https://www.kucoin.com/){:target="_blank"}, ...*<br>
 -- Postoje i [decentralizovana](https://koinly-io.translate.goog/blog/top-no-kyc-crypto-exchanges/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} tržišta kao što su:<br>
-*[Bisq](https://bisq.network/){:target="_blank"}, [KuCoin](https://www.kucoin.com/){:target="_blank"}, [LocalBicoins](https://localbitcoins.com/){:target="_blank"}, [LocalCryptos](https://localcryptos.com/){:target="_blank"}*  
+*[Bisq](https://bisq.network/){:target="_blank"}, [HodlHodl](https://hodlhodl.com/){:target="_blank"}, [RoboSats](https://learn.robosats.com/){:target="_blank"}*  
 
 -- Što se tiče predviđanja cijene bitkoina, postoje zanimljivi grafikoni prema kojima smo trenutno u dobrom periodu za kupovinu.<br>
 (ali nemojte zaboraviti da je svaka pretpostavka o budućnosti opklada vjerovatnoće)<br>
