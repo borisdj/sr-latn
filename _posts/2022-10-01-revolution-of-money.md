@@ -288,11 +288,11 @@ TED govori:<br>
 
 | **VLAST**      | **BIT**      | Opis                                |
 | -------------- | ------------ |------------------------------------ |
-| 1. Izvršna     | Puni čvorovi | mogu staviti veto na rudare         |
-| 2. Sudska      | Rudari       | mogu staviti veto na programere     |
+| 1. Sudska      | Puni čvorovi | mogu staviti veto na rudare         |
+| 2. Izvršna     | Rudari       | mogu staviti veto na programere     |
 | 3. Zakonodavna | Programeri   | mogu pomaći drugima da zaobiđu veto |
 
-Zakonodavni dio takođe uključuje poslovanje i infrastrukturu analogno Parlamentu (zastupnicima), dok su Programeri kao Senat. U poređenju sa preduzećima, najbolje paralele mogu se povući sa IT kompanijama (Informacione tehnologije).<br>
+Zakonodavni dio takođe uključuje kompanije i infrastrukturu analogno Parlamentu (zastupnicima), dok su Programeri kao Senat, a rudari se ponašaju kao unajmljeno obezbeđenje. Krajnji korisnici su kao građani sa pravom glasa ili kao akcionari firme, pri čemu svako slobodno može da postane i čvor. U poređenju sa preduzećima, najbolje paralele mogu se povući sa IT kompanijama (Informacione tehnologije).  
 -- Proizvod je globalna monetarna valuta i sistem plaćanja, a u isto vrijeme koin predstavlja vlasnike ili akcionare. S druge strane su programeri i rudari, zajedno sa čvorovima, poput vrlo širokog odbora direktora, upravnog i nadzornog.<br>
 
 **Pravila bitkoina:**<br>
@@ -356,7 +356,7 @@ S druge strane ažuriranja koja su prošla kao što su [SegWit](https://www.inve
   - iz [Prvi principi](https://fs-blog.translate.goog/first-principles/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} Novac je razmjena energije (Ekon 101)
   - smanjenje entropije ([Bitkoin Informaciona Teorija B.I.T.](https://bitcoinmagazine-com.translate.goog/culture/bitcoin-information-theory-bit?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"})
 * 18 Oružje za [mir, a ne rat](https://inbitcoinwetrust-substack-com.translate.goog/p/a-weapon-for-peace-not-war-bitcoin?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} (izlazna strategija za ljude)
-  - [ratno odvraćanje](https://www.trustnodes.com/2021/08/14/bitcoin-is-a-war-deterrent-and-in-the-interest-of-us-national-security-says-space-force-engineer){:target="_blank"} - mijenja ratovanje iz kinetičke u električnu energiju
+  - [ratno odvraćanje](https://www.trustnodes.com/2021/08/14/bitcoin-is-a-war-deterrent-and-in-the-interest-of-us-national-security-says-space-force-engineer){:target="_blank"} - mijenja ratovanje iz kinetičke u električnu energiju (i [kritika](https://blog.lopp.net/critique-softwar-concepts/){:target="_blank"})
   - budući cilj ratnog aparata će biti [najveća stopa isporuke energije](https://bitcoinmagazine-com.translate.goog/culture/bitcoin-and-teslas-peaceful-energy-vision?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}<br>
 (Nikola Tesla je zamislio mirnu energiju)
 * 19 Obrazovno vozilo, novčana radoznalost
