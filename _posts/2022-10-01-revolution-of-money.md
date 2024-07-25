@@ -8,7 +8,7 @@ excerpt: "Uspon Bitcoin-a sa pričom o kripto industriji"
 ---
 
 (*Novac i platni sistem sutrašnjice*)<br>
-Uspon **Bitcoin-a** sa pričom o kripto industriji
+Uspon **Bitcoin-a** sa pričom o kripto industriji - Reforma i evolucija;
 
 LANG(jezik):<br>
 [Globalni](https://infopedia.io/revolution-of-money) (en-us) / Lokalni (sr-latn-ba)
