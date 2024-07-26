@@ -609,7 +609,7 @@ Drugo odlučite da li ga želite kupite, za sada kao investiciju, a kasnije kao 
 
 ### 5.3 Praktični pristup [[C](#toc)]
 {: #practical-approach }
--- U širem smislu investicioni plan uključuje prvo da se informišete, uradite svoj domaći zadatak. Drugo, odlučite koji iznos vam je na raspolaganju za ulaganje. Na kraju ga podijelite na osnovu vašeg apetita za rizikom na nekoliko klasa imovine. U ranoj fazi rizik je bio mnogo veći u skladu sa maksimom: *Investirajte samo ono što ste spremni izgubiti*. Sada je manje rizično nego u prošloj deceniji, ali se i dalje smatra relativno rizičnijom klasom, uglavnom zbog velikih kretanja cijene gore i dole.<br>
+-- U širem smislu investicioni plan uključuje prvo da se informišete, uradite svoj domaći zadatak. Drugo, odlučite koji iznos vam je na raspolaganju za ulaganje. Na kraju ga podijelite na osnovu vašeg apetita za rizikom na nekoliko klasa imovine. U ranoj fazi rizik je bio mnogo veći u skladu sa maksimom: *Investirajte samo ono što možete priuštiti da izgubite*. Sada je manje rizično nego u prošloj deceniji, ali se i dalje smatra relativno rizičnijom klasom, uglavnom zbog velikih kretanja cijene gore i dole. Ali sada postoji suprotna izreka: *Kupite Bitcoin s novcem koji ne želite izgubiti u dužem periodu*.<br>
 Samo ako budete dovoljno uvjereni u Bitkoin priču, onda je dobra ideja investirati.<br>
 --U praksi postoji nekoliko generalno korisnih strategija (može se koristiti jedna ili više):<br>
 &nbsp;1. Premjestite (preusmjerite) dio svog portfelja u Btc i držite ga dugoročno<br>
