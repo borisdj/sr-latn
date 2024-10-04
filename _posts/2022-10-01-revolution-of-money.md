@@ -479,7 +479,7 @@ Bitkoin monetarna inflacija [izvor grafa](https://bashco-github-io.translate.goo
 
 -- Postoji nekoliko razloga zašto je on glavni, kripto kralj, a to su:<br>
 1. Prava decentralizacija
-   - ovo je od najveće važnosti i PoW sa svom svojom potrošnjom električne energije mu daje suštinsku vrijednost ukorijenjenu u fizičkom svijetu a istovremeno obezbjeđuje vremensku i prostornu sigurnost.
+   - ovo je od najveće važnosti i PoW sa svom svojom potrošnjom električne energije mu daje suštinsku vrijednost (korisnost) ukorijenjenu u fizičkom svijetu a istovremeno obezbjeđuje vremensku i prostornu sigurnost.
    - ne može se falsifikovati jer ima trošak energije.
    - dok kompanije i njihove mreže/platforme mogu biti cenzurisane, protokoli se ne mogu tako lako blokirati.<br>
 2. Mrežni efekat
