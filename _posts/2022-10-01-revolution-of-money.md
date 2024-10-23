@@ -315,7 +315,7 @@ S druge strane ažuriranja koja su prošla kao što su [SegWit](https://www.inve
 
 **Dodatne neformale definicije:**<br>
 * 1 Čvrsta imovina (minimizovano povjerenje)
-  - premium roba
+  - premium roba (vještački materijal)
   - neotuđiva digitalna svojina<br>
 * 2 Novac za budućnost (internet izvorni)
   - najzastupljenija i sveprisutna kriptovaluta<br>
