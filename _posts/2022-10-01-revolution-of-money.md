@@ -469,7 +469,7 @@ U cjelini **koristi nadmašuju rizike** značajno.<br>
 Istorijski podaci: američke kamatne stope u posljednjih [200 godina](https://advisor-visualcapitalist-com.translate.goog/us-interest-rates/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} i hipoteka na 30 godina od [1971-2022]( https://themortgagereports-com.translate.goog/61853/30-year-mortgage-rates-chart?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}.<br>
 -- Postoji odlična knjiga *'[**Cijena sutrašnjice**](https://tylerahall-com.translate.goog/the-price-of-tomorrow-jeff-booth-summary/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} : Zašto je deflacija ključ bogate budućnosti'* od *Jeffa Boot*-a. On predlaže da se prestane boriti protiv deflacije (vođene tehnologijom), umjesto toga prihvatiti njen potencijal obilja. To bi bio sistem gdje potrošači pobjeđuju u vidu boljih cijena i usluga.
 
-Bitkoin monetarna inflacija [izvor grafa](https://bashco-github-io.translate.goog/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}<br>
+Bitkoin monetarna inflacija [izvor grafa](https://bashco.github.io/Bitcoin_Monetary_Inflation/){:target="_blank"}<br>
 (geometrijski se spušta ka asimptotskom maksimumu od 21 mil. - [tačnije](https://academy-bit2me-com.translate.goog/en/cuantos-bitcoins-pueden-haber/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} 20.999.999,9993)<br>
 ![Btc Monetary Inflation](https://raw.githubusercontent.com/borisdj/sr-latn/main/assets/images/revolution-of-money/btc-monetary-inflation.png)<br>
 
