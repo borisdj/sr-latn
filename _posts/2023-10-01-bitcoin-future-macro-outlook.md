@@ -92,9 +92,9 @@ On bi bio kao precizan numerički sistem mjerenja ekonomske aktivnosti - [**mjer
 -- niža vremenska preferencija, razmišljanje na duži rok, manje konzumerizma bezvrijedne robe (bez prekomjerne potrošnje)  
 -- realne plate koje održavaju kupovnu moć uz blagu deflaciju cijena i vode ka većem prosperitetu  
 &nbsp;&nbsp;(nema potrebe da se traži povišica samo da bi se pratila inflacija)  
--- pravedna distribucija privrednog rasta uklanjanjem prikrivenog regresivnog poreza putem inflacije  
+-- pravedna distribucija privrednog rasta uklanjanjem prikrivenog regresivnog poreza znanog kao inflacija  
 &nbsp;&nbsp;(bez [***Cantillon* efekta**](https://whatismoney.info/cantillon-effect-bitcoin/){:target="_blank"} – oni koji su blizu štamparske mašine imaju najviše koristi, finansijska elita;  
-&nbsp;&nbsp;&nbsp;Danas imamo socijalizovane gubitke a privatizovane dobitke)
+&nbsp;&nbsp;&nbsp; Naspram današnjeg sistema gdje imamo socijalizovane gubitke a privatizovane dobitke)
 -- pojednostavljena štednja (takođe postoji moć jednostavnosti Bitkoin arhitekture)
 
 ### Predstojeći period
