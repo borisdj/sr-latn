@@ -7,6 +7,9 @@ classes: wide
 excerpt: "prijedlog za popravljanje OS"
 ---
 
+LANG(jezik):<br>
+Global(en-us) / [Local](https://infopedia.io/sr-latn/solution-to-opensource-sustainability/) (sr-latn-ba)<br>
+
 ![/solution-to-opensource-sustainability](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/solution-to-opensource-sustainability/OS2.jpg)
 
 <center>QR Link</center>
