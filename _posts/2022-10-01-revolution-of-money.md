@@ -353,7 +353,7 @@ S druge strane ažuriranja koja su prošla kao što su [SegWit](https://www.inve
   - neutralan oblik novca (koji niko ne kontroliše)
   - novi operativni sistem privrede
 * 17 Monetarna / Ekonomska energija
-  - iz [Prvi principi](https://fs-blog.translate.goog/first-principles/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} Novac je razmjena energije (Ekon 101)
+  - iz [Prvi principi](https://fs-blog.translate.goog/first-principles/?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} Novac je razmjena energije (Ekon 101) - Henri Ford [energetska valuta](https://www.reddit.com/r/Bitcoin/comments/12fkc8h/henry_fords_bitcoin_energy_currency_full_article/){:target="_blank"}
   - smanjenje entropije ([Bitkoin Informaciona Teorija B.I.T.](https://bitcoinmagazine-com.translate.goog/culture/bitcoin-information-theory-bit?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"})
 * 18 Oružje za [mir, a ne rat](https://inbitcoinwetrust-substack-com.translate.goog/p/a-weapon-for-peace-not-war-bitcoin?_x_tr_sl=en&_x_tr_tl=bs&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"} (izlazna strategija za ljude)
   - [ratno odvraćanje](https://www.trustnodes.com/2021/08/14/bitcoin-is-a-war-deterrent-and-in-the-interest-of-us-national-security-says-space-force-engineer){:target="_blank"} - mijenja ratovanje iz kinetičke u električnu energiju (i [kritika](https://blog.lopp.net/critique-softwar-concepts/){:target="_blank"})
