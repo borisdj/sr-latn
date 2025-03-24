@@ -337,7 +337,7 @@ S druge strane ažuriranja koja su prošla kao što su [SegWit](https://www.inve
 * 9 Produktivna moždana snaga programera (projekat otvorenog koda)
 * 10 Mirni otpor devalvaciji valuta (smanjenju vrijednosti)
 * 11 Moderna deklaracija (monetarne) nezavisnosti / Denacionalizacija
-  - omogućava Suverenog pojedinca (samoodržive zajednice)
+  - omogućava individualni suverenitet (samostalne zajednice)
   - napustiti korumpirani fiat sistem (tiha revolucija)
 * 12 tehnologija i alat finansijske slobode
   - javni novac bez države i bez dozvole
