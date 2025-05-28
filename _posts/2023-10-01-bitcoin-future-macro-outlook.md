@@ -188,4 +188,8 @@ YT govori za poslušati:
 Epilog: Narednih mjeseci biće zanimljivo vidjeti kako će se ovo odvijati, ostanite sa nama.  
 Za sve koji su željni saznati više i da zarone dublje u tematiku, prvi Bit post je bila mini e-knjiga: [**(r)Evolution of Money**](https://infopedia.io/revolution-of-money/)  
 Još domaćeg štiva: [Bitcoin Balkan](https://bitcoin-balkan.com/){:target="_blank"}  
-Takođe odlična literatura je obrazovna knjiga iz Salvadora: [**Bitcoin-Diploma**](https://github.com/MyFirstBitcoin/Bitcoin-Diploma/blob/main/English%20-%20V%203.0%20-%20Bitcoin%20Diploma.pdf){:target="_blank"} (*[MiPrimerBitcoin](https://miprimerbitcoin.io/en/my-first-bitcoin/){:target="_blank"} - Moj prvi Bitkoin*) za povećanje finansijske pismenosti i svijesti.
+Takođe odlična literatura je obrazovna knjiga iz Salvadora: [**Bitcoin-Diploma**](https://github.com/MyFirstBitcoin/Bitcoin-Diploma/blob/main/English%20-%20V%203.0%20-%20Bitcoin%20Diploma.pdf){:target="_blank"} (*[MiPrimerBitcoin](https://miprimerbitcoin.io/en/my-first-bitcoin/){:target="_blank"} - Moj prvi Bitkoin*) za povećanje finansijske pismenosti i svijesti, kao i BTC Prag 2024 [prezentacija](https://drive.google.com/file/d/1XeyZ54c8fJlm54PdmlvTVIXZ0C0r12-3/view?usp=drive_link){:target="_blank"}.  
+
+Lista svih referenciranih [Linkova](https://docs.google.com/spreadsheets/d/e/2PACX-1vTaVyjSphV8HVvW59axppErdPt4u273A5_K8r-p7lJUeJ3idzNwUSfgjVN0la8hLcQdTaVFWxCQKYJw/pubhtml?gid=0&single=true){:target="_blank"}
+
+![QR Link](https://quickchart.io/qr?text=https://infopedia.io/sr-latn/bitcoin-future-macro-outlook/)
