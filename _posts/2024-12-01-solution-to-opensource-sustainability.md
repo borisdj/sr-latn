@@ -40,7 +40,7 @@ Skraćeni članak: [medium/cfoss](https://medium.com/@borisdj/cfoss-as-a-solutio
 -- Još jedan zanimljiv pristup je Otvorena Osnova *OpenCore* koji u suštini ima osnovni projekat potpuno besplatan, ali se neke premium funkcije plaćaju. Lično nisam ljubitelj takve strukture i radije bi zadržao projekat kao jedinstven – u skladu sa [KISS](https://en.wikipedia.org/wiki/KISS_principle){:target="_blank"} principom. Međutim, ne bih imao ništa protiv da ga drugi koriste, sve dok je osnovna komponenta potpuno funkcionalna za više od polovine redovnih slučajeva upotrebe. Ipak, uvijek možete istražiti ideje o [OS monetizaciji](https://www.scaleway.com/en/blog/how-to-monetize-your-open-source-project/){:target="_blank"} i pronaći zanimljive priče.  
 
 Neki značajni primjeri projekata sa tipom cFOSS licence ili sličnim dizajnom:  
--- [*ImageSharp*](https://github.com/SixLabors/ImageSharp){:target="_blank"}, -- [*MathParser*](https://github.com/mariuszgromada/MathParser.org-mXparser){:target="_blank"}, -- [*QuestPdf*](https://www.questpdf.com/){:target="_blank"};  
+-- [*ImageSharp*](https://github.com/SixLabors/ImageSharp){:target="_blank"}, -- [*MathParser*](https://github.com/mariuszgromada/MathParser.org-mXparser){:target="_blank"}, -- [*QuestPdf*](https://www.questpdf.com/){:target="_blank"}, -- [MediatR](https://github.com/LuckyPennySoftware/MediatR){:target="_blank"};  
 -- [**EFCore.BulkExtensions**](https://github.com/borisdj/EFCore.BulkExtensions){:target="_blank"} - lična vodeća biblioteka (ovaj blog post je izrastao iz sage o Bulk-u)  
 ' (Besplatna licenca zajednice pokriva većinu slučajeva, samo je kompanijama sa godišnjim prihodom od milion i više dolara potrebna komercijalna)
 
@@ -55,8 +55,8 @@ Poređenje tipova licenci:
 | **cFOSS**        | Dualna    | Da         | Da              | cond. Free up to threshold | cF-1M            |
 | sFOSS            | Dualna    | Da         | Da              | semi Free, paid commerical | GPL(s)           |
 | OpenCore         | Specijalna| Da         | Da              | paid for premium features  | -                |
-| Source Available | Regularna | Da         | No               | paid or freemium           | BSL              |
-| Closed Source    | Regularna | No          | No               | paid or freeware           | proprietary      |
+| Source Available | Regularna | Da         | No              | paid or freemium           | BSL              |
+| Closed Source    | Regularna | No         | No              | paid or freeware           | proprietary      |
 
 Još info:
 1. [medium/the-sustainability-of-open-source](https://goldglovecb.medium.com/the-sustainability-of-open-source-7ec0390f58e8){:target="_blank"}
