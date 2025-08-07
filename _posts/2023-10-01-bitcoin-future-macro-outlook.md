@@ -109,7 +109,7 @@ Vrlo rijetko u istoriji je postojala neka imovina koja je sigurna za držanje, a
 
 ### Makro-Ekonomska analiza (osobine ograničene količine novca):
 {: #macro }  
-&nbsp;**1.** Jedinstven interoperabilni globalni protokol za prijenos vrijednosti - Bitkoin Standard (standardizacija novca). To znači da nema problema sa konverzijom između valuta za globalnu trgovinu i međunarodno e-poslovanje (jedinstveni zajednički ekonomski jezik). Ekonomije teže prema samo jednom obliku novca ([konvergencija](https://gist.ly/youtube-summarizer/bitcoins-convergence-with-macro-investment-trends-exploring-the-future){:target="_blank"} sa investicionim trendovima).  
+&nbsp;**1.** Jedinstven interoperabilni globalni protokol za prijenos vrijednosti - Bitkoin Standard (standardizacija novca). To znači da nema problema sa konverzijom između valuta za globalnu trgovinu i međunarodno e-poslovanje (jedinstveni zajednički ekonomski jezik sa [nadnacionalnom](https://medium.datadriveninvestor.com/this-is-not-a-tariff-war-its-a-currency-and-interest-rate-war-717fda905d59){:target="_blank"} valutom)). Ekonomije teže prema samo jednom obliku novca ([konvergencija](https://gist.ly/youtube-summarizer/bitcoins-convergence-with-macro-investment-trends-exploring-the-future){:target="_blank"} sa investicionim trendovima).  
 Superiorni novi monetarni režim optimalno projektovan sa razmišljanjem iz [**prvih principa**](https://fs.blog/first-principles/){:target="_blank"} da bude što efikasniji.  
 Obuhvata nekoliko domena, od kojih su 3 glavne: Etika, Ekonomija, Inženjerstvo.
 
@@ -193,3 +193,4 @@ Takođe odlična literatura je obrazovna knjiga iz Salvadora: [**Bitcoin-Diploma
 Lista svih referenciranih [Linkova](https://docs.google.com/spreadsheets/d/e/2PACX-1vTaVyjSphV8HVvW59axppErdPt4u273A5_K8r-p7lJUeJ3idzNwUSfgjVN0la8hLcQdTaVFWxCQKYJw/pubhtml?gid=0&single=true){:target="_blank"}
 
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/sr-latn/bitcoin-future-macro-outlook/)
+
