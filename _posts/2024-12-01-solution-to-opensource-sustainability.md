@@ -7,7 +7,8 @@ classes: wide
 excerpt: "prijedlog za popravljanje OS"
 ---
 
-LANG(jezik): Global(en-us) / [Local](https://infopedia.io/sr-latn/solution-to-opensource-sustainability/) (sr-latn-ba)<br>
+LANG(jezik): Global(en-us) / [Local](https://infopedia.io/sr-latn/solution-to-opensource-sustainability/) (sr-latn-ba)  
+Medium članak: [medium.com/@borisdj/cfoss-as-a-solution](https://medium.com/@borisdj/cfoss-as-a-solution-to-opensource-sustainability-soss-e890419d70d2){:target="_blank"}  
 
 ![/solution-to-opensource-sustainability](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/solution-to-opensource-sustainability/OS2.jpg)
 
