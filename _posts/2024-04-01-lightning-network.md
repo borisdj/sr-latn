@@ -2,7 +2,7 @@
 title: "Lajtning Mreža"
 date: 2024-04-01T00:00:00-00:00
 categories: [fintech]
-tags: [finance, crypto]
+tags: [finance, bitcoin]
 classes: wide
 excerpt: "Lajtning Mreža"
 ---
@@ -116,3 +116,4 @@ Ako imate sopstevni posao ili pružate usluge razmislite o tome da počnete da p
 ![bit-acc](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/lightning-network/bit-acc.png)
 Donacija za podršku: [BTC-LN](https://borisdj.net/donation/donate-btc.html){:target="_blank"}  
 (takođe za podršku programerima: [Donacije Portal](https://bitcoindevlist.com/){:target="_blank"} ili [OpenSats](https://opensats.org/){:target="_blank"})
+
