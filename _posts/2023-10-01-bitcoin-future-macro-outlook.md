@@ -2,7 +2,7 @@
 title: "Bitkoin budućnost i makro izgledi"
 date: 2023-10-01T00:00:00-00:00
 categories: [fintech]
-tags: [finance, crypto]
+tags: [finance, bitcoin]
 classes: wide
 excerpt: "Bitcoin očekivanja narednih mjeseci i decenija"
 ---
@@ -193,5 +193,6 @@ Takođe odlična literatura je obrazovna knjiga iz Salvadora: [**Bitcoin-Diploma
 Lista svih referenciranih [Linkova](https://docs.google.com/spreadsheets/d/e/2PACX-1vTaVyjSphV8HVvW59axppErdPt4u273A5_K8r-p7lJUeJ3idzNwUSfgjVN0la8hLcQdTaVFWxCQKYJw/pubhtml?gid=0&single=true){:target="_blank"}
 
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/sr-latn/bitcoin-future-macro-outlook/)
+
 
 
