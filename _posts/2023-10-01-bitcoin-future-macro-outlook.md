@@ -135,7 +135,7 @@ Za potkrepljivanje ovih tvrdnji postoji odličan članak:
 ### Na kraju da se osvrnemo i pojasnimo neke često upućene kritike prema sistemu (skepticizam):
 {: #scepticism }  
 &nbsp;**1.** Druge 'kriptovalute' tzv. Alt (alternativni) novčići nisu prava konkurencija bitkoinu zbog:
-Prednosti prvog pokretača (organska kreacija koja se ne može replicirati), najveći mrežni efekat, najbolji model upravljanja (bez poznatog osnivača - slijediti pravila, ne vladara). Zatim najviše decentralizovani rudari i široka distribucija čvorova, najveća zajednica (saradnici, programeri) sa snažnim ideološkim ubjeđenjem, dubokom posvećenošću i sve većim usvajanjem od strane korisnika (postao je brend). Postoji fraza: ***Bitkoin, Ne 'Kripto'***.  
+Prednosti prvog pokretača (organska kreacija koja se ne može replicirati), najveći mrežni efekat, najbolji model upravljanja (bez poznatog osnivača - slijediti pravila, ne vladara). Zatim najviše decentralizovani rudari i široka distribucija čvorova, najveća zajednica (saradnici, programeri) sa snažnim ideološkim ubjeđenjem, dubokom posvećenošću i sve većim usvajanjem od strane korisnika (postao je brend). Postoji fraza: [***Bitkoin, Ne 'Kripto'***](https://onrampbitcoin.com/research/bitcoin-not-crypto){:target="_blank"}.  
 Pored genijalne sistemske integracije svih komponenti, jedna novina se ističe kao vitalna a to je [***Podešavanje težine***](https://www.reddit.com/r/Bitcoin/comments/r2hvuu/bitcoins_difficulty_adjustment_is_its_most/){:target="_blank"} rudarenja. To je samobalansirajući probabalistički mehanizam koji održava izdavanje novih novčića u skladu sa unaprijed određenim rasporedom (ova fleksibilnost ga čini tvrdim i čvrstim).  
 -- S druge strane, kriptovalute koje koriste ***PoS*** (*Proof of Stake* - 'Dokaz o Ulogu') model konsenzusa su poput 'hartija od vrijednosti', nemaju istinsku decentralizaciju, i virtuelni su po prirodi. Zatim nemaju dovoljno razdvojeno upravljanje, a PoS je u suštini centralizujuća sila. Neki od njih bi mogli naći drugi slučaj upotrebe, ali ne kao pošten i pouzdan novac, jer je to previše važna funkcija. Bitkoin je potpuno samostalan i nije sposoban nametnuti ništa što postoji izvan mreže, kao ni bilo koji blokčejn ('oracle' prorok problem, kako se kaže: *Bitkoin, ne Blokčejn*).  
 Samo bitkoin se smatra digitalnom robom (postoji u cyber prostoru) i predstavlja primarno monetarno dobro, što je potvrdila i *SEC* (Komisija za hartije od vrijednosti SAD). To je imovina, u nastajanju, bez emitenta i digitalna svojina (neotuđiva imovinska prava).  
@@ -193,6 +193,7 @@ Takođe odlična literatura je obrazovna knjiga iz Salvadora: [**Bitcoin-Diploma
 Lista svih referenciranih [Linkova](https://docs.google.com/spreadsheets/d/e/2PACX-1vTaVyjSphV8HVvW59axppErdPt4u273A5_K8r-p7lJUeJ3idzNwUSfgjVN0la8hLcQdTaVFWxCQKYJw/pubhtml?gid=0&single=true){:target="_blank"}
 
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/sr-latn/bitcoin-future-macro-outlook/)
+
 
 
 
