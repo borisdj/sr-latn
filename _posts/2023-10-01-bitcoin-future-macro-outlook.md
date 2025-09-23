@@ -164,6 +164,8 @@ Lična procjena trenutno je da Bitkoin ima **51% šanse** za rast i širenje
 (2017. je bilo 30%, a 2013. možda 10% tada).  
 Što duže postoji (15 godina do sada) veće su šanse za uspjeh ([**Lindi efekat**](https://medium.com/coinmonks/bitcoins-growth-metcalfe-s-law-and-the-lindy-effect-68bda4386f4b){:target="_blank"}), jer vremenom jača i postaje robusniji (bio je rigidno testiran).  
 Kao bilo koja investicija to je poduhvat, što je i svaka odluka u životu. Za rizičnije, uložite samo ono što možete priuštiti da izgubite.  
+Ali ponekad je i neulaganje bilo čega druga vrsta rizika.  
+Za neki prosječan [portfolio](https://docs.google.com/spreadsheets/d/1DAck82CsHSO5rKUTgm4cqGieA0DLBK5UtMyV09AH3Yk/edit?gid=0#gid=0){:target="_blank"}, bilo lični ili standardni od fonda trenutna preporuka je alokacija 5 do 10% u BTC (sa većim ubjeđenjem ide viši udio).  
 Takođe držite veći dio van kripto berzi (**Sopstveno staranje** - *nisu vaši ključevi, nisu vaši novčići*).  
 U svakom slučaju, uvijek je dobro biti upućen u aktuelnu tematiku.  
 DYOR (*Do Your Own Research* - uradite sopstveno istraživanje) i napravite svoju vjerovatnoću za svaki hipotetički scenario.  
@@ -193,6 +195,7 @@ Takođe odlična literatura je obrazovna knjiga iz Salvadora: [**Bitcoin-Diploma
 Lista svih referenciranih [Linkova](https://docs.google.com/spreadsheets/d/e/2PACX-1vTaVyjSphV8HVvW59axppErdPt4u273A5_K8r-p7lJUeJ3idzNwUSfgjVN0la8hLcQdTaVFWxCQKYJw/pubhtml?gid=0&single=true){:target="_blank"}
 
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/sr-latn/bitcoin-future-macro-outlook/)
+
 
 
 
