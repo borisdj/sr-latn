@@ -615,7 +615,7 @@ Drugo odlučite da li ga želite kupite, za sada kao investiciju, a kasnije kao 
 -- U širem smislu investicioni plan uključuje prvo da se informišete, uradite svoj domaći zadatak. Drugo, odlučite koji iznos vam je na raspolaganju za ulaganje. Na kraju ga podijelite na osnovu vašeg apetita za rizikom na nekoliko klasa imovine. U ranoj fazi rizik je bio mnogo veći u skladu sa maksimom: *Investirajte samo ono što možete priuštiti da izgubite*. Sada je manje rizično nego u prošloj deceniji, ali se i dalje smatra relativno rizičnijom klasom, uglavnom zbog velikih kretanja cijene gore i dole. Ali sada postoji suprotna izreka: *Kupite Bitcoin s novcem koji ne želite izgubiti u dužem periodu*.<br>
 Samo ako budete dovoljno uvjereni u Bitkoin priču, onda je dobra ideja investirati.<br>
 --U praksi postoji nekoliko generalno korisnih strategija (može se koristiti jedna ili više):<br>
-&nbsp;1. Premjestite (preusmjerite) dio svog [portfelja](https://docs.google.com/spreadsheets/d/1DAck82CsHSO5rKUTgm4cqGieA0DLBK5UtMyV09AH3Yk/edit?gid=0#gid=0){:target="_blank"} u Btc i držite ga dugoročno<br>
+&nbsp;1. Premjestite (preusmjerite) dio svog portfelja u Btc i držite ga dugoročno<br>
 &nbsp; - veličina uloga može se kretati od 5 do 20 % zavisno od neto vrijednosti i sklonosti riziku<br>
 &nbsp; - nemojte pogriješiti da ništa ne uložite kako ne biste imali FOMO (*Fear Of Missing Out* - strah od propuštanja)<br>
 &nbsp; - odlučite kada ćete se pridružiti vozu i potencijalno izgraditi bogatstvo<br>
