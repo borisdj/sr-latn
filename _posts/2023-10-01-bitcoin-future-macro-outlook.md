@@ -186,7 +186,7 @@ YT govori za poslušati:
 -[Why Deflation is Key to an Abundant Future](https://www.youtube.com/watch?v=G2vAm2hfW9U){:target="_blank"} (The Price of Tomorrow)  
 -[The Bitcoin Standard](https://www.youtube.com/watch?v=Zbm772vF-5M&t=1125s){:target="_blank"} (*Saifedean Ammous*)  
 -[Can Bitcoin Replace Government-Issued Money?](https://www.youtube.com/watch?v=MN4klUUx8fM){:target="_blank"}  (A Debate)  
--[What is bitcoin - Peter Van Valkenburgh]{:target="_blank"}  (great explanation to Congress)  
+-[Peter Van Valkenburg explains bitcoin for senate committee](https://www.c-span.org/clip/senate-committee/user-clip-peter-van-valkenburg-explains-bitcoin/5025258){:target="_blank"}  (great short explanation)  
 
 Epilog: Narednih mjeseci biće zanimljivo vidjeti kako će se ovo odvijati, ostanite sa nama.  
 Za sve koji su željni saznati više i da zarone dublje u tematiku, prvi Bit post je bila mini e-knjiga: [**(r)Evolution of Money**](https://infopedia.io/revolution-of-money/)  
@@ -196,6 +196,7 @@ Takođe odlična literatura je obrazovna knjiga iz Salvadora: [**Bitcoin-Diploma
 Lista svih referenciranih [Linkova](https://docs.google.com/spreadsheets/d/e/2PACX-1vTaVyjSphV8HVvW59axppErdPt4u273A5_K8r-p7lJUeJ3idzNwUSfgjVN0la8hLcQdTaVFWxCQKYJw/pubhtml?gid=0&single=true){:target="_blank"}
 
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/sr-latn/bitcoin-future-macro-outlook/)
+
 
 
 
