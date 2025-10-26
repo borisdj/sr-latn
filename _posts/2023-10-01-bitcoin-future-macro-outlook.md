@@ -73,9 +73,8 @@ Evo jedne zanimljive ideje. U trenutnom vijeku procjenjuje da će prosječan ži
 
 -- Slično evoluciji interneta (1980-2020) sa rastom u obliku [**S-krive**](https://medium.com/the-capital/the-adoption-curve-embracing-bitcoin-digital-assets-at-remarkable-speed-818ed3e7b2b0){:target="_blank"} (postepeno pa iznenada). Uz jednu važnu razliku da sada postoji direktna vrijednost za ulaganje, tako da je sklon cikličnim promjenama cijene zbog mnogo špekulanata u prostoru. 
 A ako odemo dalje u prošlost mogli bismo posmatrati kako su automobili zamijenili konje, pri tome i da vidimo kako su se neki protivili evolucija transporta. Na isti način na koji se neki ljudi i danas protive finansijskoj evoluciji. Čak je i Henri Ford rekao, [**parafraziramo**](https://skeptics.stackexchange.com/questions/18247/did-henry-ford-predict-revolution-if-people-understood-the-banking-and-monetary){:target="_blank"}: *Dovoljno je što ljudi **ne razumiju bankarski i monetarni sistem**, jer da znaju, vjerujem da bi revolucija bila već sutra ujutru.*  
-[Ne razumijete Bitkoin? Evo 24 razloga zašto biste zaista trebali.](https://jonathanalevi.medium.com/dont-understand-bitcoin-here-s-why-you-should-c0e4d9b5f8){:target="_blank"}  
-[Niko ne razumije Bitcoin i to je u redu.](https://blog.lopp.net/nobody-understands-bitcoin-and-thats-ok/){:target="_blank"}  
-[Why Is Bitcoin So Hard to Understand?](https://uwethesailor.medium.com/why-is-bitcoin-so-hard-to-understand-685a6f33c5f8){:target="_blank"} ([za većinu ljudi]()https://www.reddit.com/r/Bitcoin/comments/18cvhqn/why_is_bitcoin_so_hard_for_most_people_to/{:target="_blank"})  
+[Ne razumijete Bitkoin? Evo 24 razloga zašto biste zaista trebali.](https://jonathanalevi.medium.com/dont-understand-bitcoin-here-s-why-you-should-c0e4d9b5f8){:target="_blank"} ([Niko ne razumije Bitcoin i to je u redu.](https://blog.lopp.net/nobody-understands-bitcoin-and-thats-ok/){:target="_blank"})  
+[Zašto je Bitcoin tako teško razumjeti?](https://uwethesailor.medium.com/why-is-bitcoin-so-hard-to-understand-685a6f33c5f8){:target="_blank"} ([za većinu ljudi](https://www.reddit.com/r/Bitcoin/comments/18cvhqn/why_is_bitcoin_so_hard_for_most_people_to/){:target="_blank"})  
 
 -- Prvi korak za dalje širenje će biti *selektivno usvajanje* od 1% ljudi - trendsetera (strastvene pristalice).
 Jedna [**procjena**](https://cointelegraph.com/news/global-bitcoin-adoption-to-hit-10-by-2030-blockware-report){:target="_blank"} je da bi do 2030. usvajanje od korisnika moglo da dostigne 10% populacije, upravo pravi broj kao prekretnica za prihvatanje kritične mase. Do tada će biti vidljivo da li ide u ovom pravcu. U ovom trenutku neki smatraju da će se to [**neizbježno**](https://medium.com/@MiguelCuneta_21450/bitcoins-inevitability-thesis-d89585e62356){:target="_blank"} dogoditi.  
@@ -198,6 +197,7 @@ Takođe odlična literatura je obrazovna knjiga iz Salvadora: [**Bitcoin-Diploma
 Lista svih referenciranih [Linkova](https://docs.google.com/spreadsheets/d/e/2PACX-1vTaVyjSphV8HVvW59axppErdPt4u273A5_K8r-p7lJUeJ3idzNwUSfgjVN0la8hLcQdTaVFWxCQKYJw/pubhtml?gid=0&single=true){:target="_blank"}
 
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/sr-latn/bitcoin-future-macro-outlook/)
+
 
 
 
