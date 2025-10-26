@@ -703,9 +703,8 @@ Poslije će biti i **Kviz** sa pitanjima. Za one koji daju sve tačne odgovore, 
 -Molimo uradite vlastito temeljno istraživanje uz dužnu pažnju (*due diligence*) prije donošenja bilo kakve finansijske odluke i nastavite s oprezom.<br>
 **Otkrivanje**: Autor posjeduje nešto bitkoina.
 
-**Reference** (izvor podatka ili dodatne info)<br>
--- Povezane su direktno u tekstu<br>
-([**Lista svih web stranica**](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMRkOg14mu8C1lofdZiV2Kvr6OWpi6spO5M8i7Km54-hgZnaYyhHuUK67F6pB4o3f3Mo0sBG_Kuts3/pubhtml?gid=0&single=true){:target="_blank"})<br>
+**Reference** (izvor podatka ili dodatne info) - povezane su direktno u tekstu<br>
+[**Lista**](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMRkOg14mu8C1lofdZiV2Kvr6OWpi6spO5M8i7Km54-hgZnaYyhHuUK67F6pB4o3f3Mo0sBG_Kuts3/pubhtml?gid=0&single=true){:target="_blank"} svih web stranica<br>
 -- Da izložimo često referencirane web stranice:<br>
 [bitcoin.org](https://bitcoin.org/en){:target="_blank"}<br>
 [bitcoinmagazine.com](https://bitcoinmagazine.com){:target="_blank"}<br>
