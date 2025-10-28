@@ -90,7 +90,7 @@ On bi bio kao precizan numerički sistem mjerenja ekonomske aktivnosti - [**mjer
 
 **Mogući efekti:**  
 -- ljudi bi trošili promišljenije (nameće disciplinu) i uzimali bi samo proračunate rizike/kredite  
--- niža vremenska preferencija, razmišljanje na duži rok, manje konzumerizma bezvrijedne robe (bez prekomjerne potrošnje)  
+-- niža vremenska preferencija, razmišljanje na duži rok, manje [konzumerizma](https://www.youtube.com/watch?v=X-tX-9Vygpg){:target="_blank"} ([ropstvo](https://www.youtube.com/watch?v=4pG-8XLLaE0){:target="_blank"}) bezvrijedne robe (bez prekomjerne potrošnje)  
 -- realne plate koje održavaju kupovnu moć uz blagu [deflaciju](https://www.reddit.com/r/economy/comments/1f4byf5/can_someone_explain_to_me_why_deflation_would_be/){:target="_blank"} cijena i vode ka većem prosperitetu  
 &nbsp;&nbsp;(nema potrebe da se traži povišica samo da bi se pratila [inflacija - loša](https://www.reddit.com/r/changemyview/comments/9274l2/cmv_inflation_is_a_strictly_bad_thing_and_is/){:target="_blank"})  
 -- pravedna distribucija privrednog rasta uklanjanjem prikrivenog regresivnog poreza znanog kao inflacija  
@@ -197,6 +197,7 @@ Takođe odlična literatura je obrazovna knjiga iz Salvadora: [**Bitcoin-Diploma
 Lista svih referenciranih [Linkova](https://docs.google.com/spreadsheets/d/e/2PACX-1vTaVyjSphV8HVvW59axppErdPt4u273A5_K8r-p7lJUeJ3idzNwUSfgjVN0la8hLcQdTaVFWxCQKYJw/pubhtml?gid=0&single=true){:target="_blank"}
 
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/sr-latn/bitcoin-future-macro-outlook/)
+
 
 
 
