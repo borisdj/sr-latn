@@ -114,7 +114,7 @@ Vrlo rijetko u istoriji je postojala neka imovina koja je sigurna za držanje, a
 Superiorni novi monetarni režim optimalno projektovan sa razmišljanjem iz [**prvih principa**](https://fs.blog/first-principles/){:target="_blank"} da bude što efikasniji.  
 Obuhvata nekoliko domena, od kojih su 3 glavne: Etika, Ekonomija, Inženjerstvo.
 
-&nbsp;**2.** Bio bi apolitičan novac, i kao takav odličan kandidat za svjetsku neutralnu rezervnu valutut. One zemlje koje bi ga učinile svojim zakonskim sredstvom plaćanja, više efektivno ne bi imale monetarnu politiku, već samo fiskalnu. Mogle bi eventulano imati neku vrstu rezervnog državnog fonda za nepredviđene situacije. Sama privreda bi imala prirodnije poslovne cikluse i vjerovatno postala stabilnija na duži rok. Usponi i padovi ekonomije bi trebalo da budu manji jer ne bi mogli vještački da porastu previše, pošto ne postoji državno spašavanje od bankrota (sjetimo se finansijske krize iz 2008.)
+&nbsp;**2.** Bio bi apolitičan novac, i kao takav odličan kandidat za svjetsku neutralnu rezervnu valutut. One zemlje koje bi ga učinile svojim zakonskim sredstvom plaćanja, više efektivno ne bi imale monetarnu politiku, već samo fiskalnu. Mogle bi eventulano imati neku vrstu rezervnog državnog fonda za nepredviđene situacije. Sama privreda bi imala prirodnije poslovne cikluse i vjerovatno postala stabilnija na duži rok. Usponi i padovi ekonomije bi trebalo da budu manji jer ne bi mogli vještački da porastu previše, pošto ne postoji državno spašavanje od bankrota (sjetimo se finansijske krize iz 2008-me nakon čega su bankari prošli bez posljedica, dok je Fed godinama držao nultu kamatnu stopu kreiraju najveći balon imovine)
 
 &nbsp;**3.** Ograničena količina novca nije bila suštinski problem dok god je djeljiva nadole: 1 BTC = 100 milion Satošija (*Sat*-a). Ukupna količina jedinica je **2,1 kvadrilion**, 21 mil * 100 mil (8 cifara + 8 decimala) a ***Lightning*** čak omogućava miliSate (1/1000). Pokušajte da izbjegnete pristrasnost veličine jedinice, objektivno to nije bitno.  
 Ako svjetska ekonomija raste u prosjeku 1% godišnje, nekim stvarima bi se smanjila cijena za 1%. Naravno, druge sa većom efikasnošću izrade, zahvaljujući tehnološkom napretku, bi pale i više do graničnog troška proizvodnje, a nekima bi mogla i porasti cijena ako bi postojala dodatna potražnja.  
@@ -197,6 +197,7 @@ Takođe odlična literatura je obrazovna knjiga iz Salvadora: [**Bitcoin-Diploma
 Lista svih referenciranih [Linkova](https://docs.google.com/spreadsheets/d/e/2PACX-1vTaVyjSphV8HVvW59axppErdPt4u273A5_K8r-p7lJUeJ3idzNwUSfgjVN0la8hLcQdTaVFWxCQKYJw/pubhtml?gid=0&single=true){:target="_blank"}
 
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/sr-latn/bitcoin-future-macro-outlook/)
+
 
 
 
