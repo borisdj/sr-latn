@@ -17,13 +17,23 @@ LANG(jezik): [Global](https://infopedia.io/tax-codex/) (en-us) / Local (sr-latn)
 CONTENT:  
 [**Predgovor**](#preface) | [**Uzročnici**](#cause) | [**Rješenje**](#solution) | [**Zaključak**](#postface) | [**Dodatak**](#apendix)
 
+Nakon što pročitate tekst možete potpisati i Peticiju kao podršku projektu za rješavanju problema na neke od iznesenih prijedloga.  
+(slobodno proslijedite i poznanicima koji su u istoj vazdušnoj zoni - forma uključuje i malu anketu)
+
+
+
+BLer36
+
 ### **Uvodni rezime**
+- Zagađenje
 - Zagađenje
 
 
 ### **Predgovor**
 {: #preface }
-&nbsp; Porezi s
+&nbsp; Svi građani su svjedoci zagađenja vazduha u zimskom periodu koje je vrlo vidno a i osjetno.
+Problem nije nov ali zadnjih godina je sve gori, jer prethodnih decenija nije ništa rađeno na sređivanju situacije.
+Zbog toga je krajnje vrijeme da napravi plan akcije na duže staze a koji će biti efektivan ali i realističan tj praktično izvodljiv.
 
 | №  | Od iznosa | Do iznosa | Korak  | Model XS | Model S | Model M | Model L | Model XL |
 | -  | --------: |----------:| -----: | -------: | ------: | ------: | ------: | -------: |
