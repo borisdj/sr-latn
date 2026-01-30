@@ -21,13 +21,8 @@ Nakon što pročitate tekst možete potpisati i Peticiju kao podršku projektu z
 (slobodno proslijedite i poznanicima koji su u istoj vazdušnoj zoni - forma uključuje i malu anketu)
 
 
-
-BLer36
-
 ### **Uvodni rezime**
 - Zagađenje
-- Zagađenje
-
 
 ### **Predgovor**
 {: #preface }
@@ -35,14 +30,11 @@ BLer36
 Problem nije nov ali zadnjih godina je sve gori, jer prethodnih decenija nije ništa rađeno na sređivanju situacije.
 Zbog toga je krajnje vrijeme da napravi plan akcije na duže staze a koji će biti efektivan ali i realističan tj praktično izvodljiv.
 
-| №  | Od iznosa | Do iznosa | Korak  | Model XS | Model S | Model M | Model L | Model XL |
-| -  | --------: |----------:| -----: | -------: | ------: | ------: | ------: | -------: |
-| 1  |         0 |    10 000 |   10 K |      0 % |     0 % |  **0 %**|     0 % |      0 % |
-| 2  |    10 000 |    20 000 |   10 K |     10 % |    10 % | **10 %**|    10 % |     10 % |
-| 3  |    20 000 |    50 000 |   30 K |     15 % |    20 % | **20 %**|    20 % |     20 % |
-| 4  |    50 000 |   100 000 |   50 K |     20 % |    25 % | **30 %**|    30 % |     30 % |
-| 5  |   100 000 |   500 000 |  400 K |     25 % |    30 % | **35 %**|    40 % |     40 % |
-| 6  |   500 000 |  no limit | -      |     30 % |    35 % | **40 %**|    45 % |     50 % |
+| №  | Col 1   | Col 2   | Col 3   | Col 4   |
+| -  | ------: | ------: | ------: | ------: |
+| 1  |       1 |       2 |       3 |       4 | 
+| 2  |  a      | b       | c       | d       |
+
 
 Ostavite poruku: [IP forma komentara](https://docs.google.com/forms/d/e/1FAIpQLSfX6OicCuvvcd8ewY0_qqKlOzegljSMmSVX_KfGwtP89EF3AQ/viewform?usp=pp_url&entry.853974697=6.+Tax+Codex){:target="_blank"} (lista [komentara](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYCQRmyTGP2q3GphttZcEae9GlXohAqYy77GIdvVsh5deOfzo-M8J_S_gworsgvkH2klOfLmBoHzQO/pubhtml?gid=311430000&single=true){:target="_blank"} - prviOdAI i sheet za [analizu](https://docs.google.com/spreadsheets/d/1zJuJlhfAxRJuRuX-eQ-Iv8uokUPPu2ONKMJM5XIijm0){:target="_blank"})  
 Lista svih referenciranih [**Linkova**](https://docs.google.com/spreadsheets/d/e/2PACX-1vSShazGxPTkJmezxgrCzakaSTpCDvEjUdQAA_TsqXs4gMBqEVf2MZ-PIQevMnuGn8LSNJxHroZdJswA/pubhtml?gid=2013428247&single=true){:target="_blank"}  
