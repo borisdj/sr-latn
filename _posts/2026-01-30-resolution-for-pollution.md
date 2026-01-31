@@ -18,7 +18,7 @@ CONTENT:
 [**Predgovor**](#preface) | [**Uzročnici**](#cause) | [**Rješenje**](#solution) | [**Zaključak**](#postface) | [**Dodatak**](#apendix)
 
 Nakon što pročitate tekst možete potpisati i Peticiju kao podršku projektu za rješavanju problema na neke od iznesenih prijedloga.  
-(slobodno proslijedite i poznanicima koji su u istoj vazdušnoj zoni - forma uključuje i malu anketu)
+(slobodno proslijedite poznanicima i komšijama koji su u istoj vazdušnoj zoni - forma uključuje i malu anketu)
 
 
 ### **Uvodni rezime**
