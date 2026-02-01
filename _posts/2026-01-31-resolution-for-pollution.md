@@ -15,7 +15,7 @@ LANG(jezik): [Global](https://infopedia.io/resolution-for-pollution/) (en-us) / 
 ![/solution-for-pollution](https://raw.githubusercontent.com/borisdj/borisdj.github.io/main/assets/images/resolution-for-pollution/clean-air.jpg)
 
 CONTENT:  
-[**Predgovor**](#preface) | [**Uvod**](#intro) | [**Uzročnici**](#cause) | [**Rješenje**](#solution) | [**Zaključak**](#postface) | [**Dodatak**](#apendix)
+
 
 ### **Predgovor**
 {: #preface }
