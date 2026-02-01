@@ -35,11 +35,15 @@ Takođe ovo je složena problematika, i zato ni rješavanje nije prosto. Nema ma
 Prvo da probamo definisati glavne i najveće uzročnike.  
 Zanemarićemo samu klimu u kotlinu, pošto na reljef se ne može baš uticati. Prema nekim mišljenjima čak i hidrocentrala Bočac je donekle smanjila protok vjetra i stvorila specifičnu mikro-klimu, ali ni to nije nešto što se sada može mijenjati. 
 
-Elementi koji imaju značajan uticaj sortirani od najvećeg efekta prema nižim.
+Elementi koji su promjenljivi a koji imaju značajan efekat, sortirani od najvećeg uticaja:
 1. Loženje u domaćinstvima
 2. Izduvni gasovi vozila
 3. Sagorjevanje u gradskoj 'Eko' toplani
 4. Nove visoke zgrade koje utiču na vjetrovitost
+
+1. Kućna ložišta su vjerovano najznačajniji pojedinačni faktor. Unazad nekoliko decenija broj kuća se znatno povećao a grijanje kod istih je vrlo raznoliko, i većinski i dalje je neka vrsta gorivog materijala. Čak se i dalje koristi ugalj u nekoj mjeri a negdje se nekad založi i guma ili smeće. Ni svijest a ni kontrola nisu na adekvatnom nivou.
+2. Takođe same peći često starije i upitnog kvaliteta pa emituju velik broj čestica u dimu. Modernije i kvalitetnije imaju jače sagorjevanje i time i manje čestica.  
+Još jedna stvar su posebni fitler koji zadržavaju određeni procenat čađi
 
 
 -Naredna tačka su nove zgrade kao i novi planovi, i regulacioni a i sam urbanistički.
