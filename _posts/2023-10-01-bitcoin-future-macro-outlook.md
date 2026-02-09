@@ -53,7 +53,7 @@ Države su neosnovano preuzele apsolutnu kontrolu nad novcem. Emisija novca nije
 -- Pomenimo i Davida Chauma, poznatog kriptografa, koji je [**rekao**](https://decrypt.co/95109/david-chaum-from-inventing-digital-cash-to-pioneering-digital-privacy){:target="_blank"}: *“**Privatnost** u porukama i plaćanjima, i slično, je veoma **fundamentalna za demokratiju**.”*  
 
 -- Bitkoin **protokol** je samo prva funkcionalna implementacija ovog radikalnog koncepta (zahvalnost Sajferpank pokretu). To je programski jezik (kod) za komuniciranje vrijednosti i platforma poverenja na kojoj se može nalaziti valuta kao softver (*Internet novca*).    
-**Neinflatorni** zdrav novac, digitalan (nastao na internetu), pametan (programabilan), **neutralan** (agnostičan prema politici) kao fenomen koji se širi odozdo prema gore.  
+**Neinflatorni** zdrav novac, digitalan (nastao na internetu), pametan (programabilan), **neutralan** (agnostičan prema politici) kao fenomen koji se širi odozdo prema gore  (Džon Naš-ov [***Idealni Novac***](https://rextar4444.medium.com/an-inquiry-into-john-nashs-proposal-for-ideal-money-f1551c46da31){:target="_blank"}).  
 Takođe je potpuno otporan na cenzuru, bez potrebe za dozvolom i povjerenjem, jer **poverenje** ljudi često naruše velike organizacije (države, velike banke, mega korporacije). Može se definisati i kao novac slobodog govora, sa zadržavanjem slobode i nakon govora.  
 -- Kao '*Opt-In*' ekosistem (slobodno priključenje) predstavlja mirni otpor protiv manipulacije i obezvređivanja valute.  
 Elegantno je dizajniran i programiran tako da ima najbolje karakteristike novca:  
@@ -185,9 +185,10 @@ YT govori za poslušati:
 -[For Beginners: Bitcoin Explained in Simple Terms](https://www.youtube.com/watch?v=UlKZ83REIkA){:target="_blank"} (-||-)  
 -[Good Deflation, Bad Inflation](https://www.youtube.com/watch?v=S9IB3aWt3Ww){:target="_blank"} (*Jeff Booth*)  
 -[Why Deflation is Key to an Abundant Future](https://www.youtube.com/watch?v=G2vAm2hfW9U){:target="_blank"} (The Price of Tomorrow)  
--[The Bitcoin Standard](https://www.youtube.com/watch?v=Zbm772vF-5M&t=1125s){:target="_blank"} (*Saifedean Ammous*)  
--[Can Bitcoin Replace Government-Issued Money?](https://www.youtube.com/watch?v=MN4klUUx8fM){:target="_blank"}  (A Debate)  
--[Peter Van Valkenburg explains bitcoin for senate committee](https://www.c-span.org/clip/senate-committee/user-clip-peter-van-valkenburg-explains-bitcoin/5025258){:target="_blank"}  (great short explanation)  
+-[The Bitcoin Standard](https://www.youtube.com/watch?v=Zbm772vF-5M&t=1125s){:target="_blank"} and [A Critique](https://rextar4444.medium.com/a-critique-of-saifedean-ammous-the-bitcoin-standard-6c3f5e3b2a63){:target="_blank"} (*Saifedean Ammous*)  
+-[How Money and Banking works?](https://www.youtube.com/watch?v=jk_HWmmwiAs){:target="_blank"} & [Broken Money Thesis](https://www.youtube.com/watch?v=k3NN_NZOdhY){:target="_blank"} (*Lyn Alden*)  
+-[Can Bitcoin Replace Government-Issued Money?](https://www.youtube.com/watch?v=MN4klUUx8fM){:target="_blank"} (A Debate)  
+-[Peter Van Valkenburg explains bitcoin for senate committee](https://www.c-span.org/clip/senate-committee/user-clip-peter-van-valkenburg-explains-bitcoin/5025258){:target="_blank"} (great short explanation)  
 
 Epilog: Narednih mjeseci biće zanimljivo vidjeti kako će se ovo odvijati, ostanite sa nama.  
 Za sve koji su željni saznati više i da zarone dublje u tematiku, prvi Bit post je bila mini e-knjiga: [**(r)Evolution of Money**](https://infopedia.io/revolution-of-money/)  
@@ -197,6 +198,7 @@ Takođe odlična literatura je obrazovna knjiga iz Salvadora: [**Bitcoin-Diploma
 Lista svih referenciranih [Linkova](https://docs.google.com/spreadsheets/d/e/2PACX-1vTaVyjSphV8HVvW59axppErdPt4u273A5_K8r-p7lJUeJ3idzNwUSfgjVN0la8hLcQdTaVFWxCQKYJw/pubhtml?gid=0&single=true){:target="_blank"}
 
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/sr-latn/bitcoin-future-macro-outlook/)
+
 
 
 
