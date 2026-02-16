@@ -189,6 +189,7 @@ YT govori za poslušati:
 -[How Money and Banking works?](https://www.youtube.com/watch?v=jk_HWmmwiAs){:target="_blank"} & [Broken Money Thesis](https://www.youtube.com/watch?v=k3NN_NZOdhY){:target="_blank"} (*Lyn Alden*)  
 -[Can Bitcoin Replace Government-Issued Money?](https://www.youtube.com/watch?v=MN4klUUx8fM){:target="_blank"} (A Debate)  
 -[Peter Van Valkenburg explains bitcoin for senate committee](https://www.c-span.org/clip/senate-committee/user-clip-peter-van-valkenburg-explains-bitcoin/5025258){:target="_blank"} (great short explanation)  
+*[Gdje i u šta uložiti novac?](https://youtu.be/VOt9Acd09Sc?t=2838){:target="_blank"} (Protokol za novac)  
 
 Epilog: Narednih mjeseci biće zanimljivo vidjeti kako će se ovo odvijati, ostanite sa nama.  
 Za sve koji su željni saznati više i da zarone dublje u tematiku, prvi Bit post je bila mini e-knjiga: [**(r)Evolution of Money**](https://infopedia.io/revolution-of-money/)  
@@ -198,6 +199,7 @@ Takođe odlična literatura je obrazovna knjiga iz Salvadora: [**Bitcoin-Diploma
 Lista svih referenciranih [Linkova](https://docs.google.com/spreadsheets/d/e/2PACX-1vTaVyjSphV8HVvW59axppErdPt4u273A5_K8r-p7lJUeJ3idzNwUSfgjVN0la8hLcQdTaVFWxCQKYJw/pubhtml?gid=0&single=true){:target="_blank"}
 
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/sr-latn/bitcoin-future-macro-outlook/)
+
 
 
 
