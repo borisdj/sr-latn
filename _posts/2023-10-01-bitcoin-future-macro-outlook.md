@@ -68,7 +68,7 @@ U tehničkom smislu, podržan je značajnim otkrićem u kompjuterskoj nauci: **
 Poslije, kada skoro svi budu imali neku količinu, počeće da plaćaju i primaju direktno (praveći kružnu ekonomiju) umjesto da ga konvertuju u Fiat koji se oslanja na vjerovanje u državi. I tako polako preuzima funkciju *Sredstva razmjene* '**(2) MoE** - *Medium of Exchange*'. Od tog trenutka nećete trebati da ga prodajete, već ćete ga prosto trošiti.  
 I treća faza (ako do ove ikada dođe) bi mogla biti kada su cijene izražene u njemu, dakle funkcija *Jedinice obračuna* '**(3) UoA** - *Unit of Account*' (univerzalna valuta).  
 -- BTC ima ogroman potencijal jer bi mogao biti odličan u sve funkcije, da bude prva **imovina sa trostrukom funkcijom**, jedistvena u istoriji (ima sposobnost da promijeni svijet).  
-Svaka faza (1), (2), (3) mogla bi trajati od 10 do 15 godina (slobodna procjena). Pred faza 0 je trajala donedavno - akumulacija kao kolekcionarstvo, tokom koje je tržiše otkrivalo cijenu.  
+Svaka faza (1), (2), (3) mogla bi trajati od 10 do 15 godina (slobodna procjena). Pred faza 0 je trajala donedavno - akumulacija kao kolekcionarstvo, tokom koje je tržiše otkrivalo cijenu. Postoji čak i dodatna 4-ta funkcija *Standard odloženog plaćanja*, kao produžetak MoE ali sa vremenskim odlaganjem.  
 Evo jedne zanimljive ideje. U trenutnom vijeku procjenjuje da će prosječan životni vijek biti 84 godine, a polovina od toga je [42](https://news.mit.edu/2019/answer-life-universe-and-everything-sum-three-cubes-mathematics-0910){:target="_blank"} - odgovor na novac. I vjerovatno će biti potrebno najmanje toliko da bitkoin naraste do svog punog potencijala, znači do sredine vijeka 2050-te godine. To znači da će oni koji su 2008. godine imali 42 godine doživjeti to da vide, dok će nova generacija rođena '08 biti u 42-oj, najboljim godinama (generacijska promjena).
 
 -- Slično evoluciji interneta (1980-2020) sa rastom u obliku [**S-krive**](https://medium.com/the-capital/the-adoption-curve-embracing-bitcoin-digital-assets-at-remarkable-speed-818ed3e7b2b0){:target="_blank"} (postepeno pa iznenada). Uz jednu važnu razliku da sada postoji direktna vrijednost za ulaganje, tako da je sklon cikličnim promjenama cijene zbog mnogo špekulanata u prostoru. 
@@ -199,6 +199,7 @@ Takođe odlična literatura je obrazovna knjiga iz Salvadora: [**Bitcoin-Diploma
 Lista svih referenciranih [Linkova](https://docs.google.com/spreadsheets/d/e/2PACX-1vTaVyjSphV8HVvW59axppErdPt4u273A5_K8r-p7lJUeJ3idzNwUSfgjVN0la8hLcQdTaVFWxCQKYJw/pubhtml?gid=0&single=true){:target="_blank"}
 
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/sr-latn/bitcoin-future-macro-outlook/)
+
 
 
 
