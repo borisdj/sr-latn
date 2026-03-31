@@ -171,6 +171,7 @@ Takođe držite veći dio van kripto berzi (**Sopstveno staranje** - *nisu vaši
 U svakom slučaju, uvijek je dobro biti upućen u aktuelnu tematiku.  
 DYOR (*Do Your Own Research* - uradite sopstveno istraživanje) i napravite svoju vjerovatnoću za svaki hipotetički scenario.  
 Držite se moći prirodne privlačnosti, a ne prisilne promocije.  
+Bitcoin bi mogao biti [najbolji Čuvar vrijednosti (SoV)](https://medium.com/@alessandro.ottaviani84/bitcoin-the-best-store-of-value-humanity-has-ever-had-4ad81c4374cb){:target="_blank"} koje je čovječanstvo ikad imalo.  
 
 Servisi za redovnu [kupovinu](https://www.reddit.com/r/Bitcoin/comments/168ez0h/strike_swan_or_river_for_dca/){:target="_blank"} i/ili [dokupljivanje](https://dca.bitnob.com/){:target="_blank"} ([BTC-DCA_CompareSheet](https://docs.google.com/spreadsheets/d/1NXle4attr4cp6lESAaPRT4zSFmcPlQl8VZ7nmsJJGGk/view){:target="_blank"}) sa bankovnom karticom za buduće [trošenje](https://bitcoin-only.com/spend-bitcoin){:target="_blank"} i [penziju](https://er-bybitcoin.com/){:target="_blank"}:  
 | 1.[River](https://river.com/){:target="_blank"} | 2.[Strike](https://strike.me/){:target="_blank"} | 3.[CashApp](https://cash.app/){:target="_blank"} (samo US) | 4.[Swan](https://www.swanbitcoin.com/){:target="_blank"} |  
