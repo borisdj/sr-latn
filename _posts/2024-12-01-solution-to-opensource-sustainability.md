@@ -75,7 +75,7 @@ Još info:
 8. [dual licensing a model that works](https://www.linkedin.com/pulse/why-open-core-gpl-dual-licensing-model-works-mark-curphey/){:target="_blank"}
 9. [os guide for policy](https://genevadialogue.ch/how-open-source-coordinates-a-guide-for-policy-makers/){:target="_blank"}
 
-Ostavite poruku: [IP forma komentara](https://docs.google.com/spreadsheets/d/e/2PACX-1vS2z9KBq6jiePC8rfPdAcd_b0jtfE_8gPAXPvbKV45fRenyA0fKSSTWmbMA1pd3f4yYiFTr6Wq8Dq5z/pubhtml?gid=2013428247&single=true){:target="_blank"} (lista [komentara](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYCQRmyTGP2q3GphttZcEae9GlXohAqYy77GIdvVsh5deOfzo-M8J_S_gworsgvkH2klOfLmBoHzQO/pubhtml?gid=1455445651&single=true){:target="_blank"})  
+Ostavite poruku: [IP forma komentara](https://docs.google.com/forms/d/e/1FAIpQLSfX6OicCuvvcd8ewY0_qqKlOzegljSMmSVX_KfGwtP89EF3AQ/viewform?usp=pp_url&entry.853974697=5.+Solution+to+OpenSource+sustainability+(SOSs)+-+cFOSS){:target="_blank"} (lista [komentara](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYCQRmyTGP2q3GphttZcEae9GlXohAqYy77GIdvVsh5deOfzo-M8J_S_gworsgvkH2klOfLmBoHzQO/pubhtml?gid=1455445651&single=true){:target="_blank"})  
 Lista svih referenciranih [**Linkova**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS2z9KBq6jiePC8rfPdAcd_b0jtfE_8gPAXPvbKV45fRenyA0fKSSTWmbMA1pd3f4yYiFTr6Wq8Dq5z/pubhtml?gid=2013428247&single=true){:target="_blank"}  
 
 Infopedia blog Forma prijava na novosti - [Newsletter](https://docs.google.com/forms/d/e/1FAIpQLSfgtWNZVkNP9pATa0RNWj7eNoMz6XVo5D2T2m14hLLE8J78lg/viewform?usp=dialog){:target="_blank"}  
