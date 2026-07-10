@@ -198,25 +198,11 @@ Za sve koji su željni saznati više i da zarone dublje u tematiku, prvi Bit pos
 Još domaćeg štiva: [Bitcoin Balkan](https://bitcoin-balkan.com/){:target="_blank"}  
 Takođe odlična literatura je obrazovna knjiga iz Salvadora: [**Bitcoin-Diploma**](https://github.com/MyFirstBitcoin/Bitcoin-Diploma/blob/main/English%20-%20V%203.0%20-%20Bitcoin%20Diploma.pdf){:target="_blank"} (*[MiPrimerBitcoin](https://miprimerbitcoin.io/en/my-first-bitcoin/){:target="_blank"} - Moj prvi Bitkoin*) za povećanje finansijske pismenosti i svijesti, kao i BTC Prag 2024 [prezentacija](https://drive.google.com/file/d/1XeyZ54c8fJlm54PdmlvTVIXZ0C0r12-3/view?usp=drive_link){:target="_blank"}.  
 
-Lista svih referenciranih [Linkova](https://docs.google.com/spreadsheets/d/e/2PACX-1vTaVyjSphV8HVvW59axppErdPt4u273A5_K8r-p7lJUeJ3idzNwUSfgjVN0la8hLcQdTaVFWxCQKYJw/pubhtml?gid=0&single=true){:target="_blank"}
+Ostavite poruku: [IP forma komentara](https://docs.google.com/forms/d/e/1FAIpQLSfX6OicCuvvcd8ewY0_qqKlOzegljSMmSVX_KfGwtP89EF3AQ/viewform?usp=pp_url&entry.853974697=3.+Bitcoin+future+and+macro+outlook){:target="_blank"} (lista [komentara](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYCQRmyTGP2q3GphttZcEae9GlXohAqYy77GIdvVsh5deOfzo-M8J_S_gworsgvkH2klOfLmBoHzQO/pubhtml?gid=176032478&single=true){:target="_blank"})  
+Lista svih referenciranih [**Linkova**](https://docs.google.com/spreadsheets/d/e/2PACX-1vTaVyjSphV8HVvW59axppErdPt4u273A5_K8r-p7lJUeJ3idzNwUSfgjVN0la8hLcQdTaVFWxCQKYJw/pubhtml?gid=0&single=true){:target="_blank"}  
 
+Infopedia blog Forma prijava na novosti - [Newsletter](https://docs.google.com/forms/d/e/1FAIpQLSfgtWNZVkNP9pATa0RNWj7eNoMz6XVo5D2T2m14hLLE8J78lg/viewform?usp=dialog){:target="_blank"}  
+Podržano od [***codis.tech***](https://codis.tech/){:target="_blank"}  
+
+<center>QR Link do stranice</center>
 ![QR Link](https://quickchart.io/qr?text=https://infopedia.io/sr-latn/bitcoin-future-macro-outlook/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
