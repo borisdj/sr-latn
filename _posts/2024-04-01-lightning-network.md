@@ -123,6 +123,6 @@ Infopedia blog Forma prijava na novosti - [Newsletter](https://docs.google.com/f
 Podržano od [***codis.tech***](https://codis.tech/){:target="_blank"}
 
 <center>QR Link do stranice</center>
-![QR Link](https://quickchart.io/qr?text=https://infopedia.io/lightning-network/)
+![QR Link](https://quickchart.io/qr?text=https://infopedia.io/sr-latn/lightning-network/)
 
 
