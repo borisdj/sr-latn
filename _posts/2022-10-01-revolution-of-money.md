@@ -293,7 +293,7 @@ TED govori:<br>
 | 3. Zakonodavna | Programeri   | mogu pomaći drugima da zaobiđu veto |
 
 Zakonodavni dio takođe uključuje kompanije i infrastrukturu analogno Parlamentu (zastupnicima), dok su Programeri kao Senat, a rudari se ponašaju kao unajmljeno obezbeđenje. Krajnji korisnici su kao građani sa pravom glasa ili kao akcionari firme, pri čemu svako slobodno može da postane i čvor. U poređenju sa preduzećima, najbolje paralele mogu se povući sa IT kompanijama (Informacione tehnologije).  
--- Proizvod je globalna monetarna valuta i sistem plaćanja, a u isto vrijeme koin predstavlja vlasnike ili akcionare. S druge strane su programeri i rudari, zajedno sa čvorovima, poput vrlo širokog odbora direktora, upravnog i nadzornog.<br>
+-- Proizvod je globalna monetarna valuta i sistem plaćanja, a u isto vrijeme koin predstavlja vlasnike ili akcionare. S druge strane su programeri i rudari, zajedno sa čvorovima, poput vrlo širokog odbora direktora, upravnog i nadzornog ([Arhitektura](https://drive.google.com/file/d/1hvLF2qkJ2A7OHSCiQ46hItMfAQmyY_Sq/view?usp=drive_link){:target="_blank"} decentralizovanog ekosistema).  
 
 **Pravila bitkoina:**<br>
 &nbsp;1. Bez konfiskacije<br>
